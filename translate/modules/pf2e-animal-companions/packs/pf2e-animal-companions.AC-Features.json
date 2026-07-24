@@ -1,0 +1,2511 @@
+{
+  "entries": {
+    "Actions": {
+      "_id": "UR2WlgGkhK4o7O1f",
+      "name": {
+        "translate": "Дії",
+        "original": "Actions"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Adaptable Elemental": {
+      "_id": "Bct9n12OLVxFtmY1",
+      "name": {
+        "translate": "Адаптивний елементаль",
+        "original": "Adaptable Elemental"
+      },
+      "description": {
+        "translate": "<p>Сила +1, Спритність +4, Витривалість +3, Інтелект +0, Мудрість +1, Харизма +0; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str +1, Dex +4, Con +3, Int +0, Wis +1, Cha +0; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-heritage"
+        ]
+      }
+    },
+    "Advanced Maneuver": {
+      "_id": "KrHyF5BSvYM6tFbB",
+      "name": {
+        "translate": "Розвинений маневр",
+        "original": "Advanced Maneuver"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-14",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Anchored Incorporeality": {
+      "_id": "BjE6osOFlAishRbh",
+      "name": {
+        "translate": "Закріплена безтілесність",
+        "original": "Anchored Incorporeality"
+      },
+      "description": {
+        "translate": "<p>Хоча більшість привидів прив’язані до місця, де вони померли або були поховані, деякі натомість прив’язані до конкретних предметів, таких як певна прикраса, предмет одягу, нашийник домашньої тварини або камінь із будівлі, в якій вони мешкали. Ці предмети, відомі як якорі, були важливими для привида за життя або критичними для подій їхньої смерті та переслідування.</p>\n<p>Существо з закріпленою безтілесністю має рису безтілесності, що означає, що воно може проходити крізь фізичних істот, і такі істоти можуть проходити крізь нього. Воно не може робити перевірки на Силу (наприклад, @Compendium[pf2e.actionspf2e.Grapple]{Grapple}) проти тілесних істот, і тілесні істоти не можуть робити такі перевірки проти нього. Хоча воно безтілесне, существо з закріпленою безтілесністю не може віддалятися від свого якоря більше ніж на 60 футів і має підтримувати лінію ефекту до якоря. Це зазвичай забороняє йому проходити крізь стіни. На відміну від багатьох інших безтілесних істот, существо з закріпленою безтілесністю не має опору до всіх видів ушкоджень або імунітету до точних ушкоджень.</p>\n<p>Персонаж з тваринним компаньйоном або фамільяром, який має закріплену безтілесність, може перенести якір на новий предмет за допомогою спеціального ритуалу. Для цього потрібно провести 1 тиждень разом із компаньйоном, щоб створити новий якір. Персонаж, який знає цю техніку, може адаптувати її для перенесення здібності Прив’язки до місця (або подібного обмеження) привида, щоб прив’язати його до якоря замість місця.</p>",
+        "original": "<p>While most ghosts are bound to the site where they died or were buried, some instead find themselves bound to specific items, such as a particular piece of jewelry, article of clothing, pet's collar, or a stone from a building in which it dwelled. These items, known as anchors, were important to the ghost in life, or critical to the events of their death and haunting.</p>\n<p>A creature with anchored incorporeality has the incorporeal trait, meaning it can move through physical creatures and such creatures can move through it. It can't attempt Strength‑based checks (such as @Compendium[pf2e.actionspf2e.Grapple]{Grapple}) against corporeal creatures and corporeal creatures can't attempt such checks against it. Though incorporeal, a creature with anchored incorporeality can travel no more than 60 feet from its anchor and must maintain line of effect to the anchor. This typically prevents it from moving through walls. Unlike many other incorporeal creatures, a creature with anchored incorporeality doesn't have resistance to all damage or immunity to precision damage.</p>\n<p>A character with an animal companion or familiar that has anchored incorporeality can transfer the anchor to a new item with a special ritual. This requires spending 1 week in concert with the companion to create a new anchor. A character who knows this technique might be able to adapt it to transfer a ghost's Site Bound ability (or similar restriction) to tie it to an anchor instead of a place.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-uncommon",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Angelic Avenger": {
+      "_id": "oQ4aTLTv0qU7sRGG",
+      "name": {
+        "translate": "Янгольський месник",
+        "original": "Angelic Avenger"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +2 КЗ (+3 максимум до Спритності)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Angelic Emissary": {
+      "_id": "WeZLk8HXhoa20J7t",
+      "name": {
+        "translate": "Янгольський емісар",
+        "original": "Angelic Emissary"
+      },
+      "description": {
+        "translate": "<p>Сила 12, Спритність 18, Витривалість 12, Інтелект 10, Мудрість 12, Харизма 14; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 12, Dex 18, Con 12, Int 10, Wis 12, Cha 14; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Angelic Mercy": {
+      "_id": "QDtXuIshSTUBcxff",
+      "name": {
+        "translate": "Янгольська милість",
+        "original": "Angelic Mercy"
+      },
+      "description": {
+        "translate": "<p>Янгольська сила вашого ейдолона дозволяє йому знімати різні недуги, як і більшість інших могутніх янголів. Ваш ейдолон може накладати @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{Cleanse Affliction} двічі на день, @UUID[Compendium.pf2e.spells-srd.Item.EfFMLVbmkBWmzoLF]{Clear Mind} один раз на день і @UUID[Compendium.pf2e.spells-srd.Item.BCuHKrDeJ4eq53M6]{Sure Footing} один раз на день як божественні вроджені закляття 9-го рівня.</p>",
+        "original": "<p>Your eidolon's angelic power allows them to assuage a variety of ailments, just like most other powerful angels. Your eidolon can cast @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{Cleanse Affliction} two times per day, @UUID[Compendium.pf2e.spells-srd.Item.EfFMLVbmkBWmzoLF]{Clear Mind} once per day, and @UUID[Compendium.pf2e.spells-srd.Item.BCuHKrDeJ4eq53M6]{Sure Footing} once per day each as 9th-rank divine innate spells.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Angel": {
+      "_id": "3UpjTq1xgggzS2Eq",
+      "name": {
+        "translate": "Янгол",
+        "original": "Angel"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Anger Aura": {
+      "_id": "MET0PzSNfpxi0D3E",
+      "name": {
+        "translate": "Аура гніву",
+        "original": "Anger Aura"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон випромінює гнів у аурі навколо себе, збурюючи лють у близьких істот і послаблюючи їхню оборону, поки вони киплять від люті. Ваш ейдолон отримує ауру гніву радіусом 20 футів, яка має риси аури, емоції, чарівництва, ментальності та окультизму. Опір будь-якої істоти в аурі, включно з вами, вашими союзниками, ворогами та вашим ейдолоном, зменшується на величину, рівну 3 + модифікатор Витривалості вашого ейдолона. Ваш ейдолон може стримувати свій гнів, витративши одну дію з рисою концентрації. Це зменшує ефект аури так, що вона впливає лише на вашого ейдолона. Він може знову виконати цю дію, щоб відновити повний ефект аури. Істоти в люті варвара, лютому безумстві або подібній здатності, що дозволяє їм каналізувати свій гнів, не піддаються впливу аури гніву.</p>",
+        "original": "<p>Your eidolon exudes wrath in an aura around it, rousing the ire of nearby creatures and causing their defenses to crack as they seethe with rage. Your eidolon gains a 20-foot anger aura, which has the aura, emotion, enchantment, mental, and occult traits. The resistances of any creature in the aura, including you, your allies, your enemies, and your eidolon, are reduced by an amount equal to 3 + your eidolon's Constitution modifier. Your eidolon can hold in its rage by spending a single action, which has the concentrate trait. This reduces the aura's effect to affect only your eidolon. It can take this action again to reinstate the full effect of its aura. Creatures in a barbarian Rage, Seething Frenzy, or similar ability that allows them to channel their anger aren't affected by the anger aura.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Anger Phantom": {
+      "_id": "q3nXFZfwRZgEhUKV",
+      "name": {
+        "translate": "Фантом гніву",
+        "original": "Anger Phantom"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Animal Companion": {
+      "_id": "KKOgokqHa7RjVDN6",
+      "name": {
+        "translate": "Тваринний компаньйон",
+        "original": "Animal Companion"
+      },
+      "description": {
+        "translate": "<p>Наведені нижче базові характеристики для молодого тваринного компаньйона — це перший тваринний компаньйон, якого отримує більшість персонажів. Ви коригуєте ці характеристики залежно від типу тварини, яку обираєте. Тваринні компаньйони розраховують свої модифікатори та КЗ так само, як і ви, з однією відмінністю: єдині бонуси від предметів, які вони можуть отримувати, це бонуси до Швидкості та КЗ (максимальний бонус від предметів до КЗ — +3). З підвищенням рівня ви можете зробити свого компаньйона сильнішим, просуваючи його.</p><p>Початкові характеристики тваринного компаньйона такі.</p><ul><li><strong>Рівень:</strong> Рівень вашого тваринного компаньйона дорівнює вашому.</li><li><strong>Володіння навичками:</strong> Ваш тваринний компаньйон навчається своїм беззбройним атакам, захисту без броні, обладункам (тип броні для тварин), усім рятувальним кидкам, Сприйняттю, Акробатиці та Атлетиці. Тваринні компаньйони не можуть використовувати здібності, що вимагають вищого Інтелекту, наприклад @UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{Coerce} або Розшифрування письма, навіть якщо вони навчені відповідній навичці, якщо у них немає спеціалізації, що це дозволяє.</li><li><strong>Модифікатори атрибутів:</strong> Тваринний компаньйон починає з базових модифікаторів атрибутів, наведених у його характеристиках.</li><li><strong>Очки здоров’я:</strong> Ваш тваринний компаньйон має очки здоров’я за походженням від свого типу, плюс кількість очок здоров’я, рівну 6 плюс модифікатор Витривалості за кожен ваш рівень.</li></ul>",
+        "original": "<p>The following are the base statistics for a young animal companion, the first animal companion most characters get. You adjust these statistics depending on the type of animal you choose. Animal companions calculate their modifiers and DCs just as you do with one difference: the only item bonuses they can benefit from are to Speed and AC (their maximum item bonus to AC is +3). As you gain levels, you might be able to make your companion stronger by advancing it.</p><p>An animal companion's starting statistics are as follows.</p><ul><li><strong>Level:</strong> Your animal companion's level is equal to yours.</li><li><strong>Proficiencies:</strong> Your animal companion is trained in its unarmed attacks, unarmored defense, barding (a type of armor for animals), all saving throws, Perception, Acrobatics, and Athletics. Animal companions can't use abilities that require greater Intelligence, such as @UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{Coerce} or Decipher Writing, even if trained in the appropriate skill, unless they have a specialization that allows it.</li><li><strong>Attribute Modifiers:</strong> An animal companion begins with base attribute modifiers listed in its stat block.</li><li><strong>Hit Points:</strong> Your animal companion has ancestry Hit Points from its type, plus a number of Hit Points equal to 6 plus its Constitution modifier for each level you have.</li></ul>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Beast's Charge": {
+      "_id": "lonj7zEZdJD2pbai",
+      "name": {
+        "translate": "Ривок звіра",
+        "original": "Beast's Charge"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон може здійснити лютий ривок або стрибок на ворогів, що дозволяє йому швидко вступати в бій. Він отримує активність @Compendium[pf2e-animal-companions.AC-Features.ITQghUQFhbYpD2QM]{Beast's Charge}.</p>",
+        "original": "<p>Your eidolon can make a ferocious charge or pounce on foes, allowing it to quickly engage. It gains the @Compendium[pf2e-animal-companions.AC-Features.ITQghUQFhbYpD2QM]{Beast's Charge} activity.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Beast": {
+      "_id": "zMHXTu66OpHxm5Db",
+      "name": {
+        "translate": "Звір",
+        "original": "Beast"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Blasphemous Decree": {
+      "_id": "C0zzz9wVwfmGtfIQ",
+      "name": {
+        "translate": "Богохульний указ",
+        "original": "Blasphemous Decree"
+      },
+      "description": {
+        "translate": "<p>Ваш демон вимовляє невимовні слова, що в’ються з його пов’язаним гріхом. Він може накласти зле <em>@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]{Divine Decree}</em> один раз на день як закляття 9-го рівня. Ви не піддаєтеся впливу цього указу, навіть якщо ви не злі. На 19-му рівні це стає божественним указом 10-го рівня.</p>",
+        "original": "<p>Your demon utters indescribable words writhing with its associated sin. It can cast an evil <em>@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]{Divine Decree}</em> once per day as a 9th-level spell. You are unaffected by this decree, even if you aren't evil. At 19th level, this becomes a 10th-level divine decree instead.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Brazen Swarm": {
+      "_id": "kGFqAozYBJHY1iXs",
+      "name": {
+        "translate": "Нахабний рій",
+        "original": "Brazen Swarm"
+      },
+      "description": {
+        "translate": "<p><em>Сила</em> +4, <em>Спритність</em> +2, <em>Витривалість</em> +3, <em>Інтелект</em> +0, <em>Мудрість</em> +0, <em>Харизма</em> +0; +2 КЗ (+3 максимум до Спритності)</p>",
+        "original": "<p><em>Str</em> +4, <em>Dex</em> +2, <em>Con</em> +3, <em>Int</em> +0, <em>Wis</em> +0, <em>Cha</em> +0; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Breath Weapon": {
+      "_id": "I8fG26JJS29ZYwfZ",
+      "name": {
+        "translate": "Дихальна зброя",
+        "original": "Breath Weapon"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Your eidolon has a powerful breath weapon, which they are able to use regularly to wreak havoc upon your foes. They gain the Breath Weapon activity. Choose a damage type from among acid, cold, electricity, fire, negative, piercing, or poison, and choose whether the area is a @Template[type:line|distance:60] or a @Template[type:cone|distance:30]. Unless you chose piercing damage, both Breath Weapon and your eidolon gain the trait matching the damage type.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Brutal Beast": {
+      "_id": "gLvVuJKxvL85qv4n",
+      "name": {
+        "translate": "Жорстокий звір",
+        "original": "Brutal Beast"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +2 КЗ (+3 максимум до Спритності)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Charisma Boost": {
+      "_id": "qhUxX4BhaZc0griR",
+      "name": {
+        "translate": "Підвищення Харизми",
+        "original": "Charisma Boost"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Constitution Boost": {
+      "_id": "RQd8FPcVP3hrVXCr",
+      "name": {
+        "translate": "Підвищення Витривалості",
+        "original": "Constitution Boost"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Construct": {
+      "_id": "1hgF3xYnaahj8Co4",
+      "name": {
+        "translate": "Конструкт",
+        "original": "Construct"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Construct Companion": {
+      "_id": "OJePkZgnguu5Z8cA",
+      "name": {
+        "translate": "Компаньйон-конструкт",
+        "original": "Construct Companion"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Construct Heart": {
+      "_id": "tBhCZN3SwlxQirL1",
+      "name": {
+        "translate": "Серце конструкта",
+        "original": "Construct Heart"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон-конструкт має зв’язок безпосередньо з вашою життєвою силою, що робить його живою істотою і, отже, вразливим до багатьох недуг, які турбують лише живих, хоча він має деякий опір цим ефектам. Він не має звичайних імунітетів конструкта, але отримує +2 обставинний бонус до рятувальних кидків проти ефектів смерті, хвороб, некромантії та отрути, а також ефектів, що викликають стани @Compendium[pf2e.conditionitems.Fatigued]{Fatigued} або нудоти. Крім того, його астральна сутність повільно витікає, і йому потрібно лише успішно пройти <span data-pf2-check=\"flat\" data-pf2-dc=\"10\" data-pf2-show-dc=\"owner\">Плоску перевірку</span>, щоб зняти постійне кровотечення (або <span data-pf2-check=\"flat\" data-pf2-dc=\"5\" data-pf2-show-dc=\"owner\">Плоску перевірку</span> після отримання особливо ефективної допомоги).</p>",
+        "original": "<p>Your construct eidolon has a link directly to your life force, which renders it a living creature and therefore susceptible to many ailments that bother only the living, though it does possess some resistances to these effects. It doesn't have a construct's normal immunities, but does gain a +2 circumstance bonus to saving throws against death effects, disease, necromancy, and poison effects, as well as effects causing the @Compendium[pf2e.conditionitems.Fatigued]{Fatigued} or sickened conditions. Additionally, its astral essence bleeds off slowly, and it only needs to succeed at a <span data-pf2-check=\"flat\" data-pf2-dc=\"10\" data-pf2-show-dc=\"owner\">Flat Check</span> to remove persistent bleed damage (or a <span data-pf2-check=\"flat\" data-pf2-dc=\"5\" data-pf2-show-dc=\"owner\">Flat Check</span> after receiving particularly effective aid).</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Creeping Plant": {
+      "_id": "1maDsT21my4REUEX",
+      "name": {
+        "translate": "Повзуча рослина",
+        "original": "Creeping Plant"
+      },
+      "description": {
+        "translate": "<p>Сила 12, Спритність 18, Витривалість 16, Інтелект 8, Мудрість 14, Харизма 10; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 12, Dex 18, Con 16, Int 8, Wis 14, Cha 10; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Cunning Dragon": {
+      "_id": "FM1HQ1kqC3N9nWr0",
+      "name": {
+        "translate": "Хитрий дракон",
+        "original": "Cunning Dragon"
+      },
+      "description": {
+        "translate": "<p>Сила 12, Спритність 18, Витривалість 12, Інтелект 14, Мудрість 10, Харизма 12; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 12, Dex 18, Con 12, Int 14, Wis 10, Cha 12; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Demonic Strikes": {
+      "_id": "o3P8heIfNr1z53Ay",
+      "name": {
+        "translate": "Демоничні удари",
+        "original": "Demonic Strikes"
+      },
+      "description": {
+        "translate": "<p>Атаки вашого ейдолона спотворені Безоднею і наповнені чистим злом та мінливим хаосом. Беззбройні удари вашого ейдолона набувають рису нечестивості і завдають додаткову 1 шкоду духом святим істотам і істотам зі слабкістю до нечестивого. Крім того, оберіть одну з беззбройних атак вашого ейдолона, що завдає фізичної шкоди; вона набуває універсальної риси для іншого типу фізичної шкоди на ваш вибір.</p>",
+        "original": "<p>Your eidolon's attacks are corrupted by the Abyss and imbued with pure evil and shifting chaos. Your eidolon's unarmed Strikes gain the unholy trait and deal 1 extra spirit damage to holy creatures and creatures with weakness to unholy. Additionally, choose one of your eidolon's unarmed attacks that deals physical damage; it gains the versatile trait for a different type of physical damage you choose.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Demon": {
+      "_id": "4oaqgJDRdOmg12Mo",
+      "name": {
+        "translate": "Демон",
+        "original": "Demon"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Devotion Aura": {
+      "_id": "oOBWRXPtYIXWp5Sm",
+      "name": {
+        "translate": "Аура відданості",
+        "original": "Devotion Aura"
+      },
+      "description": {
+        "translate": "<p>Після тривалого бою поруч з вами ваш ейдолон став так само відданим захисту вас і ваших союзників, як і своїй первісній меті. Він отримує ауру відданості радіусом 20 футів, яка має риси абжурації, аури та окультизму. Коли один із союзників вашого ейдолона в аурі отримує ушкодження, ви можете зменшити це ушкодження на модифікатор Витривалості вашого ейдолона. Ви втрачаєте кількість очок здоров’я, рівну половині зменшеного ушкодження, округленій вниз. Якщо ушкодження було меншим за модифікатор Витривалості, беріть за основу фактичну кількість запобіганого ушкодження.</p>",
+        "original": "<p>After fighting at your side for so long, your eidolon has become as devoted to protecting you and your allies as it is to its original cause. It gains a 20-foot devotion aura, which has the abjuration, aura, and occult traits. Whenever one of your eidolon's allies within the aura takes damage, you can reduce the damage by your eidolon's Constitution modifier. You lose a number of Hit Points equal to half the amount by which the eidolon reduced the damage, rounded down. If the damage was lower than the Constitution modifier, base the damage you take on the actual amount of damage prevented.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Devotion Phantom": {
+      "_id": "pggy7tMohSouyA2e",
+      "name": {
+        "translate": "Фантом відданості",
+        "original": "Devotion Phantom"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Dexterity Boost": {
+      "_id": "nhFkOYRdlT5iLzdQ",
+      "name": {
+        "translate": "Підвищення Спритності",
+        "original": "Dexterity Boost"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Draconic Frenzy": {
+      "_id": "oSjJ726kv8wvk1Rb",
+      "name": {
+        "translate": "Драконяче безумство",
+        "original": "Draconic Frenzy"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон може здійснити лютий напад, потенційно відновлюючи використання своєї Дихальної зброї. Він отримує активність @Compendium[pf2e-animal-companions.AC-Features.HiVt4B5bE2hi0FWc]{Draconic Frenzy}.</p>",
+        "original": "<p>Your eidolon can make a furious assault, potentially recovering the use of their Breath Weapon. They gain the @Compendium[pf2e-animal-companions.AC-Features.HiVt4B5bE2hi0FWc]{Draconic Frenzy} activity.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Dragon": {
+      "_id": "kpWJAjuzGZKJKYh0",
+      "name": {
+        "translate": "Дракон",
+        "original": "Dragon"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Drain Life": {
+      "_id": "oxpHUtYre2CTaE4t",
+      "name": {
+        "translate": "Висмоктування життя",
+        "original": "Drain Life"
+      },
+      "description": {
+        "translate": "<p>Зв’язок вашого ейдолона з вами підтримує його, але він все ще прагне життєвої сутності живих, чи то через кров, чи чисту есенцію. Він отримує активність @Compendium[pf2e-animal-companions.AC-Features.3Ns5BmFpAcoGQIY5]{Drain Life}.</p>",
+        "original": "<p>Your eidolon's link with you sustains it, but it still craves the life essence of the living, whether through blood or pure essence. It gains the @Compendium[pf2e-animal-companions.AC-Features.3Ns5BmFpAcoGQIY5]{Drain Life} activity.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Dutiful Retaliation": {
+      "_id": "V5bcYgKbJTHdOBHI",
+      "name": {
+        "translate": "Обов’язкова відплата",
+        "original": "Dutiful Retaliation"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон глибоко цінує вашу допомогу і проявляє лояльність до вас, атакуючи тих, хто наважується завдати вам шкоди. Він отримує реакцію @Compendium[pf2e-animal-companions.AC-Features.4NuAF8jxWDWzia9Z]{Dutiful Retaliation}.</p>",
+        "original": "<p>Your eidolon deeply respects your assistance, and it extends its loyalty to you, attacking those who dare harm you. It gains the @Compendium[pf2e-animal-companions.AC-Features.4NuAF8jxWDWzia9Z]{Dutiful Retaliation} reaction.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Effect: Seething Frenzy": {
+      "_id": "yE9n6h53psgbYThV",
+      "name": {
+        "translate": "Ефект: Люте безумство",
+        "original": "Effect: Seething Frenzy"
+      },
+      "description": {
+        "translate": "<p>Істота отримує штраф -2 до КЗ.</p>",
+        "original": "<p>The creature takes a -2 penalty to AC.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Eidolons": {
+      "_id": "D1umZ4oomj5mtcad",
+      "name": {
+        "translate": "Ейдолони",
+        "original": "Eidolons"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Eidolon Ability": {
+      "_id": "5E71mdImeRE9Fh1D",
+      "name": {
+        "translate": "Здібність ейдолона",
+        "original": "Eidolon Ability"
+      },
+      "description": {
+        "translate": "<p>Ейдолон починає з початкової здібності, визначеної типом ейдолона.</p>",
+        "original": "<p>The eidolon starts with an initial ability determined by the eidolon type.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Eidolon Ability Boosts (10th)": {
+      "_id": "iRlcl9MOhoEL943l",
+      "name": {
+        "translate": "Покращення здібностей ейдолона (10-й рівень)",
+        "original": "Eidolon Ability Boosts (10th)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Ability Boosts (15th)": {
+      "_id": "GpeinpTPNrfAijp2",
+      "name": {
+        "translate": "Покращення здібностей ейдолона (15-й рівень)",
+        "original": "Eidolon Ability Boosts (15th)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Ability Boosts (20th)": {
+      "_id": "0i2ZSrRpjKG0KV4U",
+      "name": {
+        "translate": "Покращення здібностей ейдолона (20-й рівень)",
+        "original": "Eidolon Ability Boosts (20th)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-20",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Ability Boosts (5th)": {
+      "_id": "jQBe4yXTAcMt2kKQ",
+      "name": {
+        "translate": "Покращення здібностей ейдолона (5-й рівень)",
+        "original": "Eidolon Ability Boosts (5th)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Defensive Expertise": {
+      "_id": "8PDmjqUZ1qfVhnFx",
+      "name": {
+        "translate": "Захисна майстерність ейдолона",
+        "original": "Eidolon Defensive Expertise"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон підвищує свою здатність уникати атак. Його ранг володіння захистом без броні підвищується до експерта.</p>",
+        "original": "<p>Your eidolon increases its ability to avoid attacks. Its proficiency rank for unarmored defense increases to expert.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-11",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Defensive Mastery": {
+      "_id": "bFHz5ZHKMGTDkggN",
+      "name": {
+        "translate": "Майстерність захисту ейдолона",
+        "original": "Eidolon Defensive Mastery"
+      },
+      "description": {
+        "translate": "<p>Форма вашого ейдолона стає особливо важкою для ураження. Його ранг володіння захистом без броні підвищується до майстра.</p>",
+        "original": "<p>Your eidolon's form becomes particularly difficult to assail. Its proficiency rank for unarmored defense increases to master.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-19",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Symbiosis": {
+      "_id": "RsDBv9TwwNMnofud",
+      "name": {
+        "translate": "Симбіоз ейдолона",
+        "original": "Eidolon Symbiosis"
+      },
+      "description": {
+        "translate": "<p>Ваш зв’язок з ейдолоном зміцнюється, надаючи йому доступ до нової здібності залежно від його типу, як описано в Здібностях ейдолона в записі кожного ейдолона.</p>",
+        "original": "<p>Your connection with your eidolon strengthens, granting your eidolon access to a new ability depending on its type, as described in Eidolon Abilities in each eidolon's entry.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Transcendence": {
+      "_id": "E7DFHsVNS1xph8DT",
+      "name": {
+        "translate": "Трансцендентність ейдолона",
+        "original": "Eidolon Transcendence"
+      },
+      "description": {
+        "translate": "<p>Ваш зв’язок з ейдолоном наближається до вершини, надаючи йому доступ до потужної нової здібності залежно від його типу, як описано в Здібностях ейдолона в записі кожного ейдолона. Ця здібність також збільшує один із показників здібностей ейдолона на 2.</p>",
+        "original": "<p>Your connection with your eidolon approaches its peak, granting your eidolon access to a powerful new ability depending on its type, as described in Eidolon Abilities in each eidolon's entry. This ability also increases one of the eidolon's ability scores by 2.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Unarmed Expertise": {
+      "_id": "zF6bLjVwj7Njkqan",
+      "name": {
+        "translate": "Майстерність беззбройних атак ейдолона",
+        "original": "Eidolon Unarmed Expertise"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон стає більш спроможним у використанні беззбройних атак. Його ранг володіння беззбройними атаками підвищується до експерта.</p>",
+        "original": "<p>Your eidolon becomes more capable of using its unarmed attacks. Its proficiency rank for unarmed attacks increases to expert.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Unarmed Mastery": {
+      "_id": "rbOOv8FqBFQlTDeu",
+      "name": {
+        "translate": "Майстерність беззбройних атак ейдолона (майстер)",
+        "original": "Eidolon Unarmed Mastery"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон справді опановує свої беззбройні атаки, досягаючи вищих рівнів. Його ранг володіння беззбройними атаками підвищується до майстра.</p>",
+        "original": "<p>Your eidolon truly masters its unarmed attacks, reaching greater heights. Its proficiency rank for unarmed attacks increases to master.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-13",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon Weapon Specialization": {
+      "_id": "a6supDv34hhqsktB",
+      "name": {
+        "translate": "Спеціалізація зброї ейдолона",
+        "original": "Eidolon Weapon Specialization"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон навчився завдавати більших ушкоджень своїми беззбройними атаками. Він завдає додатково 2 ушкодження беззбройними атаками, у яких він є експертом. Це ушкодження збільшується до 3, якщо він майстер, і до 4, якщо він легендарний.</p>",
+        "original": "<p>Your eidolon has learned how to inflict greater injuries with its unarmed attacks. It deals 2 additional Damage with unarmed attacks in which it's an expert. This damage increases to 3 if it's a master, and 4 if it's legendary.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Eidolon": {
+      "_id": "xPn27nNxcLOByTXJ",
+      "name": {
+        "translate": "Ейдолон",
+        "original": "Eidolon"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Elemental Burst": {
+      "_id": "9P5AFhhbU1I2sOEN",
+      "name": {
+        "translate": "Вибух стихії",
+        "original": "Elemental Burst"
+      },
+      "description": {
+        "translate": "<p><strong>Частота</strong> один раз на 10 хвилин</p>\n<hr />\n<p>Ваш ейдолон вириває шматок стихійної матерії зі своєї форми і кидає його в групу ворогів. Ваш ейдолон втрачає кількість очок здоров’я, рівну вашому рівню. Усі істоти в @Template[type:burst|distance:20] в межах 60 футів отримують @Damage[(@actor.level - 1)d6] ушкоджень із базовою рефлекторною спасибою проти вашого КЗ закляття. Ушкодження збільшується на 1d6 за кожен рівень понад 7-й. Тип ушкоджень — вогняний, якщо ваш ейдолон — вогняний елементаль, або той самий тип фізичних ушкоджень, що й основна беззбройна атака вашого ейдолона, якщо він не вогняний елементаль. Вибух стихії набуває будь-яких рис, які отримують беззбройні атаки вашого ейдолона від ядра стихії.</p>",
+        "original": "<p><strong>Frequency</strong> once per 10 minutes</p>\n<hr />\n<p>Your eidolon rips off a chunk of elemental matter from their own form and hurls it into a group of foes. Your eidolon loses a number of Hit Points equal to your level. All creatures in a @Template[type:burst|distance:20] within 60 feet take @Damage[(@actor.level - 1)d6] damage with a basic Reflex save against your spell DC. The damage increases by 1d6 for each level you have beyond 7th. The damage's type is either fire damage if your eidolon is a fire elemental, or the same physical damage type as your eidolon's primary unarmed attack if your eidolon isn't a fire elemental. Elemental Burst gains any traits that your eidolon's unarmed attacks gain from elemental core.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Elemental Core": {
+      "_id": "I8ZJ99qzuGDEDbII",
+      "name": {
+        "translate": "Ядро стихії",
+        "original": "Elemental Core"
+      },
+      "description": {
+        "translate": "<p>Ваш стихійний ейдолон — це поєднання стихійної матерії та смертної життєвої сили, що допомагає йому захищатися від певних ефектів, які більш шкідливі для смертних, ніж для елементалів. Він отримує +2 обставинний бонус до рятувальних кидків проти отрути та ефектів сну, а також ефектів, що викликають стан @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed}. Крім того, його стихійна сутність кровоточить менш інтенсивно, тому КЗ будь-якої плоскої перевірки для зняття постійного кровотечення становить 10 (або 5 після отримання особливо ефективної допомоги). Оберіть для свого ейдолона тип стихії: повітря, земля, вогонь, метал, дерево або вода. Ваш ейдолон і всі його беззбройні атаки набувають риси обраної стихії, а ейдолон отримує додаткові ефекти залежно від вашого вибору.</p>\n<p><strong>Повітря</strong>: Ваш ейдолон сформований зі стихійного повітря і легкий, як бриз. Ваш ейдолон може @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}, @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump} і @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump} удвічі далі і не отримує ушкоджень від падіння.</p>\n<p><strong>Земля</strong>: Ваш ейдолон сформований зі стихійної землі і надзвичайно важко його зрушити силою. Ваш ейдолон отримує +2 обставинний бонус до КЗ Витривалості або Рефлексу проти спроб @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} або @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} його. Цей бонус також застосовується до рятувальних кидків проти заклять або ефектів, які намагаються збити його з ніг @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. Крім того, якщо будь-який ефект змушує його рухатися на 10 футів або більше, він рухається лише на половину цієї відстані.</p>\n<p><strong>Вогонь</strong>: Ваш ейдолон сформований зі стихійного вогню і палає жаром полум’я. Ваш ейдолон отримує опір, рівний половині вашого рівня (мінімум 1), до вогню і відповідну слабкість до холоду та води. Його беззбройні атаки завдають додаткову вогняну шкоду 1.</p>\n<p><strong>Метал</strong>: Ваш ейдолон сформований зі стихійного металу і може адаптувати свою металеву форму для бою. Одна з початкових беззбройних атак ближнього бою вашого ейдолона набуває універсальної риси дроблення, колючої або рублячої зброї, оскільки ваш ейдолон навчається перетворювати метал у різні форми, схожі на зброю.</p>\n<p><strong>Вода</strong>: Ваш ейдолон сформований зі стихійної води і легко плаває. Ваш ейдолон отримує рису амфібії, що дозволяє йому дихати у воді та повітрі і уникати звичайного штрафу -2 до беззбройних ударів дробленням і рубанням під водою. Швидкість пересування по суші вашого ейдолона зменшена до 15 футів, а швидкість плавання становить 25 футів. Ви можете взяти талант Амфібійна форма, щоб збільшити його швидкість пересування по суші до 25 футів, як описано в таланті.</p>\n<p><strong>Дерево</strong>: Ваш ейдолон сформований зі стихійного дерева, і його жива дерев’яна форма викручується і відростає, коли ви зосереджуєте свої стихійні енергії. Ви можете обрати, щоб ваш ейдолон отримав рису рослини. Кожного разу, коли ви Перефокусуєтеся, ваш ейдолон відновлює кількість очок здоров’я, рівну подвоєному вашому рівню.</p>",
+        "original": "<p>Your elemental eidolon is an amalgam of elemental matter and mortal life force, which helps protect them from certain effects that are more harmful to mortals than elementals. They gain a +2 circumstance bonus to saving throws against poison and sleep effects, as well as effects causing the @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} condition. Additionally, their elemental essence bleeds less easily than flesh, so the DC of any flat check they make to remove persistent bleed damage is 10 (or 5 after receiving particularly effective aid). Choose for your eidolon to be an air, earth, fire, metal, wood, or water elemental. Your eidolon and all their unarmed attacks gain the trait of the chosen element, and the eidolon gains additional effects based on your choice.</p>\n<p><strong>Air</strong>: Your eidolon is formed from elemental air and is light as a breeze. Your eidolon can @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}, @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump}, and @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump} twice as far, and doesn't take falling damage.</p>\n<p><strong>Earth</strong>: Your eidolon is formed from elemental earth, and is incredibly hard to move by force. Your eidolon gains a +2 circumstance bonus to their Fortitude or Reflex DCs against attempts to @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} or @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} them. This bonus also applies to saving throws against spells or effects that attempt to knock them @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. In addition, if any effect would force them to move 10 feet or more, they're moved only half the distance.</p>\n<p><strong>Fire</strong>: Your eidolon is formed from elemental fire and burns with embers of flame. Your eidolon gains resistance equal to half your level (minimum 1) to fire and an equal amount of weakness to cold and water. Their unarmed attacks deal 1 additional fire damage.</p>\n<p><strong>Metal</strong>: Your eidolon is formed from elemental metal and can adapt their metallic form to battle. One of your eidolon's starting melee unarmed attacks gains the versatile bludgeoning, piercing, or slashing trait, as your eidolon learns how to shift the metal into various weaponlike forms.</p>\n<p><strong>Water</strong>: Your eidolon is formed from elemental water and swims with ease. Your eidolon gains the amphibious trait, allowing them to breathe in water and air and to avoid the normal –2 penalty for making bludgeoning and slashing unarmed Strikes underwater. Your eidolon's land Speed is reduced to 15 feet, and they gain a swim Speed of 25 feet. You can take the Amphibious Form feat to increase their land Speed back up to 25 feet, as described in the feat.</p>\n<p><strong>Wood</strong>: Your eidolon is formed from elemental wood, and its living wooden form twists and regrows as you focus your elemental energies. You can choose to have your eidolon gain the plant trait. Whenever you Refocus, your eidolon regains a number of Hit Points equal to double your level.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Elemental Maelstrom": {
+      "_id": "rF67DRcO2oJKJt5t",
+      "name": {
+        "translate": "Стихійний вир",
+        "original": "Elemental Maelstrom"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон тимчасово перетворює свою форму на кругообіг стихійної матерії і шалено кидається на ворогів. Ваш ейдолон рухається кроком. Під час руху він може спробувати нанести удар кожному ворогу, що знаходиться в межах його досяжності. Якщо ворог потрапляє в досяжність вашого ейдолона більше одного разу, він робить лише один удар по цьому ворогу. Всі ці атаки враховуються у штрафі за множинні атаки вашого ейдолона, але штраф не збільшується, доки всі атаки не будуть виконані. Якщо у вашого ейдолона є відповідна швидкість, він може лазити, літати або плавати замість кроку.</p>",
+        "original": "<p>Your eidolon temporarily shifts its form into a swirling vortex of elemental matter and rampages through their foes. Your eidolon Strides. During their movement, they can attempt a Strike against each enemy that is within their reach. If an enemy comes within your eidolon's reach more than once, your eidolon makes only a single Strike against a given enemy. These attacks all count towards your eidolon's multiple attack penalty, but the penalty doesn't increase until after all the attacks. If your eidolon has the appropriate Speed, they can Climb, Fly, or Swim instead of Stride.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Elemental": {
+      "_id": "R1zxef6JTi1qnlRL",
+      "name": {
+        "translate": "Елементаль",
+        "original": "Elemental"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Energy Deflection": {
+      "_id": "4081J9nw5GVQWohC",
+      "name": {
+        "translate": "Відхилення енергії",
+        "original": "Energy Deflection"
+      },
+      "description": {
+        "translate": "<p><strong>Тригер</strong> Адепт або союзник в межах 10 футів від адепта отримує ушкодження кислотою, холодом, електрикою, вогнем, силою, ментальністю, отрутою, звуком, духом, життєвою силою або порожнечею</p><hr><p><strong>Ефект</strong> Адепт надає істоті опір до ушкоджень, що спричинили тригер, рівний половині вашого рівня. Якщо ушкодження є одним із типів, з якими адепт може працювати своїми енергетичними вибуховими ударами, істота замість цього отримує опір, рівний вашому рівню. Істота потім стає імунною до Відхилення енергії адепта на 1 хвилину.</p>",
+        "original": "<p><strong>Trigger</strong> The adept or an ally within 10 feet of the adept takes acid, cold, electricity, fire, force, mental, poison, sonic, spirit, vitality, or void damage</p><hr><p><strong>Effect</strong> The adept grants the creature resistance to the triggering damage equal to half your level. If the damage is one of the types the adept can deal with their energy blast Strikes, the creature instead gains resistance equal to your level. The creature is then immune to the adept's Energy Deflection for 1 minute.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Energy Wave": {
+      "_id": "uJrVhcm0TrNHm5wA",
+      "name": {
+        "translate": "Енергетична хвиля",
+        "original": "Energy Wave"
+      },
+      "description": {
+        "translate": "<p>Адепт випускає вибух у близькому бою, який завдає ушкоджень, рівних його енергетичному вибуховому удару, кожній істоті в @Template[type:cone|distance:15] або @Template[type:cone|distance:30] (@Check[type:reflex|against:energy-wave|basic:true]). Адепт використовує експертний КЗ, базований на модифікаторі Інтелекту. Після використання Енергетичної хвилі адепт не може використовувати її знову протягом [[/gmr 1d6 #Recharge do so]]{1d6 rounds}.</p>",
+        "original": "<p>The adept unleashes a close-range blast that deals damage equal to their energy blast Strike to each creature in a @Template[type:cone|distance:15] or @Template[type:cone|distance:30] (@Check[type:reflex|against:energy-wave|basic:true]). The adept uses an expert DC using their Intelligence modifier. After using Energy Wave, the adept can't do so again for [[/gmr 1d6 #Recharge do so]]{1d6 rounds}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Enraged Assassin": {
+      "_id": "le0f9D0ZOnkdGaQO",
+      "name": {
+        "translate": "Розлючений Вбивця",
+        "original": "Enraged Assassin"
+      },
+      "description": {
+        "translate": "<p>Сила 14, Спритність 18, Витривалість 16, Інтелект 10, Мудрість 8, Харизма 12; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 14, Dex 18, Con 16, Int 10, Wis 8, Cha 12; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Exploit Injury": {
+      "_id": "UcIK5kPG0nO7iXm6",
+      "name": {
+        "translate": "Використати Травму",
+        "original": "Exploit Injury"
+      },
+      "description": {
+        "translate": "<p><strong>Вимоги</strong> Останньою дією розвідника була успішна ближня атака по цілі @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}</p><hr /><p><strong>Ефект</strong> Ціль атаки неуважна до кінця вашого наступного ходу.</p>",
+        "original": "<p><strong>Requirements</strong> The scout's last action was a successful melee Strike against an @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} target</p><hr /><p><strong>Effect</strong> The target of the Strike is off-guard until the end of your next turn.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Fey": {
+      "_id": "aOspaDr7wy2gJDm4",
+      "name": {
+        "translate": "Фея",
+        "original": "Fey"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Fey Chicanery": {
+      "_id": "VZQ3CcjOZFG57R0O",
+      "name": {
+        "translate": "Фейська Хитрість",
+        "original": "Fey Chicanery"
+      },
+      "description": {
+        "translate": "<p>Завжди сповнений трюків, ваш фейський еідолон переплітає магічний захист із вашим спільним життєвим потоком, надаючи йому запасний план на випадок відчайдушних ситуацій. Під час щоденних приготувань ваш еідолон може накласти закляття @Compendium[pf2e.spells-srd.WG91Z5TiR6oO5FOw]{Contingency}. Обране закляття 4-го рівня має бути зі списку первісних або фейських дарів і бути або загальним, або іншим закляттям, до якого ви маєте доступ.</p>",
+        "original": "<p>Ever full of tricks, your fey eidolon twists magical protections into your shared life force, granting it a contingency in its back pocket for desperate situations. During your daily preparations, your eidolon can cast a @Compendium[pf2e.spells-srd.WG91Z5TiR6oO5FOw]{Contingency} spell. The 4th-level spell it chooses must come from the primal or fey gift list, and must either be common or be another spell you have access to.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Fey Gift Spells": {
+      "_id": "uqwHH20BKk3WcjbW",
+      "name": {
+        "translate": "Закляття Фейських Дарів",
+        "original": "Fey Gift Spells"
+      },
+      "description": {
+        "translate": "<p>Ваш еідолон розширює вашу первісну магію чарами та ілюзіями, дозволяючи вам обом володіти силою фейського чарівництва та гламура. Коли ви додаєте закляття до свого репертуару, ви можете обирати зі списку первісних заклять, а також заклять з рисами ілюзії або ментальності, які є у списку арканних заклять. Як зазвичай, коли ви додаєте закляття іншої традиції до свого списку, ви залишаєтесь первісним заклинателем, тому всі ваші закляття — первісні.</p><p>Ваш еідолон отримує рису @Compendium[pf2e.feats-srd.WfbmFsRxbVyzMmCz]{Magical Understudy} заклинача, незважаючи на відсутність необхідного рівня, і може обирати фейські дари кантріпів на додаток до первісних кантріпів. Як зазвичай для риси, наданої за назвою, ви не можете перепрофілювати Магічного Помічника в іншу рису.</p>",
+        "original": "<p>Your eidolon expands your primal magic with enchantment and illusion magic, allowing both of you to wield the power of fey charm and glamour. When you add spells to your repertoire, you can choose from the primal list as well as spells that have the illusion or mental traits that appear on the arcane spell list. As usual for when you add spells of a different tradition to your spell list, you're still a primal spellcaster, so all of your spells are primal spells.</p><p>Your eidolon gains the @Compendium[pf2e.feats-srd.WfbmFsRxbVyzMmCz]{Magical Understudy} summoner feat, despite not meeting the prerequisite level, and it can choose fey gift cantrips in addition to primal cantrips. As usual for a feat you are granted by name, you can't retrain Magical Understudy into another feat.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Fey Mischief": {
+      "_id": "pn0rELSmLV6G5FUu",
+      "name": {
+        "translate": "Фейська Пустощі",
+        "original": "Fey Mischief"
+      },
+      "description": {
+        "translate": "<p>Фейська магія вашого еідолона стає потужнішою і пустотливішою. Ваш еідолон отримує рису @Compendium[pf2e.feats-srd.b1eGMNjBY3iqIt2S]{Magical Adept}, незважаючи на відсутність необхідного рівня, і може обирати закляття фейських дарів на додаток до первісних заклять.</p>",
+        "original": "<p>Your eidolon's fey magic becomes more powerful and mischievous. Your eidolon gains the @Compendium[pf2e.feats-srd.b1eGMNjBY3iqIt2S]{Magical Adept} feat, despite not meeting the prerequisite level, and can choose from fey gift spells in addition to primal spells.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Field of Roots": {
+      "_id": "kpcL3Iz1KJnmEKwC",
+      "name": {
+        "translate": "Поле Коренів",
+        "original": "Field of Roots"
+      },
+      "description": {
+        "translate": "<p>Ваш еідолон навчається пускати корені під землю, щоб заважати ворогам. Він отримує дію @Compendium[pf2e-animal-companions.AC-Features.4ZCaD8Y817JjbrX2]{Field of Roots}.</p>",
+        "original": "<p>Your eidolon learns how to send its roots underground to hinder foes. It gains the @Compendium[pf2e-animal-companions.AC-Features.4ZCaD8Y817JjbrX2]{Field of Roots} activity.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Fleet Beast": {
+      "_id": "doQ6pf2mVdysqgfB",
+      "name": {
+        "translate": "Швидкий Звір",
+        "original": "Fleet Beast"
+      },
+      "description": {
+        "translate": "<p>Сила 14, Спритність 18, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 14, Dex 18, Con 16, Int 8, Wis 12, Cha 10; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Followers": {
+      "_id": "zKTeOPAN4j7XNKlO",
+      "name": {
+        "translate": "Послідовники",
+        "original": "Followers"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Follower": {
+      "_id": "mefI4QYwzSIQiwGj",
+      "name": {
+        "translate": "Послідовник",
+        "original": "Follower"
+      },
+      "description": {
+        "translate": "<p>Послідовник — це NPC, який супроводжує і допомагає вам протягом тривалого часу, можливо, навіть цілої кампанії. Ви можете отримати послідовника, взявши архетип капітана. Послідовники — це супутники, які покладаються на ваші вказівки в бою; вони мають рису міньйона. Ви можете мати послідовника та фамільяра або домашнього улюбленця, але не можете мати послідовника, якщо у вас вже є тваринний компаньйон або інший компаньйон, який забороняє мати тваринного компаньйона.</p><p><strong>Походження:</strong> Більшість послідовників — люди, тому вони мають риси людини та гуманоїда. Вони середнього розміру, мають швидкість 25 футів і говорять загальною мовою плюс кількість додаткових мов, рівну 1 + їх модифікатор Інтелекту. Хоча послідовники мають спадщину, що є частиною їхньої особистої історії та бекграунду, вони не отримують механічних переваг від своєї спадщини. Для інформації про послідовників інших походжень див. рису @UUID[Compendium.pf2e.feats-srd.Item.mW9uqRmI0Wi2qYSm]{Leader of All}.</p><p><strong>Тип послідовника:</strong> Послідовники можуть походити з різних верств суспільства і мати широкий спектр досвіду та здібностей. Для зручності гри послідовники згруповані у широкі категорії, які називаються типами послідовників, наприклад, берсерк або медик.</p><p><strong>Набори:</strong> Кожен послідовник має особистий комплект спорядження, який автоматично покращується з підвищенням рівня гравців і має рівень, рівний рівню гравців. Комплект включає зброю, броню та інші предмети, необхідні для виконання дій, зазначених у їхніх характеристиках. Послідовники не можуть носити або використовувати предмети, окрім тих, що в їхньому комплекті, і не можуть ділитися спорядженням з гравцями. Шкода послідовника від ближніх і дальніх атак залежить від типу послідовника. Кожен тип послідовника має стандартну зброю; якщо ви хочете, щоб ваш послідовник використовував іншу зброю з тієї ж категорії (наприклад, проста ближня зброя або бойова дальня зброя), що завдає таку ж або меншу шкоду і вимагає таку ж кількість рук для володіння, поговоріть зі своїм ГМ. Вважається, що послідовники підтримують свій комплект у належному стані. Це включає забезпечення достатньою кількістю боєприпасів для дальньої зброї, а також ремонт пошкодженого спорядження. Послідовник може витратити 10 хвилин на ремонт усіх зламаних і пошкоджених предметів і може замінити знищене спорядження під час щоденних приготувань.</p><p><strong>Оплата:</strong> Механіка послідовників абстрагує компенсацію, яку вони отримують за свою роботу, щоб не впливати на очікуване багатство партії. Вважається, що послідовники заробляють достатньо, щоб забезпечити собі їжу, одяг і житло, підтримувати та покращувати свої комплекти (див. вище) і мати комфортний рівень життя. Джерело цього доходу вирішують ГМ і гравець залежно від обставин послідовника; можливо, їх найняв патрон гравців або зовнішня організація для співпраці з гравцями, або гравці заробляють додаткове багатство в пригодах, призначене для послідовника.</p><p><strong>Заміна послідовника:</strong> Послідовники можуть розлучатися з гравцями з різних причин, наприклад, через смерть послідовника або інші події під час кампанії. Якщо гравець втрачає послідовника, він може витратити тиждень простою, щоб замінити його. Зазвичай заміна послідовника вимагає перебування гравця в населеному пункті або іншому місці, де доступні рекрути, але ГМ також може органічно вводити послідовників під час пригоди.</p>",
+        "original": "<p>A follower is an NPC who accompanies and assists you for an extended period of time, perhaps even an entire campaign. You can gain a follower by taking the captain archetype. Followers are companions who rely upon you for direction in combat; they have the minion trait. You can have a follower and a familiar or pet, but you can't have a follower if you already have an animal companion or another companion that prevents you from having an animal companion.</p><p><strong>Ancestry:</strong> Most followers are human, and so have the human and humanoid traits. They are size Medium, have a 25-foot Speed, and speak Common plus a number of additional languages equal to 1 + their Intelligence modifier. While followers have a heritage that is part of their personal story and background, followers don't gain mechanical benefits from their heritage. For information on followers of other ancestries, see the @UUID[Compendium.pf2e.feats-srd.Item.mW9uqRmI0Wi2qYSm]{Leader of All} feat.</p><p><strong>Follower Type:</strong> Followers can come from all walks of life and have a wide variety of experiences and abilities. For ease of play, followers are grouped into broad categories called follower types, such as berserker or medic.</p><p><strong>Kits:</strong> Each follower has a personal set of gear called a kit, which automatically improves as the PCs level up and has a level equal to the PCs' level. The kit includes the follower's weapons, armor, and other items that they require to perform the actions listed in their statistics. Followers can't wear or use items other than those in their kit, nor can they share equipment with the PCs. A follower's damage with melee and ranged Strikes depends upon their follower type. Each follower type has a default weapon listed; if you would like your follower to use a different weapon that deals the same or lower damage from the same category (for example, simple melee weapon or martial ranged weapon) that requires the same number of hands to wield, talk to your GM. Followers are assumed to maintain their kit. This includes procuring adequate ammunition for ranged weapons, as well as repairing damaged gear. A follower can spend 10 minutes to repair all their broken and damaged equipment, and they can replace destroyed equipment during daily preparations.</p><p><strong>Payment:</strong> The follower mechanics abstract away the compensation that followers receive for their work, so as not to impact the expected party wealth. Followers are assumed to earn enough income to provide for their own food, clothing, and shelter, to maintain and upgrade their kits (see above), and to have a comfortable standard of living. The source of this income is up to the GM and player to decide based on the follower's circumstances; perhaps they have been hired by the PCs' patron or an outside organization to work with the PCs, or perhaps the PCs earn additional wealth in their adventures that is earmarked for the follower.</p><p><strong>Replacing a Follower:</strong> Followers might part ways with the PCs for a variety of reasons, whether it be the follower's death or other events during the campaign. If a PC loses a follower, they can spend a week of downtime to replace them. Replacing a follower generally requires the PC to be in a settlement or other location where recruits are available, but the GM can also introduce followers organically during the adventure.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-human"
+        ]
+      }
+    },
+    "Following Shot": {
+      "_id": "Xl8aFEzCXaG3L68D",
+      "name": {
+        "translate": "Наступний Вистріл",
+        "original": "Following Shot"
+      },
+      "description": {
+        "translate": "<p><strong>Частота</strong> один раз за хід</p><p><strong>Тригер</strong> Стрілець завдає критичного влучання дальньою атакою</p><p><strong>Вимоги</strong> Стрілець тримає зброю з перезарядкою 0</p><hr /><p><strong>Ефект</strong> Підкріплений успіхом, стрілець швидко робить ще один постріл. Він виконує ще одну дальню атаку тією ж зброєю з тим самим штрафом за множинну атаку. Ця атака також враховується у штраф за множинну атаку стрільця.</p>",
+        "original": "<p><strong>Frequency</strong> once per turn</p><p><strong>Trigger</strong> The sharpshooter critically hits with a ranged Strike</p><p><strong>Requirements</strong> The sharpshooter is wielding a weapon with reload 0</p><hr /><p><strong>Effect</strong> Bolstered by their success, the sharpshooter quickly takes another shot. They make another ranged Strike with the same weapon at the same multiple attack penalty. This attack still counts toward the sharpshooter's multiple attack penalty.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Furious Strike": {
+      "_id": "CBJrHjIETQsh3OG6",
+      "name": {
+        "translate": "Люті Удари",
+        "original": "Furious Strike"
+      },
+      "description": {
+        "translate": "<p>Ваш еідолон спрямовує свій гнів у люту атаку. Він робить ближню атаку. Це рахується як дві атаки при обчисленні штрафу за множинну атаку. Якщо ця атака влучає, ваш еідолон завдає додаткову кістку шкоди зброєю і отримує +1 обставинний бонус до кидка шкоди.</p>\n<p>Якщо ви принаймні 10-го рівня, збільшіть це до двох додаткових кісток із +2 обставинним бонусом, а якщо ви принаймні 18-го рівня, збільшіть до трьох додаткових кісток із +3 обставинним бонусом.</p>",
+        "original": "<p>Your eidolon channels its anger into a furious attack. It makes a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, your eidolon deals an extra die of weapon damage and gains a +1 circumstance bonus to the damage roll.</p>\n<p>If you're at least 10th level, increase this to two extra dice with a +2 circumstance bonus, and if you're at least 18th level, increase it to three extra dice with a +3 circumstance bonus.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Greater Eidolon Specialization": {
+      "_id": "VzJuYopRKC81GteD",
+      "name": {
+        "translate": "Велика Спеціалізація Еідолона",
+        "original": "Greater Eidolon Specialization"
+      },
+      "description": {
+        "translate": "<p>Шкода вашого еідолона від спеціалізації зброї збільшується до 4 при беззброїх атаках, у яких він експерт, 6 якщо він майстер і 8 якщо він легендарний.</p>",
+        "original": "<p>Your eidolon's damage from weapon specialization increases to 4 with unarmed attacks in which it's an expert, 6 if it's a master, and 8 if it's legendary.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Growing Vines": {
+      "_id": "sSfOct37bkinwW5E",
+      "name": {
+        "translate": "Зростаючі Лози",
+        "original": "Growing Vines"
+      },
+      "description": {
+        "translate": "<p>Лози та гілки вашого еідолона подовжуються ще більше. Всі ближні беззброї атаки вашого еідолона отримують рису досяжності.</p>",
+        "original": "<p>Your eidolon's vines and branches lengthen even more. All your eidolon's melee unarmed attacks gain the reach trait.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Guardian Plant": {
+      "_id": "5I9rbPGBER1gzqXT",
+      "name": {
+        "translate": "Охоронна Рослина",
+        "original": "Guardian Plant"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +2 КЗ (+3 максимум до Спритності)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Hallowed Strikes": {
+      "_id": "WyN2qQ2AP4cOMNxF",
+      "name": {
+        "translate": "Священні Удари",
+        "original": "Hallowed Strikes"
+      },
+      "description": {
+        "translate": "<p>Атаки вашого еідолона освячені небесними сферами. Беззброї атаки вашого еідолона отримують рису святого і завдають 1 додаткову духову шкоду нечистим істотам і істотам зі слабкістю до святого. Крім того, ваш еідолон може робити нефатальні атаки своїми беззброїми атаками без звичайного -2 обставинного штрафу.</p>",
+        "original": "<p>Your eidolon's attacks are hallowed by the celestial realms. Your eidolon's unarmed Strikes gain the holy trait and deal 1 extra spirit damage to unholy creatures and creatures with weakness to holy. Additionally, your eidolon can make nonlethal attacks with its unarmed attacks without taking the usual -2 circumstance penalty.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Haunting Visage": {
+      "_id": "roBX7VxpVKkRpClJ",
+      "name": {
+        "translate": "Моторошний Образ",
+        "original": "Haunting Visage"
+      },
+      "description": {
+        "translate": "<p><strong>Вимоги</strong> Ваш еідолон стиснутий. </p><hr /><p>Ваш еідолон раптово перетворюється на страшну форму на свій вибір, замість простої купи, ретельно контролюючи розташування своїх складових тіл. Еідолон намагається @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} істоту в межах 15 футів; ця спроба Деморалізації втрачає слухову рису, набуває візуальної, і еідолон не отримує -4 обставинного штрафу до перевірки, якщо він не розмовляє спільною мовою з ціллю. При успіху або критичному успіху ціль додатково @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} на 1 раунд.</p>",
+        "original": "<p><strong>Requirements</strong> Your eidolon is condensed. </p><hr /><p>Your eidolon suddenly shifts itself into a terrifying shape of its choosing, rather than a simple mound, by closely controlling the positioning of its component bodies. The eidolon attempts to @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} a creature within 15 feet; this Demoralize attempt loses the auditory trait, gains the visual trait, and the eidolon doesn't take a –4 circumstance penalty to the check if they don't share a language with their target. On a success or critical success, the target is additionally @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} for 1 round.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Hidden Watcher": {
+      "_id": "qFYR3I9XcjBZckUf",
+      "name": {
+        "translate": "Прихований Спостерігач",
+        "original": "Hidden Watcher"
+      },
+      "description": {
+        "translate": "<p>Ваш еідолон може зробити вас обох невидимими. Один раз на годину він може накласти закляття @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}, націлившись на вас, на нього або на вас обох одночасно. Якщо закляття націлене на вас обох, воно припиняється для обох, якщо будь-хто з вас використовує ворожу дію.</p>",
+        "original": "<p>Your eidolon can render both of you unseen. Once per hour, it can cast @Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility} targeting you, them, or both of you at once. If the spell targeted both of you, the spell ends for both of you if either of you uses a hostile action.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Intelligence Boost": {
+      "_id": "RvCQCutoKANEqw5C",
+      "name": {
+        "translate": "Підвищення Інтелекту",
+        "original": "Intelligence Boost"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Kit Armor": {
+      "_id": "u9va30kxnQrEhOm6",
+      "name": {
+        "translate": "Комплектна Броня",
+        "original": "Kit Armor"
+      },
+      "description": {
+        "translate": "<p>Ваш послідовник навчається носити цю броню.</p>",
+        "original": "<p>Your follower is trained in this armor.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-armor",
+          "armor-light"
+        ]
+      }
+    },
+    "Marauding Dragon": {
+      "_id": "JcYmSwl3FCjqFEMm",
+      "name": {
+        "translate": "Руйнівний Дракон",
+        "original": "Marauding Dragon"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 10, Мудрість 10, Харизма 10; +2 КЗ (+3 максимум до Спритності)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 10, Wis 10, Cha 10; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Medic's Treatment": {
+      "_id": "ma45EqTK72KQLca3",
+      "name": {
+        "translate": "Лікування Медика",
+        "original": "Medic's Treatment"
+      },
+      "description": {
+        "translate": "<p><strong>Вимоги</strong> Медик носить або тримає набір лікаря</p><hr /><p><strong>Ефект</strong> Медик лікує сусідню істоту, намагаючись зменшити стан @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy}, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled}, @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened} або @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied}. Якщо істота має кілька таких станів, медик обирає один для лікування. Медик робить перевірку протидії стану, використовуючи свій модифікатор @Check[medicine] як модифікатор протидії і половину свого рівня як ранг протидії. DC визначається джерелом стану.</p><p>Медик не може лікувати стан, що походить від артефакту або ефекту вище 20-го рівня. Використання Лікування Медика на стан, що постійно застосовується (наприклад, ослаблення святого створіння через носіння нечистої зброї), не має ефекту, поки тривають обставини.</p><hr /><p><strong>Критичний Успіх</strong> Зменшити значення обраного стану на 2.</p><p><strong>Успіх</strong> Зменшити значення обраного стану на 1.</p><p><strong>Критична Помилка</strong> Збільшити значення обраного стану на 1.</p>",
+        "original": "<p><strong>Requirements</strong> The medic is wearing or holding a healer's toolkit</p><hr /><p><strong>Effect</strong> The medic treats an adjacent creature in an attempt to reduce the @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy}, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled}, @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened}, or @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied} condition. If a creature has multiple conditions from this list, the medic chooses one to treat. The medic attempts a counteract check against the condition, using their @Check[medicine] modifier as their counteract modifier and half their level as the counteract rank. The condition's source determines the DC.</p><p>The medic can't treat a condition that came from an artifact or an effect above 20th level. Using Medic's Treatment on a condition that is continually applied (for instance, the enfeebled condition a holy creature gains from carrying an unholy weapon) has no effect as long as the circumstances continue.</p><hr /><p><strong>Critical Success</strong> Reduce the chosen condition's value by 2.</p><p><strong>Success</strong> Reduce the chosen condition's value by 1.</p><p><strong>Critical Failure</strong> Increase the chosen condition's value by 1.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Mindless Companion": {
+      "_id": "CSBy1IgHTSkVAFMM",
+      "name": {
+        "translate": "Безумний Компаньйон",
+        "original": "Mindless Companion"
+      },
+      "description": {
+        "translate": "<p>Деякі неживі компаньйони безумні. Риса безумності робить їх імунними до всіх ментальних ефектів, як зазвичай. Єдині навички, в яких безумний компаньйон навчається, це Акробатика та Атлетика, і він не може навчатися іншим навичкам. Навіть якщо безумний компаньйон отримує обмежену здатність діяти в бою без команд, наприклад, завдяки рисі Зрілий Тваринний Компаньйон, він може повторювати лише останню команду; не може самостійно виконувати нові дії. Безумний компаньйон не може брати спеціалізації, які підвищують його Інтелект або дають переваги в навичках, окрім Акробатики чи Атлетики, і не може використовувати або отримувати вигоди від рис чи інших опцій для тваринних компаньйонів, які зазвичай вимагають наявності розуму, мислення або прийняття рішень. У сумнівах ГМ визначає, які здібності може використовувати безумний компаньйон.</p>",
+        "original": "<p>Some undead companions are mindless. The mindless trait makes them immune to all mental effects, as normal. The only skills in which a mindless companion is trained are Acrobatics and Athletics, and it can't become trained in other skills. Even if a mindless companion gains a limited ability to act in combat without being commanded, such as from the Mature Animal Companion feat, it can repeat only the last command; it can't take a new action on its own. A mindless companion can't take specializations that would raise its Intelligence or grant it benefits to skills other than Acrobatics or Athletics, and it can't use or benefit from feats or other options for animal companions that normally require a creature to have a mind, think, or make a decision. When in doubt, the GM determines what abilities a mindless companion can use.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-uncommon",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Negative Essence": {
+      "_id": "CdQUkt9tPINNqSok",
+      "name": {
+        "translate": "Негативна Суть",
+        "original": "Negative Essence"
+      },
+      "description": {
+        "translate": "<p>Ваш неживий еідолон має прямий зв’язок із вашим життєвим потоком, що надає йому стан сутінкового існування між живим і неживим. Це робить його живою істотою, отже він вразливий до багатьох хвороб, що вражають лише живих, хоча він має деякі опори проти цих ефектів. Еідолон має негативне зцілення, тобто він лікується від негативної енергії, що лікує неживих, і отримує шкоду від позитивної енергії, що шкодить неживим. Він не має звичайних імунітетів неживого, але отримує +2 обставинний бонус до спаскидків проти ефектів смерті, хвороб і отрут, а також недамажних ефектів, що націлені лише на неживих. Крім того, його некротична суть легко зупиняє його рани. Перевірка на зняття постійної кровотечі з еідолона — DC 10 (або DC 5 після особливо ефективної допомоги).</p>",
+        "original": "<p>Your undead eidolon has a link directly to your life force, which grants it a twilight state between living and undead. This renders it a living creature and therefore susceptible to many ailments that bother only the living, though it does possess some resistances to these effects. The eidolon has negative healing, meaning it heals from negative energy effects that heal undead and is damaged by positive energy effects that damage undead. It doesn't have an undead's normal immunities, but it does gain a +2 circumstance bonus to saving throws against death effects, disease, and poison effects, and non-damaging effects that target only undead. Additionally, its necrotic essence stanches its wounds easily. The flat check to remove persistent bleed damage from the eidolon is DC 10 (or DC 5 after receiving particularly effective aid).</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Negative Healing": {
+      "_id": "3mUx8vXEQkiIuBcR",
+      "name": {
+        "translate": "Негативне Зцілення",
+        "original": "Negative Healing"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-uncommon",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Plant": {
+      "_id": "scyNeaFTkdY4uIfy",
+      "name": {
+        "translate": "Рослина",
+        "original": "Plant"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Primal Roar": {
+      "_id": "Gn750G9nNM3GiI5k",
+      "name": {
+        "translate": "Первісний Рев",
+        "original": "Primal Roar"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Your eidolon can bellow a terrifying roar, screech, croak, or other overpowering sound to frighten foes. It gains the @Compendium[pf2e-animal-companions.AC-Features.hcQsGAZQgqdCckCm]{Primal Roar} activity.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Primary (1d6, deadly d8, finesse)": {
+      "_id": "8dyatrsCMoIPuOlE",
+      "name": {
+        "translate": "Основна (1d6, смертельна d8, спритна)",
+        "original": "Primary (1d6, deadly d8, finesse)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Primary (1d6, fatal d10)": {
+      "_id": "8IodRUpyU4nXGyAv",
+      "name": {
+        "translate": "Основна (1d6, фатальна d10)",
+        "original": "Primary (1d6, fatal d10)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Primary (1d6, forceful, sweep)": {
+      "_id": "cIAB28BfwNA2uTQv",
+      "name": {
+        "translate": "Основна (1d6, потужна, розмах)",
+        "original": "Primary (1d6, forceful, sweep)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Primary (1d8, disarm)": {
+      "_id": "GEVoWzCBjidkO6DG",
+      "name": {
+        "translate": "Основна (1d8, роззброєння)",
+        "original": "Primary (1d8, disarm)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Primary (1d8, nonlethal)": {
+      "_id": "8EJNylotPDelRtZK",
+      "name": {
+        "translate": "Основна (1d8, нефатальна)",
+        "original": "Primary (1d8, nonlethal)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Primary (1d8, shove)": {
+      "_id": "XNgPUKsnRQO2OS2O",
+      "name": {
+        "translate": "Основна (1d8, штовхання)",
+        "original": "Primary (1d8, shove)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Primary (1d8, trip)": {
+      "_id": "ZXrAWVLwKxz5kovL",
+      "name": {
+        "translate": "Основна (1d8, підніжка)",
+        "original": "Primary (1d8, trip)"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Primordial Elemental": {
+      "_id": "uC70GaoV83y2RPPG",
+      "name": {
+        "translate": "Первісний Елементаль",
+        "original": "Primordial Elemental"
+      },
+      "description": {
+        "translate": "<p>Сила +4, Спритність +2, Витривалість +3, Інтелект –1, Мудрість +1, Харизма +0; +2 КЗ (+3 максимум до Спритності)</p>",
+        "original": "<p>Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +0; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-heritage"
+        ]
+      }
+    },
+    "Psychopomp": {
+      "_id": "HvI6KKG0ieyBEFsg",
+      "name": {
+        "translate": "Психопомп",
+        "original": "Psychopomp"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Quick Treatment": {
+      "_id": "32cPs0J3Dk19Q743",
+      "name": {
+        "translate": "Швидке Лікування",
+        "original": "Quick Treatment"
+      },
+      "description": {
+        "translate": "<p><strong>Частота</strong> один раз за раунд</p><hr /><p><strong>Ефект</strong> Медик робить крок і потім використовує @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Battle Medicine}, @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.ma45EqTK72KQLca3]{Medic's Treatment} або @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}.</p>",
+        "original": "<p><strong>Frequency</strong> once per round</p><hr /><p><strong>Effect</strong> The medic Strides and then uses @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Battle Medicine}, @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.ma45EqTK72KQLca3]{Medic's Treatment}, or @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Reckless Attack": {
+      "_id": "yYN5lYVfJVofjR0k",
+      "name": {
+        "translate": "Безрозсудна Атака",
+        "original": "Reckless Attack"
+      },
+      "description": {
+        "translate": "<p><strong>Частота</strong> один раз за хід</p><p><strong>Тригер</strong> Ви керуєте берсерком</p><hr /><p><strong>Ефект</strong> Берсерк отримує +1 обставинний бонус до наступного кидка атаки в цьому ході. Він є @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} до початку вашого наступного ходу.</p>",
+        "original": "<p><strong>Frequency</strong> once per turn</p><p><strong>Trigger</strong> You Direct the berserker</p><hr /><p><strong>Effect</strong> The berserker gains a +1 circumstance bonus to their next attack roll on this turn. They are @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the beginning of your next turn.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Reconfigured Evolution": {
+      "_id": "AaVyAec0r17ocz42",
+      "name": {
+        "translate": "Переналаштована Еволюція",
+        "original": "Reconfigured Evolution"
+      },
+      "description": {
+        "translate": "<p>Ваш конструктивний еідолон особливо легко переналаштовується, отримуючи додаткову еволюцію, що відповідає вашим обом бажанням. Оберіть одну додаткову рису еволюції 6-го рівня або нижче. Ваш еідолон отримує цю рису. Ви можете перепрофілювати цю рису на будь-яку іншу рису еволюції 6-го рівня або нижче, витративши лише один день простою, якщо ви успішно пройдете перевірку <span data-pf2-check=\"crafting\" data-pf2-label=\"Reconfigured Evolution DC\" data-pf2-dc=\"@self.level\" data-pf2-show-dc=\"gm\">Виробництва</span> зі стандартним DC, рівним рівню вашого еідолона. Якщо ви зазнаєте невдачі, можете спробувати знову пізніше. Багато заклиначів обирають для цієї здатності Гнів Еідолона.</p>",
+        "original": "<p>Your construct eidolon is particularly easy to reconfigure, gaining an additional evolution that suits both of your whims. Choose one additional evolution feat of 6th level or lower. Your eidolon gains that feat. You can Retrain this feat for any other evolution feat of 6th level or lower with only a single day of downtime if you succeed at a <span data-pf2-check=\"crafting\" data-pf2-label=\"Reconfigured Evolution DC\" data-pf2-dc=\"@self.level\" data-pf2-show-dc=\"gm\">Crafting</span> check, with a standard DC of your eidolon's level. If you fail, you can try again on a later day. Many summoners choose Eidolon's Wrath for this ability.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Redistribute": {
+      "_id": "8NK5Z7vLxkTB6pIV",
+      "name": {
+        "translate": "Перерозподілити",
+        "original": "Redistribute"
+      },
+      "description": {
+        "translate": "<p><strong>Тригер</strong> Критичний удар ворога по вашому еідолону. </p><hr /><p>Ваш еідолон переставляє свої складові тіла у відповідь на потужний удар, пом’якшуючи найгірші наслідки шкоди. Тригерний критичний удар стає звичайним влучанням. Ваш еідолон негайно змінює форму: зі стиснутої на розсіяний або навпаки.</p>",
+        "original": "<p><strong>Trigger</strong> An enemy's Strike against your eidolon is a critical hit. </p><hr /><p>Your eidolon rearranges its component bodies in response to a powerful blow, mitigating the worst of the damage they would have taken. The triggering critical hit becomes a hit. Your eidolon immediately switches forms, from condensed to dispersed or from dispersed to condensed.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Rejuvenation": {
+      "_id": "ISKjzLSNysEr7Kit",
+      "name": {
+        "translate": "Оновлення",
+        "original": "Rejuvenation"
+      },
+      "description": {
+        "translate": "<p>Незвичайний зв’язок вашого еідолона з вами дозволяє вам обом відновлюватися при поразці. Вперше щоразу на початку вашого ходу, коли ви вмираєте, ви миттєво відновлюєте кількість очок життя, рівну трьом вашим рівням, і прокидаєтесь. (Збільшуйте стан поранення як зазвичай.) Ви можете одразу викликати свого еідолона як безкоштовну дію. Потім можете виконувати свій хід як зазвичай.</p>",
+        "original": "<p>Your eidolon's unusual connection with you allows you both to rejuvenate when defeated. The first time each day your turn begins while you're dying, you instantly regain a number of Hit Points equal to three times your level and wake up. (Increase your wounded condition as normal.) You can immediately Manifest Your Eidolon as a free action. You can then take your turn as normal.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Scout Construct": {
+      "_id": "bjSHfY92UwLjdWZC",
+      "name": {
+        "translate": "Розвідувальний Конструкт",
+        "original": "Scout Construct"
+      },
+      "description": {
+        "translate": "<p>Сила 14, Спритність 18, Витривалість 16, Інтелект 12, Мудрість 10, Харизма 8; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 14, Dex 18, Con 16, Int 12, Wis 10, Cha 8; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Scribe of the Dead": {
+      "_id": "VXlVUNQjQls2ubwX",
+      "name": {
+        "translate": "Писар Мертвих",
+        "original": "Scribe of the Dead"
+      },
+      "description": {
+        "translate": "<p>Сила 12, Спритність 18, Витривалість 12, Інтелект 14, Мудрість 12, Харизма 10; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 12, Dex 18, Con 12, Int 14, Wis 12, Cha 10; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Secondary Attack": {
+      "_id": "v5dfcKYsaD0EvvtH",
+      "name": {
+        "translate": "Другорядна Атака",
+        "original": "Secondary Attack"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-weapon",
+          "weapon-unarmed"
+        ]
+      }
+    },
+    "Seething Frenzy": {
+      "_id": "MzqIc3XmAUQVdSFO",
+      "name": {
+        "translate": "Бурхливе Безумство",
+        "original": "Seething Frenzy"
+      },
+      "description": {
+        "translate": "<p>Ваш еідолон може розпалити себе у лють. Він отримує дію @Compendium[pf2e-animal-companions.AC-Features.7K6UJ3D3owmOQS03]{Seething Frenzy}.</p>",
+        "original": "<p>Your eidolon can stoke itself into a frenzy. It gains the @Compendium[pf2e-animal-companions.AC-Features.7K6UJ3D3owmOQS03]{Seething Frenzy} action.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Share the Pain": {
+      "_id": "7jjDVIT39HUAnrP6",
+      "name": {
+        "translate": "Поділитися Болем",
+        "original": "Share the Pain"
+      },
+      "description": {
+        "translate": "<p><strong>Тригер</strong> Берсерк отримує критичний удар від істоти, що знаходиться в межах його досяжності</p><hr /><p><strong>Ефект</strong> Берсерк робить ближню атаку по цій істоті.</p>",
+        "original": "<p><strong>Trigger</strong> The berserker is critically hit by a creature that is within their reach</p><hr /><p><strong>Effect</strong> The berserker makes a melee Strike against that creature.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Sickening Assault": {
+      "_id": "gGVaSvIhobXXsqTZ",
+      "name": {
+        "translate": "Огидний Наступ",
+        "original": "Sickening Assault"
+      },
+      "description": {
+        "translate": "<p><strong>Вимоги</strong> Ваш еідолон розсіяний. </p><hr /><p>Ваш еідолон зосереджується на завданні максимальної шкоди ворогам. Якщо наступна дія вашого еідолона — Виконати Наступ Роїння, кількість кісток шкоди цієї атаки подвоюється. Крім того, істоти, які провалюють спаскидок Рефлексу проти цієї атаки, стають @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} (@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 4} при критичній невдачі).</p>",
+        "original": "<p><strong>Requirements</strong> Your eidolon is dispersed. </p><hr /><p>Your eidolon focuses on inflicting the most damage possible on its foes. If your eidolon's next action is to use Swarming Assault, the number of damage dice of the Swarming Assault are doubled. Additionally, creatures that fail their Reflex save against that Swarming Assault are @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} (@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 4} on a critical failure).</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Sickening Swarm": {
+      "_id": "PHoTgTkGdcYhFpla",
+      "name": {
+        "translate": "Огидний Рій",
+        "original": "Sickening Swarm"
+      },
+      "description": {
+        "translate": "<p>Ваш еідолон особливо добре відволікає і заважає ворогам, перебуваючи в розсіяній формі. Поки він розсіяний, простори, які він займає, вважаються важкодоступною місцевістю для інших істот. Крім того, ваш еідолон отримує дію @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.gGVaSvIhobXXsqTZ]{Sickening Assault}.</p>",
+        "original": "<p>Your eidolon is particularly good at distracting and hindering its foes while dispersed. While dispersed, spaces your eidolon occupies are difficult terrain for other creatures. In addition, your eidolon gains the @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.gGVaSvIhobXXsqTZ]{Sickening Assault} action.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Skirmisher Fey": {
+      "_id": "F8wk9ybBPYBeoszZ",
+      "name": {
+        "translate": "Фея-Штурмовик",
+        "original": "Skirmisher Fey"
+      },
+      "description": {
+        "translate": "<p>Сила 14, Спритність 18, Витривалість 14, Інтелект 10, Мудрість 10, Харизма 12; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p>Str 14, Dex 18, Con 14, Int 10, Wis 10, Cha 12; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Slinking Swarm": {
+      "_id": "GQ0OcgfWpJEKflEq",
+      "name": {
+        "translate": "Підкрадаючийся Рій",
+        "original": "Slinking Swarm"
+      },
+      "description": {
+        "translate": "<p><em>Сила</em> +2, <em>Спритність</em> +4, <em>Витривалість</em> +3, <em>Інтелект</em> +0, <em>Мудрість</em> +1, <em>Харизма</em> –1; +1 КЗ (+4 максимум до Спритності)</p>",
+        "original": "<p><em>Str</em> +2, <em>Dex</em> +4, <em>Con</em> +3, <em>Int</em> +0, <em>Wis</em> +1, <em>Cha</em> –1; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Soul Guardian": {
+      "_id": "YkevbtGldcm34DlT",
+      "name": {
+        "translate": "Охоронець Душі",
+        "original": "Soul Guardian"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 10, Мудрість 12, Харизма 8; +2 КЗ (+3 обмеження на Спритність)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 10, Wis 12, Cha 8; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Spellshaped Blast": {
+      "_id": "78PMICTrQT66y7vk",
+      "name": {
+        "translate": "Вибух Закляття",
+        "original": "Spellshaped Blast"
+      },
+      "description": {
+        "translate": "<p>Адепт накопичує додаткову енергію перед виконанням енергетичного вибуху, надаючи удару два з наступних ефектів на вибір: удар отримує властивість смертельного d8, дальність удару збільшується до 120 футів, або удар завдає сплескову шкоду, рівну його кісткам шкоди.</p>",
+        "original": "<p>The adept gathers additional energy before making an energy blast Strike, granting the Strike two of the following benefits of their choice: the Strike gains the fatal d8 trait, the Strike's range increases to 120 feet, or the Strike deals splash damage equal to its damage dice.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Spirit Taker": {
+      "_id": "rFuzSio2a1VOd2Ch",
+      "name": {
+        "translate": "Захоплювач Духів",
+        "original": "Spirit Taker"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон особливо спроможний у взаємодії з безтілесними духами та у відправленні нежиті на вічний спочинок. Ваш ейдолон може бачити невагомі істоти всередині твердих об'єктів і атакувати їх ударами без штрафів; невагома істота в твердому об'єкті, яка отримує шкоду від удару вашого ейдолона, виштовхується з об'єкта у найближче доступне місце, рухаючись ближче до вашого ейдолона, якщо це можливо.</p>\n<p>Крім того, ваш ейдолон може цілитися або впливати на істоту, яка проєктує свою свідомість (наприклад, через проєкцію образу) або володіє іншою істотою, навіть якщо її тіло знаходиться в іншому місці, за умови, що ваш ейдолон знає про володіння чи проєкцію і свідомо обирає це робити.</p>\n<p>Нарешті, дух нежиті, знищеної ударами вашого ейдолона, відправляється безпосередньо до Кістяного Поля для суду; нежить, яка має здатність уникнути такої долі автоматично, наприклад, відновлення привида, може зробити перевірку протидії проти вашого рівня закляття, щоб повернутися за допомогою цієї здатності як зазвичай. У цьому випадку вона використовує свій модифікатор порятунку Воля як модифікатор протидії.</p>",
+        "original": "<p>Your eidolon is particularly capable when it comes to handling bodiless spirits and putting undead to their final rest. Your eidolon can see incorporeal creatures inside of solid objects and can attack them with Strikes without penalty; an incorporeal creature in a solid object that takes damage from your eidolon's Strike is expelled from the object to the nearest available space, moving closer to your eidolon if possible.</p>\n<p>Additionally, your eidolon can target or affect a creature projecting its consciousness (such as via project image) or possessing another creature, even if its body is elsewhere, though your eidolon must know about the possession or projection and choose to do so.</p>\n<p>Finally, the spirit of an undead destroyed by your eidolon's Strikes is sent directly to the Boneyard for judgment; an undead with an ability to avoid such a fate automatically, such as a ghost's rejuvenation, can attempt a counteract check against your spell DC to return via that ability as normal. In that case, it uses its Will save modifier as its counteract modifier.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Spirit Touch": {
+      "_id": "gyI9aHjkO84BQ3tR",
+      "name": {
+        "translate": "Дотик Духа",
+        "original": "Spirit Touch"
+      },
+      "description": {
+        "translate": "<p>Атаки вашого ейдолона мають здатність психопомпа завдавати шкоди живим і мертвим. Беззброї удари вашого ейдолона впливають на невагомі істоти, ніби вони позначені руною дотику привида, і завдають додаткову 1 порожнисту шкоду живим істотам та додаткову 1 життєву шкоду нежиті.</p>",
+        "original": "<p>Your eidolon's attacks possess a psychopomp's ability to harm the living and the dead. Your eidolon's unarmed Strikes affect incorporeal creatures as though etched with a ghost touch property rune and deal an extra 1 void Damage to living creatures and an extra 1 vitality Damage to undead.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Stalwart Guardian": {
+      "_id": "WRWGcHidHQz4ef2W",
+      "name": {
+        "translate": "Непохитний Охоронець",
+        "original": "Stalwart Guardian"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 10, Мудрість 10, Харизма 10; +2 КЗ (+3 обмеження на Спритність)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 10, Wis 10, Cha 10; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Steadfast Devotion": {
+      "_id": "N47g9LDkOdZZdgup",
+      "name": {
+        "translate": "Непохитна Відданість",
+        "original": "Steadfast Devotion"
+      },
+      "description": {
+        "translate": "<p>Відданість вашого ейдолона робить надзвичайно складним для ворогів зламати його розум. Ваш ейдолон отримує +2 обставинний бонус до порятунків від ментальних ефектів, і якщо він робить успіх проти такого ефекту, він отримує критичний успіх замість цього. Якщо у вас є класова особливість спільної рішучості і ваш ейдолон робить критичний провал проти ментального ефекту, він отримує звичайний провал замість цього.</p>",
+        "original": "<p>Your eidolon's dedication makes it extremely challenging for your foes to bend its mind. Your eidolon gains a +2 circumstance bonus to saving throws against mental effects, and if they roll a success against such an effect, they get a critical success instead. If you have the shared resolve class feature and your eidolon rolls a critical failure against a mental effect, they get a failure instead.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-bonus"
+        ]
+      }
+    },
+    "Strength Boost": {
+      "_id": "5gnUVvjqXD99OpUX",
+      "name": {
+        "translate": "Підвищення Сили",
+        "original": "Strength Boost"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Sudden Shift": {
+      "_id": "WYoxzf3Q3f4OYdT1",
+      "name": {
+        "translate": "Раптова Зміна",
+        "original": "Sudden Shift"
+      },
+      "description": {
+        "translate": "<p>Раз на раунд ваш ейдолон може змінювати форму між стиснутою та розсіяною як безкоштовну дію, замість однієї дії. Крім того, ваш ейдолон отримує реакцію @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.8NK5Z7vLxkTB6pIV]{Redistribute}.</p>",
+        "original": "<p>Once per round, your eidolon can switch forms between condensed and dispersed as a free action, rather than a single action. In addition, your eidolon gains the @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.8NK5Z7vLxkTB6pIV]{Redistribute} reaction.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Swarming Assault": {
+      "_id": "fUTBJxjPmiP4KVVI",
+      "name": {
+        "translate": "Атака Роєм",
+        "original": "Swarming Assault"
+      },
+      "description": {
+        "translate": "<p><strong>Вимоги</strong> Ваш ейдолон розсіяний.</p><hr /><p>Ваш ейдолон роєм атакує кожну істоту, що займає його простір, кусаючи, клюючи, дряпаючи або здійснюючи подібні атаки своїми складовими тілами. Він завдає @Damage[(1 + floor((@actor.level - 1)/2))d6[untyped]] шкоди кожній істоті в зоні, з базовим порятунком Рефлекс проти вашого рівня закляття. Ви щоразу, коли ваш ейдолон використовує Атаку Роєм, обираєте, чи завдає вона колючу чи рубаючу шкоду. Після цього ваш ейдолон не може знову використовувати Атаку Роєм протягом наступних [[/gmr 1d4 #rounds]]{1d4 rounds}.</p><p>На 3-му рівні та кожні 2 рівні після цього шкода збільшується на 1d6.</p>",
+        "original": "<p><strong>Requirements</strong> Your eidolon is dispersed.</p><hr /><p>Your eidolon swarms over each creature occupying its space, biting, pecking, clawing, or making similar attacks with its component bodies. It deals @Damage[(1 + floor((@actor.level - 1)/2))d6[untyped]] damage to each creature in the area, with a basic Reflex save against your spell DC. You choose each time your eidolon uses Swarming Assault whether it deals piercing or slashing damage. Your eidolon then can't use Swarming Assault again for the next [[/gmr 1d4 #rounds]]{1d4 rounds}.</p><p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Swarm Form": {
+      "_id": "SloT1T6tJDuET8UW",
+      "name": {
+        "translate": "Форма Рою",
+        "original": "Swarm Form"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це розумний рій, що складається зі сотень Крихітних істот, і він імунний до станів @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} та @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}. Він може проходити через вузькі простори, ніби був Крихітною істотою. Має вразливість до зональної шкоди, рівну його рівню. Ваш ейдолон має дві форми: стиснену та розсіяна. Коли ви викликаєте ейдолона, він з'являється у стисненій формі. Він може перемикатися між цими двома формами як одну дію з ознакою концентрації.</p><p><strong>Стиснена Форма:</strong> Коли стиснений, ваш ейдолон збирає всі свої складові тіла в одну стиснену купу, що функціонує як істота середнього розміру. Має досяжність 5 футів, може виконувати удари і не може займати той самий простір з іншими істотами. У стисненій формі може використовувати дію @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.roBX7VxpVKkRpClJ]{Haunting Visage}.</p><p><strong>Розсіяна Форма:</strong> Коли розсіяний, ваш ейдолон розкидає свої складові тіла на ширшій площі, збільшуючи свій розмір на одну категорію (до великого для більшості ейдолонів-роїв). Має досяжність 0 футів, не може виконувати удари і може займати той самий простір з іншими істотами. У розсіяній формі може використовувати активність @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.fUTBJxjPmiP4KVVI]{Swarming Assault}.</p>",
+        "original": "<p>Your eidolon is an intelligent swarm composed of hundreds of Tiny creatures, and it's immune to the @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}, and @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} conditions. It can fit through tight spaces as though it were a Tiny creature. It has weakness to area damage equal to its level. Your eidolon has two forms: condensed and dispersed. When you Manifest Eidolon, it manifests condensed. It can switch between these two forms as a single action that has the concentrate trait.</p><p><strong>Condensed Form:</strong> When condensed, your eidolon draws all its component bodies into a single, condensed mound that functions as a Medium creature. It has a reach of 5 feet, can make Strikes, and can't occupy the same space as other creatures. While condensed, it can use the @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.roBX7VxpVKkRpClJ]{Haunting Visage} action.</p><p><strong>Dispersed Form:</strong> When dispersed, your eidolon scatters its component bodies across a wider area, increasing its size by one category (to Large for most swarm eidolons). It has a reach of 0 feet, can't make Strikes, and can occupy the same space as other creatures. While dispersed, it can use the @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.fUTBJxjPmiP4KVVI]{Swarming Assault} activity.</p>"
+      },
+      "rules": {
+        "0": {
+          "label": {
+            "translate": "Форма Рою",
+            "original": "Swarm Form"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Swarm": {
+      "_id": "xb7i6YvPBPtfvP3K",
+      "name": {
+        "translate": "Рій",
+        "original": "Swarm"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Swift Protector": {
+      "_id": "TDWe85aZadixqmRU",
+      "name": {
+        "translate": "Швидкий Захисник",
+        "original": "Swift Protector"
+      },
+      "description": {
+        "translate": "<p>Сила 14, Спритність 18, Витривалість 16, Інтелект 10, Мудрість 10, Харизма 10; +1 КЗ (+4 обмеження на Спритність)</p>",
+        "original": "<p>Str 14, Dex 18, Con 16, Int 10, Wis 10, Cha 10; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Take Aim": {
+      "_id": "slUPBFWswxaqHe7T",
+      "name": {
+        "translate": "Прицілитися",
+        "original": "Take Aim"
+      },
+      "description": {
+        "translate": "<p>Стрілець прицілюється у ворога і виконує дальній удар, отримуючи +2 обставинний бонус до кидка атаки.</p>",
+        "original": "<p>The sharpshooter takes aim at their foe and makes a ranged Strike, gaining a +2 circumstance bonus to the attack roll.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Tempter Demon": {
+      "_id": "WfNq9WV1ERdAz7xG",
+      "name": {
+        "translate": "Спокусник Демон",
+        "original": "Tempter Demon"
+      },
+      "description": {
+        "translate": "<p>Сила 12, Спритність 18, Витривалість 12, Інтелект 10, Мудрість 10, Харизма 16; +1 КЗ (+4 обмеження на Спритність)</p>",
+        "original": "<p>Str 12, Dex 18, Con 12, Int 10, Wis 10, Cha 16; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Tendril Strike": {
+      "_id": "iunzITJGz0QUudUk",
+      "name": {
+        "translate": "Удар Лози",
+        "original": "Tendril Strike"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон може витягувати лози та корені, атакуючи ворогів поза досяжністю. Він отримує дію @Compendium[pf2e-animal-companions.AC-Features.fNTyFkFxNCi5O5SE]{Tendril Strike}.</p>",
+        "original": "<p>Your eidolon can stretch out vines and roots, attacking foes outside its reach. It gains the @Compendium[pf2e-animal-companions.AC-Features.fNTyFkFxNCi5O5SE]{Tendril Strike} action.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Traveler's Aura": {
+      "_id": "6uCSkTAltByUK2Pb",
+      "name": {
+        "translate": "Аура Мандрівника",
+        "original": "Traveler's Aura"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон випромінює потужну ауру, схожу на ауру астрального деви, що захищає істот під час подорожей. Аура має властивості абжурації, аури та божественності. Ваш ейдолон і його союзники в радіусі @Template[type:emanation|distance:20] захищені від сильного тепла і холоду, а ваш ейдолон ніколи не є @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard} для істот всередині аури, які мають нижчий рівень, ніж ейдолон.</p>\n<p>Коли ви отримуєте класову особливість трансцендентності, це розвивається до повних переваг астрального деви; ваш ейдолон і союзники в аурі захищені від шкоди навколишньому середовищу з будь-якої площини, включно з сильним і екстремальним теплом і холодом, а також більш незвичайними небезпеками.</p>",
+        "original": "<p>Your eidolon emanates a powerful aura-resembling that of an astral deva-that protects creatures as they travel. The aura has the abjuration, aura, and divine traits. Your eidolon and its allies within a @Template[type:emanation|distance:20] are protected from severe heat and cold, and your eidolon is never @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard} to creatures inside the aura that are of a lower level than the eidolon.</p>\n<p>When you gain the transcendence class feature, this evolves to the full benefits of an astral deva; your eidolon and allies in the aura are protected from environmental damage from any plane, including severe and extreme heat and cold as well as more unusual dangers.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Trickster Fey": {
+      "_id": "ADnKqMNT8kKfPl9o",
+      "name": {
+        "translate": "Плут Фей",
+        "original": "Trickster Fey"
+      },
+      "description": {
+        "translate": "<p>Сила 12, Спритність 18, Витривалість 12, Інтелект 12, Мудрість 8, Харизма 16; +1 КЗ (+4 обмеження на Спритність)</p>",
+        "original": "<p>Str 12, Dex 18, Con 12, Int 12, Wis 8, Cha 16; +1 AC (+4 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Ultimate Reconfiguration": {
+      "_id": "f5t6k3hwRSXqGto1",
+      "name": {
+        "translate": "Остаточна Переналаштування",
+        "original": "Ultimate Reconfiguration"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон-конструкт стає ще більш налаштовуваним. Оберіть еволюційний талант рівня 16 або нижче. Ваш ейдолон отримує цей талант. Ви можете витрачати час простою, щоб налаштовувати його за допомогою Ремесла, так само як талант із переналаштованої еволюції. Багато заклиначів обирають для цієї здатності «Невтомні Відчуття».</p>",
+        "original": "<p>Your construct eidolon becomes even more customizable. Choose an evolution feat of 16th level or lower. Your eidolon gains that feat. You can spend downtime to adjust it using Crafting, just like the feat from reconfigured evolution. Many summoners select Ever-Vigilant Senses for this ability.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Undead Brute": {
+      "_id": "drVBJuBlzQDb9sS0",
+      "name": {
+        "translate": "Нежить-Брут",
+        "original": "Undead Brute"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 8, Мудрість 10, Харизма 12</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 8, Wis 10, Cha 12</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-heritage"
+        ]
+      }
+    },
+    "Undead": {
+      "_id": "ecK9IrCUtW1bkFl6",
+      "name": {
+        "translate": "Нежить",
+        "original": "Undead"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Undead Stalker": {
+      "_id": "xE3lRxl1t4ulQyLa",
+      "name": {
+        "translate": "Мисливець на Нежить",
+        "original": "Undead Stalker"
+      },
+      "description": {
+        "translate": "<p>Сила 14, Спритність 18, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10</p>",
+        "original": "<p>Str 14, Dex 18, Con 16, Int 8, Wis 12, Cha 10</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-heritage"
+        ]
+      }
+    },
+    "Visions of Sin": {
+      "_id": "cnYMvDxCRY4NvUmJ",
+      "name": {
+        "translate": "Видіння Гріхів",
+        "original": "Visions of Sin"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Your demon is born of sin and can project the sin it is formed from into the minds of others. It gains the @Compendium[pf2e-animal-companions.AC-Features.srfAyOXpUYxEz0gx]{Visions of Sin} activity.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Warrior Construct": {
+      "_id": "c2c6dqt5rMakwb4V",
+      "name": {
+        "translate": "Воїн-Конструкт",
+        "original": "Warrior Construct"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 12, Мудрість 10, Харизма 8; +2 КЗ (+3 обмеження на Спритність)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 12, Wis 10, Cha 8; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Whirlwind Maul": {
+      "_id": "coBen1GA1czeBTOs",
+      "name": {
+        "translate": "Вихорова Булава",
+        "original": "Whirlwind Maul"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Your eidolon thrashes violently, damaging many foes in its reach. It gains the @Compendium[pf2e-animal-companions.AC-Features.W4VCL85CO77MYkQH]{Whirlwind Maul} activity.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Wisdom Boost": {
+      "_id": "At61D9oWr39Ss6Ea",
+      "name": {
+        "translate": "Підвищення Мудрості",
+        "original": "Wisdom Boost"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Wrathful Berserker": {
+      "_id": "oqRBCMQDSicPRkVA",
+      "name": {
+        "translate": "Бешкетник у Гніві",
+        "original": "Wrathful Berserker"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 8, Мудрість 10, Харизма 12; +2 КЗ (+3 обмеження на Спритність)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 8, Wis 10, Cha 12; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Wrecker Demon": {
+      "_id": "ajYVsdmTxkHEXWVO",
+      "name": {
+        "translate": "Руйнівник Демон",
+        "original": "Wrecker Demon"
+      },
+      "description": {
+        "translate": "<p>Сила 18, Спритність 14, Витривалість 16, Інтелект 10, Мудрість 8, Харизма 12; +2 КЗ (+3 обмеження на Спритність)</p>",
+        "original": "<p>Str 18, Dex 14, Con 16, Int 10, Wis 8, Cha 12; +2 AC (+3 Dex cap)</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Wyrm's Breath": {
+      "_id": "P7qw5V2ylPwCWMPB",
+      "name": {
+        "translate": "Дихання Вирма",
+        "original": "Wyrm's Breath"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон може черпати силу вирмів, щоб посилити свою Зброю Дихання. Ваш ейдолон отримує безкоштовну дію @Compendium[pf2e-animal-companions.AC-Features.dTwtFZU9OLpbWLno]{Wyrm's Breath}.</p>",
+        "original": "<p>Your eidolon can draw upon the power of wyrms to enhance the eidolon's Breath Weapon. Your eidolon gains the @Compendium[pf2e-animal-companions.AC-Features.dTwtFZU9OLpbWLno]{Wyrm's Breath} free action.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "action-defensive",
+    "action-offensive",
+    "ancestry-human",
+    "armor-light",
+    "feat-ancestryfeature",
+    "feat-bonus",
+    "feat-classfeature",
+    "level-0",
+    "level-1",
+    "level-10",
+    "level-11",
+    "level-13",
+    "level-14",
+    "level-15",
+    "level-17",
+    "level-19",
+    "level-20",
+    "level-5",
+    "level-7",
+    "level-unknown",
+    "rarity-common",
+    "rarity-uncommon",
+    "rarity-unknown",
+    "type-action",
+    "type-ancestry",
+    "type-armor",
+    "type-class",
+    "type-effect",
+    "type-feat",
+    "type-heritage",
+    "type-item",
+    "type-weapon",
+    "weapon-unarmed"
+  ]
+}

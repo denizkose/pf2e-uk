@@ -1,0 +1,80 @@
+/* -------------------------------------------------------------------------- */
+/* Foundry setup / package lists                                               */
+/* -------------------------------------------------------------------------- */
+
+/* Ukrainian labels are often longer than English ones.
+   Give important setup buttons enough room without forcing a fixed width. */
+:lang(uk) .package-list .package .package-controls button.edit-world,
+:lang(uk) .package-list .package .package-controls button[data-action="launchWorld"] {
+    min-width: 125px;
+    width: auto;
+    white-space: nowrap;
+}
+
+/* Keep package install buttons compact, but not visually crushed. */
+:lang(uk) #install-package .package-list .package-controls button {
+    padding-inline: 0.25rem;
+    padding-block: 0.125rem;
+    white-space: nowrap;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* PF2e character sheet                                                        */
+/* -------------------------------------------------------------------------- */
+
+/* Adjust character details grid for longer Ukrainian labels. */
+:lang(uk) .actor.sheet.character .crb-style .sheet-body .sheet-content .tab.character .character-details {
+    grid:
+        "img alignment deity" 46px
+        "img details details" auto
+        / 105px minmax(195px, max-content) 1fr;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* PF2e chat damage application                                                */
+/* -------------------------------------------------------------------------- */
+
+/* Prefer wrapping and compact line height before making the text too small. */
+:lang(uk) .chat-message .message-content .damage-application button .label {
+    font-size: 0.7rem;
+    line-height: 1.1;
+    white-space: normal;
+}
+
+
+/* -------------------------------------------------------------------------- */
+/* Fate / fate-like controls                                                   */
+/* -------------------------------------------------------------------------- */
+
+:lang(uk) .fate label {
+    font-size: 0.75rem;
+    line-height: 1.1;
+}
+
+.pf2e-uk-welcome {
+    padding: 0.25rem 0;
+}
+
+.pf2e-uk-welcome h2 {
+    margin-top: 0;
+    font-size: 1.35rem;
+}
+
+.pf2e-uk-welcome p {
+    line-height: 1.45;
+}
+
+.pf2e-uk-welcome__info {
+    margin: 0.75rem 0;
+    padding: 0.75rem;
+    border: 1px solid var(--color-border-light-primary);
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.pf2e-uk-welcome__hint {
+    font-size: 0.9rem;
+    opacity: 0.85;
+}

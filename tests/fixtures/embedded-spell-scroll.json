@@ -1,0 +1,32 @@
+{
+  "convertEmbeddedSpellConsumable": [
+    {
+      "fn": "convertEmbeddedSpellConsumable",
+      "args": [
+        {
+          "_id": "item-scroll-1",
+          "name": "Scroll of Fireball",
+          "type": "consumable",
+          "system": {
+            "category": "scroll",
+            "description": {
+              "value": "<p>A scroll.</p>",
+              "gm": ""
+            },
+            "spell": {
+              "name": "Fireball",
+              "uuid": null
+            }
+          }
+        },
+        {
+          "name": "Сувій Вогняної кулі",
+          "description": "<p>Сувій.</p>"
+        },
+        {}
+      ],
+      "output": "__UNDEFINED__",
+      "note": "under Node, findIndexByUuid(scrollUuid) always misses (no game.packs), so findBabeleEntry never finds a mapping/entry and this function returns undefined regardless of input - the real found-translation branch is live-verification-only"
+    }
+  ]
+}

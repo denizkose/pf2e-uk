@@ -1,0 +1,176 @@
+{
+  "entries": {
+    "Adaptable Paddleboat": {
+      "_id": "ySR1Ds607BSX1tCw",
+      "name": "Адаптивний водний човен"
+    },
+    "Airship": {
+      "_id": "VNlJ7zPnOPThFEmR",
+      "name": "Дирижабль"
+    },
+    "Ambling Surveyor": {
+      "_id": "vU3UnKWCRFhnvNLV",
+      "name": "Амблінг-геодезист"
+    },
+    "Apparatus of the Octopus": {
+      "_id": "cvP9ytBY9SJbaNbo",
+      "name": "Апарат восьминога"
+    },
+    "Armored Carriage": {
+      "_id": "WjOkOaWOGkLmuSq5",
+      "name": "Броневагон"
+    },
+    "Automated Cycle": {
+      "_id": "fiSvQBWyyJuXnVvn",
+      "name": "Автоматизований цикл"
+    },
+    "Bathysphere": {
+      "_id": "GMoxs9RQ88uMxfW4",
+      "name": "Батисфера"
+    },
+    "Bone Ship": {
+      "_id": "t57KE8cj9MdG6Y5H",
+      "name": "Кістяний корабель"
+    },
+    "Carriage": {
+      "_id": "66dAXEMUjL7BrX8I",
+      "name": "Карета"
+    },
+    "Cart": {
+      "_id": "mq8bsMnrY81gUEYb",
+      "name": "кошик"
+    },
+    "Cauldron of Flying": {
+      "_id": "WXwFZ3DrLe2PchNf",
+      "name": "Котел польоту"
+    },
+    "Cliff Crawler": {
+      "_id": "oq6khbojns3YRi2g",
+      "name": "Кліфф Кроулер"
+    },
+    "Clockwork Borer": {
+      "_id": "bUwBenWXjdUIKXkm",
+      "name": "Заводний борер"
+    },
+    "Clockwork Bumblebee": {
+      "_id": "cmLOaqR3qebmLA1P",
+      "name": "Заводний джміль"
+    },
+    "Clockwork Castle": {
+      "_id": "jrLiGrOwgOhr83PL",
+      "name": "Заводний замок"
+    },
+    "Clockwork Hopper": {
+      "_id": "IhniEmlnkb3pFRZG",
+      "name": "Заводний бункер"
+    },
+    "Clockwork Wagon": {
+      "_id": "MrGgl8HDfQYITahL",
+      "name": "Заводний вагон"
+    },
+    "Clunkerjunker": {
+      "_id": "RGEmINZa7YXvbruu",
+      "name": "Дранкер Юнкер"
+    },
+    "Cutter": {
+      "_id": "Qlvei5jjRXdsXUPo",
+      "name": "Різак"
+    },
+    "Firefly": {
+      "_id": "2dLy1sfqVbNS2inJ",
+      "name": "Світлячок"
+    },
+    "Firework Pogo": {
+      "_id": "MCU4ZiNNAX7GQNJb",
+      "name": "Феєрверк Пого"
+    },
+    "Galley": {
+      "_id": "HA93YJ0qjmRk0Nh8",
+      "name": "Камбуз"
+    },
+    "Glider": {
+      "_id": "oyKhe8J0h8G9IHE3",
+      "name": "Планер"
+    },
+    "Hillcross Glider": {
+      "_id": "V6ZuxECTGSyHAm7h",
+      "name": "Гіллкрос Планер"
+    },
+    "Mobile Inn": {
+      "_id": "yXbxHtz3xVIMbxyh",
+      "name": "Мобільний заїзд"
+    },
+    "Rowboat": {
+      "_id": "l0RfYgabnbNoHnkS",
+      "name": "Весловий човен"
+    },
+    "Sailing Ship": {
+      "_id": "R2ga1eyeSQA9w6KF",
+      "name": "Вітрильний корабель"
+    },
+    "Sand Barge": {
+      "_id": "0H2BbJCAKauXYKE6",
+      "name": "Баржа з піском"
+    },
+    "Sand Diver": {
+      "_id": "w6auGNQQ2VyMT001",
+      "name": "Пісчаний дайвер"
+    },
+    "Sandsailer": {
+      "_id": "1ldIHIoe1aKHilX2",
+      "name": "Сансейлер"
+    },
+    "Second Kiss": {
+      "_id": "K0ThJViHQzzxRmqE",
+      "name": "Другий поцілунок"
+    },
+    "Shark Diver": {
+      "_id": "QMPVAWtaClZtD2Ip",
+      "name": "Акулячий дайвер"
+    },
+    "Sleigh": {
+      "_id": "WWvqHSAYOw4ysn3e",
+      "name": "Сани"
+    },
+    "Snail Coach": {
+      "_id": "VRhdfL78HS5sT4gF",
+      "name": "Равлик Тренер"
+    },
+    "Speedster": {
+      "_id": "Cr4T0TcaxMr3bUaj",
+      "name": "Спідстер"
+    },
+    "Steam Cart": {
+      "_id": "FbSRhHvCmXBSVkrn",
+      "name": "Паровий кошик"
+    },
+    "Steam Giant": {
+      "_id": "tVBApIWuwKNwOics",
+      "name": "Паровий гігант"
+    },
+    "Steam Trolley": {
+      "_id": "slkeDT68Zjmzz5l5",
+      "name": "Паровий тролейбус"
+    },
+    "Strider": {
+      "_id": "JQAknpXhJo5bwgOM",
+      "name": "Страйдер"
+    },
+    "Titanic Stomper": {
+      "_id": "fUJ1RB9l9DppWdCH",
+      "name": "Титанік Стомпер"
+    },
+    "Velocipede": {
+      "_id": "WsfgcVXqqmk1EVRY",
+      "name": "Велоципед"
+    },
+    "Vonthos's Golden Bridge": {
+      "_id": "bMgQftCEiSqa1pTk",
+      "name": "Золотий міст Вонтоса"
+    },
+    "Wagon": {
+      "_id": "UNOwkQq5lc4cYdZP",
+      "name": "Вагон"
+    }
+  }
+}

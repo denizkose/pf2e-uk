@@ -1,0 +1,347 @@
+{
+  "formatTranslatedDescription": [
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "<p>Original EN</p>",
+        "__UNDEFINED__"
+      ],
+      "output": "<p>Original EN</p>",
+      "note": "blank translation -> returns original unchanged"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "<p>Original EN</p>",
+        ""
+      ],
+      "output": "<p>Original EN</p>",
+      "note": "empty-string translation counts as blank -> returns original"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "<p>Original EN</p>",
+        "<p>Переклад</p>",
+        "__UNDEFINED__",
+        {
+          "showOriginal": false
+        }
+      ],
+      "output": "<p>Переклад</p>",
+      "note": "showOriginal explicitly false -> no details block appended"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "<p>Original EN</p>",
+        "<p>Переклад</p>",
+        "__UNDEFINED__",
+        {
+          "showOriginal": true
+        }
+      ],
+      "output": "<p>Переклад</p><hr/><details data-pf2e-uk-original=\"true\"><summary>Original</summary><p>Original EN</p></details>",
+      "note": "showOriginal true, no source -> falls back to originalValue param"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "<p>Original EN</p>",
+        "<p>Переклад</p>",
+        "__UNDEFINED__",
+        {
+          "showOriginal": true,
+          "skipOriginal": true
+        }
+      ],
+      "output": "<p>Переклад</p>",
+      "note": "skipOriginal true overrides showOriginal -> no details block"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "<p>Original EN</p>",
+        "<p>Переклад</p><details data-pf2e-uk-original=\"true\"><summary>Original</summary><p>Already here</p></details>",
+        "__UNDEFINED__",
+        {
+          "showOriginal": true
+        }
+      ],
+      "output": "<p>Переклад</p><details data-pf2e-uk-original=\"true\"><summary>Original</summary><p>Already here</p></details>",
+      "note": "translation already contains an Original block -> not duplicated"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "__UNDEFINED__",
+        "<p>Переклад</p>",
+        {
+          "_source": {
+            "system": {
+              "description": {
+                "value": "<p>Source-derived original text.</p>"
+              }
+            }
+          },
+          "system": {
+            "description": {
+              "value": "<p>Live original text.</p>"
+            }
+          }
+        },
+        {
+          "showOriginal": true
+        }
+      ],
+      "output": "<p>Переклад</p><hr/><details data-pf2e-uk-original=\"true\"><summary>Original</summary><p>Source-derived original text.</p></details>",
+      "note": "no originalValue param, resolves from source._source.system.description.value"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "__UNDEFINED__",
+        "<p>Переклад</p>",
+        {
+          "flags": {
+            "babele": {
+              "originalPayload": {
+                "description": "<p>Payload-derived original.</p>"
+              }
+            }
+          }
+        },
+        {
+          "showOriginal": true
+        }
+      ],
+      "output": "<p>Переклад</p><hr/><details data-pf2e-uk-original=\"true\"><summary>Original</summary><p>Payload-derived original.</p></details>",
+      "note": "resolves original from flags.babele.originalPayload.description"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "<p>Original EN</p>",
+        "<p>Переклад</p>",
+        "__UNDEFINED__",
+        {
+          "showOriginal": true,
+          "originalLabel": "Джерело",
+          "separator": "<hr/>"
+        }
+      ],
+      "output": "<p>Переклад</p><hr/><details data-pf2e-uk-original=\"true\"><summary>Джерело</summary><p>Original EN</p></details>",
+      "note": "custom originalLabel and separator params"
+    },
+    {
+      "fn": "formatTranslatedDescription",
+      "args": [
+        "",
+        "<p>Переклад</p>",
+        "__UNDEFINED__",
+        {
+          "showOriginal": true
+        }
+      ],
+      "output": "<p>Переклад</p>",
+      "note": "blank originalValue and no other source -> details block omitted (no usable original)"
+    }
+  ],
+  "containsOriginalDetails": [
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        "<details data-pf2e-uk-original=\"true\"><summary>Original</summary>x</details>"
+      ],
+      "output": true,
+      "note": "data attribute match"
+    },
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        "<details data-babele-original=\"true\"><summary>Original</summary>x</details>"
+      ],
+      "output": true,
+      "note": "legacy babele data attribute match"
+    },
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        "<details><summary>Original</summary>x</details>"
+      ],
+      "output": true,
+      "note": "label match, no data attribute (EN)"
+    },
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        "<details><summary>Оригінал</summary>x</details>"
+      ],
+      "output": true,
+      "note": "label match, no data attribute (UA)"
+    },
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        "<details><summary>Оригинал</summary>x</details>"
+      ],
+      "output": true,
+      "note": "label match, no data attribute (RU)"
+    },
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        "<details><summary>Something else</summary>x</details>"
+      ],
+      "output": false,
+      "note": "unrelated summary label -> false"
+    },
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        "<p>No details block at all.</p>"
+      ],
+      "output": false,
+      "note": "no details element -> false"
+    },
+    {
+      "fn": "containsOriginalDetails",
+      "args": [
+        null
+      ],
+      "output": false,
+      "note": "non-string input -> false"
+    }
+  ],
+  "extractOriginalFromExistingDetails": [
+    {
+      "fn": "extractOriginalFromExistingDetails",
+      "args": [
+        "<p>Переклад</p><details data-pf2e-uk-original=\"true\"><summary>Original</summary><p>The original text.</p></details>"
+      ],
+      "output": "<p>The original text.</p>",
+      "note": "data-attribute-tagged details, regex fallback branch (no `document` global under Node)"
+    },
+    {
+      "fn": "extractOriginalFromExistingDetails",
+      "args": [
+        "<p>Переклад</p><details><summary>Original</summary><p>Untagged original.</p></details>"
+      ],
+      "output": "<p>Untagged original.</p>",
+      "note": "label-only match (no data attribute), regex fallback branch"
+    },
+    {
+      "fn": "extractOriginalFromExistingDetails",
+      "args": [
+        "<p>No details here.</p>"
+      ],
+      "output": "",
+      "note": "no <details> present -> empty string"
+    },
+    {
+      "fn": "extractOriginalFromExistingDetails",
+      "args": [
+        null
+      ],
+      "output": "",
+      "note": "non-string input -> empty string"
+    }
+  ],
+  "resolveOriginalDescription": [
+    {
+      "fn": "resolveOriginalDescription",
+      "args": [
+        "<p>Current value fallback.</p>",
+        "__UNDEFINED__",
+        {},
+        "__UNDEFINED__"
+      ],
+      "output": "<p>Current value fallback.</p>",
+      "note": "no params.original, no source, no existing details -> falls back to currentValue"
+    },
+    {
+      "fn": "resolveOriginalDescription",
+      "args": [
+        "<p>Current value.</p>",
+        {
+          "_source": {
+            "system": {
+              "description": {
+                "value": "<p>Source-derived original text.</p>"
+              }
+            }
+          },
+          "system": {
+            "description": {
+              "value": "<p>Live original text.</p>"
+            }
+          }
+        },
+        {},
+        "__UNDEFINED__"
+      ],
+      "output": "<p>Source-derived original text.</p>",
+      "note": "resolves from document source over currentValue"
+    },
+    {
+      "fn": "resolveOriginalDescription",
+      "args": [
+        "<p>Current value.</p>",
+        "__UNDEFINED__",
+        {
+          "original": "<p>Explicit param original.</p>"
+        },
+        "__UNDEFINED__"
+      ],
+      "output": "<p>Explicit param original.</p>",
+      "note": "explicit params.original takes precedence"
+    }
+  ],
+  "formatTranslatedName": [
+    {
+      "fn": "formatTranslatedName",
+      "args": [
+        "Longsword",
+        "__UNDEFINED__"
+      ],
+      "output": "Longsword",
+      "note": "blank translation -> original"
+    },
+    {
+      "fn": "formatTranslatedName",
+      "args": [
+        "Longsword",
+        "Довгий меч",
+        {
+          "showOriginal": false
+        }
+      ],
+      "output": "Довгий меч",
+      "note": "showOriginal false -> translated only"
+    },
+    {
+      "fn": "formatTranslatedName",
+      "args": [
+        "Longsword",
+        "Довгий меч",
+        {
+          "showOriginal": true
+        }
+      ],
+      "output": "Довгий меч / Longsword",
+      "note": "showOriginal true -> combined"
+    },
+    {
+      "fn": "formatTranslatedName",
+      "args": [
+        "Longsword",
+        "Longsword",
+        {
+          "showOriginal": true
+        }
+      ],
+      "output": "Longsword",
+      "note": "translation equals original -> not duplicated"
+    }
+  ]
+}

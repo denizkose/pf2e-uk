@@ -1,0 +1,151 @@
+[
+  {
+    "fn": "mergeData",
+    "args": [
+      {
+        "description": {
+          "value": "<p>EN description</p>",
+          "gm": "GM secret note"
+        },
+        "level": {
+          "value": 3
+        },
+        "traits": {
+          "value": [
+            "fire",
+            "magical",
+            "evocation"
+          ],
+          "rarity": "common"
+        },
+        "requirements": "Requirement text",
+        "actionType": {
+          "value": "action",
+          "cost": 2
+        },
+        "frequency": {
+          "value": "1/day",
+          "max": 1
+        },
+        "rules": [
+          {
+            "key": "Note",
+            "selector": "AC",
+            "text": "EN rule text one"
+          },
+          {
+            "key": "GrantItem",
+            "value": {
+              "uuid": "Compendium.pf2e.spells-srd.Item.ABC123",
+              "flag": "granted-item"
+            }
+          }
+        ],
+        "immunities": {
+          "value": [
+            "fire",
+            "poison"
+          ]
+        },
+        "publication": {
+          "title": "Core Rulebook",
+          "license": "OGL",
+          "remaster": true
+        }
+      },
+      {
+        "description": {
+          "value": "<p>UA опис</p>",
+          "gm": ""
+        },
+        "level": {
+          "value": null
+        },
+        "traits": {
+          "value": [
+            "вогонь"
+          ],
+          "rarity": "звичайна"
+        },
+        "requirements": null,
+        "actionType": {
+          "cost": 0
+        },
+        "rules": [
+          {
+            "text": "UA текст правила один"
+          },
+          {
+            "value": {
+              "flag": "надано-предмет"
+            }
+          },
+          {
+            "key": "extra-truncated-away-because-data-rules-length-is-2"
+          }
+        ],
+        "immunities": {
+          "value": {
+            "0": "вогонь"
+          }
+        },
+        "publication": {
+          "title": "Основна книга правил",
+          "remaster": false
+        }
+      }
+    ],
+    "output": {
+      "description": {
+        "value": "<p>UA опис</p>",
+        "gm": ""
+      },
+      "level": {
+        "value": 3
+      },
+      "traits": {
+        "value": [
+          "вогонь",
+          "magical",
+          "evocation"
+        ],
+        "rarity": "звичайна"
+      },
+      "requirements": "Requirement text",
+      "actionType": {
+        "value": "action",
+        "cost": 0
+      },
+      "frequency": {
+        "value": "1/day",
+        "max": 1
+      },
+      "rules": [
+        {
+          "key": "Note",
+          "selector": "AC",
+          "text": "UA текст правила один"
+        },
+        {
+          "key": "GrantItem",
+          "value": {
+            "uuid": "Compendium.pf2e.spells-srd.Item.ABC123",
+            "flag": "надано-предмет"
+          }
+        }
+      ],
+      "immunities": {
+        "value": [
+          "fire",
+          "poison"
+        ]
+      },
+      "publication": {
+        "title": "Основна книга правил",
+        "license": "OGL",
+        "remaster": false
+      }
+    },
+    "note": "realistic multi-field PF2E system.* block (description/level/traits/requirements/actionType/frequency/rules/immunities/publication): exercises source key order, leaf replace vs untouched copy-through (incl. a whole untranslated subtree - frequency), falsy-but-present preservation (\"\" / 0 / false), array truncation to data length (rules: translation longer), array tail copy-from-source (traits.value: translation shorter), nil (null) translation leaves keeping data (level.value, requirements), object-shaped translation over an array leaf returning it unchanged (immunities.value), and a 3-levels-deep nested partial merge (rules[1].value.flag)"
+  }
+]

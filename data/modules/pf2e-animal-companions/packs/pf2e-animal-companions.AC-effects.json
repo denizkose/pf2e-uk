@@ -1,0 +1,694 @@
+{
+  "entries": {
+    "Effect: Air Elemental Support Benefit": {
+      "_id": "UaUFJKZxEkN7yraC",
+      "name": "Ефект: Перевага підтримки повітряного елементаля",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.aMFtyZ3QNQkduwqR]{Air Elemental Support Benefit}</p><p>Якщо ви влучаєте ударом і завдаєте шкоди істоті в межах досяжності вашого повітряного елементаля, ви є @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} для цієї істоти до початку вашого наступного ходу.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.AirElemental.EffectNote"
+        }
+      }
+    },
+    "Effect: Antelope Support Benefit": {
+      "_id": "NzqqTKnlVxubDeRv",
+      "name": "Ефект: Перевага підтримки антилопи",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.yIB4qKV5sqcXlOmB]{Antelope Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в межах досяжності вашої антилопи, також завдають кровотечної шкоди.</p>"
+    },
+    "Effect: Ape Support Benefit": {
+      "_id": "DXhqZ1oa1LxPH0fG",
+      "name": "Ефект: Перевага підтримки мавпи",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.Qm0iwIYyy2gbnYXe]{Ape Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашої мавпи, істота стає @Compendium[pf2e.conditionitems.Frightened]{Frightened 1}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Ape.EffectNote"
+        }
+      }
+    },
+    "Effect: Bacallia Support Benefit": {
+      "_id": "IcevV2CAx0WlQaLF",
+      "name": "Ефект: Перевага підтримки бакалії",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.ZQZD767JGaTcOfWd]{Bacallia Support Benefit}</p><p>Істоти в межах досяжності вашої бакалії, яким ви завдаєте шкоди ударами, є @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Bacallia.EffectNote"
+        }
+      }
+    },
+    "Effect: Badger Rage": {
+      "_id": "XujpYKmCX33gqexa",
+      "name": "Ефект: Лють борсука",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Advanced-Maneuvers.Item.HLD4JW6SUn5Oy8C9]{Badger Rage}</p><p>Ви завдаєте додатково 4 шкоди укусом і 2 додаткові пошкодження кігтями, але отримуєте штраф –1 до КЗ</p>"
+    },
+    "Effect: Bat Support Benefit": {
+      "_id": "ksT2DrI2r1uZQhz6",
+      "name": "Ефект: Перевага підтримки кажана",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.Aj7JWFXIbF3qmvSX]{Bat Support Benefit}</p><p>Ви отримуєте обставинний штраф –1 до кидків атаки.</p>"
+    },
+    "Effect: Bear Support Benefit": {
+      "_id": "zAvLdUNaJrKOMfQY",
+      "name": "Ефект: Перевага підтримки ведмедя",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.AvDlo1mgxXd7ZA8W]{Bear Support Benefit}</p><p>Коли ви влучаєте по цілі, вона також отримує рубаючу шкоду від ведмедя.</p>"
+    },
+    "Effect: Beetle Support Benefit": {
+      "_id": "Jvh1ciiT9JWXILxo",
+      "name": "Ефект: Перевага підтримки жука",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.mFTzDCqNL5EdwlGm]{Beetle Support Benefit}</p><p>Ваші удари, що завдають шкоди, або роблять ціль @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard} до кінця вашого наступного ходу, або відсувають ціль на 5 футів від жука (це примусове переміщення). Ціль обирає, який ефект застосувати.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Beetle.EffectNote"
+        }
+      }
+    },
+    "Effect: Berserker Follower Ability": {
+      "_id": "oM4smdqElgYmPzae",
+      "name": "Ефект: Здібність послідовника берсерка",
+      "description": "<p>Ви отримуєте статусний бонус до наступного кидка шкоди.</p>"
+    },
+    "Effect: Bird Support Benefit": {
+      "_id": "s2tD44BtYMJpEXjO",
+      "name": "Ефект: Перевага підтримки птаха",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.7rhcqwMDt2xqnI1N]{Bird Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті, яку загрожує ваш птах, також завдають постійну кровотечну шкоду, а ціль є @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}, доки не позбудеться кровотечної шкоди.</p>",
+      "rules": {
+        "3": {
+          "text": "COMP.SpecificRule.Bird.EffectNote"
+        }
+      }
+    },
+    "Effect: Blood Feast": {
+      "_id": "q6fSAYeFEf1B5Bu7",
+      "name": "Ефект: Кривавий бенкет",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Advanced-Maneuvers.Item.cVrW2GGLVpydj8h5]{Blood Feast}</p><p>Ви отримуєте тимчасові Хіти, рівні половині вашого рівня.</p>"
+    },
+    "Effect: Boar Support Benefit": {
+      "_id": "GZN0Vc8JHVZl1Io4",
+      "name": "Ефект: Перевага підтримки кабана",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.8re1d4lM0Dn4sLto]{Boar Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в межах досяжності вашого кабана, також завдають постійну шкоду.</p>"
+    },
+    "Effect: Capybara Support Benefit": {
+      "_id": "vh7CqhkZY85PnvMm",
+      "name": "Ефект: Перевага підтримки капібари",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.Fl1VEpYhmScEEon8]{Capybara Support Benefit}</p><p>Ви отримуєте +1 обставинний бонус до наступного кидка атаки, щоб вдарити ворога в межах досяжності вашої капібари. </p>"
+    },
+    "Effect: Cat Support Benefit": {
+      "_id": "aG27NngIvWo6gFBG",
+      "name": "Ефект: Перевага підтримки кота",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.HCQXxqMtH81jE1W5]{Cat Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в межах досяжності вашого кота, роблять ціль @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Cat.EffectNote"
+        }
+      }
+    },
+    "Effect: Cave Gecko Support Benefit": {
+      "_id": "xVZXK6QIbO4ykGVj",
+      "name": "Ефект: Перевага підтримки печерного гекона",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.nDUwRm0TOtc2EX0O]{Cave Gecko Support Benefit}</p><p>Якщо ви намагаєтеся роззброїти, штовхнути або збити супротивника і кидаєте критичний провал, ви отримуєте звичайний провал замість цього.</p>"
+    },
+    "Effect: Cephalopod Support Benefit": {
+      "_id": "QbgJovIIHRlFyY2n",
+      "name": "Ефект: Перевага підтримки головоногого",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.Z5Wdlz04qLKREVrx]{Cephalopod Support Benefit}</p><p>Ви отримуєте обставинний штраф –1 до атак.</p>"
+    },
+    "Effect: Cragstone Bear Support Benefit": {
+      "_id": "33LFnwNIIHChfZz8",
+      "name": "Ефект: Перевага підтримки ведмедя з кручі",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.6dStcNwpIK7WeAeo]{Cragstone Bear Support Benefit}</p><p>Ви отримуєте обставинний бонус до КЗ, якщо ваш ведмідь з кручі стоїть поруч із вами.</p>"
+    },
+    "Effect: Crocodile Support Benefit": {
+      "_id": "FnJH9CPDngavuhwc",
+      "name": "Ефект: Перевага підтримки крокодила",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.yfjeiYMC27YGgoGW]{Crocodile Support Benefit}</p><p>Ви отримуєте обставинний штраф –10 футів до швидкості.</p>"
+    },
+    "Effect: Defensive Curl": {
+      "_id": "PaL4Sz1bVcjxCGU3",
+      "name": "Ефект: Оборонне згортування",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Advanced-Maneuvers.Item.pMPtswKNokDNyYR2]{Defensive Curl}</p><p>Ви отримуєте +2 обставинний бонус до КЗ. Будь-яка істота, що влучає по вас у рукопашній беззброї атаці, поки ви у стані Оборонного згортування, отримує 2d6 постійної кровотечної шкоди.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Pangolin.DefensiveCurl.DamageNote"
+        }
+      }
+    },
+    "Effect: Defensive Curl (Hermit Krait)": {
+      "_id": "HVrPzKRW1BCwlOFL",
+      "name": "Ефект: Оборонне згортування (Пустельний крайт)",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Advanced-Maneuvers.Item.wQewsJLOsfucMXyB]{Defensive Curl (Hermit Krait)}</p><p>Ви отримуєте +2 обставинний бонус до КЗ і +4 обставинний бонус до будь-якої перевірки, щоб прикидатися звичайною мушлею. Будь-яка істота, що влучає по вас у рукопашній беззброї атаці, отримує 2d6 постійної отруйної шкоди.</p>",
+      "rules": {
+        "1": {
+          "label": "Імітувати мушлю"
+        },
+        "2": {
+          "text": "COMP.SpecificRule.HermitKrait.DefensiveCurl.DamageNote"
+        }
+      }
+    },
+    "Effect: Draft Lizard Support Benefit": {
+      "_id": "xrdIXhRDUHgC8wAe",
+      "name": "Ефект: Перевага підтримки робочої ящірки",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.g3Wol5lNhQdxqs7t]{Draft Lizard Support Benefit}</p><p>Ви отримуєте +1 обставинний бонус до наступного кидка атаки, щоб вдарити ворога в межах досяжності вашої робочої ящірки.</p>"
+    },
+    "Effect: Elephant Support Benefit": {
+      "_id": "yTWDjFno6nKETfXY",
+      "name": "Ефект: Перевага підтримки слона",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.r7QN2lUVWXlcynMW]{Elephant Support Benefit}</p><p>Цілі в межах досяжності вашого слона, по яких ви влучили і завдали шкоди до початку вашого наступного ходу, отримують –4 статусний штраф до перевірок чисто слухового сприйняття</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Elephant.EffectNote"
+        }
+      }
+    },
+    "Effect: Elephant Support Benefit (Penalty)": {
+      "_id": "3EGbKKD73gGbSWIa",
+      "name": "Ефект: Перевага підтримки слона (Штраф)",
+      "description": "<p>Надається завдяки @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.r7QN2lUVWXlcynMW]{Перевазі підтримки слона}</p><p>Ви отримуєте статусний штраф -4 до перевірок Сприйняття, що покладаються винятково на слух.</p>"
+    },
+    "Effect: Elk Support Benefit": {
+      "_id": "uOzhPI4odakOi0uj",
+      "name": "Ефект: Перевага підтримки лося",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.60lThr6OM9zZtqK2]{Elk Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашого лося, істота є @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Elk.EffectNote"
+        }
+      }
+    },
+    "Effect: Experienced Sharpshooter": {
+      "_id": "GXWxbmqTJApVu0f3",
+      "name": "Ефект: Досвідчений стрілець",
+      "description": "<p>Ви отримуєте обставинний штраф –5 футів до швидкості, або –10 футів, якщо атака була критичною.</p>"
+    },
+    "Effect: Fire Elemental Support Benefit": {
+      "_id": "KAAmj9fT7JPGPzKl",
+      "name": "Ефект: Перевага підтримки вогняного елементаля",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.NSdcXgEHVHdfJlkb]{Fire Elemental Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в межах досяжності вашого вогняного елементаля, також завдають постійну вогняну шкоду.</p>"
+    },
+    "Effect: Flying Squirrel Support Benefit": {
+      "_id": "HssfGVFlUB80xBn7",
+      "name": "Ефект: Перевага підтримки летючої білки",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.V2kspaYOoLbHV5vb]{Flying Squirrel Support Benefit}</p><p>Якщо ваш удар завдає шкоди істоті в межах досяжності вашої гігантської летючої білки, ця істота отримує обставинний штраф –10 футів до швидкості.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.FlyingSquirrel.EffectNote"
+        }
+      }
+    },
+    "Effect: Flying Squirrel Support Benefit (Penalty)": {
+      "_id": "lACoOtINmUb1fTMY",
+      "name": "Ефект: Перевага підтримки летючої білки (Штраф)",
+      "description": "<p>Надається завдяки @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.V2kspaYOoLbHV5vb]{Перевазі підтримки летяги}</p><p>Ви отримуєте штраф обставин –10 футів до своїх Швидкостей.</p>"
+    },
+    "Effect: Ghost Support Benefit": {
+      "_id": "KfTDGMtgkg8QQd17",
+      "name": "Ефект: Перевага підтримки привида",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.4kkcfQdHAb4YTVNw]{Ghost Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашого привида, істота стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Ghost.EffectNote"
+        }
+      }
+    },
+    "Effect: Giant Rock Tuatara Support Benefit": {
+      "_id": "bNnxaqaQ1cR6SXnR",
+      "name": "Ефект: Перевага підтримки гігантського кам'яного туатари",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.BgqGqrzRNnm8QaN9]{Giant Rock Tuatara Support}</p><p>Істоти в межах досяжності вашого гігантського кам'яного туатари, яким ви завдаєте шкоди ударами, є @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.GiantRockTuatara.EffectNote"
+        }
+      }
+    },
+    "Effect: Giant Wasp Support Benefit": {
+      "_id": "nftqFOord0y2cTTi",
+      "name": "Ефект: Перевага підтримки гігантської оси",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.V3XczB8r8fQfJIhe]{Giant Wasp Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашої гігантської оси, істота стає наляканою 1 рівня.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.GiantWasp.EffectNote"
+        }
+      }
+    },
+    "Effect: Giraffe Support Benefit": {
+      "_id": "swq8Klr2ePG9rVJS",
+      "name": "Ефект: Перевага підтримки жирафи",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.LcAJTLzLDcIrQ7KQ]{Giraffe Support Benefit}</p><p>Будь-яка ціль, яку ви успішно штовхаєте, рухається на 10 футів (15 футів при критичному успіху).</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Giraffe.EffectNote.Success"
+        },
+        "2": {
+          "text": "COMP.SpecificRule.Giraffe.EffectNote.CriticalSuccess"
+        }
+      }
+    },
+    "Effect: Gray Bladeling Support Benefit": {
+      "_id": "jHISsCN6eVEYNtrw",
+      "name": "Ефект: Перевага підтримки сірого клинка",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.XDmtg6o5B2MaA4Ke]{Gray Bladeling Support Benefit}</p><p><span style=\"font-family:Roboto, sans-serif\">Ваші удари, що завдають шкоди істоті в межах досяжності вашого сірого клинка, також завдають кровотечної шкоди або роблять ціль </span>@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}, якщо вона вже отримує постійну кровотечну шкоду.</p>",
+      "rules": {
+        "4": {
+          "text": "COMP.SpecificRule.GrayBladeling.EffectNote.Frightened"
+        }
+      }
+    },
+    "Effect: Griffon Support Benefit": {
+      "_id": "ixEu5vNQCKPtUbBQ",
+      "name": "Ефект: Перевага підтримки грифона",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.ShKTegi69Hizn0vB]{Griffon Support Benefit}</p><p>Ви отримуєте +2 обставинний бонус до спаскок від ефектів емоцій.</p>"
+    },
+    "Effect: Hermit Krait Support Benefit": {
+      "_id": "8Ij9WexQ731l2PMW",
+      "name": "Ефект: Перевага підтримки пустельного крайта",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.u9jaNQk6QF2Tm8oe]{Hermit Krait Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в межах досяжності вашого пустельного крайта, також завдають постійну отруйну шкоду.</p>"
+    },
+    "Effect: Hippocampus Support Benefit": {
+      "_id": "YWqoEHfSzoPH0RsW",
+      "name": "Ефект: Перевага підтримки гіпокампа",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.t1KMf7rDzJJ2vWhe]{Hippocampus Support Benefit}</p><p>Якщо ви верхи на вашому гіпокампі і рухалися на 10 футів або більше перед рукопашним ударом, ви отримуєте обставинний бонус до шкоди удару, рівний подвоєній кількості кубиків шкоди зброї.</p>"
+    },
+    "Effect: Hippogriff Support Benefit": {
+      "_id": "tnlYuQchWOeDKeau",
+      "name": "Ефект: Перевага підтримки гіпогрифа",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.cJBAKsVacLTIiPcz]{Hippogriff Support Benefit}</p><p>Якщо ви верхи на вашому гіпогрифі і рухалися на 10 футів або більше перед рукопашним ударом, ви отримуєте обставинний бонус до шкоди удару, рівний подвоєній кількості кубиків шкоди зброї.</p>"
+    },
+    "Effect: Horse Support Benefit": {
+      "_id": "xe5pfyTYOWMYG1T8",
+      "name": "Ефект: Перевага підтримки коня",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.wf20kx6pPGBWwUn2]{Horse Support Benefit}</p><p>Якщо ви верхи на вашому коні і рухалися на 10 футів або більше перед рукопашним ударом, ви отримуєте обставинний бонус до шкоди удару, рівний подвоєній кількості кубиків шкоди зброї.</p>"
+    },
+    "Effect: Hyena Support Benefit": {
+      "_id": "zrI6j7mFhkbSFdf0",
+      "name": "Ефект: Перевага підтримки гієни",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.wlh1poSMLK9wk2Nw]{Hyena Support Benefit}</p><p>Коли ви влучаєте по істоті в межах досяжності гієни ударом, істота стає наляканою 1 рівня.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Hyena.EffectNote"
+        }
+      }
+    },
+    "Effect: Iridescent Salamander Support Benefit": {
+      "_id": "N61xXQczvAV2Xrnj",
+      "name": "Ефект: Перевага підтримки райдужної саламандри",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.N61xXQczvAV2Xrnj]{Iridescent Salamander Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті, що стоїть поруч із вашою саламандрою, істота є @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} до початку вашого наступного ходу, якщо її рівень не вищий за ваш.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.IridescentSalamander.EffectNote.PF"
+        }
+      }
+    },
+    "Effect: Isgeri Boarhound Support Benefit": {
+      "_id": "otgQvXBTGIEGbJJP",
+      "name": "Ефект: Перевага підтримки іскерського борзого",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.OQnyw05StojLRcA0]{Isgeri Boarhound Support Benefit}</p><p>Ви отримуєте +1 обставинний бонус до наступного кидка атаки, щоб вдарити ворога в межах досяжності вашого борзого.</p><p>Якщо ви завдаєте шкоди істоті з рисою, що відповідає визначеному ворогу вашого борзого, ця істота отримує додаткову шкоду d6 колючою зброєю.</p>"
+    },
+    "Effect: Keulia Support Benefit": {
+      "_id": "rscC2NYGHUs3PQUV",
+      "name": "Ефект: Перевага підтримки кеулії",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.IsdduEnR9bFi2vDS]{Keulia Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в межах досяжності вашої кеулії, також завдають дроблячої шкоди.</p>"
+    },
+    "Effect: Metal Elemental Support Benefit": {
+      "_id": "4QHjAGY39Q86gAEe",
+      "name": "Ефект: Перевага підтримки металевого елементаля",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.SZD1hU2ageIDw4To]{Metal Elemental Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в межах досяжності вашого металевого елементаля, також завдають кровотечної шкоди.</p>"
+    },
+    "Effect: Mole Support Benefit": {
+      "_id": "6X2STQsZYQ4pY6BA",
+      "name": "Ефект: Перевага підтримки крота",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.vvuB2kEzRYSs4IpH]{Mole Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті, що стоїть поруч із вашим кротом, ця істота стає Незграбною 1 рівня, доки не покине своє поточне місце.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Mole.EffectNote"
+        }
+      }
+    },
+    "Effect: Mongoose Support Benefit": {
+      "_id": "PL26HLGEitQSAsWV",
+      "name": "Ефект: Перевага підтримки мангуста",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.vvuB2kEzRYSs4IpH]{Mole Support Benefit}</p><p>Істоти, що стоять поруч із мангустом, не можуть фланкувати вас.</p>"
+    },
+    "Effect: Monitor Lizard Support Benefit": {
+      "_id": "itbKX7GZbXsfRTf8",
+      "name": "Ефект: Перевага підтримки варана",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.2Jaz98WiQMNnqKCD]{Monitor Lizard Support Benefit}</p><p>Якщо ваш удар завдає шкоди ворогу, кожного разу, коли ворог намагається виконати дію з рисою маніпуляції до кінця вашого наступного ходу, він повинен пройти перевірку DC 5. При провалі дія переривається.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.MonitorLizard.EffectNote"
+        }
+      }
+    },
+    "Effect: Monitor Lizard Support Benefit (Penalty)": {
+      "_id": "eXABjTK48R1xCvOZ",
+      "name": "Ефект: Перевага підтримки варана (Штраф)",
+      "description": "<p>Надається завдяки @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.2Jaz98WiQMNnqKCD]{Перевазі підтримки варана}</p><p>Якщо ви намагаєтеся виконати дію з трейтом маніпуляція, то маєте виконати чисту перевірку КС 5. У разі поразки дія зривається.</p>"
+    },
+    "Effect: Moth Support Benefit": {
+      "_id": "SY21KgVDZRQWFSCw",
+      "name": "Ефект: Перевага підтримки молі",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.9Y5QKMvy0KsliE29]{Moth Support Benefit}</p><p>Якщо ви завдаєте шкоди прихованій або замаскованій істоті в межах досяжності вашої молі ударом, ця істота потребує лише перевірку DC 3, щоб націлитися на неї, якщо вона замаскована, або DC 9, якщо вона прихована.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Moth.EffectNote"
+        }
+      }
+    },
+    "Effect: Moth Support Benefit (Penalty)": {
+      "_id": "Db0Vtobv3v4Iybj5",
+      "name": "Ефект: Перевага підтримки молі (Штраф)",
+      "description": "<p>Надається завдяки @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.9Y5QKMvy0KsliE29]{Перевазі підтримки молі}</p><p>Якщо ви завдаєте Ударом шкоди Прихованій або Схованій істоті в досяжності вашої молі, для націлювання на цю істоту потрібна лише чиста перевірка КС 3, якщо вона прихована, або чиста перевірка КС 9, якщо вона схована.</p>",
+      "rules": {
+        "0": {
+          "text": "Якщо ви завдаєте шкоди істоті @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} в межах досяжності вашої молі ударом, ця істота потребує лише @Check[flat|dc:3|showDC:all]."
+        },
+        "1": {
+          "text": "Якщо ви завдаєте шкоди істоті @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} в межах досяжності вашої молі ударом, ця істота потребує лише @Check[flat|dc:9|showDC:all]."
+        }
+      }
+    },
+    "Effect: Pangolin Support Benefit": {
+      "_id": "HWOSRHmd8RLeGyY5",
+      "name": "Ефект: Перевага підтримки панголіна",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.QiQvx7jtfrkGnf13]{Pangolin Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в досяжності вашого панголіна, також завдають постійної кровотечі.</p>"
+    },
+    "Effect: Pufferfish Support Benefit": {
+      "_id": "rpuddyWEACHx6p5m",
+      "name": "Ефект: Перевага підтримки риби-куля",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.qawa9rAR3xnvdVEU]{Pufferfish Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в досяжності вашої риби-куля, також завдають постійної отруйної шкоди.</p>"
+    },
+    "Effect: Ravenous Drake Support Benefit": {
+      "_id": "vZarTalIYKxQ0Pgr",
+      "name": "Ефект: Перевага підтримки ненажерливого дракона",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.uIOdChoT35s5BIzd]{Ravenous Drake Support Benefit}</p><p>Ви отримуєте бонус обставин +1 до будь-якої перевірки Атлетики для роззброєння, переміщення, штовхання або збивання з ніг супротивника, що знаходиться поруч з вашим ненажерливим драконом.</p>"
+    },
+    "Effect: Reckless Attack": {
+      "_id": "RgV1BgnR9jmPBy5M",
+      "name": "Ефект: Безрозсудна атака",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.yYN5lYVfJVofjR0k]{Reckless Attack}</p><p>Ви отримуєте бонус обставин +1 до вашого наступного кидка атаки.</p>"
+    },
+    "Effect: Retreat (Rider)": {
+      "_id": "evvqmXIieuMwFMJT",
+      "name": "Ефект: Відступ (Вершник)",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Advanced-Maneuvers.Item.SkVl3yomdYZoS7Hx]{Aerial Retreat}, @UUID[Compendium.pf2e-animal-companions.AC-Advanced-Maneuvers.Item.R2RNXJH06UhSMmzp]{Sudden Retreat}</p><p>Ви отримуєте бонус обставин +2 до КЗ проти реакцій.</p>"
+    },
+    "Effect: Rhinoceros Support Benefit": {
+      "_id": "LqhSjyZbMN1wKPss",
+      "name": "Ефект: Перевага підтримки носорога",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.kecawjDhBFz5QA4f]{Rhinoceros Support Benefit}</p><p>Перша істота в досяжності вашого носорога, яку ви влучаєте і завдаєте шкоди до початку вашого наступного ходу, стає незграбною 1 рівня.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Rhinoceros.EffectNote"
+        }
+      }
+    },
+    "Effect: Riding Dragonet Support Benefit": {
+      "_id": "W0umjrZCgfSo0qh6",
+      "name": "Ефект: Перевага підтримки вершника дракончика",
+      "description": "<p>Надається перевага підтримки вершника дракончика</p><p>Ваші удари завдають дроблячої шкоди в досяжності вашого дракончика.</p>"
+    },
+    "Effect: Riding Drake Support Benefit": {
+      "_id": "5VHKIMzKMw3r2BOa",
+      "name": "Ефект: Перевага підтримки вершника дракона",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.C41lCXjerYjMyOTI]{Riding Drake Support Benefit}</p><p>Кожного разу, коли ви наносите удар, сидячи на дракону, і влучаєте в істоту в досяжності дракона, ця істота отримує вогняну шкоду від дракона.</p>",
+      "rules": {
+        "1": {
+          "label": "COMP.SpecificRule.RidingDrake.Label"
+        }
+      }
+    },
+    "Effect: Riding Tarantula Support Benefit": {
+      "_id": "faBOi3CkoeQtQ0Dc",
+      "name": "Ефект: Перевага підтримки вершника тарантула",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.NKgFIZQYkL3bb6xn]{Riding Tarantula Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті, яку загрожує ваш вершник тарантула, ціль повинна успішно пройти перевірку @Check[type:flat|dc:5] щоразу, коли виконує дію концентрації, або ця дія втрачається.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.RidingTarantula.EffectNote"
+        }
+      }
+    },
+    "Effect: Riding Tarantula Support Benefit (Penalty)": {
+      "_id": "crYJGMzeiXh8xve3",
+      "name": "Ефект: Перевага підтримки вершника тарантула (Штраф)",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.NKgFIZQYkL3bb6xn]{Riding Tarantula Support Benefit}</p><p>Ціль повинна успішно пройти перевірку @Check[type:flat|dc:5] щоразу, коли виконує дію концентрації, або ця дія втрачається.</p>"
+    },
+    "Effect: Roc Support Benefit": {
+      "_id": "5AeK9y6jDQrFMYv3",
+      "name": "Ефект: Перевага підтримки рок",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.R0e3jHpB7nTzIUPm]{Roc Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті, яку загрожує ваш рок, відштовхують ціль на 5 футів від вашого рока.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Roc.EffectNote"
+        }
+      }
+    },
+    "Effect: Scorpion Support Benefit": {
+      "_id": "YNclyD1YN0eGiOix",
+      "name": "Ефект: Перевага підтримки скорпіона",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.xtXdDC5KrUqh7eCu]{Scorpion Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в досяжності вашого скорпіона, також завдають постійної отруйної шкоди.</p>"
+    },
+    "Effect: Severed Head Support Benefit": {
+      "_id": "IReZWo5PdAe4F9IH",
+      "name": "Ефект: Перевага підтримки відрубаної голови",
+      "description": "<p>Надається завдяки @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.z6bNmmf5YiJrPbot]{Перевазі підтримки відрубаної голови}</p><p>Ваші Удари, щ<span style=\"font-family:Roboto, sans-serif\">о завдають шкоди істоті в досяжності вашої відрубаної голови, накладають штраф до її Швидкості, а істота має успішно пройти чисту перевірку, щоб використовувати реакції.</span></p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.SeveredHead.EffectNote.SupportBenefit"
+        }
+      }
+    },
+    "Effect: Severed Head Support Benefit (Penalty)": {
+      "_id": "agTdJDFIKuduum1p",
+      "name": "Ефект: Перевага підтримки відрубаної голови (Штраф)",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.z6bNmmf5YiJrPbot]{Severed Head Support Benefit}</p><p>Ви отримуєте статусний штраф -5 футів до швидкості і повинні успішно пройти просту перевірку DC 5, щоб використовувати реакції, викликані діями джерела.</p>"
+    },
+    "Effect: Shadow Hound Support Benefit": {
+      "_id": "Go7Tbyf3vpAW6rFs",
+      "name": "Ефект: Перевага підтримки тіньового пса",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.h65iGxPkfrT8DdPv]{Shadow Hound Support Benefit}</p><p>Коли ви завдаєте шкоди істоті ударом, і ця істота знаходиться в досяжності вашого тіньового пса, і ви, і ваш тіньовий пес стаєте @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} для цієї істоти.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.ShadowHound.EffectNote"
+        }
+      }
+    },
+    "Effect: Shark Support Benefit": {
+      "_id": "Lgc3OAVIdK8uN9nM",
+      "name": "Ефект: Перевага підтримки акули",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.YsLLV4J7L6fgzTXf]{Shark Support Benefit}</p><p>Кожного разу, коли ви влучаєте в істоту в досяжності акули ударом і завдаєте рубаючої або колючої шкоди, істота отримує додаткову рубаючу шкоду від акули.</p>"
+    },
+    "Effect: Shotalashu Support Benefit": {
+      "_id": "TNnBontVMih3LYaC",
+      "name": "Ефект: Перевага підтримки шоталашу",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.ufAZJqCN7ZOBhMSJ]{Shotalashu Support Benefit}</p><p>Кожного разу, коли ви влучаєте в істоту в досяжності шоталашу ударом, істота отримує ментальну шкоду від шоталашу.</p>"
+    },
+    "Effect: Silt Frog Support Benefit": {
+      "_id": "zqSaMniK2XF0W4e6",
+      "name": "Ефект: Перевага підтримки мулкої жаби",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.iOaMTpUtXwUWdnbv]{Silt Frog Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті в досяжності вашої мулкої жаби, істота стає @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} до початку вашого наступного ходу.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.SiltFrog.EffectNote.PF"
+        }
+      }
+    },
+    "Effect: Skeletal Bird of Prey Support Benefit": {
+      "_id": "tyTTl3B8OWtWYhcX",
+      "name": "Ефект: Перевага підтримки скелетного хижака",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.bEkXle5FLNxnp3IE]{Skeletal Bird of Prey Support Benefit}</p><p>Коли ви завдаєте шкоди істоті в досяжності птаха ударом, ця істота стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.SkeletalBirdOfPrey.EffectNote"
+        }
+      }
+    },
+    "Effect: Skeletal Constrictor Support Benefit": {
+      "_id": "tBLkLrtoRFbYV1f4",
+      "name": "Ефект: Перевага підтримки скелетного удава",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.Si13B4VFANZN8mi1]{Skeletal Constrictor Support Benefit}</p><p>Ваші удари, що завдають шкоди обраній істоті, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.SkeletalConstrictor.EffectNote"
+        }
+      }
+    },
+    "Effect: Skeletal Mount Support Benefit": {
+      "_id": "VVpMpJB3hdTNYdNV",
+      "name": "Ефект: Перевага підтримки скелетного скакуна",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.CKMQC3zu1XoGjeNd]{Skeletal Mount Support Benefit}</p><p>Якщо ви їдете на своєму скелетному скакуні і рухаєтесь щонайменше на 10 футів перед атакою, будь-яка істота, пошкоджена атакою, стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}, або @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}, якщо атака була критичною.</p>",
+      "rules": {
+        "0": {
+          "label": "COMP.SpecificRule.RidingDrake.Label"
+        },
+        "2": {
+          "text": "COMP.SpecificRule.SkeletalMount.EffectNote.Success"
+        },
+        "3": {
+          "text": "COMP.SpecificRule.SkeletalMount.EffectNote.CriticalSuccess"
+        }
+      }
+    },
+    "Effect: Skeletal Servant Support Benefit": {
+      "_id": "GQFr15dRbQyfsiTF",
+      "name": "Ефект: Перевага підтримки скелетного слуги",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.bHaJZSm7SakAsk00]{Skeletal Servant Support Benefit}</p><p>Коли ваш удар влучає і завдає шкоди істоті в досяжності вашого скелетного слуги, ця ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.SkeletalServant.EffectNote"
+        }
+      }
+    },
+    "Effect: Spiked Bunker": {
+      "_id": "CulrguIVl7HYwo54",
+      "name": "Ефект: Колючий бункер",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Advanced-Maneuvers.Item.oyNZpuQ6EU3prvo2]{Spiked Bunker}</p><p>Ви отримуєте бонус обставин +2 до КЗ. Будь-яка істота, що влучає по вам у Колючому бункері, отримує 2d6 колючої шкоди (або 3d6 колючої шкоди, якщо ваш металевий елементаль має спеціалізацію).</p>",
+      "rules": {
+        "3": {
+          "text": "COMP.SpecificRule.MetalElemental.SpikedBunker.DamageNote"
+        }
+      }
+    },
+    "Effect: Sundaflora Support Benefit": {
+      "_id": "I89IDoLnz4RnfYtX",
+      "name": "Ефект: Перевага підтримки сундафлори",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.xpEAKxiQUlUXkqV4]{Sundaflora Support Benefit}</p><p>Ви отримуєте бонус обставин +1 до вашого наступного кидка атаки, щоб вдарити ворога в досяжності вашої сундафлори.</p>"
+    },
+    "Effect: Terror Bird Support Benefit": {
+      "_id": "Vbi6XlP86bndpHs1",
+      "name": "Ефект: Перевага підтримки птаха-терору",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.oLwBrrW33fIjSHLr]{Terror Bird Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в досяжності вашого птаха-терору, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.TerrorBird.EffectNote"
+        }
+      }
+    },
+    "Effect: Thruneosaurus Rex Support Benefit": {
+      "_id": "8pMY2c7j9wz61dOo",
+      "name": "Ефект: Перевага підтримки трюнеозавра рекса",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.T9SEwJHzocsjOFkq]{Thruneosaurus Rex Support Benefit}</p><p>Ваші удари завдають постійної вогняної шкоди.</p>"
+    },
+    "Effect: Tikar Urchinpad Support Benefit": {
+      "_id": "ciyeCV7RsTtFcYKw",
+      "name": "Ефект: Перевага підтримки їжака Тікар",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.TFrCa4aCUKtwhuqn]{Tikar Urchinpad Support Benefit}</p><p>Поки ви перебуваєте поруч зі своїм їжаком, якщо ви намагаєтеся @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} або @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} супротивника і отримуєте критичний провал, ви отримуєте звичайний провал замість цього.</p>"
+    },
+    "Effect: Triceratops Support Benefit": {
+      "_id": "VK0u5yF0dO2YlGra",
+      "name": "Ефект: Перевага підтримки трицератопса",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.TDMhLC16cQOYBbmA]{Triceratops Support Benefit}</p><p>Ваші удари, що завдають шкоди впалій істоті в досяжності вашого трицератопса, також завдають постійної кровотечі.</p>"
+    },
+    "Effect: Tyrannosaurus Support Benefit": {
+      "_id": "UJYz572LoOw3LH8u",
+      "name": "Ефект: Перевага підтримки тиранозавра",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.XrxIRaD1A5tpKm1t]{Tyrannosaurus Support Benefit}</p><p>Якщо ви влучаєте і завдаєте шкоди істоті в досяжності вашого тиранозавра, істота стає @Compendium[pf2e.conditionitems.Frightened]{Frightened 1}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Tyrannosaurus.EffectNote"
+        }
+      }
+    },
+    "Effect: Ulgrem-Lurann Support Benefit": {
+      "_id": "axG8U0tIGTXhjA6x",
+      "name": "Ефект: Перевага підтримки Ульгрем-Луранна",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.uZLtEOimbFnEDUKh]{Ulgrem-Lurann Support Benefit}</p><p>Кожного разу, коли ви влучаєте в істоту в досяжності Ульгрем-Луранна ударом, істота отримує додаткову колючу і електричну шкоду від Ульгрем-Луранна.</p>"
+    },
+    "Effect: Umbrella Mushroom Support Benefit": {
+      "_id": "RjwPBh2CCTUJAa3e",
+      "name": "Ефект: Перевага підтримки грибка-парасольки",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.XVOVZjvTwaoalpWC]{Umbrella Mushroom Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в досяжності вашого грибка-парасольки, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}. Цей ефект має ознаку отрути.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.UmbrellaMushroom.EffectNote"
+        }
+      }
+    },
+    "Effect: Undead Hand Support Benefit": {
+      "_id": "TbsMurFpA6ZkZIfF",
+      "name": "Ефект: Перевага підтримки неживої руки",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.imNJpD4afn4UrLpu]{Undead Hand Support Benefit}</p><p>Кожного разу, коли ви влучаєте в істоту в досяжності руки ударом, істота отримує додаткову дроблячу шкоду від руки.</p>"
+    },
+    "Effect: Vampiric Animal Support Benefit": {
+      "_id": "rtIhCBYVeEywrZOf",
+      "name": "Ефект: Перевага підтримки вампіричної тварини",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.3jZOVJsYwBQ7GPDi]{Vampiric Animal Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в досяжності вашої вампіричної тварини, також завдають кровотечної шкоди.</p>"
+    },
+    "Effect: War Pig Support Benefit": {
+      "_id": "EutUqr7s9d9bRy9b",
+      "name": "Ефект: Перевага підтримки бойової свині",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.ZGE7RQKqjQCTEJct]{War Pig Support Benefit}</p><p>Удари, які ви наносите істоті в досяжності вашої бойової свині, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.WarPig.EffectNote"
+        }
+      }
+    },
+    "Effect: Water Elemental Support Benefit": {
+      "_id": "DB0mJPinz35BgBS1",
+      "name": "Ефект: Перевага підтримки водяного елементаля",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.BFvS1wnFxgUqgX8m]{Water Elemental Support Benefit}</p><p>Коли ви влучаєте ударом, що завдає шкоди істоті в досяжності вашого водяного елементаля, ця істота стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.WaterElemental.EffectNote"
+        }
+      }
+    },
+    "Effect: Water Wraith Support Benefit": {
+      "_id": "7WtmY88CPY7lxW3q",
+      "name": "Ефект: Перевага підтримки водяного примари",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.IUXX1lUd9kMzV4bq]{Water Wraith Support Benefit}</p><p>Кожного разу, коли ви влучаєте істоту в досяжності вашої водяної примари, істота стає @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}.</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.WaterWraith.EffectNote"
+        }
+      }
+    },
+    "Effect: Wolf Support Benefit Speed Penalty": {
+      "_id": "UhWenwf5XOlk9ZHY",
+      "name": "Ефект: Штраф до швидкості підтримки вовка",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.5HnWXmOp8qNjfhdU]{Wolf Support Benefit}</p><p>Ви отримуєте статусний штраф -5 футів до швидкості (–10 при критичному успіху).</p>"
+    },
+    "Effect: Wolf Support Benefit": {
+      "_id": "zDFmtmfZfAvIVF93",
+      "name": "Ефект: Перевага підтримки вовка",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.5HnWXmOp8qNjfhdU]{Wolf Support Benefit}</p><p>Ваші удари, що завдають шкоди істотам, яких загрожує ваш вовк, накладають на ціль статусний штраф -5 футів до швидкості (–10 при критичному успіху).</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.Wolf.EffectNote"
+        }
+      }
+    },
+    "Effect: Wood Elemental Support Benefit Speed Penalty": {
+      "_id": "U2mkebPNSs531ADL",
+      "name": "Ефект: Штраф до швидкості підтримки деревного елементаля",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.KomM6mTwJAzvqAgi]{Wood Elemental Support Benefit}</p><p>Ви отримуєте статусний штраф -5 футів до швидкості (–10 при критичному успіху).</p>"
+    },
+    "Effect: Wood Elemental Support Benefit": {
+      "_id": "yw1K63aPTWRj76Nn",
+      "name": "Ефект: Перевага підтримки деревного елементаля",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.KomM6mTwJAzvqAgi]{Wood Elemental Support Benefit}</p><p>Якщо ви влучаєте ударом, що завдає шкоди істоті в досяжності вашого деревного елементаля, істота отримує штраф обставин -5 футів до швидкості на 1 хвилину (–10 при критичному успіху).</p>",
+      "rules": {
+        "1": {
+          "text": "COMP.SpecificRule.WoodElemental.EffectNote"
+        }
+      }
+    },
+    "Effect: Wyvern Support Benefit": {
+      "_id": "7dCJv3nCv85lwFO7",
+      "name": "Ефект: Перевага підтримки виверни",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.3ZYwTYI4ORCz4xQg]{Wyvern Support Benefit}</p><p>Ваші удари, що завдають шкоди істоті в досяжності вашої виверни, також завдають постійної отруйної шкоди.</p>"
+    },
+    "Effect: Zombie Carrion Bird Support Benefit": {
+      "_id": "FoDGPqWjs8QRR3qv",
+      "name": "Ефект: Перевага підтримки зомбі-падальника",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.zE01vpjowhoKygig]{Zombie Carrion Bird Support Benefit}</p><p>Кожного разу, коли ви влучаєте і завдаєте шкоди істоті в межах 10 футів від зомбі-падальника, істота отримує додаткову шкоду.</p>"
+    },
+    "Effect: Zombie Mount Support Benefit": {
+      "_id": "3sRHNnPMUY2f4SF3",
+      "name": "Ефект: Перевага підтримки зомбі-сідла",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.N9fYaUuIgD6RQ7CY]{Zombie Mount Support Benefit}</p><p>Кожного разу, коли ви наносите удар, сидячи на зомбі-сідлі, і влучаєте в істоту в досяжності зомбі-сідла, істота отримує додаткову шкоду від зомбі-сідла.</p>"
+    },
+    "Effect: Zombie Support Benefit": {
+      "_id": "vtArjXfpSGTKbmL9",
+      "name": "Ефект: Перевага підтримки зомбі",
+      "description": "<p>Надається @UUID[Compendium.pf2e-animal-companions.AC-Support.Item.yAYlM3aIRYnqx6j8]{Zombie Support Benefit}</p><p>Кожного разу, коли ви влучаєте в істоту в межах 10 футів від зомбі і завдаєте шкоди, істота отримує додаткову шкоду через нагноєння рани.</p>"
+    }
+  }
+}

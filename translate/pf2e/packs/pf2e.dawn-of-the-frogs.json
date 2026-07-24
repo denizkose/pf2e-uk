@@ -1,0 +1,805 @@
+{
+  "entries": {
+    "Swamp Beetle": {
+      "_id": "CqxFNfE0z7B08zSV",
+      "name": {
+        "translate": "Болотний Жук",
+        "original": "Swamp Beetle"
+      },
+      "items": {
+        "iCeQ8f0DPwuIgfsg": {
+          "_id": "iCeQ8f0DPwuIgfsg",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Mandibles"
+          }
+        },
+        "fB4idqBMmP21T18A": {
+          "_id": "fB4idqBMmP21T18A",
+          "name": {
+            "translate": "Болотна Слина",
+            "original": "Swamp Spit"
+          }
+        },
+        "5pAuPgTIkCjS4lIg": {
+          "_id": "5pAuPgTIkCjS4lIg",
+          "name": {
+            "translate": "Плескання",
+            "original": "Splatter"
+          },
+          "description": {
+            "translate": "<p>Коли болотний жук гине, він оббризкує всіх поруч з ним смердючою кислотою. Гравці поруч із болотним жуком отримують @Damage[1[acid]|options:area-damage] ушкодження. Інші жуки імунні до цього ушкодження.</p>",
+            "original": "<p>When a swamp beetle dies, it splatters everyone next to it with foul-smelling acid. PCs next to the swamp beetle take @Damage[1[acid]|options:area-damage] damage. The other beetles are immune to this damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Young Monitor Lizard": {
+      "_id": "uA7Ptt5Q7TjoqzNo",
+      "name": {
+        "translate": "Молодий Варан",
+        "original": "Young Monitor Lizard"
+      },
+      "items": {
+        "6VPFz1zG18HbDEXK": {
+          "_id": "6VPFz1zG18HbDEXK",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Jaws"
+          }
+        },
+        "TlyfYqzZJqDTGPxU": {
+          "_id": "TlyfYqzZJqDTGPxU",
+          "name": {
+            "translate": "Ривковий Ривок",
+            "original": "Lurching Charge"
+          },
+          "description": {
+            "translate": "<p>Молодий варан робить два кроки і потім завдає удар щелепами. Якщо він пройшов щонайменше 20 футів від початкової позиції, він отримує +2 обставинний бонус до кидка атаки.</p>",
+            "original": "<p>The young monitor lizard Strides twice and then makes a jaws Strike. If it moves at least 20 feet from where it started, it gets a +2 circumstance bonus on the attack roll.</p>"
+          }
+        },
+        "6P4BUA9nOZzW0JCM": {
+          "_id": "6P4BUA9nOZzW0JCM",
+          "name": {
+            "translate": "Отрута Молодого Варана",
+            "original": "Young Monitor Lizard Venom"
+          },
+          "description": {
+            "translate": "<p><strong>Рятівний Кидок</strong> @Check[fortitude|dc:15]</p>\n<p><strong>Максимальна Тривалість</strong> 4 раунди</p>\n<p><strong>Стадія 1</strong> @Damage[1d4[poison]] ушкодження</p>\n<p><strong>Стадія 2</strong> @Damage[1d6[poison]] ушкодження</p>",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:15]</p>\n<p><strong>Maximum Duration</strong> 4 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d4[poison]] damage</p>\n<p><strong>Stage 2</strong> @Damage[1d6[poison]] damage</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Giant Swamp Fly": {
+      "_id": "vhui7HupOyezwoSZ",
+      "name": {
+        "translate": "Гігантська Болотна Муха",
+        "original": "Giant Swamp Fly"
+      },
+      "items": {
+        "D5RlrYmMR4lm5xxy": {
+          "_id": "D5RlrYmMR4lm5xxy",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Mandibles"
+          }
+        },
+        "9NVby7hQmm8vzmDd": {
+          "_id": "9NVby7hQmm8vzmDd",
+          "name": {
+            "translate": "Уникнути Удари",
+            "original": "Avoid the Swat"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Гігантська муха стає ціллю ближньої або дальньої атаки від ворога, якого вона бачить</p><hr /><p><strong>Ефект</strong> Гігантська муха отримує +2 обставинний бонус до КЗ проти цієї атаки. Якщо атака промахується, муха може переміститися на відстань до своєї швидкості польоту.</p>",
+            "original": "<p><strong>Trigger</strong> The giant fly is targeted with a melee or ranged attack by an attacker it can see</p><hr /><p><strong>Effect</strong> The giant fly gains a +2 circumstance bonus to AC against the triggering attack. If the attack misses, the giant fly can move up to its fly Speed.</p>"
+          }
+        },
+        "nKqw3cESrKzUhIxp": {
+          "_id": "nKqw3cESrKzUhIxp",
+          "name": {
+            "translate": "Колючий Укус",
+            "original": "Stinging Bite"
+          },
+          "description": {
+            "translate": "<p>Укус гігантської болотної мухи поширює подразнюючий токсин у рану. Гравець, укушений гігантською болотною мухою, повинен зробити @Check[fortitude|dc:16|options:inflicts:sickened] рятівний кидок. При провалі він стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}, або @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} при критичному провалі.</p>",
+            "original": "<p>The bite of a giant swamp fly spreads irritating toxin into the wound. A PC who is bitten by a giant swamp fly must attempt a @Check[fortitude|dc:16|options:inflicts:sickened] save. On a failure, they become @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}, or @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} on a critical failure.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Leather Cap": {
+      "_id": "X5uEvNj26g4RBPqw",
+      "name": {
+        "translate": "Шкіряна Каска",
+        "original": "Leather Cap"
+      },
+      "blurb": {
+        "translate": "Небінарний грибний леші",
+        "original": "Nonbinary fungus leshy"
+      },
+      "items": {
+        "tdm17EdjmqOkZS2B": {
+          "_id": "tdm17EdjmqOkZS2B",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "gdDcmjVyA2cR7NIT": {
+          "_id": "gdDcmjVyA2cR7NIT",
+          "name": {
+            "translate": "Споровий Плід",
+            "original": "Spore Pod"
+          }
+        },
+        "4nzO0ImL2EDGlnyf": {
+          "_id": "4nzO0ImL2EDGlnyf",
+          "name": {
+            "translate": "Хмара Спор",
+            "original": "Spore Cloud"
+          },
+          "description": {
+            "translate": "<p><strong>Частота</strong> раз на день</p><hr /><p><strong>Ефект</strong> Шкіряна Каска випускає слабку фіолетову хмару іскристих спор, що подразнюють очі та горло всіх не-грибних істот, які піддаються їй. Кожна істота в межах @Template[emanation|distance:15]{15 feet} від Шкіряної Каски повинна успішно пройти @Check[fortitude|dc:16|options:area-effect,damaging-effect,inflicts:sickened] рятівний кидок або отримати @Damage[1d6[poison]|options:area-damage] ушкодження і стати @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}.</p>",
+            "original": "<p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> Leather Cap unleashes a faintly purple cloud of sparkling spores that irritates the eyes and throats of all non-fungus creatures exposed to it. Each creature within @Template[emanation|distance:15]{15 feet} of Leather Cap must succeed at a @Check[fortitude|dc:16|options:area-effect,damaging-effect,inflicts:sickened] save or take @Damage[1d6[poison]|options:area-damage] damage and become @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}.</p>"
+          }
+        },
+        "66D7Wy3SPvkGlsGa": {
+          "_id": "66D7Wy3SPvkGlsGa",
+          "name": {
+            "translate": "Спори",
+            "original": "Spores"
+          },
+          "description": {
+            "translate": "<p>Істота, яка отримала ушкодження від удару спорового плоду Шкіряної Каски, повинна зробити @Check[fortitude|dc:16|options:inflicts:sickened] рятівний кидок, щоб уникнути стану @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} від спор, що вибухають навколо неї.</p>",
+            "original": "<p>A creature that takes damage from Leather Cap's spore pod Strike must attempt a @Check[fortitude|dc:16|options:inflicts:sickened] save to avoid becoming @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} from the spores that burst around them.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-npc",
+          "npc-fungus"
+        ]
+      }
+    },
+    "Two Tusk": {
+      "_id": "bavfAXo1SyFkSNOg",
+      "name": {
+        "translate": "Два Бивні",
+        "original": "Two Tusk"
+      },
+      "blurb": {
+        "translate": "Особливо величезний болотний сльорк",
+        "original": "Particularly enormous swamp slurk"
+      },
+      "publicNotes": {
+        "translate": "<p>Сльорк — це липка, бивниста жабоподібна істота, що мешкає в підземних лігвищах і печерах. Він має два масивні бивні, якими коле здобич і бореться з суперниками. Завдяки природній здатності сльорка лазити по стінах і легко чіплятися за стелі, необачні дослідники печер можуть опинитися на неправильному боці цих грізних іклів.</p>\n<p>Сльорки виділяють два дуже різні типи смердючих секретів зі своєї блідо-білої шкіри. Великі пустули на спині сльорка капають липкою смолоподібною слизом, яка швидко твердне на повітрі. Згинаючи шкіру, сльорк може вибухати цими пустулами в напрямку ворогів, покриваючи їх липкою слизом і значно обмежуючи їх здатність протистояти іншим атакам монстра, включно з ефектами іншого секрету. Залози на черевній стороні виділяють надзвичайно слизьку і смердючу мастило, що захищає сльорка від паралізуючої дії власної слизу на спині, а також ускладнює його захоплення. Найкращий спосіб дізнатися, чи є сльорк поблизу — шукати тверді грудки такої мастила, що накопичуються і висихають у кутах печер і серед кам'яних куп.</p>\n<p>Вважається, що сльорки походять від невдалої спроби гномів приручити і розводити великих підземних жаб як їжу і тяглових тварин. Незважаючи на цю невдачу, інші підземні мешканці часто дружать зі сльорками. Липкі жабоподібні істоти дуже цінуються кобольдами (стор. 210), які тепер приручають і тренують сльорків як потужних верхових тварин і охоронців. Хоча інші істоти, особливо болотяні, іноді тренують сльорків як охоронців, кобольди залишаються тими, хто найчастіше використовує цих істот. Кобольд, вершник на сльорку, часто ховається на верхніх уступах печери, використовуючи переваги висоти і несподіванки для атаки ворогів з дальньої відстані. Вершники-кобольди також використовують здатність сльорка лазити і атакують ворогів зі стін печери.</p>",
+        "original": "<p>The slurk is a sticky, tusked frog-beast found in underground lairs and caves. It has two massive tusks that it uses to gore prey and tangle with rival slurks. With the slurk's natural ability to climb walls and cling effortlessly to ceilings, it can be easy for unwary cave explorers to end up on the wrong end of these formidable ivory tusks.</p>\n<p>Slurks exude two very different types of foul-smelling secretions from their pale white skin. Large pustules on the slurk's back drip a sticky resin-like slime that quickly hardens upon exposure to air. By flexing its skin, the slurk can burst these pustules in the direction of intruders, covering its foes in sticky goo and severely limiting their ability to withstand the monster's other attacks, including the effects of its other secretion. Glands along the slurk's ventral side excrete an incredibly slippery and fetid grease, which protects the slurk from the immobilizing effects of its own back slime but also has the added benefit of making it extremely difficult to grapple and capture. The best way to discover if a slurk is in the vicinity is to look for hard clumps of such grease, which accumulate and dry in cave corners and amid rock piles where slurks rest between meals.</p>\n<p>Slurks are thought to be descendants of a failed dwarven attempt to domesticate and breed large subterranean frogs as food and labor animals. Despite this apparent failure, others who live underground often befriend slurks. The sticky frog-beasts have proven extremely desirable to kobolds (page 210), who now domesticate and train slurks as powerful mounts and guardians. While other creatures, particularly boggards, sometimes train slurks to serve as guardians, kobolds remain those who use these creatures the most. A kobold mounted on a slurk will often hide in the upper ledges of a cave, using the advantages of height and surprise to harry foes with ranged attacks. Kobold riders also take advantage of the slurk's ability to climb, and charge at their enemies from the walls of a cavern.</p>"
+      },
+      "allSaves": {
+        "translate": "+12 до рятівних кидків на Стримування проти Захвату",
+        "original": "+12 to fortitude saves vs. Grapple"
+      },
+      "skills": {
+        "acrobatics": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "щоб Втекти",
+                "original": "to Escape"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "VbPuqIbRFyC07FPR": {
+          "_id": "VbPuqIbRFyC07FPR",
+          "name": {
+            "translate": "Бивні",
+            "original": "Tusks"
+          }
+        },
+        "wWQxvSnjsgigotVl": {
+          "_id": "wWQxvSnjsgigotVl",
+          "name": {
+            "translate": "Вистріл Слизом",
+            "original": "Slime Squirt"
+          }
+        },
+        "1ygPuCqpeh1zETGK": {
+          "_id": "1ygPuCqpeh1zETGK",
+          "name": {
+            "translate": "+2 до рятівних кидків на Стримування проти Захвату",
+            "original": "+2 to Fortitude Saves vs. Grapple"
+          }
+        },
+        "u2L6rUylbE6CgTN3": {
+          "_id": "u2L6rUylbE6CgTN3",
+          "name": {
+            "translate": "Черевне Мастило",
+            "original": "Belly Grease"
+          },
+          "description": {
+            "translate": "<p>Два Бивні виділяє слизьке мастило зі своїх черевних залоз, щоб покрити баржу під ним і в радіусі @Template[emanation|distance:5], перетворюючи уражену територію на нерівну місцевість на 10 хвилин, після чого мастило висихає в гнилу кірку. Складність [[/act balance dc=18]] для переходу через мастило становить 18.</p>",
+            "original": "<p>Two Tusk extrudes a slippery grease from his ventral glands to coat the barge under him and in a @Template[emanation|distance:5], turning the affected area into uneven ground for 10 minutes, after which it dries to a putrid crust. The DC to [[/act balance dc=18]] across the grease is 18.</p>"
+          }
+        },
+        "VYCgWYqjaWNgcP24": {
+          "_id": "VYCgWYqjaWNgcP24",
+          "name": {
+            "translate": "Заплутуючий Слиз",
+            "original": "Entangling Slime"
+          },
+          "description": {
+            "translate": "<p>Істота, уражена вистрілом слизу Двох Бивнів, стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} і отримує штраф –5 футів до швидкості на 1 годину або доки слиз не буде змитий. Гравець може використати дію Взаємодії, щоб облити себе болотною водою і змити слиз, усуваючи цей штраф.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.jQmfZcPD6xVYx5nb]{Ефект: заплутування слизу}</p>",
+            "original": "<p>A creature struck by Two Tusk's slime squirt becomes @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} and takes a –5-foot penalty to Speed for 1 hour or until the slime is removed. A PC can use an Interact action to splash swamp water on themself to wash away the stuff and remove this penalty.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.jQmfZcPD6xVYx5nb]{Effect: Entangling Slime}</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Boggard Guard": {
+      "_id": "i1eNojElEVMMliTv",
+      "name": {
+        "translate": "Болотяний Охоронець",
+        "original": "Boggard Guard"
+      },
+      "publicNotes": {
+        "translate": "<p>Болотяни — агресивні гуманоїдні амфібії, що процвітають у болотах, трясовинах і навіть деяких дощових лісах. Вони вилуплюються з яєць у вигляді пуголовків, жорстоко конкуруючи за їжу і навіть поїдаючи своїх братів у цій боротьбі. Протягом 3 років виживші болотяни розвивають руки, ноги і легені, навчаючись основам полювання, ремесел і війни — всьому, що потрібно для виживання в їхньому суспільстві, де панує сила. На вершині більшості ієрархій болотян стоїть величезний болотний провидець, наділений зловісною божественною магією.</p>",
+        "original": "<p>Boggards are aggressive humanoid amphibians who thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develop arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare—everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>"
+      },
+      "speed": {
+        "translate": "болотний прохід",
+        "original": "swamp passage"
+      },
+      "skills": {
+        "stealth": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "у воді",
+                "original": "in water"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "EM5YrIoWsyM75aDz": {
+          "_id": "EM5YrIoWsyM75aDz",
+          "name": {
+            "translate": "Праща",
+            "original": "Sling"
+          },
+          "description": {
+            "translate": "<p>Проста шкіряна чашка, прикріплена до двох ремінців, праща може використовуватися для метання гладких камінців або кульок на відстань.</p>",
+            "original": "<p>Little more than a leather cup attached to a pair of straps, a sling can be used to fling smooth stones or sling bullets at a range.</p>"
+          }
+        },
+        "oCr33xAvMXEQHscv": {
+          "_id": "oCr33xAvMXEQHscv",
+          "name": {
+            "translate": "Дубина",
+            "original": "Club"
+          },
+          "description": {
+            "translate": "<p>Це шматок міцного дерева, сформований або переоброблений для нанесення удару ворогу. Дубини можуть бути витонченими виробами бойового мистецтва або простим дерев'яним гіллям.</p>",
+            "original": "<p>This is a piece of stout wood shaped or repurposed to bludgeon an enemy. Clubs can be intricately carved pieces of martial art or as simple as a tree branch or piece of wood.</p>"
+          }
+        },
+        "1PARooLEU2mWtlZs": {
+          "_id": "1PARooLEU2mWtlZs",
+          "name": {
+            "translate": "Шкіряна Броня",
+            "original": "Leather Armor"
+          },
+          "description": {
+            "translate": "<p>Суміш гнучкої і формованої вареної шкіри, цей тип броні забезпечує певний захист при максимальній гнучкості.</p>",
+            "original": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+          }
+        },
+        "69p7AArKc2ZHuBbA": {
+          "_id": "69p7AArKc2ZHuBbA",
+          "name": {
+            "translate": "Кулі для Пращі",
+            "original": "Sling Bullets"
+          },
+          "description": {
+            "translate": "<p>Це маленькі металеві кульки, зазвичай залізні або свинцеві, призначені для використання як боєприпаси в пращах.</p>",
+            "original": "<p>These are small metal balls, typically either iron or lead, designed to be used as ammunition in slings.</p>"
+          }
+        },
+        "jL2ksRd3mnetwWV2": {
+          "_id": "jL2ksRd3mnetwWV2",
+          "name": {
+            "translate": "Язик",
+            "original": "Tongue"
+          }
+        },
+        "ciulULAJZspML8du": {
+          "_id": "ciulULAJZspML8du",
+          "name": {
+            "translate": "Дубина",
+            "original": "Club"
+          }
+        },
+        "GIxGQeMwhYMa5aqt": {
+          "_id": "GIxGQeMwhYMa5aqt",
+          "name": {
+            "translate": "Праща",
+            "original": "Sling"
+          }
+        },
+        "EY5g1It8UCuW29m3": {
+          "_id": "EY5g1It8UCuW29m3",
+          "name": {
+            "translate": "Попереджувальний Квак",
+            "original": "Warning Croak"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Болотяний охоронець помічає ворога перед початком бою</p><hr /><p><strong>Ефект</strong> Болотяний охоронець видає попереджувальний крик, який інші болотяни негайно розпізнають. Болотяни в радіусі 50 футів отримують +2 обставинний бонус до ініціативи на наступну хвилину і +2 обставинний бонус до Сприйняття для виявлення схованих істот. Потім болотяний охоронець кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> The boggard guard spots a foe before combat begins</p><hr /><p><strong>Effect</strong> The boggard guard lets loose a cry of warning that other boggards immediately recognize. Boggards within 50 feet get a +2 circumstance bonus on initiative checks made in the next minute and a +2 circumstance bonus on Perception to notice hiding creatures. The boggard then rolls initiative.</p>"
+          }
+        },
+        "VxA7WerDGElBkdYj": {
+          "_id": "VxA7WerDGElBkdYj",
+          "name": {
+            "translate": "Болотний Прохід",
+            "original": "Swamp Passage"
+          },
+          "description": {
+            "translate": "<p>Розвідник болотян ігнорує складну місцевість, спричинену болотними особливостями.</p>",
+            "original": "<p>A boggard scout ignores difficult terrain caused by swamp terrain features.</p>"
+          }
+        },
+        "kGQg9F0ZgW7fp4DB": {
+          "_id": "kGQg9F0ZgW7fp4DB",
+          "name": {
+            "translate": "Захват Язиком",
+            "original": "Tongue Grab"
+          },
+          "description": {
+            "translate": "<p>Якщо болотяний охоронець влучає язиком в істоту, ця істота стає @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Схоплений} болотяним охоронцем. На відміну від звичайного Захвату, істота не стає @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомлений}, але не може рухатися поза межі досяжності язика болотяного охоронця. Складність для @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Втеча} становить [[/act escape dc=15]]{15}, або істота може відрізати язик, влучивши по КЗ 12 і завдавши щонайменше 1 рубаючого ушкодження. Хоча це не завдає шкоди болотяному охоронцю, це забороняє йому використовувати удар язиком, доки язик не відросте, що займає тиждень.</p>",
+            "original": "<p>If the boggard guard hits a creature with their tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the boggard. Unlike with a normal Grab, the creature is not @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, but it can't move beyond the reach of the boggard's tongue. The DC to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} is [[/act escape dc=15]]{15}, or a creature can sever the tongue by hitting AC 12 and dealing at least 1 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike again until they regrow their tongue, which takes a week.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-amphibious"
+        ]
+      }
+    },
+    "Hidden Crossbow Trap": {
+      "_id": "HXSDeDqSRVZdhf92",
+      "name": {
+        "translate": "Прихована пастка з арбалетом",
+        "original": "Hidden Crossbow Trap"
+      },
+      "description": {
+        "translate": "<p>Арбалет, захований всередині черепа жаби, з'єднаний з плиткою підлоги в центрі камери.</p>",
+        "original": "<p>A crossbow hidden inside the frog skull connects to a floor tile in the center of the chamber.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:17] (навчений) для деактивації плитки тиску на підлозі</p>",
+        "original": "<p>@Check[thievery|dc:17] (trained) to deactivate the pressure plate on the floor</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "hp": {
+        "translate": "(BT 12)",
+        "original": "(BT 12)"
+      },
+      "items": {
+        "9Jm2fZrG2Oi4Kg6Z": {
+          "_id": "9Jm2fZrG2Oi4Kg6Z",
+          "name": {
+            "translate": "Коп'я",
+            "original": "Spear"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> На плитку підлоги натискають</p><hr /><p><strong>Ефект</strong> Пастка стріляє болтом з арбалета, роблячи атаку по істоті або об'єкту на плитці.</p>",
+            "original": "<p><strong>Trigger</strong> Pressure is applied to the floor tile</p><hr /><p><strong>Effect</strong> The trap shoots a crossbow bolt, making an attack against the creature or object on the floor tile.</p>"
+          }
+        },
+        "fZJG7B3haBqr97ZT": {
+          "_id": "fZJG7B3haBqr97ZT",
+          "name": {
+            "translate": "Арбалет",
+            "original": "Crossbow"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-hazard",
+          "hazard-trap"
+        ]
+      }
+    },
+    "Zungur": {
+      "_id": "PwZjhZ7Y5LORHLhf",
+      "name": {
+        "translate": "Зунгур",
+        "original": "Zungur"
+      },
+      "publicNotes": {
+        "translate": "<p>Болотяни — агресивні гуманоїдні амфібії, що процвітають у болотах, трясовинах і навіть деяких дощових лісах. Вони вилуплюються з яєць у вигляді пуголовків, жорстоко конкуруючи за їжу і навіть поїдаючи своїх братів у цій боротьбі. Протягом 3 років виживші болотяни розвивають руки, ноги і легені, навчаючись основам полювання, ремесел і війни — всьому, що потрібно для виживання в їхньому суспільстві, де панує сила. На вершині більшості ієрархій болотян стоїть величезний болотний провидець, наділений зловісною божественною магією.</p>",
+        "original": "<p>Boggards are aggressive humanoid amphibians who thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develop arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare—everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>"
+      },
+      "speed": {
+        "translate": "болотний прохід",
+        "original": "swamp passage"
+      },
+      "skills": {
+        "stealth": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "у воді",
+                "original": "in water"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "01sTTtfvOlqY9yVo": {
+          "_id": "01sTTtfvOlqY9yVo",
+          "name": {
+            "translate": "Праймальні Підготовлені Закляття",
+            "original": "Primal Prepared Spells"
+          }
+        },
+        "gJkAxsnddXaLlA4W": {
+          "_id": "gJkAxsnddXaLlA4W",
+          "name": {
+            "translate": "Кислотний Захват",
+            "original": "Acid Grip"
+          },
+          "description": {
+            "translate": "<p>Ефемерна, з кігтями рука стискає ціль, обпалюючи її магічною кислотою. Ціль отримує 2d8 кислотних ушкоджень плюс @Damage[floor(@item.level/2)d6[persistent,acid]] ушкоджень залежно від рятівного кидка на Рефлекс. Істота, що отримує постійне ушкодження від цього закляття, отримує штраф –10 футів до швидкості. @UUID[Compendium.pf2e.spell-effects.Item.6TGcfVyzzVHEo7ke]{Ефект Закляття: Кислотний Захват}</p><hr /><p><strong>Критичний Успіх</strong> Істота не зазнає впливу.</p>\n<p><strong>Успіх</strong> Істота отримує половину ушкоджень і не отримує постійних ушкоджень, а кіготь рухає її до 5 футів у вибраному напрямку.</p>\n<p><strong>Провал</strong> Істота отримує повні ушкодження і постійні ушкодження, а кіготь рухає її до 10 футів у вибраному напрямку.</p>\n<p><strong>Критичний Провал</strong> Істота отримує подвоєні ушкодження і повні постійні ушкодження, а кіготь рухає її до 20 футів у вибраному напрямку.</p><hr /><p><strong>Підвищений (+2)</strong> Початкові ушкодження збільшуються на 2d8, а постійні кислотні ушкодження збільшуються на 1d6.</p>",
+            "original": "<p>An ephemeral, taloned hand grips the target, burning it with magical acid. The target takes 2d8 acid damage plus @Damage[floor(@item.level/2)d6[persistent,acid]] damage depending on its Reflex save. A creature taking persistent damage from this spell takes a –10-foot status penalty to its Speeds. @UUID[Compendium.pf2e.spell-effects.Item.6TGcfVyzzVHEo7ke]{Spell Effect: Acid Grip}</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and no persistent damage, and the claw moves it up to 5 feet in a direction of your choice.</p>\n<p><strong>Failure</strong> The creature takes full damage and persistent damage, and the claw moves it up to 10 feet in a direction of your choice.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and full persistent damage, and the claw moves it up to 20 feet in a direction of your choice.</p><hr /><p><strong>Heightened (+2)</strong> The initial damage increases by 2d8, and the persistent acid damage increases by 1d6.</p>"
+          }
+        },
+        "oJiGPE01xXT6cot3": {
+          "_id": "oJiGPE01xXT6cot3",
+          "name": {
+            "translate": "Туман",
+            "original": "Mist"
+          },
+          "description": {
+            "translate": "<p>Ви викликаєте хмару туману. Всі істоти всередині туману стають @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Прихований}, а всі істоти поза туманом стають прихованими для істот всередині нього. Ви можете розсіяти хмару.</p>",
+            "original": "<p>You call forth a cloud of mist. All creatures within the mist become @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}, and all creatures outside the mist become concealed to creatures within it. You can Dismiss the cloud.</p>"
+          }
+        },
+        "gXghj3yXkt3sM5Z5": {
+          "_id": "gXghj3yXkt3sM5Z5",
+          "name": {
+            "translate": "Дихання Вогнем",
+            "original": "Breathe Fire"
+          },
+          "description": {
+            "translate": "<p>З вашого рота виривається полум'я. Ви завдаєте 2d6 вогняних ушкоджень істотам у зоні з базовим рятівним кидком на Рефлекс.</p>\n<hr />\n<p><strong>Підвищений (+1)</strong> Ушкодження збільшуються на 2d6.</p>",
+            "original": "<p>A gout of flame sprays from your mouth. You deal 2d6 fire damage to creatures in the area with a basic Reflex save.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+          }
+        },
+        "kU1zBA7zdLr5NIIX": {
+          "_id": "kU1zBA7zdLr5NIIX",
+          "name": {
+            "translate": "Корозійний Вибух",
+            "original": "Caustic Blast"
+          },
+          "description": {
+            "translate": "<p>Ви кидаєте велику краплю кислоти, яка миттєво вибухає, розбризкуючи істот поруч. Істоти в зоні отримують 1d8 кислотних ушкоджень з базовим рятівним кидком на Рефлекс; при критичному провалі істота також отримує @Damage[(1+floor((@item.rank -1)/2))[persistent,acid]] ушкоджень.</p>\n<hr />\n<p><strong>Підвищений (+2)</strong> Початкові ушкодження збільшуються на 1d8, а постійні ушкодження при критичному провалі збільшуються на 1.</p>",
+            "original": "<p>You fling a large glob of acid that immediately detonates, spraying nearby creatures. Creatures in the area take 1d8 acid damage with a basic Reflex save; on a critical failure, the creature also takes @Damage[(1+floor((@item.rank -1)/2))[persistent,acid]] damage.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The initial damage increases by 1d8, and the persistent damage on a critical failure increases by 1.</p>"
+          }
+        },
+        "k4YnGh08Mtk3T5mb": {
+          "_id": "k4YnGh08Mtk3T5mb",
+          "name": {
+            "translate": "Стрибок",
+            "original": "Jump"
+          },
+          "description": {
+            "translate": "<p>Ваші ноги наповнюються силою, готові стрибнути високо і далеко. Ви стрибаєте на 30 футів у будь-якому напрямку, не торкаючись землі. Ви повинні приземлитися на тверду поверхню в межах 30 футів від себе, інакше впадете після наступної дії.</p>\n<hr />\n<p><strong>Підвищений (3-й рівень)</strong> Дальність стає дотиком, ціль змінюється на одну торкнуту істоту, а тривалість — 1 хвилина, дозволяючи цілі стрибати, коли вона виконує дію @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Стрибок}.</p>",
+            "original": "<p>Your legs surge with strength, ready to leap high and far. You jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The range becomes touch, the target changes to one touched creature, and the duration becomes 1 minute, allowing the target to jump as described whenever it takes the @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} action.</p>"
+          }
+        },
+        "zAjIcgTksW96gMm9": {
+          "_id": "zAjIcgTksW96gMm9",
+          "name": {
+            "translate": "Світло",
+            "original": "Light"
+          },
+          "description": {
+            "translate": "<p>Ви створюєте кулю світла, яка випромінює яскраве світло в радіусі 20 футів (і тьмяне світло на наступні 20 футів) обраного вами кольору. Якщо ви створюєте світло в тому ж просторі, що й охоча істота, ви можете прикріпити світло до неї, і воно буде плавати поруч із нею під час руху. Ви можете підтримувати закляття, щоб переміщати світло до 60 футів; ви можете прикріплювати або від'єднувати його від істоти як частину цього руху.</p>\n<p>Ви можете розсіяти закляття. Якщо ви накладаєте закляття, коли у вас вже активні чотири закляття <em>світла</em>, ви повинні вибрати одне з існуючих заклять для завершення.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.cVVZXNbV0nElVOPZ]{Ефект заклинання: Світло}</p>\n<hr />\n<p><strong>Підвищений (4-й рівень)</strong> Куля світла випромінює світло в радіусі 60 футів (і тьмяне світло на наступні 60 футів).</p>",
+            "original": "<p>You create an orb of light that sheds bright light in a 20-foot radius (and dim light for the next 20 feet) in a color you choose. If you create the light in the same space as a willing creature, you can attach the light to the creature, causing it to float near that creature as it moves. You can Sustain the spell to move the light up to 60 feet; you can attach or detach it from a creature as part of this movement.</p>\n<p>You can Dismiss the spell. If you Cast the Spell while you already have four <em>light</em> spells active, you must choose one of the existing spells to end.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.cVVZXNbV0nElVOPZ]{Spell Effect: Light}</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The orb sheds light in a 60-foot radius (and dim light for the next 60 feet).</p>"
+          }
+        },
+        "0YX9vZ04NLkeIRQj": {
+          "_id": "0YX9vZ04NLkeIRQj",
+          "name": {
+            "translate": "Печатка",
+            "original": "Sigil"
+          },
+          "description": {
+            "translate": "<p>Ви безпечно наносите свій унікальний магічний знак, розміром близько 1 квадратного дюйма, на цільову істоту або об'єкт. Знак може бути видимим або невидимим, і ви можете змінювати його стан, торкаючись цілі дією Взаємодії. Знак можна зчистити або зішкребти за 5 хвилин роботи. Якщо він на істоті, він природно зникає протягом тижня. Час до зникнення збільшується залежно від вашого підвищеного рівня.</p><hr /><p><strong>Підвищений (3-й рівень)</strong> Знак зникає через 1 місяць.</p>\n<p><strong>Підвищений (5-й рівень)</strong> Знак зникає через 1 рік.</p>\n<p><strong>Підвищений (7-й рівень)</strong> Знак ніколи не зникає.</p>",
+            "original": "<p>You harmlessly place your unique magical sigil, which is about 1 square inch in size, on the targeted creature or object. The mark can be visible or invisible, and you can change it from one state to another by using an Interact action to touch the target. The mark can be scrubbed or scraped off with 5 minutes of work. If it's on a creature, it fades naturally over the course of a week. The time before the mark fades increases depending on your heightened rank.</p><hr /><p><strong>Heightened (3rd)</strong> The sigil instead fades after 1 month.</p>\n<p><strong>Heightened (5th)</strong> The sigil instead fades after 1 year.</p>\n<p><strong>Heightened (7th)</strong> The sigil never fades.</p>"
+          }
+        },
+        "FrwpbSEbTKaUyh5q": {
+          "_id": "FrwpbSEbTKaUyh5q",
+          "name": {
+            "translate": "Лозина Плутанина",
+            "original": "Tangle Vine"
+          },
+          "description": {
+            "translate": "<p>З тонкого повітря з'являється лоза, що вилітає з вашої руки і обвивається навколо цілі. Спробуйте кидок атаки закляттям по цілі.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.TwtUIEyenrtAbeiX]{Ефект закляття: Плутанина Лози}</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Ціль отримує стан @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомлений} і штраф –10 футів до швидкості на 1 раунд. Вона може спробувати @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Втеча} проти вашого КЗ закляття, щоб зняти штраф і стан нерухомості.</p>\n<p><strong>Успіх</strong> Ціль отримує штраф –10 футів до швидкості на 1 раунд. Вона може спробувати Втекти проти вашого КЗ закляття, щоб зняти штраф.</p>\n<p><strong>Провал</strong> Ціль не зазнає впливу.</p>\n<hr />\n<p><strong>Підвищений (2-й рівень)</strong> Ефекти тривають 2 раунди.</p>\n<p><strong>Підвищений (4-й рівень)</strong> Ефекти тривають 1 хвилину.</p>",
+            "original": "<p>A vine appears from thin air, flicking from your hand and lashing itself to the target. Attempt a spell attack roll against the target.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.TwtUIEyenrtAbeiX]{Spell Effect: Tangle Vine}</p>\n<hr />\n<p><strong>Critical Success</strong> The target gains the @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} condition and takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} against your spell DC to remove the penalty and the immobilized condition.</p>\n<p><strong>Success</strong> The target takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty.</p>\n<p><strong>Failure</strong> The target is unaffected.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> The effects last for 2 rounds.</p>\n<p><strong>Heightened (4th)</strong> The effects last for 1 minute.</p>"
+          }
+        },
+        "qSVpS4vFDrkzYdj3": {
+          "_id": "qSVpS4vFDrkzYdj3",
+          "name": {
+            "translate": "Тризуб",
+            "original": "Trident"
+          },
+          "description": {
+            "translate": "<p>Ця тризуба зброя зазвичай має 4-футовий держак. Як і спис, її можна тримати однією рукою або кидати.</p>",
+            "original": "<p>This three-pronged, spear-like weapon typically has a 4-foot shaft. Like a spear, it can be wielded with one hand or thrown.</p>"
+          }
+        },
+        "odRmNPvEHqIBslAQ": {
+          "_id": "odRmNPvEHqIBslAQ",
+          "name": {
+            "translate": "Жезл Лікування (Ранг 1)",
+            "original": "Wand of Heal (Rank 1)"
+          },
+          "description": {
+            "translate": "<p>@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{Зцілення}</p><hr /><p>Цей жезл довжиною близько фута містить одне закляття. Зовнішній вигляд зазвичай відповідає закляттю всередині.</p>\n<p><strong>Активація</strong> Кинути Закляття</p>\n<p><strong>Частота</strong> раз на день, плюс перевантаження</p>\n<hr />\n<p><strong>Ефект</strong> Ви кидаєте закляття на вказаному рівні.</p>\n<p><strong>Вимоги до створення</strong> Потрібно надати каст закляття на вказаному рівні.</p>\n<hr />\n<p><em>Примітка: Щоб створити сувій або жезл конкретного закляття, перетягніть закляття з компіляції або браузера компіляції в інвентар гравця, NPC або актора здобичі.</em></p>",
+            "original": "<p>@UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{Heal}</p><hr /><p>This baton is about a foot long and contains a single spell. The appearance typically relates to the spell within.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Frequency</strong> once per day, plus overcharge</p>\n<hr />\n<p><strong>Effect</strong> You Cast the Spell at the indicated rank.</p>\n<p><strong>Craft Requirements</strong> Supply a casting of the spell at the listed rank.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+          }
+        },
+        "fVs5cj607wCkLJLw": {
+          "_id": "fVs5cj607wCkLJLw",
+          "name": {
+            "translate": "Золоті Монети",
+            "original": "Gold Pieces"
+          }
+        },
+        "U3AP0sgHGxF4Rimz": {
+          "_id": "U3AP0sgHGxF4Rimz",
+          "name": {
+            "translate": "Срібні Монети",
+            "original": "Silver Pieces"
+          }
+        },
+        "6NYrJVGEuyTzmBWM": {
+          "_id": "6NYrJVGEuyTzmBWM",
+          "name": {
+            "translate": "Мішечок",
+            "original": "Pouch"
+          }
+        },
+        "mw30E878JJp7tVVh": {
+          "_id": "mw30E878JJp7tVVh",
+          "name": {
+            "translate": "Язик",
+            "original": "Tongue"
+          }
+        },
+        "XxbW5ZwWjE7HK6x4": {
+          "_id": "XxbW5ZwWjE7HK6x4",
+          "name": {
+            "translate": "Тризуб",
+            "original": "Trident"
+          }
+        },
+        "kLr28S76ZvI3XGuU": {
+          "_id": "kLr28S76ZvI3XGuU",
+          "name": {
+            "translate": "Тризуб",
+            "original": "Trident"
+          }
+        },
+        "J5n3hC1k8g8dPwIo": {
+          "_id": "J5n3hC1k8g8dPwIo",
+          "name": {
+            "translate": "Дрон Фокусування",
+            "original": "Focusing Drone"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Зунгур робить спасбросок Волі</p><hr /><p><strong>Ефект</strong> Зунгур рефлекторно стогне низькими, ритмічними квакаючими звуками, щоб зосередити свій розум на вірі в жаб'ячу богиню Гогунту. Вона робить перевірку @Check[performance]. Вона може використати вищий результат між перевіркою Виконання та спасброском Волі, щоб визначити ефекти проти атаки, що спричинила її спасбросок Волі.</p>",
+            "original": "<p><strong>Trigger</strong> Zungur attempts a Will saving throw</p><hr /><p><strong>Effect</strong> Zungur reflexively groans in a series of low, rhythmic croaking sounds to help her focus her mind on her faith in the frog goddess Gogunta. She rolls a @Check[performance] check. She can use the higher result between her Performance check and her Will saving throw to resolve the effects against the attack that triggered her Will saving throw.</p>"
+          }
+        },
+        "SNfMCKhoHkCNmlRT": {
+          "_id": "SNfMCKhoHkCNmlRT",
+          "name": {
+            "translate": "Руйнівне Квакання",
+            "original": "Destructive Croak"
+          },
+          "description": {
+            "translate": "<p>Зунгур видає потужне квакання, яке завдає @Damage[4d6[sonic]|options:area-damage] шкоди будь-якому не-боггарду в радіусі @Template[type:emanation|distance:15]. Будь-яка істота з умовою наляканості отримує додаткову звукову шкоду, рівну подвоєному значенню її умови наляканості. Зунгур не може знову використати Руйнівне Квакання протягом [[/gmr 1d4 #Recharge Destructive Croak]]{1d4 rounds}.</p>",
+            "original": "<p>Zungur utters a powerful croak that deals @Damage[4d6[sonic]|options:area-damage] damage to any non-boggard within a @Template[type:emanation|distance:15]. Any creature with the frightened condition takes additional sonic damage equal to twice the value of its frightened condition. Zungur can't use Destructive Croak again for [[/gmr 1d4 #Recharge Destructive Croak]]{1d4 rounds}.</p>"
+          }
+        },
+        "momzHh7zAZRC7Hob": {
+          "_id": "momzHh7zAZRC7Hob",
+          "name": {
+            "translate": "Прохід Болота",
+            "original": "Swamp Passage"
+          },
+          "description": {
+            "translate": "<p>Воїн-боггард ігнорує складну місцевість, спричинену болотними особливостями рельєфу.</p>",
+            "original": "<p>A boggard warrior ignores difficult terrain caused by swamp terrain features.</p>"
+          }
+        },
+        "up8Xcig2FrwgbFfb": {
+          "_id": "up8Xcig2FrwgbFfb",
+          "name": {
+            "translate": "Жахливе Квакання",
+            "original": "Terrifying Croak"
+          },
+          "description": {
+            "translate": "<p>Воїн-боггард видає жахливе квакання. Будь-який не-боггард у радіусі @Template[emanation|distance:30]{30 feet} стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}, якщо не вдається зробити спасбросок @Check[will|dc:19|options:inflicts:frightened]; ті, хто критично вдається, тимчасово імунні протягом 1 хвилини.</p>",
+            "original": "<p>The boggard warrior unleashes a terrifying croak. Any non-boggard within @Template[emanation|distance:30]{30 feet} becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} unless they succeed at a @Check[will|dc:19|options:inflicts:frightened] save; those who critically succeed are temporarily immune for 1 minute.</p>"
+          }
+        },
+        "MEAPfylvHHHbTqOf": {
+          "_id": "MEAPfylvHHHbTqOf",
+          "name": {
+            "translate": "Захват Язиком",
+            "original": "Tongue Grab"
+          },
+          "description": {
+            "translate": "<p>Якщо воїн-боггард влучає істоті язиком, ця істота стає @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Схоплений} воїном-боггардом. На відміну від звичайного Захвату, істота не стає @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомлений}, але не може рухатися поза межі досяжності язика боггарда. Істота може відрізати язик, влучивши по AC 15 і завдавши щонайменше 3 рублячої шкоди. Хоча це не завдає шкоди боггарду, це забороняє йому використовувати удар язиком, доки язик не відросте, що займає тиждень.</p>",
+            "original": "<p>If the boggard warrior hits a creature with their tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the boggard. Unlike with a normal Grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 3 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike until they regrow their tongue, which takes a week.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-3",
+          "rarity-unique",
+          "type-npc",
+          "npc-amphibious"
+        ]
+      }
+    },
+    "Adventure 1: Mystery at the Old Mill": {
+      "_id": "LxG1QD1bFyXNWYyg",
+      "name": {
+        "translate": "Пригода 1: Таємниця Старого Млина",
+        "original": "Adventure 1: Mystery at the Old Mill"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "Adventure 2: Swamp Stalkers": {
+      "_id": "ZeLdx2qKxZ0p55Ra",
+      "name": {
+        "translate": "Пригода 2: Болотні Мисливці",
+        "original": "Adventure 2: Swamp Stalkers"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "Adventure 3: A Dirge for Dunmire": {
+      "_id": "lFC9WBti1nBkeY75",
+      "name": {
+        "translate": "Пригода 3: Похоронна Пісня для Данмайра",
+        "original": "Adventure 3: A Dirge for Dunmire"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "hazard-trap",
+    "level-1",
+    "level-2",
+    "level-3",
+    "level-unknown",
+    "npc-amphibious",
+    "npc-animal",
+    "npc-fungus",
+    "rarity-common",
+    "rarity-unique",
+    "rarity-unknown",
+    "type-actor",
+    "type-hazard",
+    "type-npc"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.dawn-of-the-frogs",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Actor",
+    "fileMode": "created-new",
+    "processedAt": "2026-05-18T11:19:51.359Z",
+    "documents": 8,
+    "existingEntriesUpdated": 0,
+    "missingEntriesAdded": 8,
+    "missingFieldsAdded": 0,
+    "wrappedStrings": 0,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}

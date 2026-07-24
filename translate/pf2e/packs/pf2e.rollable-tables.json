@@ -1,0 +1,1316 @@
+{
+  "entries": {
+    "10th-Level Consumables Items": {
+      "_id": "AIBvZzHidUXxZfEF",
+      "name": {
+        "translate": "Витратні матеріали 10-го рівня",
+        "original": "10th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 10-го рівня</p>",
+        "original": "<p>Table of 10th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "10th-Level Permanent Items": {
+      "_id": "W0qudblot2Z9Vu86",
+      "name": {
+        "translate": "Постійні предмети 10-го рівня",
+        "original": "10th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 10-го рівня</p>",
+        "original": "<p>Table of 10th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "11th-Level Consumables Items": {
+      "_id": "Ca7vD8PZtMPqVuHu",
+      "name": {
+        "translate": "Витратні матеріали 11-го рівня",
+        "original": "11th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 11-го рівня</p>",
+        "original": "<p>Table of 11th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "11th-Level Permanent Items": {
+      "_id": "ood552HB1onSdJFS",
+      "name": {
+        "translate": "Постійні предмети 11-го рівня",
+        "original": "11th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 11-го рівня</p>",
+        "original": "<p>Table of 11th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "12th-Level Consumables Items": {
+      "_id": "5HHqLskEnfjxpkCO",
+      "name": {
+        "translate": "Витратні матеріали 12-го рівня",
+        "original": "12th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 12-го рівня</p>",
+        "original": "<p>Table of 12th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "12th-Level Permanent Items": {
+      "_id": "uzkmxRIn4CtzfP47",
+      "name": {
+        "translate": "Постійні предмети 12-го рівня",
+        "original": "12th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 12-го рівня</p>",
+        "original": "<p>Table of 12th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "13th-Level Consumables Items": {
+      "_id": "awfTQvkm7NrRjRaQ",
+      "name": {
+        "translate": "Витратні матеріали 13-го рівня",
+        "original": "13th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 13-го рівня</p>",
+        "original": "<p>Table of 13th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "13th-Level Permanent Items": {
+      "_id": "eo7kjM8xv6KD5h5q",
+      "name": {
+        "translate": "Постійні предмети 13-го рівня",
+        "original": "13th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 13-го рівня</p>",
+        "original": "<p>Table of 13th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "14th-Level Consumables Items": {
+      "_id": "Vhuuy0vFJV5tYldR",
+      "name": {
+        "translate": "Витратні матеріали 14-го рівня",
+        "original": "14th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 14-го рівня</p>",
+        "original": "<p>Table of 14th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "14th-Level Permanent Items": {
+      "_id": "cBpFoBUNSApkvP6L",
+      "name": {
+        "translate": "Постійні предмети 14-го рівня",
+        "original": "14th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 14-го рівня</p>",
+        "original": "<p>Table of 14th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "15th-Level Consumables Items": {
+      "_id": "Af7beeFZhtvDAZaM",
+      "name": {
+        "translate": "Витратні матеріали 15-го рівня",
+        "original": "15th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 15-го рівня</p>",
+        "original": "<p>Table of 15th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "15th-Level Permanent Items": {
+      "_id": "X2QkgnYrda4mV5v3",
+      "name": {
+        "translate": "Постійні предмети 15-го рівня",
+        "original": "15th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 15-го рівня</p>",
+        "original": "<p>Table of 15th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "16th-Level Consumables Items": {
+      "_id": "aomFSKgGl52z7tdX",
+      "name": {
+        "translate": "Витратні матеріали 16-го рівня",
+        "original": "16th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 16-го рівня</p>",
+        "original": "<p>Table of 16th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "16th-Level Permanent Items": {
+      "_id": "J7XfeVrfUj72IkRY",
+      "name": {
+        "translate": "Постійні предмети 16-го рівня",
+        "original": "16th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 16-го рівня</p>",
+        "original": "<p>Table of 16th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "17th-Level Consumables Items": {
+      "_id": "YyQkwd1PksU1Lno4",
+      "name": {
+        "translate": "Витратні матеріали 17-го рівня",
+        "original": "17th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 17-го рівня</p>",
+        "original": "<p>Table of 17th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "17th-Level Permanent Items": {
+      "_id": "0jlGmwn6YGqsfG1q",
+      "name": {
+        "translate": "Постійні предмети 17-го рівня",
+        "original": "17th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 17-го рівня</p>",
+        "original": "<p>Table of 17th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "18th-Level Consumables": {
+      "_id": "PSs31Xj5RfszMbAe",
+      "name": {
+        "translate": "Витратні матеріали 18-го рівня",
+        "original": "18th-Level Consumables"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 18-го рівня</p>",
+        "original": "<p>Table of 18th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "18th-Level Permanent Items": {
+      "_id": "6FmhLLYH94xhucIs",
+      "name": {
+        "translate": "Постійні предмети 18-го рівня",
+        "original": "18th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 18-го рівня</p>",
+        "original": "<p>Table of 18th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "19th-Level Consumables Items": {
+      "_id": "pH85KVl31VBdENuy",
+      "name": {
+        "translate": "Витратні матеріали 19-го рівня",
+        "original": "19th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 19-го рівня</p>",
+        "original": "<p>Table of 19th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "19th-Level Permanent Items": {
+      "_id": "gkdB45QC0u1WeiRA",
+      "name": {
+        "translate": "Постійні предмети 19-го рівня",
+        "original": "19th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 19-го рівня</p>",
+        "original": "<p>Table of 19th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "1st-Level Consumables": {
+      "_id": "tlX5PLwar8b1tmiQ",
+      "name": {
+        "translate": "Витратні матеріали 1-го рівня",
+        "original": "1st-Level Consumables"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 1-го рівня</p>",
+        "original": "<p>Table of 1st-Level Consumables</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "1st-Level Permanent Items": {
+      "_id": "JyDn13oc0MdLjpyw",
+      "name": {
+        "translate": "Постійні предмети 1-го рівня",
+        "original": "1st-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 1-го рівня</p>",
+        "original": "<p>Table of 1st-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "20th-Level Consumable Items": {
+      "_id": "nusyoQjLs0ZxifRd",
+      "name": {
+        "translate": "Витратні предмети 20-го рівня",
+        "original": "20th-Level Consumable Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 20-го рівня</p>",
+        "original": "<p>Table of 20th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "20th-Level Permanent Items": {
+      "_id": "NOkobOGi0nqsboHI",
+      "name": {
+        "translate": "Постійні предмети 20-го рівня",
+        "original": "20th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 20-го рівня</p>",
+        "original": "<p>Table of 20th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "2nd-Level Consumables": {
+      "_id": "g30jZWCJEiK1RlIa",
+      "name": {
+        "translate": "Витратні матеріали 2-го рівня",
+        "original": "2nd-Level Consumables"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 2-го рівня</p>",
+        "original": "<p>Table of 2nd-Level Consumables</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "2nd-Level Permanent Items": {
+      "_id": "q6hhGYSee35XxKE8",
+      "name": {
+        "translate": "Постійні предмети 2-го рівня",
+        "original": "2nd-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 2-го рівня</p>",
+        "original": "<p>Table of 2nd-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "3rd-Level Consumables": {
+      "_id": "mDPLoPYwuPo3o0Wj",
+      "name": {
+        "translate": "Витратні матеріали 3-го рівня",
+        "original": "3rd-Level Consumables"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 3-го рівня</p>",
+        "original": "<p>Table of 3rd-Level Consumables</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "3rd-Level Permanent Items": {
+      "_id": "Ow2zoRUSX0s7JjMo",
+      "name": {
+        "translate": "Постійні предмети 3-го рівня",
+        "original": "3rd-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 3-го рівня</p>",
+        "original": "<p>Table of 3rd-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "4th-Level Consumables Items": {
+      "_id": "0WpkRFm8SyfwVCP6",
+      "name": {
+        "translate": "Витратні матеріали 4-го рівня",
+        "original": "4th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "Таблиця витратних матеріалів 4-го рівня",
+        "original": "Table of 4th-Level Consumables Items"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "4th-Level Permanent Items": {
+      "_id": "k0Al2PJni2NTtdIY",
+      "name": {
+        "translate": "Постійні предмети 4-го рівня",
+        "original": "4th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "Таблиця постійних елементів 4-го рівня",
+        "original": "Table of 4th-Level Permanent Items"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "5th-Level Consumables Items": {
+      "_id": "zRyuNslbOzN9oW5u",
+      "name": {
+        "translate": "Витратні матеріали 5-го рівня",
+        "original": "5th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 5-го рівня</p>",
+        "original": "<p>Table of 5th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "5th-Level Permanent Items": {
+      "_id": "k5bG37570BbflxR2",
+      "name": {
+        "translate": "Постійні предмети 5-го рівня",
+        "original": "5th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 5-го рівня</p>",
+        "original": "<p>Table of 5th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "6th-Level Consumables Items": {
+      "_id": "A68C9O0vtWbFXbfS",
+      "name": {
+        "translate": "Витратні матеріали 6-го рівня",
+        "original": "6th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 6-го рівня</p>",
+        "original": "<p>Table of 6th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "6th-Level Permanent Items": {
+      "_id": "9xol7FdCfaU585WR",
+      "name": {
+        "translate": "Постійні предмети 6-го рівня",
+        "original": "6th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 6-го рівня</p>",
+        "original": "<p>Table of 6th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "7th-Level Consumables Items": {
+      "_id": "E9ZNupg1p4yLpfrd",
+      "name": {
+        "translate": "Витратні матеріали 7-го рівня",
+        "original": "7th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 7-го рівня</p>",
+        "original": "<p>Table of 7th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "7th-Level Permanent Items": {
+      "_id": "r8F8mI2BZU6nOMQB",
+      "name": {
+        "translate": "Постійні предмети 7-го рівня",
+        "original": "7th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 7-го рівня</p>",
+        "original": "<p>Table of 7th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "8th-Level Consumables Items": {
+      "_id": "UmJGUUgN9TQtFQDI",
+      "name": {
+        "translate": "Витратні матеріали 8-го рівня",
+        "original": "8th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 8-го рівня</p>",
+        "original": "<p>Table of 8th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "8th-Level Permanent Items": {
+      "_id": "QoEkRoteKJwHHVRd",
+      "name": {
+        "translate": "Постійні предмети 8-го рівня",
+        "original": "8th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 8-го рівня</p>",
+        "original": "<p>Table of 8th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "9th-Level Consumables Items": {
+      "_id": "XAJFTpuo8qrcW30P",
+      "name": {
+        "translate": "Витратні матеріали 9-го рівня",
+        "original": "9th-Level Consumables Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця витратних предметів 9-го рівня</p>",
+        "original": "<p>Table of 9th-Level Consumables Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "9th-Level Permanent Items": {
+      "_id": "AJOYeeeF3E8UC7KF",
+      "name": {
+        "translate": "Постійні предмети 9-го рівня",
+        "original": "9th-Level Permanent Items"
+      },
+      "description": {
+        "translate": "<p>Таблиця постійних предметів 9-го рівня</p>",
+        "original": "<p>Table of 9th-Level Permanent Items</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Critical Fumble Deck": {
+      "_id": "WzMGWMIrrPvSp75D",
+      "name": {
+        "translate": "Колода критичного фамбла",
+        "original": "Critical Fumble Deck"
+      },
+      "description": {
+        "translate": "Стіл для карт критичних помилок",
+        "original": "Table for Critical Fumble Cards"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Critical Hit Deck": {
+      "_id": "FTEpsIWWVrDj0jNG",
+      "name": {
+        "translate": "Колода критичних ударів",
+        "original": "Critical Hit Deck"
+      },
+      "description": {
+        "translate": "Таблиця для карт критичних ударів",
+        "original": "Table for Critical Hit Cards"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Deck of Illusions Cards": {
+      "_id": "KiYzBNYqlBwcI11v",
+      "name": {
+        "translate": "Колода карт ілюзій",
+        "original": "Deck of Illusions Cards"
+      },
+      "description": {
+        "translate": "Потенційні ілюзії, випадково взяті з колоди. Картка знищується під час використання.",
+        "original": "Potential illusions drawn randomly from the deck. The card is destroyed on use."
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Deck of Many Things": {
+      "_id": "mA13pL1Ypo1pYkK6",
+      "name": {
+        "translate": "Колода багатьох речей",
+        "original": "Deck of Many Things"
+      },
+      "description": {
+        "translate": "Ці 22 карти з важкого пергаменту, які зазвичай зберігаються в коробці або мішечку, містять зображення або гліфи, що зображують символи магічної сили. Дивлячись на карту без активації, вона показує обличчя карти, але не має магічного ефекту. Коли колода лежить зображенням донизу, карти розташовуються у випадковому порядку. Якщо ви подивіться на верхню карту кілька разів, ви можете помітити, що вона змінилася. Будь-яка карта, вилучена з колоди, зникає через кілька секунд і знову з’являється в колоді.",
+        "original": "These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no magical effect. Once the deck is face down, the cards randomize themselves-if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck."
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Deities, Faiths and Philosophies": {
+      "_id": "6g0mTIIgpzSmVDCM",
+      "name": {
+        "translate": "Божества, віри та філософії",
+        "original": "Deities, Faiths and Philosophies"
+      },
+      "description": {
+        "translate": "Таблиця божеств, вірувань і філософій",
+        "original": "Table of Deities, Faiths and Philosophies"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Family Size": {
+      "_id": "P2bvfTgVx3CGm10x",
+      "name": {
+        "translate": "Розмір сім'ї",
+        "original": "Family Size"
+      },
+      "description": {
+        "translate": "Таблиця розміру сім'ї",
+        "original": "Table of Family Size"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Forest Dangers": {
+      "_id": "i1ZBuuhd2vd54pZ5",
+      "name": {
+        "translate": "Лісові небезпеки",
+        "original": "Forest Dangers"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Greater Art Object": {
+      "_id": "qmxGfxkMp9vCOtNQ",
+      "name": {
+        "translate": "Великий арт-об'єкт",
+        "original": "Greater Art Object"
+      },
+      "description": {
+        "translate": "Таблиця великих предметів мистецтва",
+        "original": "Table of Greater Art Objects"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Greater Precious Stones": {
+      "_id": "teZCrF2SOghusarb",
+      "name": {
+        "translate": "Великі дорогоцінні камені",
+        "original": "Greater Precious Stones"
+      },
+      "description": {
+        "translate": "Таблиця великих дорогоцінних каменів",
+        "original": "Table of Greater Precious Stones"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Greater Semiprecious Stones": {
+      "_id": "P3HzJtS2iUUWMedJ",
+      "name": {
+        "translate": "Великі напівкоштовні камені",
+        "original": "Greater Semiprecious Stones"
+      },
+      "description": {
+        "translate": "Таблиця великих напівдорогоцінних каменів",
+        "original": "Table of Greater Semiprecious Stones"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Hero Point Deck": {
+      "_id": "zgZoI7h0XjjJrrNK",
+      "name": {
+        "translate": "Колода очок героя",
+        "original": "Hero Point Deck"
+      },
+      "description": {
+        "translate": "<p>Таблиця карт Геройських Очок</p>",
+        "original": "<p>Table for Hero Point Cards</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Hills Dangers": {
+      "_id": "DjtzGwrLAVA5DVvv",
+      "name": {
+        "translate": "Пагорби Небезпеки",
+        "original": "Hills Dangers"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Lesser Art Object": {
+      "_id": "zyXbnTnUGs7tWR5j",
+      "name": {
+        "translate": "Малий арт-об'єкт",
+        "original": "Lesser Art Object"
+      },
+      "description": {
+        "translate": "Таблиця менших предметів мистецтва",
+        "original": "Table of Lesser Art Objects"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Lesser Precious Stones": {
+      "_id": "ZCYAQplm6zORj6eN",
+      "name": {
+        "translate": "Малокоштовне каміння",
+        "original": "Lesser Precious Stones"
+      },
+      "description": {
+        "translate": "Таблиця дрібних дорогоцінних каменів",
+        "original": "Table of Lesser Precious Stones"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Lesser Semiprecious Stones": {
+      "_id": "ucTtWBPXViITI8wr",
+      "name": {
+        "translate": "Мале напівдорогоцінне каміння",
+        "original": "Lesser Semiprecious Stones"
+      },
+      "description": {
+        "translate": "Таблиця дрібних напівкоштовних каменів",
+        "original": "Table of Lesser Semiprecious Stones"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Madcap Top Effect": {
+      "_id": "gxRIzr6dPF0Zke9t",
+      "name": {
+        "translate": "",
+        "original": "Madcap Top Effect"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Major Art Object": {
+      "_id": "hTBTUf9dmhDkpIo8",
+      "name": {
+        "translate": "Головний арт-об'єкт",
+        "original": "Major Art Object"
+      },
+      "description": {
+        "translate": "<p>Таблиця значних витворів мистецтва</p>",
+        "original": "<p>Table of Major Art Objects</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Minor Art Object": {
+      "_id": "ME37cisDz8J2m0H7",
+      "name": {
+        "translate": "Малий предмет мистецтва",
+        "original": "Minor Art Object"
+      },
+      "description": {
+        "translate": "Таблиця незначних предметів мистецтва",
+        "original": "Table of Minor Art Objects"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Moderate Art Object": {
+      "_id": "bCD07W38YjbnyVoZ",
+      "name": {
+        "translate": "Помірний арт-об'єкт",
+        "original": "Moderate Art Object"
+      },
+      "description": {
+        "translate": "Таблиця помірних арт-об’єктів",
+        "original": "Table of Moderate Art Objects"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Moderate Precious Stones": {
+      "_id": "wCXPh3nft3qWuxro",
+      "name": {
+        "translate": "Помірне дорогоцінне каміння",
+        "original": "Moderate Precious Stones"
+      },
+      "description": {
+        "translate": "Таблиця помірних дорогоцінних каменів",
+        "original": "Table of Moderate Precious Stones"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Moderate Semiprecious Stones": {
+      "_id": "mCzuipepJAJcuY0H",
+      "name": {
+        "translate": "Помірні напівкоштовні камені",
+        "original": "Moderate Semiprecious Stones"
+      },
+      "description": {
+        "translate": "Таблиця помірних напівкоштовних каменів",
+        "original": "Table of Moderate Semiprecious Stones"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Plains Dangers": {
+      "_id": "2ZMeCSbtg4C5bpM2",
+      "name": {
+        "translate": "Рівнинні небезпеки",
+        "original": "Plains Dangers"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Random Encounter Type": {
+      "_id": "GrUVRdGf65c7Yp9T",
+      "name": {
+        "translate": "Тип випадкової зустрічі",
+        "original": "Random Encounter Type"
+      },
+      "description": {
+        "translate": "Таблиця типів випадкових зустрічей",
+        "original": "Random Encounter Type Table"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Random Terrain Feature": {
+      "_id": "jb6Jztoua103tAHL",
+      "name": {
+        "translate": "Функція випадкового ландшафту",
+        "original": "Random Terrain Feature"
+      },
+      "description": {
+        "translate": "Таблиця для випадкової функції рельєфу",
+        "original": "Table for Random Terrain Feature"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Random Terrain Type": {
+      "_id": "0JtfURwAEbgfkhss",
+      "name": {
+        "translate": "Випадковий тип місцевості",
+        "original": "Random Terrain Type"
+      },
+      "description": {
+        "translate": "Таблиця для випадкових типів рельєфу",
+        "original": "Table for Random Terrain Types"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Rod of Wonder": {
+      "_id": "uYDzWM5ji52r4mSD",
+      "name": {
+        "translate": "Жезл Чуда",
+        "original": "Rod of Wonder"
+      },
+      "description": {
+        "translate": "<p>Цей химерний жезл дивний і непередбачуваний. Щоразу під час активації він випадково створює один із різноманітних ефектів.</p>",
+        "original": "<p>This peculiar rod is strange and unpredictable. Each time it is activated, it produces one of a variety of effects at random.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Warpwaves": {
+      "_id": "yRZwPolTnRdnz42V",
+      "name": {
+        "translate": "Деформаційні хвилі",
+        "original": "Warpwaves"
+      },
+      "description": {
+        "translate": "<p>Багато протеїв здатні піддавати ворогів дезорієнтуючим змінам сприйняття часу й простору, створюючи в довкіллі брижі нестабільної реальності, які називають хвилями викривлення.</p>\n<p>Коли істота провалює спаскидок і зазнає впливу хвилі викривлення, киньте 1d8 і звіртеся з таблицею нижче, щоб визначити конкретний ефект для цієї істоти.</p>\n<p>Якщо не вказано інше, ефект хвилі викривлення триває [[/gmr 1d4 #rounds]]{1d4 раунди}, а новий ефект хвилі викривлення скасовує будь-який попередній ефект хвилі викривлення, що вже впливає на істоту.</p>",
+        "original": "<p>Many proteans can subject their foes to disorienting alterations perceived in time and space by creating ripples of unstable reality in the environment called warpwaves.</p>\n<p>When a creature fails its saving throw and is affected by a warpwave, roll 1d8 and consult the table below for the specific effect on that creature.</p>\n<p>Unless indicated otherwise, a warpwave effect lasts for [[/gmr 1d4 #rounds]]{1d4 rounds}, and a new warpwave effect negates any previous warpwave effect already affecting a creature.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Waterways Dangers": {
+      "_id": "NtmXZKVA7uL7rdQc",
+      "name": {
+        "translate": "Небезпека водних шляхів",
+        "original": "Waterways Dangers"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    },
+    "Wellspring Surges": {
+      "_id": "N0pDFNCffTe2Du39",
+      "name": {
+        "translate": "Джерело Сплесків",
+        "original": "Wellspring Surges"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-rolltable"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "level-unknown",
+    "rarity-unknown",
+    "type-rolltable"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.rollable-tables",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "RollTable",
+    "fileMode": "updated-existing",
+    "processedAt": "2026-05-18T11:25:18.983Z",
+    "documents": 69,
+    "existingEntriesUpdated": 68,
+    "missingEntriesAdded": 1,
+    "missingFieldsAdded": 68,
+    "wrappedStrings": 136,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 5,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "PF2E-UK.OriginalLabel": "Оригінал",
+  "PF2E-UK.ItemConversionError": "Помилка перекладу {itemName} [{itemId}] {actorClause}(Foundry: {foundryVersion}, система: {systemId} {systemVersion}, переклад: {moduleVersion})",
+  "PF2E-UK.ItemConversionErrorActor": "у актора {actorName} [{actorId}] ",
+  "PF2E-UK.ItemConversionErrorFallback": "Помилка перекладу предмета (не вдалося сформувати детальне повідомлення про помилку)"
+}

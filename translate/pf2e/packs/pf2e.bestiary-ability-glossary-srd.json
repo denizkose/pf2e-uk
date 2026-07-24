@@ -1,0 +1,957 @@
+{
+  "entries": {
+    "+1 Status to All Saves vs. Magic": {
+      "_id": "kquBnQ0kObZztnBc",
+      "name": {
+        "translate": "+1 статус до всіх спас-бросків проти магії",
+        "original": "+1 Status to All Saves vs. Magic"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "All-Around Vision": {
+      "_id": "9qV49KjZujZnSp6w",
+      "name": {
+        "translate": "Огляд на всі боки",
+        "original": "All-Around Vision"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Aquatic Ambush": {
+      "_id": "HBrBrUzjfvj2gDXB",
+      "name": {
+        "translate": "Водяна засідка",
+        "original": "Aquatic Ambush"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "At-Will Spells": {
+      "_id": "2YRDYVnC1eljaXKK",
+      "name": {
+        "translate": "Закляття на волі",
+        "original": "At-Will Spells"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Attack of Opportunity": {
+      "_id": "hFtNbo1LKYCoDy2O",
+      "name": {
+        "translate": "Атака нагоди",
+        "original": "Attack of Opportunity"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Aura": {
+      "_id": "v61oEQaDdcRpaZ9X",
+      "name": {
+        "translate": "Аура",
+        "original": "Aura"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Buck": {
+      "_id": "nZMQh4AaBr291TUf",
+      "name": {
+        "translate": "Відбій",
+        "original": "Buck"
+      },
+      "description": {
+        "translate": "<p>@Check[reflex|dc:]</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>",
+        "original": "<p>@Check[reflex|dc:]</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Catch Rock": {
+      "_id": "uG0Z8PsyZtsYuvGR",
+      "name": {
+        "translate": "Ловити камінь",
+        "original": "Catch Rock"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Change Formation": {
+      "_id": "USyDPcSdzcm024zT",
+      "name": {
+        "translate": "Зміна формації",
+        "original": "Change Formation"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Change Shape": {
+      "_id": "eQM5hQ1W3d1uen97",
+      "name": {
+        "translate": "Зміна форми",
+        "original": "Change Shape"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Constant Spells": {
+      "_id": "kakyXBG5WA8c6Zfd",
+      "name": {
+        "translate": "Постійні закляття",
+        "original": "Constant Spells"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Constrict": {
+      "_id": "g26YiEIfSHCpLocV",
+      "name": {
+        "translate": "Стискання",
+        "original": "Constrict"
+      },
+      "description": {
+        "translate": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>",
+        "original": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Coven": {
+      "_id": "52CdldlWMiVTZk1F",
+      "name": {
+        "translate": "Ковен",
+        "original": "Coven"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Darkvision": {
+      "_id": "qCCLZhnp2HhP3Ex6",
+      "name": {
+        "translate": "Темновидіння",
+        "original": "Darkvision"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Disease": {
+      "_id": "Z025dWgZtawbuRLI",
+      "name": {
+        "translate": "Хвороба",
+        "original": "Disease"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Engulf": {
+      "_id": "zU3Ovaet4xQ5Gmvy",
+      "name": {
+        "translate": "Поглинання",
+        "original": "Engulf"
+      },
+      "description": {
+        "translate": "<p>@Check[reflex|dc:], @Damage[(0)[damageType]] ушкодження, [[/act escape dc=0]], Розрив [0]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>",
+        "original": "<p>@Check[reflex|dc:], @Damage[(0)[damageType]] damage, [[/act escape dc=0]], Rupture [0]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Fast Healing": {
+      "_id": "fJSNOw4zHGbIm4bZ",
+      "name": {
+        "translate": "Швидке зцілення",
+        "original": "Fast Healing"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Ferocity": {
+      "_id": "N1kstYbHScxgUQtN",
+      "name": {
+        "translate": "Лють",
+        "original": "Ferocity"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Form Up": {
+      "_id": "OvqohW9YuahnFaiX",
+      "name": {
+        "translate": "Вишикування",
+        "original": "Form Up"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Frightful Presence": {
+      "_id": "etMnv73EIdEZrYYu",
+      "name": {
+        "translate": "Страшна присутність",
+        "original": "Frightful Presence"
+      },
+      "description": {
+        "translate": "<p>0 футів. @Check[will|dc:|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>",
+        "original": "<p>0 feet. @Check[will|dc:|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Grab": {
+      "_id": "Tkd8sH4pwFIPzqTr",
+      "name": {
+        "translate": "Хватка",
+        "original": "Grab"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Greater Constrict": {
+      "_id": "OmV6E3aELvq9CkK1",
+      "name": {
+        "translate": "Сильніше стискання",
+        "original": "Greater Constrict"
+      },
+      "description": {
+        "translate": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>",
+        "original": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Greater Darkvision": {
+      "_id": "4Ho2xMPEC05aSxzr",
+      "name": {
+        "translate": "Покращене темновидіння",
+        "original": "Greater Darkvision"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Improved Grab": {
+      "_id": "i18TlebMzwONyPhI",
+      "name": {
+        "translate": "Покращена хватка",
+        "original": "Improved Grab"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Improved Knockdown": {
+      "_id": "LbnsT8yXchHMQT3t",
+      "name": {
+        "translate": "Покращене збивання з ніг",
+        "original": "Improved Knockdown"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Improved Push": {
+      "_id": "6l7e7CHQLESlI57U",
+      "name": {
+        "translate": "Покращене штовхання",
+        "original": "Improved Push"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Knockdown": {
+      "_id": "BCLvAx4Pz4MLa2pu",
+      "name": {
+        "translate": "Збивання з ніг",
+        "original": "Knockdown"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Lifesense": {
+      "_id": "sebk9XseMCRkDqRg",
+      "name": {
+        "translate": "Відчуття життя",
+        "original": "Lifesense"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Light Blindness": {
+      "_id": "I0HYG0ctCLP5JRsW",
+      "name": {
+        "translate": "Світлова сліпота",
+        "original": "Light Blindness"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Low-Light Vision": {
+      "_id": "fFu2sZz4KB01fVRc",
+      "name": {
+        "translate": "Зір у сутінках",
+        "original": "Low-Light Vision"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Master's Eye": {
+      "_id": "1obHWaFiFI1pnC3R",
+      "name": {
+        "translate": "Око майстра",
+        "original": "Master's Eye"
+      },
+      "description": {
+        "translate": "<p>Майстер спостерігає світ через очі рактоварни замість власних, використовуючи сприйняття та темновидіння рактоварни. Це триває до кінця наступного ходу майстра, але майстер може підтримувати цю дію.</p>\n<p>Ця здатність працює на будь-якій відстані, навіть на різних планах існування. Якщо рактоварна помирає, поки майстер використовує цю здатність, майстер отримує @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшення 5}.</p>",
+        "original": "<p>The master observes the world through the raktavarna's eyes instead of their own, using the raktavarna's Perception and darkvision. This lasts until the end of the master's next turn, but the master can Sustain the activity.</p>\n<p>This ability functions at any range, even on different planes of existence. If the raktavarna dies while their master is using this ability, the master is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 5}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Nimble Dodge": {
+      "_id": "wCnsRCHvtZkZTmO0",
+      "name": {
+        "translate": "Ловкий ухил",
+        "original": "Nimble Dodge"
+      },
+      "description": {
+        "translate": "<p><strong>Тригер</strong> Сутність цілиться в вас атакою, і ви бачите нападника.</p>\n<p><strong>Вимоги</strong> Ви не обтяжені</p>\n<hr />\n<p>Ви спритно ухиляєтеся, отримуючи +2 обставинний бонус до КЗ проти тригерної атаки.</p>",
+        "original": "<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker.</p>\n<p><strong>Requirements</strong> You are not encumbered</p>\n<hr />\n<p>You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Poison": {
+      "_id": "kFv54DisTfCMTBEY",
+      "name": {
+        "translate": "Отрута",
+        "original": "Poison"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Power Attack": {
+      "_id": "0B39GdScyZMPWalX",
+      "name": {
+        "translate": "Сильна атака",
+        "original": "Power Attack"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Pull": {
+      "_id": "BYF0XL1ZtdkRda3u",
+      "name": {
+        "translate": "Тягнути",
+        "original": "Pull"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Push": {
+      "_id": "t6cx9FOODmeZQNYl",
+      "name": {
+        "translate": "Штовхати",
+        "original": "Push"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Reactive Strike": {
+      "_id": "W7SbTykXrNwxDzJc",
+      "name": {
+        "translate": "Реактивний удар",
+        "original": "Reactive Strike"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Regeneration": {
+      "_id": "lR9R5Vld8Eu2Dha5",
+      "name": {
+        "translate": "Регенерація",
+        "original": "Regeneration"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Rend": {
+      "_id": "3JOi2cMcGhT3eze1",
+      "name": {
+        "translate": "Роздирання",
+        "original": "Rend"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Retributive Strike": {
+      "_id": "IQtb58p4EaeUzTN1",
+      "name": {
+        "translate": "Відплатний удар",
+        "original": "Retributive Strike"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Scent": {
+      "_id": "rqfnQ5VHT5hxm25r",
+      "name": {
+        "translate": "Нюх",
+        "original": "Scent"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Shield Block": {
+      "_id": "m4HQ2o5aPxjXf2kY",
+      "name": {
+        "translate": "Блок щитом",
+        "original": "Shield Block"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Sneak Attack": {
+      "_id": "AWvNPE4U0kEJSL1T",
+      "name": {
+        "translate": "Удар у спину",
+        "original": "Sneak Attack"
+      },
+      "description": {
+        "translate": "<p>Удари істоти завдають додаткові 1d6 точних ушкоджень @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{непідготовленим} істотам.</p>",
+        "original": "<p>The creature's Strikes deal an additional 1d6 precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Stench": {
+      "_id": "PqGX4Dgy9siZJitH",
+      "name": {
+        "translate": "Смердючість",
+        "original": "Stench"
+      },
+      "description": {
+        "translate": "<p>0 футів. @Check[fortitude|dc:|options:area-effect,inflicts:sickened,inflicts:slowed]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Stench]</p>",
+        "original": "<p>0 feet. @Check[fortitude|dc:|options:area-effect,inflicts:sickened,inflicts:slowed]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Stench]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Swallow Whole": {
+      "_id": "uJSseLa57HZYSMUu",
+      "name": {
+        "translate": "Поглинання цілком",
+        "original": "Swallow Whole"
+      },
+      "description": {
+        "translate": "<p>[Вказаний розмір], @Damage[(0)[bludgeoning]], Розрив [0]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>",
+        "original": "<p>[Listed Size], @Damage[(0)[bludgeoning]], Rupture [0]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Swarm Mind": {
+      "_id": "baA0nSMhQyFyJIia",
+      "name": {
+        "translate": "Рійовий розум",
+        "original": "Swarm Mind"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Telepathy": {
+      "_id": "kdhbPaBMK1d1fpbA",
+      "name": {
+        "translate": "Телепатія",
+        "original": "Telepathy"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Thoughtsense": {
+      "_id": "JcaIJLGGmst79f1Y",
+      "name": {
+        "translate": "Відчуття думок",
+        "original": "Thoughtsense"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Throw Rock": {
+      "_id": "a0tx6exmB9v9CUsj",
+      "name": {
+        "translate": "Кидок каменя",
+        "original": "Throw Rock"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Trample": {
+      "_id": "UNah0bxXxkcZjxO3",
+      "name": {
+        "translate": "Таран",
+        "original": "Trample"
+      },
+      "description": {
+        "translate": "<p>[Розмір], [Вказаний удар], @Check[reflex|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>",
+        "original": "<p>[Size], [Listed Strike], @Check[reflex|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-offensive"
+        ]
+      }
+    },
+    "Tremorsense": {
+      "_id": "j2wsK6IsW5yMW1jW",
+      "name": {
+        "translate": "Відчуття тремтіння",
+        "original": "Tremorsense"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    },
+    "Troop Defenses": {
+      "_id": "EawOw47nHueUPnYc",
+      "name": {
+        "translate": "Захист загону",
+        "original": "Troop Defenses"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Troop Movement": {
+      "_id": "MXI6zwrvbQNIv7ji",
+      "name": {
+        "translate": "Рух загону",
+        "original": "Troop Movement"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Void Healing": {
+      "_id": "TTCw5NusiSSkJU1x",
+      "name": {
+        "translate": "Порожнє зцілення",
+        "original": "Void Healing"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-defensive"
+        ]
+      }
+    },
+    "Wavesense": {
+      "_id": "VdSMQ6yRZ3YXNXHL",
+      "name": {
+        "translate": "Відчуття хвиль",
+        "original": "Wavesense"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-action",
+          "action-interaction"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "action-defensive",
+    "action-interaction",
+    "action-offensive",
+    "level-unknown",
+    "rarity-common",
+    "rarity-unknown",
+    "type-action"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.bestiary-ability-glossary-srd",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Item",
+    "fileMode": "updated-existing",
+    "processedAt": "2026-05-18T11:19:22.636Z",
+    "documents": 55,
+    "existingEntriesUpdated": 55,
+    "missingEntriesAdded": 0,
+    "missingFieldsAdded": 69,
+    "wrappedStrings": 109,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 46
+  }
+}

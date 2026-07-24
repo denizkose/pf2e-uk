@@ -1,0 +1,1989 @@
+{
+  "entries": {
+    "Alchemical Drudge": {
+      "_id": "yFfT9yPbUzldlhxN",
+      "name": {
+        "translate": "Алхімічний працівник",
+        "original": "Alchemical Drudge"
+      },
+      "languages": {
+        "translate": "(не може говорити), зв’язок емпатії",
+        "original": "(can't speak), empathy link"
+      },
+      "items": {
+        "ethAMdKZUMrMbBL0": {
+          "_id": "ethAMdKZUMrMbBL0",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "xiU6BoUEXG3kg8X3": {
+          "_id": "xiU6BoUEXG3kg8X3",
+          "name": {
+            "translate": "Зв’язок емпатії",
+            "original": "Empathy Link"
+          },
+          "description": {
+            "translate": "<p>Алхімічний працівник не може говорити, але його розум пов’язаний із творцем. Він може ділитися базовою емоційною інформацією зі своїм творцем, такою як страх, радість або гнів. Якщо працівник знищується, його майстер автоматично про це дізнається. Дальність цього зв’язку становить 1500 футів.</p>",
+            "original": "<p>An alchemical drudge can't speak, but its mind is linked to its creator. It can share basic emotional information with its creator, such as fear, happiness, or anger. If the drudge is destroyed, its master automatically knows this. The range of this link is 1,500 feet.</p>"
+          }
+        },
+        "lXxapm5M7WrzteiN": {
+          "_id": "lXxapm5M7WrzteiN",
+          "name": {
+            "translate": "Алхімічний удар",
+            "original": "Alchemical Strike"
+          },
+          "description": {
+            "translate": "<p>Алхімічний працівник містить спеціальний резервуар, який можна зарядити вмістом однієї алхімічної бомби, що завдає кислотної, холодної, електричної або вогняної шкоди, дозволяючи працівнику надавати своїм ударам кулаком цей тип шкоди. Кожен влучний удар завдає 1d6 шкоди того ж типу, що й бомба, заряджена в резервуар. Кожна бомба містить достатньо рідини для 10 успішних ударів.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.yrenENpzVgBKsnNi]{Ефект: алхімічний удар}</p>",
+            "original": "<p>An alchemical drudge contains a special reservoir that can be loaded with the contents of one alchemical bomb that deals acid, cold, electricity, or fire damage, allowing the drudge to imbue its fist attacks with this damage. Each hit deals 1d6 points of damage of the same type as that of the bomb loaded into it. Each bomb has enough fluid in it for 10 successful strikes.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.yrenENpzVgBKsnNi]{Effect: Alchemical Strike}</p>"
+          }
+        },
+        "ee8576IBzNlZf0VH": {
+          "_id": "ee8576IBzNlZf0VH",
+          "name": {
+            "translate": "Алхімія блювоти",
+            "original": "Vomit Alchemy"
+          },
+          "description": {
+            "translate": "<p>Алхімічний працівник може вивергнути калюжу їдких алхімічних реагентів, заповнюючи землю в одній клітинці поруч із собою. Сутності в цій клітинці під час створення калюжі отримують @Damage[2d6[acid]] шкоди (@Check[reflex|dc:17|basic]). Будь-яка істота, що завершує свій хід у клітинці з калюжею, отримує @Damage[2d6[acid]] шкоди. Калюжа залишається активною 1 хвилину, після чого стає неактивною.</p>",
+            "original": "<p>An alchemical drudge can vomit forth a pool of caustic alchemical reagents, filling the ground in one square adjacent to the drudge. Creatures in that square when the pool is created take @Damage[2d6[acid]] damage (@Check[reflex|dc:17|basic]). Any creature that ends its turn in a square containing a pool takes @Damage[2d6[acid]] damage. The pool remains for 1 minute before becoming inert.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-rare",
+          "type-npc",
+          "npc-construct"
+        ]
+      }
+    },
+    "Bee Swarm": {
+      "_id": "JtBjUnYz859krAVv",
+      "name": {
+        "translate": "Рій бджіл",
+        "original": "Bee Swarm"
+      },
+      "items": {
+        "c7Nqataf1AM755gt": {
+          "_id": "c7Nqataf1AM755gt",
+          "name": {
+            "translate": "Укуси бджіл",
+            "original": "Beestings"
+          },
+          "description": {
+            "translate": "<p>Істота має зробити спас-кидок @Check[fortitude|dc:16|traits:damaging-effect]. Ті, хто зазнає невдачі, отримують @Damage[1d4[poison]] шкоди і стають @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} на 1 хвилину.</p>",
+            "original": "<p>The creature must attempt a @Check[fortitude|dc:16|traits:damaging-effect] save. Those who fail take @Damage[1d4[poison]] damage and are @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} for 1 minute.</p>"
+          }
+        },
+        "iiDAJrnwPIwjETpY": {
+          "_id": "iiDAJrnwPIwjETpY",
+          "name": {
+            "translate": "Рійні укуси",
+            "original": "Swarming Stings"
+          },
+          "description": {
+            "translate": "<p>Кожен ворог у просторі рою отримує @Damage[1d4[piercing]] шкоди (спас-кидок @Check[reflex|dc:16|basic]). Першого разу за раунд, коли істота зазнає невдачі у спас-кидку і отримує колючу шкоду, вона також зазнає ефекту укусів бджіл.</p>\n<p>Кожного разу, коли рій бджіл використовує цю здатність, рій отримує 1 шкоду.</p>",
+            "original": "<p>Each enemy in the swarm's space takes @Damage[1d4[piercing]] damage (@Check[reflex|dc:16|basic] save). The first time each round a creature fails the save and takes piercing damage, it also suffers the effect of beestings.</p>\n<p>Whenever the bee swarm uses this ability, the swarm takes 1 damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Blood Ooze": {
+      "_id": "b2PXIdbqdzlkGkeX",
+      "name": {
+        "translate": "Кров’яна слизь",
+        "original": "Blood Ooze"
+      },
+      "publicNotes": {
+        "translate": "<p>Набухаючи, як бульбашка, що ось-ось лусне, ця слизь виглядає так, ніби вона повністю складається з крові. Її слизька, багряна шкіра затьмарена лише плямами, що нагадують згустки на поверхні.</p>\n<p>Створена через найогидніші алхімічні ритуали, кров’яна слизь шукає лише одного: збільшити свою масу, споживаючи кров живих істот. Кров’яна слизь ховається всередині тіла своїх жертв, вибухаючи назовні, щоб атакувати, коли наближається інша їжа, залишаючи тіло порожньою оболонкою.</p>\n<p>Процес створення такої слизі включає висмоктування крові щонайменше чотирьох істот середнього розміру і годування всієї зібраної крові п’ятій істоті разом із смертельними реагентами, які запобігають згортанню крові. Під час цього часу господар повільно вмирає, поки кров’яна слизь формується, з’являючись через 2–6 годин. Кров’яні слизі не мають лояльності до тих, хто їх створив, але деякі творці помітили, що новоутворені кров’яні слизі, здається, уникають шкоди іншим членам родини господаря.</p>\n<p>Не є широко відомим, що існуюча кров’яна слизь може розмножуватися, розділяючись навпіл. Вона проходить це розділення лише тоді, коли виростає настільки великою, що поділ навпіл створить пару слизей нормального розміру, як наведено нижче.</p>",
+        "original": "<p>Swelling like a bubble about to burst, this oozing thing looks like it is made entirely from blood. Its slick, crimson skin is marred only by spots that look like clots formed on the surface.</p>\n<p>Created through the foulest of alchemical rituals, the blood ooze seeks only one thing: to increase its mass by consuming blood from the living. The blood ooze hides within the body of its victims, only bursting out to attack when another meal draws near, leaving the body a husk of its former self.</p>\n<p>The process by which such an ooze is created involves draining the blood of at least four Medium creatures and feeding all of the collected blood to a fifth creature, along with deadly reagents designed to prevent the blood from coagulating. During this time, the host slowly dies while the blood ooze takes form, emerging 2 to 6 hours later. Blood oozes have no loyalty toward those who created them, but some creators have noted that newly formed blood oozes seem to avoid harming other members of the host creature's family.</p>\n<p>It is not widely known that an existing blood ooze can reproduce by splitting itself in half. It undergoes this division only if it has grown so large that splitting in half would create a pair of normal-sized blood oozes, such as the one listed below.</p>"
+      },
+      "skills": {
+        "stealth": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "якщо ховається всередині тіла",
+                "original": "if hiding inside a body"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "5Vi9tC7C8cYMbNL6": {
+          "_id": "5Vi9tC7C8cYMbNL6",
+          "name": {
+            "translate": "Псевдоподія",
+            "original": "Pseudopod"
+          }
+        },
+        "ZF9meCOzk6LPuLoK": {
+          "_id": "ZF9meCOzk6LPuLoK",
+          "name": {
+            "translate": "Наситити труп",
+            "original": "Infuse Corpse"
+          },
+          "description": {
+            "translate": "<p>Кров’яна слизь може проникати в рани трупа, витісняючи його природну кров. Вона може вибухнути з трупа як вільна дія.</p>",
+            "original": "<p>A blood ooze can seep into a corpse's wounds, displacing its natural blood. It can burst out of the corpse as a free action.</p>"
+          }
+        },
+        "HiQcVHR1RtpepohY": {
+          "_id": "HiQcVHR1RtpepohY",
+          "name": {
+            "translate": "Відчуття руху 60 футів",
+            "original": "Motion Sense 60 feet"
+          },
+          "description": {
+            "translate": "<p>Кров’яна слизь може відчувати близький рух через вібрації та рух повітря.</p>",
+            "original": "<p>A blood ooze can sense nearby motion through vibration and air movement.</p>"
+          }
+        },
+        "ir0EYaT4v6yUUAnh": {
+          "_id": "ir0EYaT4v6yUUAnh",
+          "name": {
+            "translate": "Кров’яна калюжа",
+            "original": "Blood Pool"
+          },
+          "description": {
+            "translate": "<p>Кожного разу, коли істота поруч із кров’яною слиззю отримує кровотечу, кров’яна слизь відновлює кількість очок життя, рівну завданій шкоді.</p>",
+            "original": "<p>Whenever a creature adjacent to a blood ooze takes bleed damage, the blood ooze regains an amount of Hit Points equal to the damage dealt.</p>"
+          }
+        },
+        "SFYGEt1kIUwWpB3A": {
+          "_id": "SFYGEt1kIUwWpB3A",
+          "name": {
+            "translate": "Згусток",
+            "original": "Clot"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Кров’яна слизь отримує шкоду від колючої або рублячої атаки.</p>\n<hr />\n<p><strong>Ефект</strong> Кров’яна слизь формує згусток навколо рани, зменшуючи отриману шкоду на 5 (мінімум 0).</p>",
+            "original": "<p><strong>Trigger</strong> The blood ooze is damaged by a piercing or slashing attack.</p>\n<hr />\n<p><strong>Effect</strong> The blood ooze forms a clot around the wound, reducing the damage taken by 5 (to a minimum of 0).</p>"
+          }
+        },
+        "63gZ6gnBQpFdDSNz": {
+          "_id": "63gZ6gnBQpFdDSNz",
+          "name": {
+            "translate": "Висмоктування життєвої сили",
+            "original": "Siphon Vitality"
+          },
+          "description": {
+            "translate": "<p>Кров’яна слизь висмоктує кров із близьких істот, спричиняючи розрив їхньої плоті і витікання крові, що поповнює кров’яну слизь. Кожна жива істота в межах @Template[emanation|distance:15]{15 feet} отримує @Damage[3d6[slashing]|options:area-damage] шкоди (спас-кидок @Check[fortitude|dc:21|basic|options:area-effect]).</p>\n<p>Кров’яна слизь відновлює кількість очок життя, рівну половині шкоди, завданої Висмоктуванням життєвої сили істоті, що отримала найбільше шкоди.</p>",
+            "original": "<p>The blood ooze draws forth blood from nearby creatures, causing their flesh to break open and blood to spill out which replenishes the blood ooze. Each living creature within @Template[emanation|distance:15]{15 feet} takes @Damage[3d6[slashing]|options:area-damage] damage (@Check[fortitude|dc:21|basic|options:area-effect] save).</p>\n<p>The blood ooze regains an amount of Hit Points equal to half the damage Siphon Vitality dealt to the single creature that took the most damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-npc",
+          "npc-mindless"
+        ]
+      }
+    },
+    "Bloodlash Bush": {
+      "_id": "C7Wb70xpG2PvTslg",
+      "name": {
+        "translate": "Кущ кров’яного лашу",
+        "original": "Bloodlash Bush"
+      },
+      "publicNotes": {
+        "translate": "<p>Кущ кров’яного лашу намагається розірвати ворогів, використовуючи свої кровоточиві рани для зрошення ґрунту навколо себе. Насіння куща кров’яного лашу може проростати лише в ґрунті, насиченому кров’ю.</p>\n<hr />\n<p>Часто ігноровані через більш очевидні загрози, деякі рослини можуть бути такими ж смертельними і небезпечними, як дикі звірі.</p>\n<p>Те, що спочатку здається простим кущем, раптом оживає.</p>",
+        "original": "<p>The bloodlash bush attempts to lacerate its foes, using its weeping wounds to irrigate the ground around itself. The seeds of a bloodlash bush can take root only in soil that has been soaked in blood.</p>\n<hr />\n<p>Often overlooked in light of more obvious threats, some plants can be just as deadly and dangerous as wild beasts.</p>\n<p>What first appears to be a simple shrub suddenly stirs to life.</p>"
+      },
+      "items": {
+        "Lg8lgJjsoVFNbIn9": {
+          "_id": "Lg8lgJjsoVFNbIn9",
+          "name": {
+            "translate": "Лоза",
+            "original": "Vine"
+          }
+        },
+        "dbmjIDpE1N1vZOwC": {
+          "_id": "dbmjIDpE1N1vZOwC",
+          "name": {
+            "translate": "Відчуття тремтіння (неточне) 30 футів",
+            "original": "Tremorsense (Imprecise) 30 feet"
+          }
+        },
+        "NpPubKpYdINZXyln": {
+          "_id": "NpPubKpYdINZXyln",
+          "name": {
+            "translate": "Висмоктування крові",
+            "original": "Blood Siphon"
+          },
+          "description": {
+            "translate": "<p>Вуса куща тягнуться, щоб висмоктати кров із жертви на відстані до 20 футів, завдаючи постійну кровотечу, через що жертва негайно отримує таку кількість кровотечної шкоди (@Check[reflex|dc:17|basic]).</p>\n<p>Кущ відновлює кількість очок життя, рівну подвоєній завданій шкоді.</p>",
+            "original": "<p>The tendrils of the bush reach out to siphon the blood from a victim up to 20 feet away with persistent bleed damage, causing the victim to immediately take that amount of bleed damage (@Check[reflex|dc:17|basic]).</p>\n<p>The bush regains an amount of Hit Points equal to double the damage dealt.</p>"
+          }
+        },
+        "Q7mhjwk9bupmhykG": {
+          "_id": "Q7mhjwk9bupmhykG",
+          "name": {
+            "translate": "Обертальний удар",
+            "original": "Spinning Strike"
+          },
+          "description": {
+            "translate": "<p>Кущ обертається по колу, одночасно наносячи удари у всі напрямки. Він робить один кидок атаки і порівнює результат із КЗ кожної істоти в межах досяжності ближнього бою, завдаючи шкоду лише один раз і застосовуючи її до кожної влученої істоти.</p>",
+            "original": "<p>The bush spins in a circle, lashing out in all directions at once. It makes one attack roll and compares the result to the AC of each creature within its melee reach, rolling damage only once and applying it to each creature hit.</p>"
+          }
+        },
+        "lkgQ9hctSS8DlLr1": {
+          "_id": "lkgQ9hctSS8DlLr1",
+          "name": {
+            "translate": "Кровоточиві рани",
+            "original": "Weeping Wounds"
+          },
+          "description": {
+            "translate": "<p>Вуса куща кров’яного лашу спричиняють жахливі розрізи, які продовжують кровоточити. Істота, уражена атакою вусів, отримує @Damage[1[bleed]] шкоди (@Damage[2[bleed]] шкоди при критичному влучанні).</p>\n<p>На відміну від інших форм постійної шкоди, ця шкода накопичується, до максимуму 5 постійної кровотечної шкоди, але її можна зупинити, як і будь-яку іншу постійну кровотечу.</p>",
+            "original": "<p>A bloodlash bush's vines cause terrible lacerations that continue to bleed. A creature hit with a vine attack takes @Damage[1[bleed]] damage (@Damage[2[bleed]] damage on a critical hit).</p>\n<p>Unlike other forms of persistent damage, this damage is cumulative, to a maximum of 5 persistent bleed damage but it can be stopped like any other persistent bleed damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-npc",
+          "npc-plant"
+        ]
+      }
+    },
+    "Caustic Wolf": {
+      "_id": "PFBclNHc78MqYjBB",
+      "name": {
+        "translate": "Їдкий вовк",
+        "original": "Caustic Wolf"
+      },
+      "items": {
+        "WJyRm55Q5UYPHJEX": {
+          "_id": "WJyRm55Q5UYPHJEX",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Jaws"
+          }
+        },
+        "ibMVoNbGTJRctcSf": {
+          "_id": "ibMVoNbGTJRctcSf",
+          "name": {
+            "translate": "Кислотний подих",
+            "original": "Acid Breath"
+          },
+          "description": {
+            "translate": "<p>Вовк випускає потік яскраво-зеленої кислоти з рота, покриваючи всіх істот у @Template[line|distance:30]. Всі істоти в лінії отримують @Damage[3d6[acid]|options:area-damage] шкоди (спас-кидок @Check[reflex|dc:16|basic|options:area-effect]).</p>\n<p>Їдкий вовк не може використовувати цю здатність знову протягом 1 хвилини.</p>",
+            "original": "<p>The wolf unleashes a stream of bright green acid from its mouth, coating all creatures in a @Template[line|distance:30]. All creatures in the line take @Damage[3d6[acid]|options:area-damage] damage (@Check[reflex|dc:16|basic|options:area-effect] save).</p>\n<p>The caustic wolf cannot use this ability again for 1 minute.</p>"
+          }
+        },
+        "4qqgHXd5u2hOYOxU": {
+          "_id": "4qqgHXd5u2hOYOxU",
+          "name": {
+            "translate": "Виття",
+            "original": "Howl"
+          },
+          "description": {
+            "translate": "<p>Вовк видає страшне виття, дозволяючи йому @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Залякувати} усіх ворогів у межах @Template[emanation|distance:30]{30 feet}. Вовки в межах @Template[emanation|distance:100]{100 feet} можуть витратити реакцію, щоб приєднатися до виття, спричиняючи, що ефект поширюється і від них. Це впливає на додаткових ворогів у радіусі 30 футів від них і використовує перевірку Залякування їдкого вовка з обтяженням -4.</p>\n<p>Вороги не можуть бути під впливом виття більше одного разу, навіть якщо вони знаходяться поруч із кількома вовками, що виють. Всі істоти, на яких спрямовано цей ефект, тимчасово імунні протягом 24 годин.</p>",
+            "original": "<p>The wolf unleashes a terrifying howl, allowing it to @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} all enemies within @Template[emanation|distance:30]{30 feet}. Wolves within @Template[emanation|distance:100]{100 feet} can spend a reaction to join the howl, causing the effect to emanate from them as well. This affects additional enemies within 30 feet of them and uses the caustic wolf's Intimidation check with a -4 circumstance penalty.</p>\n<p>Enemies cannot be affected by the howl more than once, even if they are near more than one howling wolf. All creatures targeted by this effect are temporarily immune for 24 hours.</p>"
+          }
+        },
+        "U7oXnn7vwcsPWhR0": {
+          "_id": "U7oXnn7vwcsPWhR0",
+          "name": {
+            "translate": "Повалення",
+            "original": "Knockdown"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Drunken Farmer": {
+      "_id": "BgBTntoz1qQ3h1X5",
+      "name": {
+        "translate": "П’яний фермер",
+        "original": "Drunken Farmer"
+      },
+      "items": {
+        "o3dSxVbe4AA2OziW": {
+          "_id": "o3dSxVbe4AA2OziW",
+          "name": {
+            "translate": "Міцний фермерський одяг",
+            "original": "Durable Farm Clothes"
+          },
+          "description": {
+            "translate": "<p>Ця броня — просто шар важкої стьобаної тканини, але її іноді використовують через низьку вартість. Стьобана броня легше пошкоджується і руйнується, ніж інші типи броні. Важка броня включає стьобаний піджак у свою ціну, хоча він втрачає властивість комфорту, коли носиться під важкою бронею. Ви можете носити лише цей стьобаний піджак для сну, якщо ваша важка броня зруйнована або коли ви не носите повну важку броню. Це дозволяє зберігати інвестиції в броню і користуватися силою будь-яких рун на відповідній важкій броні, але ніхто інший не може носити вашу важку броню без стьобаного піджака.</p>",
+            "original": "<p>This armor is simply a layer of heavy, quilted cloth, but it is sometimes used because it's so inexpensive. Padded armor is easier to damage and destroy than other types of armor. Heavy armor comes with a padded armor undercoat included in its Price, though it loses the comfort trait when worn under heavy armor. You can wear just that padded armor or undercoat to sleep in, if your heavy armor is destroyed, or when otherwise not wearing the full heavy armor. This allows you to keep the armor invested and benefit from the power of any runes on the associated heavy armor, but no one else can wear your heavy armor without the padded undercoat.</p>"
+          }
+        },
+        "fbKIKZjIQpTae0Pq": {
+          "_id": "fbKIKZjIQpTae0Pq",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "q93sqksg2eIzBk9b": {
+          "_id": "q93sqksg2eIzBk9b",
+          "name": {
+            "translate": "Стілець",
+            "original": "Chair"
+          }
+        },
+        "yovNj4k8Vk5iGwAZ": {
+          "_id": "yovNj4k8Vk5iGwAZ",
+          "name": {
+            "translate": "Кружка",
+            "original": "Mug"
+          }
+        },
+        "0TskxCnjhFaz1Io4": {
+          "_id": "0TskxCnjhFaz1Io4",
+          "name": {
+            "translate": "Знання сільського господарства",
+            "original": "Farming Lore"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-good"
+        ]
+      }
+    },
+    "Falling Debris": {
+      "_id": "rn6KT8OMYUi0EuCN",
+      "name": {
+        "translate": "Падаючі уламки",
+        "original": "Falling Debris"
+      },
+      "description": {
+        "translate": "<p>Чутлива до тиску дошка підлоги з’єднана з балкою, що тримає уламки на стелі ходового проходу.</p>",
+        "original": "<p>A pressure-sensitive floorboard connects to a beam holding up debris in the crawlway's ceiling.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:15|name:Disable Trap|traits:mechanical,trap,hazard] (тренований) на дошці підлоги перед падінням уламків</p>",
+        "original": "<p>@Check[thievery|dc:15|name:Disable Trap|traits:mechanical,trap,hazard] (trained) on the floorboard before the debris falls</p>"
+      },
+      "stealth": {
+        "translate": "<p>(тренований)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "HY2Pfqwkwhn3BmVF": {
+          "_id": "HY2Pfqwkwhn3BmVF",
+          "name": {
+            "translate": "Падаючі уламки",
+            "original": "Falling Debris"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> На дошку підлоги чиниться тиск.</p>\n<hr />\n<p><strong>Ефект</strong> Стеля в ходовому проході обвалюється у клітинці, де проход повертає, а також у двох суміжних клітинках. Усі, хто знаходиться в цих трьох клітинках, отримують @Damage[3d6[bludgeoning]] шкоди і можуть зробити спас-кидок @Check[reflex|dc:14|traits:damaging-effect], щоб зменшити шкоду. Для істоти в центральній клітинці, де спрацювала пастка, це базовий спас-кидок. Істоти в двох суміжних клітинках не отримують шкоди при успішному або критичному спас-кидку, оскільки уникають падаючих уламків повністю, але отримують повну шкоду при провалі і подвоєну шкоду при критичному провалі. Істоти, які отримали шкоду від уламків, стають @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомлений}, затиснутими під тиском.</p>\n<p>Прибирання клітинки від уламків вимагає успішної перевірки навички @Check[athletics|dc:17|name:Clear Debris] з такими наслідками.</p>\n<hr />\n<p><strong>Критичний успіх</strong> Клітинка очищується за 1 хвилину.</p>\n<p><strong>Успіх</strong> Клітинка очищується за 5 хвилин.</p>\n<p><strong>Провал</strong> Клітинка очищується за 10 хвилин.</p>\n<p><strong>Критичний провал</strong> Стеля над клітинкою обвалюється ще більше, завдаючи додаткову @Damage[2d6[bludgeoning]] шкоду персонажу, що розгрібає клітинку, і будь-якому персонажу, затиснутому в цій клітинці. Це займає 1 хвилину, і прогрес не досягається.</p>",
+            "original": "<p><strong>Trigger</strong> Pressure is placed on the floorboard.</p>\n<hr />\n<p><strong>Effect</strong> The ceiling in the crawlway collapses in the square where the passage turns, and also in the two adjacent squares. Anyone in these three squares takes @Damage[3d6[bludgeoning]] damage and can attempt a @Check[reflex|dc:14|traits:damaging-effect] save to reduce the damage. For the creature in the center square, where the trap is triggered, this is a basic save. Creatures in the two adjacent squares take no damage on a success or critical success as they avoid the falling debris entirely, but take full damage on a failed save, and take double damage on a critical failure. Creatures that take damage from the debris are @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, trapped under the crushing weight.</p>\n<p>Clearing out a square of debris requires a successful @Check[athletics|dc:17|name:Clear Debris] skill check, with the following effects.</p>\n<hr />\n<p><strong>Critical Success</strong> The square is cleared in 1 minute.</p>\n<p><strong>Success</strong> The square is cleared in 5 minutes.</p>\n<p><strong>Failure</strong> The square is cleared in 10 minutes.</p>\n<p><strong>Critical Failure</strong> The ceiling above the square collapses further, dealing an additional @Damage[2d6[bludgeoning]] damage to the character digging out the square and any character trapped in that square. This takes 1 minute and no progress is made.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Fiery Leopard": {
+      "_id": "9dUSCjehW90dZalE",
+      "name": {
+        "translate": "Вогняний леопард",
+        "original": "Fiery Leopard"
+      },
+      "items": {
+        "wq9Ba6Mh6YnXVsXK": {
+          "_id": "wq9Ba6Mh6YnXVsXK",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Jaws"
+          }
+        },
+        "KkLOOOl5y2bOv5Du": {
+          "_id": "KkLOOOl5y2bOv5Du",
+          "name": {
+            "translate": "Кігті",
+            "original": "Claw"
+          }
+        },
+        "GuqpbUegPq8TqK1N": {
+          "_id": "GuqpbUegPq8TqK1N",
+          "name": {
+            "translate": "Вогняна шкура",
+            "original": "Fiery Pelt"
+          },
+          "description": {
+            "translate": "<p>Істоти, які починають свій хід, будучи схопленими вогняним леопардом, отримують @Damage[1d4[fire]] шкоди. Кожен, хто намагається схопити вогняного леопарда, отримує @Damage[1d4[fire]] шкоди за кожну спробу.</p>",
+            "original": "<p>Creatures that start their turn grabbed by a fiery leopard take @Damage[1d4[fire]] damage. Anyone attempting to grapple a fiery leopard takes @Damage[1d4[fire]] damage for each attempt.</p>"
+          }
+        },
+        "a0nLNPvUl4P2cTvt": {
+          "_id": "a0nLNPvUl4P2cTvt",
+          "name": {
+            "translate": "Схоплення",
+            "original": "Grab"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unique",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Giant Lightning Serpent": {
+      "_id": "1Nr9cgWHMn8KtiXe",
+      "name": {
+        "translate": "Гігантський блискавичний змій",
+        "original": "Giant Lightning Serpent"
+      },
+      "items": {
+        "9EZ1of6AEqFfdcOl": {
+          "_id": "9EZ1of6AEqFfdcOl",
+          "name": {
+            "translate": "Ікла",
+            "original": "Fangs"
+          }
+        },
+        "YFTdFcS9k9nel5jX": {
+          "_id": "YFTdFcS9k9nel5jX",
+          "name": {
+            "translate": "Згорнута можливість (особлива)",
+            "original": "Coiled Opportunity (Special)"
+          },
+          "description": {
+            "translate": "<p>Як атака можливості, але змій може використати цю реакцію лише якщо він згорнутий.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
+            "original": "<p>As Attack of Opportunity, but the serpent can use this reaction only if it's coiled.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+          }
+        },
+        "zCmr3mFXGNUKM3R8": {
+          "_id": "zCmr3mFXGNUKM3R8",
+          "name": {
+            "translate": "Згорнутися",
+            "original": "Coil"
+          },
+          "description": {
+            "translate": "<p>Змій використовує дію, щоб згорнутися; збільшуючи свою досяжність іклів з 5 футів до 10 футів. Після удару іклами змій розгортається.</p>",
+            "original": "<p>The serpent uses an action to coil itself; increasing its reach with its fangs from 5 feet to 10 feet. After the serpent strikes with its fangs, it becomes uncoiled.</p>"
+          }
+        },
+        "lsjcV8DgDyoEiHoK": {
+          "_id": "lsjcV8DgDyoEiHoK",
+          "name": {
+            "translate": "Грімкий дзвінок",
+            "original": "Lightning Rattle"
+          },
+          "description": {
+            "translate": "<p>Змій дзвенить своїм дивним металевим хвостом і випускає блискавку в @Template[line|distance:60]. Блискавка завдає @Damage[2d10[electricity]|options:area-damage] шкоди (спас-кидок @Check[reflex|dc:17|basic|options:area-effect]).</p>\n<p>Після використання цієї здатності гігантський блискавичний змій повинен почекати [[/gmr 1d4 #Recharge Lightning Rattle]]{1d4 rounds}, перш ніж використовувати її знову.</p>",
+            "original": "<p>The serpent rattles its strange metal tail and unleashes a bolt of lightning in a @Template[line|distance:60]. The bolt deals @Damage[2d10[electricity]|options:area-damage] damage (@Check[reflex|dc:17|basic|options:area-effect] save).</p>\n<p>Once the giant lightning serpent uses this ability, it must wait [[/gmr 1d4 #Recharge Lightning Rattle]]{1d4 rounds} before doing so again.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Graytusk": {
+      "_id": "mTVzzdrinwHbsvqu",
+      "name": {
+        "translate": "Сірий ікло",
+        "original": "Graytusk"
+      },
+      "items": {
+        "42sLUmbtmStf9x4W": {
+          "_id": "42sLUmbtmStf9x4W",
+          "name": {
+            "translate": "Композитний довгий лук",
+            "original": "Composite Longbow"
+          },
+          "description": {
+            "translate": "<p>Ця метальна зброя виготовлена з рогу, дерева та сухожиль, ламінованих разом для збільшення сили натягу і сили снаряда. Як і всі довгі луки, її великий розмір також збільшує дальність і силу лука. Для стрільби потрібно використовувати обидві руки, і її не можна використовувати верхи. Будь-яка здатність, спеціально обмежена довгим луком, наприклад улюблена зброя Ерастила, також застосовується до композитних довгих луків, якщо не вказано інше.</p>",
+            "original": "<p>This projectile weapon is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Like all longbows, its great size also increases the bow's range and power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil's favored weapon, it also applies to composite longbows unless otherwise stated.</p>"
+          }
+        },
+        "uVFc6JtzT3YgqGcp": {
+          "_id": "uVFc6JtzT3YgqGcp",
+          "name": {
+            "translate": "Короткий меч",
+            "original": "Shortsword"
+          },
+          "description": {
+            "translate": "<p>Ці клинки мають різноманітні форми і стилі, але зазвичай вони довжиною 2 фути.</p>",
+            "original": "<p>These blades come in a variety of shapes and styles, but they are typically 2 feet long.</p>"
+          }
+        },
+        "9jSIXhTxiUMqX2pP": {
+          "_id": "9jSIXhTxiUMqX2pP",
+          "name": {
+            "translate": "Шкіряна броня з заклепками",
+            "original": "Studded Leather Armor"
+          },
+          "description": {
+            "translate": "<p>Ця шкіряна броня посилена металевими заклепками і іноді невеликими металевими пластинами, забезпечуючи більшість гнучкості шкіряної броні з більш надійним захистом.</p>",
+            "original": "<p>This leather armor is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.</p>"
+          }
+        },
+        "k9Ezx3Sv32rdPLhh": {
+          "_id": "k9Ezx3Sv32rdPLhh",
+          "name": {
+            "translate": "Стріли",
+            "original": "Arrows"
+          },
+          "description": {
+            "translate": "<p>Ці снаряди є боєприпасами для лука. Дерев’яний стрижень стріли стабілізується оперенням на одному кінці і має металеву головку на іншому.</p>",
+            "original": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+          }
+        },
+        "CoerEJBile8XaZEr": {
+          "_id": "CoerEJBile8XaZEr",
+          "name": {
+            "translate": "Короткий меч",
+            "original": "Shortsword"
+          }
+        },
+        "Ys1W0Ct28xcay6x9": {
+          "_id": "Ys1W0Ct28xcay6x9",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "o5S6ArjIn6h6ZhYc": {
+          "_id": "o5S6ArjIn6h6ZhYc",
+          "name": {
+            "translate": "Композитний довгий лук",
+            "original": "Composite Longbow"
+          }
+        },
+        "zwv0zKFXFGQKoz8c": {
+          "_id": "zwv0zKFXFGQKoz8c",
+          "name": {
+            "translate": "Лють",
+            "original": "Ferocity"
+          }
+        },
+        "jzIm0oDcLsATrw2h": {
+          "_id": "jzIm0oDcLsATrw2h",
+          "name": {
+            "translate": "Подвійний постріл",
+            "original": "Double Shot"
+          },
+          "description": {
+            "translate": "<p>Сірий ікло може зробити два дистанційні удари по двох різних цілях, кожен з -2 штрафом, штраф за множинні атаки Сірого ікла збільшується лише після обох атак.</p>",
+            "original": "<p>Graytusk can make two ranged Strikes against two different targets, each at a -2 penalty, Graytusk's multiple attack penalty increases only after both attacks are made.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-unique",
+          "type-npc",
+          "npc-chaotic"
+        ]
+      }
+    },
+    "Hallod": {
+      "_id": "H4yGpC6VuQpszlUl",
+      "name": {
+        "translate": "Галлод",
+        "original": "Hallod"
+      },
+      "items": {
+        "PcXLvnZFHPu8YBc8": {
+          "_id": "PcXLvnZFHPu8YBc8",
+          "name": {
+            "translate": "Важкий арбалет",
+            "original": "Heavy Crossbow"
+          },
+          "description": {
+            "translate": "<p>Цей великий арбалет важче заряджати і він більш масивний, ніж звичайний арбалет, але завдає більшої шкоди.</p>",
+            "original": "<p>This large crossbow is harder to load and more substantial than a regular crossbow, but it packs a greater punch.</p>"
+          }
+        },
+        "6W8Gl41RFm1zVZnT": {
+          "_id": "6W8Gl41RFm1zVZnT",
+          "name": {
+            "translate": "Кукрі",
+            "original": "Kukri"
+          },
+          "description": {
+            "translate": "<p>Лезо цього ножа довжиною в фут вигнуте всередину і не має перекладини на руків’ї.</p>",
+            "original": "<p>The blade of this foot-long knife curves inward and lacks a cross guard at the hilt.</p>"
+          }
+        },
+        "GSoMc84tQLeOcwHg": {
+          "_id": "GSoMc84tQLeOcwHg",
+          "name": {
+            "translate": "Шкіряна броня",
+            "original": "Leather Armor"
+          },
+          "description": {
+            "translate": "<p>Суміш гнучкої і формованої вареної шкіри, цей тип броні забезпечує певний захист при максимальній гнучкості.</p>",
+            "original": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+          }
+        },
+        "7ChbBnE9NpIFnI3W": {
+          "_id": "7ChbBnE9NpIFnI3W",
+          "name": {
+            "translate": "Ключ",
+            "original": "Key"
+          }
+        },
+        "58o7e9nxdNkBM1of": {
+          "_id": "58o7e9nxdNkBM1of",
+          "name": {
+            "translate": "Зілля лікування (менше)",
+            "original": "Healing Potion (Lesser)"
+          },
+          "description": {
+            "translate": "<p>Зілля лікування — це флакон рубіново-червоного рідини, що викликає поколювання, коли рани п’ючого швидко загоюються. Коли ви п’єте зілля лікування, ви відновлюєте @Damage[(2d8+5)[healing]] очок життя.</p>",
+            "original": "<p>A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain @Damage[(2d8+5)[healing]] Hit Points.</p>"
+          }
+        },
+        "6gjO0zL3ldOn7rgt": {
+          "_id": "6gjO0zL3ldOn7rgt",
+          "name": {
+            "translate": "Мутаген джагернаута (менший)",
+            "original": "Juggernaut Mutagen (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<hr />\n<p>Після випивання цього мутагену ваше тіло стає товстим і міцним. Ви маєте здоровий рум’янець, хоча стаєте повільними й неуважними.</p>\n<p><strong>Перевага</strong> Ви отримуєте предметний бонус +1 до спаскидків Стійкості та 5 тимчасових Пунктів Здоров’я. Щоразу, коли ви маєте максимум ПЗ щонайменше 1 повну хвилину, тимчасові ПЗ відновлюються.</p>\n<p><strong>Недолік</strong> Ви отримуєте штраф –2 до спаскидків Волі, перевірок Сприйняття та кидків ініціативи.</p>\n<p><strong>Тривалість</strong> 1 хвилина.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.1l139A2Qik4lBHKO]{Ефект: Мутаген джагернаута (слабший)}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<hr />\n<p>After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.</p>\n<p><strong>Benefit</strong> You gain a +1 item bonus to Fortitude saves and 5 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to Will saves, Perception checks and initiative rolls.</p>\n<p><strong>Duration</strong> 1 minute.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.1l139A2Qik4lBHKO]{Effect: Juggernaut Mutagen (Lesser)}</p>"
+          }
+        },
+        "absaDuPVtwrxZgJb": {
+          "_id": "absaDuPVtwrxZgJb",
+          "name": {
+            "translate": "Стрілки",
+            "original": "Bolts"
+          },
+          "description": {
+            "translate": "<p>Коротші за традиційні стріли, але схожі за конструкцією, стрілки є боєприпасами для арбалетів.</p>",
+            "original": "<p>Shorter than traditional arrows but similar in construction, bolts are the ammunition used by crossbows.</p>"
+          }
+        },
+        "BxmH1fhCQ3U0b1Nz": {
+          "_id": "BxmH1fhCQ3U0b1Nz",
+          "name": {
+            "translate": "Кукрі",
+            "original": "Kukri"
+          }
+        },
+        "dqQBS41Yru6Mb8AN": {
+          "_id": "dqQBS41Yru6Mb8AN",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "bdzjSnMLtILLG0C0": {
+          "_id": "bdzjSnMLtILLG0C0",
+          "name": {
+            "translate": "Важкий арбалет",
+            "original": "Heavy Crossbow"
+          }
+        },
+        "K2MWzRfYtb4a3g3b": {
+          "_id": "K2MWzRfYtb4a3g3b",
+          "name": {
+            "translate": "Атака можливості",
+            "original": "Attack of Opportunity"
+          }
+        },
+        "xMemEoOgOymquil3": {
+          "_id": "xMemEoOgOymquil3",
+          "name": {
+            "translate": "Брудний трюк",
+            "original": "Dirty Trick"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Галлод завдає критичного влучання в ближньому бою.</p>\n<hr />\n<p><strong>Ефект</strong> Галлод може спробувати перевірку Атлетики, щоб @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Штовхнути} або @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Підніжка} ціль своєї атаки. Це використовує той самий штраф за множинні атаки, що й атака, але не рахується як додаткова атака для цього штрафу</p>",
+            "original": "<p><strong>Trigger</strong> Hallod scores a critical hit with a melee attack.</p>\n<hr />\n<p><strong>Effect</strong> Hallod can attempt an Athletics check to @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} or @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} the target of his attack. This uses the same multiple attack penalty as the attack, but it does not count as an additional attack for that penalty</p>"
+          }
+        },
+        "9oxmm9BZ3rs5s1o5": {
+          "_id": "9oxmm9BZ3rs5s1o5",
+          "name": {
+            "translate": "Рух один-два",
+            "original": "One-Two Move"
+          },
+          "description": {
+            "translate": "<p>Галлод робить два удари, по одному кожною рукою; зазвичай він спочатку атакує своїм кукрі. Якщо цей перший удар влучає, ціль є @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька} для другої атаки (яка для Галлода зазвичай є ударом кулаком). Штраф за множинні атаки застосовується до цих атак як зазвичай</p>",
+            "original": "<p>Hallod makes two Strikes, one with each hand; he usually attacks first with his kukri. If this first attack hits, the target is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} to the second attack (which for Hallod is usually a fist Strike). The multiple attack penalty applies to these attacks as normal</p>"
+          }
+        },
+        "pwteaSOJloInqNGa": {
+          "_id": "pwteaSOJloInqNGa",
+          "name": {
+            "translate": "Удар у спину",
+            "original": "Sneak Attack"
+          },
+          "description": {
+            "translate": "<p>Галлод завдає 1d6 додаткової точності шкоди @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька} істотам.</p>",
+            "original": "<p>Hallod deals 1d6 extra precision damage precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-unique",
+          "type-npc",
+          "npc-evil"
+        ]
+      }
+    },
+    "Ice Fall Trap": {
+      "_id": "iPEuJ3rnGsrje66q",
+      "name": {
+        "translate": "Пастка Льодопаду",
+        "original": "Ice Fall Trap"
+      },
+      "description": {
+        "translate": "<p>Камери в стелі налаштовані так, щоб при відкритті дверей без ключа в кімнату проливалася заморожуюча алхімічна рідина.</p>",
+        "original": "<p>Compartments in the ceiling are rigged to drop a freezing alchemical liquid into the entire room if the door is opened without using the key.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:20|name:Disable Ice Fall|traits:mechanical,trap] (навчений) на дверях дозволяє відкрити їх без спрацювання пастки.</p>",
+        "original": "<p>@Check[thievery|dc:20|name:Disable Ice Fall|traits:mechanical,trap] (trained) on the door allows it to be opened without springing the trap.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "ctDUZ8gUdfvuUQoM": {
+          "_id": "ctDUZ8gUdfvuUQoM",
+          "name": {
+            "translate": "Льодопад",
+            "original": "Ice Fall"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Двері атакують або відкривають без використання ключа.</p>\n<hr />\n<p><strong>Ефект</strong> У кімнату виливається заморожуюча алхімічна суміш, завдаючи @Damage[4d6[cold]] шкоди всім у зоні (спасбросок @Check[reflex|dc:20|basic]).</p>",
+            "original": "<p><strong>Trigger</strong> The door is attacked or opened without using the key.</p>\n<hr />\n<p><strong>Effect</strong> A freezing alchemical slurry is dumped into the room, dealing @Damage[4d6[cold]] damage to everyone in the area (@Check[reflex|dc:20|basic] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Icy Rat": {
+      "_id": "EhtODTbFdElXSyXX",
+      "name": {
+        "translate": "Крижаний Щур",
+        "original": "Icy Rat"
+      },
+      "skills": {
+        "athletics": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "для Лазіння або Плавання",
+                "original": "to Climb or Swim"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "cdO3prxbJedebC1E": {
+          "_id": "cdO3prxbJedebC1E",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Jaws"
+          }
+        },
+        "gUXTztO5KPImLwMr": {
+          "_id": "gUXTztO5KPImLwMr",
+          "name": {
+            "translate": "Крижана Смерть",
+            "original": "Icy Death"
+          },
+          "description": {
+            "translate": "<p>Коли крижаний щур вбито, його тіло вибухає спалахом замороженого хутра і кісток, завдаючи @Damage[2d4[cold]] шкоди всім сусіднім істотам (спасбросок @Check[reflex|dc:14|basic]).</p>",
+            "original": "<p>When an icy rat is slain, its body explodes in a burst of frozen fur and bone, dealing @Damage[2d4[cold]] damage to all adjacent creatures (@Check[reflex|dc:14|basic] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-0",
+          "rarity-rare",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Lord Nar": {
+      "_id": "3h9BvfzrIU6fNxch",
+      "name": {
+        "translate": "Лорд Нар",
+        "original": "Lord Nar"
+      },
+      "items": {
+        "uXWjQ43sokd88wt9": {
+          "_id": "uXWjQ43sokd88wt9",
+          "name": {
+            "translate": "Велика Булава",
+            "original": "Greatclub"
+          },
+          "description": {
+            "translate": "<p>Хоча багато великих булав мають складний різьблений візерунок, інші — це просто міцні гілки дерев. Ці масивні булави занадто важкі, щоб їх тримати однією рукою.</p>",
+            "original": "<p>While many greatclubs are intricately carved, others are little more than a sturdy tree branch. These massive clubs are too heavy to wield with only one hand.</p>"
+          }
+        },
+        "QZCm3LKQ5KlUdydM": {
+          "_id": "QZCm3LKQ5KlUdydM",
+          "name": {
+            "translate": "Сокира",
+            "original": "Hatchet"
+          },
+          "description": {
+            "translate": "<p>Ця маленька сокира може використовуватися в ближньому бою або кидатися.</p>",
+            "original": "<p>This small axe can be used in close combat or thrown.</p>"
+          }
+        },
+        "ISn39rVo3LNTBmaX": {
+          "_id": "ISn39rVo3LNTBmaX",
+          "name": {
+            "translate": "Шкіряна Броня",
+            "original": "Hide Armor"
+          },
+          "description": {
+            "translate": "<p>Суміш хутра, міцної шкіри і іноді формованої вареної шкіри, ця броня забезпечує захист завдяки шарам шкіри, хоча її громіздкість уповільнює носія і знижує мобільність.</p>",
+            "original": "<p>A mix of furs, sturdy hide, and sometimes molded boiled leather, this armor provides protection due to its layers of leather, though its bulkiness slows the wearer down and decreases mobility.</p>"
+          }
+        },
+        "118sQ4tVvJdGHz7X": {
+          "_id": "118sQ4tVvJdGHz7X",
+          "name": {
+            "translate": "Бронзовий Ключ",
+            "original": "Bronze Key"
+          }
+        },
+        "09b0IlFnSJXdgoC2": {
+          "_id": "09b0IlFnSJXdgoC2",
+          "name": {
+            "translate": "+1 Велика Булава",
+            "original": "+1 Greatclub"
+          }
+        },
+        "GCZ8JN24FbufHgGD": {
+          "_id": "GCZ8JN24FbufHgGD",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "AwlVudq6AfPfI2GF": {
+          "_id": "AwlVudq6AfPfI2GF",
+          "name": {
+            "translate": "Сокира",
+            "original": "Hatchet"
+          }
+        },
+        "MniHsuizLJt2egqu": {
+          "_id": "MniHsuizLJt2egqu",
+          "name": {
+            "translate": "Лють",
+            "original": "Ferocity"
+          }
+        },
+        "Jx2oL3c8t1JB3fOK": {
+          "_id": "Jx2oL3c8t1JB3fOK",
+          "name": {
+            "translate": "Немає Втечі",
+            "original": "No Escape"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Супротивник поруч відходить.</p>\n<hr />\n<p><strong>Ефект</strong> Лорд Нар може рухатися зі своєю швидкістю, але повинен закінчити рух якомога ближче до тригерної істоти, не заходячи в її клітку.</p>",
+            "original": "<p><strong>Trigger</strong> An adjacent foe moves away.</p>\n<hr />\n<p><strong>Effect</strong> Lord Nar may move up to his speed but must end his move as close to the triggering creature as possible without entering the triggering creature's square.</p>"
+          }
+        },
+        "3QorQFU1nCUU8HJK": {
+          "_id": "3QorQFU1nCUU8HJK",
+          "name": {
+            "translate": "Лють",
+            "original": "Rage"
+          },
+          "description": {
+            "translate": "<p>Лорд Нар впадає в лють, що триває 1 хвилину і дає йому 8 тимчасових очок життя, +4 додаткової шкоди його вказаними атаками та -1 штраф до КЗ.</p>\n<p>Він не може використовувати дії з рисою концентрації під час люті, якщо вони не мають також рису люті.</p>\n<p>Після закінчення люті Нар не може знову впасти в лють протягом 1 хвилини.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr]{Ефект: Лють}</p>",
+            "original": "<p>Lord Nar flies into a rage that lasts 1 minute and grants him 8 temporary Hit Points, 4 additional damage with his listed attacks, and a -1 penalty to AC.</p>\n<p>He cannot use actions that have the concentrate trait while raging, unless they also have the rage trait.</p>\n<p>Once his rage ends, Nar cannot Rage again for 1 minute.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr]{Effect: Rage}</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-unique",
+          "type-npc",
+          "npc-chaotic"
+        ]
+      }
+    },
+    "Mangy Wolf": {
+      "_id": "kZI5UjgXcJjrOIR8",
+      "name": {
+        "translate": "Брудний Вовк",
+        "original": "Mangy Wolf"
+      },
+      "items": {
+        "koc2s7ltYftll9WL": {
+          "_id": "koc2s7ltYftll9WL",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Jaws"
+          }
+        },
+        "NImIftzNflSehe9o": {
+          "_id": "NImIftzNflSehe9o",
+          "name": {
+            "translate": "Блохи",
+            "original": "Fleas"
+          },
+          "description": {
+            "translate": "<p>Кожен, кого вкусив брудний вовк, є @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} протягом 1 хвилини, якщо не вдасться зробити спасбросок @Check[fortitude|dc:14], але можна витратити дію Взаємодії, щоб зчесати бліх і зняти стан.</p>",
+            "original": "<p>Anyone bitten by a mangy wolf is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} for 1 minute unless they succeed at a @Check[fortitude|dc:14] save, but they can spend an Interact action to scratch away the fleas and remove the condition.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Mutant Wolf": {
+      "_id": "WV8sdgARGVUb39WM",
+      "name": {
+        "translate": "Мутант Вовк",
+        "original": "Mutant Wolf"
+      },
+      "items": {
+        "Xw1S2BC5EEKdRyD5": {
+          "_id": "Xw1S2BC5EEKdRyD5",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Jaws"
+          }
+        },
+        "DjVPq3PeaxxihodC": {
+          "_id": "DjVPq3PeaxxihodC",
+          "name": {
+            "translate": "Відчуття руху (Точне) 30 футів",
+            "original": "Motion Sense (Precise) 30 feet"
+          },
+          "description": {
+            "translate": "<p>Мутант вовк може відчувати близький рух через вібрації та рух повітря.</p>",
+            "original": "<p>A mutant wolf can sense nearby motion through vibration and air movement.</p>"
+          }
+        },
+        "LRUdI4Dxl52iFGfD": {
+          "_id": "LRUdI4Dxl52iFGfD",
+          "name": {
+            "translate": "Струмінь Крові",
+            "original": "Gore Spray"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота завдає мутантові вовку критичний удар, перебуваючи поруч.</p>\n<hr />\n<p><strong>Ефект</strong> Рана спричиняє викид крові з розірваної пухлини. Істота, що спричинила тригер, отримує @Damage[3d6[acid]] шкоди (спасбросок @Check[reflex|dc:19|basic]). Це відбувається навіть якщо атака вбиває вовка.</p>",
+            "original": "<p><strong>Trigger</strong> A creature critically hits a mutant wolf while adjacent to it.</p>\n<hr />\n<p><strong>Effect</strong> The wound causes gore to spray from a ruptured pustule. The triggering creature takes @Damage[3d6[acid]] damage (@Check[reflex|dc:19|basic] save). This occurs even if the attack kills the wolf.</p>"
+          }
+        },
+        "AAfX9iCUSEremClg": {
+          "_id": "AAfX9iCUSEremClg",
+          "name": {
+            "translate": "Роздирання",
+            "original": "Tear"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Попередньою дією вовк завдав істоті шкоди щелепами.</p>\n<hr />\n<p><strong>Ефект</strong> Вовк роздирає плоть істоти, завдаючи @Damage[(1d6+2)[slashing],1[persistent,acid]]{1d6+2 рубальної шкоди та 1 тривалої шкоди кислотою}.</p>",
+            "original": "<p><strong>Trigger</strong> The wolf dealt damage to a creature with its jaws during the previous action.</p>\n<hr />\n<p><strong>Effect</strong> The wolf tears at the creature's flesh, dealing @Damage[(1d6+2)[slashing],1[persistent,acid]]{1d6+2 slashing damage and 1 persistent acid damage}.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-rare",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Orc Alchemist": {
+      "_id": "X0AJV2Zfj2d6rab5",
+      "name": {
+        "translate": "Орк-Алхімік",
+        "original": "Orc Alchemist"
+      },
+      "items": {
+        "fZrhEBe04uyvQkjR": {
+          "_id": "fZrhEBe04uyvQkjR",
+          "name": {
+            "translate": "Кислотна Фляга (Менша)",
+            "original": "Acid Flask (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Удар</p>\n<p>Цей флакон із їдкою кислотою завдає 1 шкоди кислотою, 1d6 тривалої шкоди кислотою та 1 шкоди кислотою бризками.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>This flask filled with corrosive acid deals 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage.</p>"
+          }
+        },
+        "bZsVYsCeMAQXrbGQ": {
+          "_id": "bZsVYsCeMAQXrbGQ",
+          "name": {
+            "translate": "Вогонь Алхіміка (Менший)",
+            "original": "Alchemist's Fire (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Удар</p>\n<p>Алхімічний вогонь — це суміш летких рідин, що спалахують під дією повітря. Він завдає 1d8 шкоди вогнем, 1 тривалої шкоди вогнем і 1 шкоди вогнем бризками.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 1d8 fire damage, 1 persistent fire damage, and 1 fire splash damage.</p>"
+          }
+        },
+        "2qY5xj5MQyV3S9W4": {
+          "_id": "2qY5xj5MQyV3S9W4",
+          "name": {
+            "translate": "Блискавка в пляшці (Менша)",
+            "original": "Bottled Lightning (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Удар</p>\n<p>Блискавка в пляшці наповнена леткими реагентами, які під дією повітря створюють вибух електрики. Вона завдає 1d6 шкоди електрикою та 1 шкоди електрикою бризками. У разі влучання ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Захопленою зненацька} до початку вашого наступного ходу.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 1d6 electricity damage and 1 electricity splash damage. On a hit, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of your next turn.</p>"
+          }
+        },
+        "HdUMUQfl9KdhAA7l": {
+          "_id": "HdUMUQfl9KdhAA7l",
+          "name": {
+            "translate": "Оркський Кинджал з Кулаком",
+            "original": "Orc Knuckle Dagger"
+          },
+          "description": {
+            "translate": "<p>Цей міцний металевий клинок оркського дизайну має горизонтальну корзину-рукоять з лезами на кожному кінці або іноді одне лезо, як у катара.</p>",
+            "original": "<p>This stout, metal blade of orc design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.</p>"
+          }
+        },
+        "FcfU2JJeDS5GyYnt": {
+          "_id": "FcfU2JJeDS5GyYnt",
+          "name": {
+            "translate": "Еліксир Життя (Менший)",
+            "original": "Elixir of Life (Minor)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<p>Еліксири життя прискорюють природні процеси зцілення та імунну систему живої істоти. Випивши цей еліксир, ви відновлюєте @Damage[1d6[healing]] Пунктів Здоров’я й на 10 хвилин отримуєте предметний бонус +1 до спаскидків проти хвороб і отрут.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Ефект: Еліксир життя}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[1d6[healing]] Hit Points and gain +1 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>"
+          }
+        },
+        "uIhA0oi2q9kLAXL6": {
+          "_id": "uIhA0oi2q9kLAXL6",
+          "name": {
+            "translate": "Оркський Кинджал з Кулаком",
+            "original": "Orc Knuckle Dagger"
+          }
+        },
+        "6ysECNVXKzoWcaF2": {
+          "_id": "6ysECNVXKzoWcaF2",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "EMOqcPy4SH9Nlfjf": {
+          "_id": "EMOqcPy4SH9Nlfjf",
+          "name": {
+            "translate": "Кислотна Фляга",
+            "original": "Acid Flask"
+          }
+        },
+        "fViR8itFaogs7nbf": {
+          "_id": "fViR8itFaogs7nbf",
+          "name": {
+            "translate": "Вогонь Алхіміка",
+            "original": "Alchemist's Fire"
+          }
+        },
+        "hPj1DlCJj8213dpU": {
+          "_id": "hPj1DlCJj8213dpU",
+          "name": {
+            "translate": "Блискавка в пляшці",
+            "original": "Bottled Lightning"
+          }
+        },
+        "LKJzKcaecbiR9cOe": {
+          "_id": "LKJzKcaecbiR9cOe",
+          "name": {
+            "translate": "Лють",
+            "original": "Ferocity"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-npc",
+          "npc-chaotic"
+        ]
+      }
+    },
+    "Spear Launcher": {
+      "_id": "jpw5eHse4EcmYSp6",
+      "name": {
+        "translate": "Запускатель Копій",
+        "original": "Spear Launcher"
+      },
+      "description": {
+        "translate": "<p>Старий важкий арбалет захований у купі сміття, заряджений дерев'яним списом і підключений до мотузки, що тримає двері.</p>",
+        "original": "<p>An old heavy crossbow is hidden in a pile of trash, loaded with a wooden spear, and connected to the rope holding the door.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:18|traits:action:disable-a-device]{Thievery (trained)} на мотузці дозволяє гравцеві зав'язати мотузку і відкрити двері без спрацювання пастки.</p>",
+        "original": "<p>@Check[thievery|dc:18|traits:action:disable-a-device]{Thievery (trained)} on the rope allows a PC to tie the rope off and open the door without setting off the trap.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "YapaAOg2pzlW9uPP": {
+          "_id": "YapaAOg2pzlW9uPP",
+          "name": {
+            "translate": "Спис",
+            "original": "Spear"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Мотузку перерізано або розв'язано від дверей</p>\n<hr />\n<p><strong>Ефект</strong> Пастка робить атаку проти істоти, що маніпулювала мотузкою</p>",
+            "original": "<p><strong>Trigger</strong> The rope is cut or otherwise untied from the door</p>\n<hr />\n<p><strong>Effect</strong> The trap makes an attack against the creature that manipulated the rope</p>"
+          }
+        },
+        "ZizBeGklUEvX03AL": {
+          "_id": "ZizBeGklUEvX03AL",
+          "name": {
+            "translate": "Спис",
+            "original": "Spear"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Stone Horse": {
+      "_id": "23kCcF391RtapbfJ",
+      "name": {
+        "translate": "Кам'яний Кінь",
+        "original": "Stone Horse"
+      },
+      "items": {
+        "mVLpape73XGX3YNO": {
+          "_id": "mVLpape73XGX3YNO",
+          "name": {
+            "translate": "Копито",
+            "original": "Hoof"
+          }
+        },
+        "3Ope7LQxbCtQSi9I": {
+          "_id": "3Ope7LQxbCtQSi9I",
+          "name": {
+            "translate": "Руйнівні Копита",
+            "original": "Shattering Hooves"
+          },
+          "description": {
+            "translate": "<p>Копита кам'яного коня тверді, як залізо; якщо кінь робить удар копитом і отримує критичний удар, броня цілі також пошкоджується, атака завдає броні стільки ж шкоди, скільки і цілі (твердість застосовується як зазвичай). Якщо ціль використовує блок щитом проти критичного удару копитом кам'яного коня, вважайте твердість щита на 5 пунктів меншою (мінімум 0).</p>",
+            "original": "<p>The hooves of the stone horse are as hard as iron; if the horse makes a Hoof Strike and gets a critical hit, the target's armor is damaged as well, the attack dealing as much damage to the armor as it dealt to the target (Hardness applies as normal). If the target uses shield block against the stone horse's critical hit with a hoof attack, treat the shield's Hardness as 5 points lower (minimum 0).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "The Amalgam": {
+      "_id": "lPHwAyFAeAhHLNnU",
+      "name": {
+        "translate": "Амальгама",
+        "original": "The Amalgam"
+      },
+      "allSaves": {
+        "translate": "багато розумів",
+        "original": "many minds"
+      },
+      "items": {
+        "hAbzq1tpTvroGM7K": {
+          "_id": "hAbzq1tpTvroGM7K",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "07qei80LxKKiWNhz": {
+          "_id": "07qei80LxKKiWNhz",
+          "name": {
+            "translate": "Кігті",
+            "original": "Claw"
+          }
+        },
+        "oiZuDwzyqsBfnEC8": {
+          "_id": "oiZuDwzyqsBfnEC8",
+          "name": {
+            "translate": "Щелепи",
+            "original": "Jaws"
+          }
+        },
+        "JezMP2oZx98hZf5Q": {
+          "_id": "JezMP2oZx98hZf5Q",
+          "name": {
+            "translate": "Хвіст",
+            "original": "Tail"
+          }
+        },
+        "fr8P60Chpggm4lht": {
+          "_id": "fr8P60Chpggm4lht",
+          "name": {
+            "translate": "Багато Розумів",
+            "original": "Many Minds"
+          },
+          "description": {
+            "translate": "<p>Амальгама має багато свідомостей, що плавають у її розумі, і вони не однаково впливаються ментальною магією. Амальгама завжди розглядає свої спасброски проти ментальних ефектів як на один ступінь кращі.</p>",
+            "original": "<p>The Amalgam has many consciousnesses floating inside its mind, and they are not equally affected by mental magic. The Amalgam always treats its saving throws against mental effects as one degree better.</p>"
+          }
+        },
+        "T9q5kmziWsJFwQ0c": {
+          "_id": "T9q5kmziWsJFwQ0c",
+          "name": {
+            "translate": "Занадто Багато Кінцівок",
+            "original": "Too Many Limbs"
+          },
+          "description": {
+            "translate": "<p>Амальгама може зробити до чотирьох ударів, по одному кожною з її вказаних ближніх атак, але не більше двох по одній цілі. Вона отримує -2 штраф до кожної атаки, але штраф за множинні атаки не збільшується, доки всі атаки не зроблені.</p>",
+            "original": "<p>The amalgam can make up to four Strikes, one with each of its listed melee attacks, but no more than two at any one target. It takes a -2 penalty to each attack, but the multiple attack penalty does not increase until all the attacks are made.</p>"
+          }
+        },
+        "LcZLS93hTrGELAY4": {
+          "_id": "LcZLS93hTrGELAY4",
+          "name": {
+            "translate": "Підніжка",
+            "original": "Trip"
+          },
+          "description": {
+            "translate": "<p><strong>Вимоги</strong> У вас вільна хоча б одна рука. Ваша ціль не може бути більш ніж на один розмір більша за вас</p>\n<hr />\n<p>Ви намагаєтеся збити істоту з ніг. Спробуйте перевірку [[/act trip]]{Athletics} проти Рефлексу цілі.</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Ціль падає і опиняється @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Лежить навзнак}, отримуючи @Damage[1d6[bludgeoning]] шкоди.</p>\n<p><strong>Успіх</strong> Ціль падає і опиняється лежачи.</p>\n<p><strong>Критична Помилка</strong> Ви втрачаєте рівновагу, падаєте і опиняєтеся лежачи.</p>",
+            "original": "<p><strong>Requirements</strong> You have at least one hand free. Your target can't be more than one size larger than you</p>\n<hr />\n<p>You try to knock a creature to the ground. Attempt an [[/act trip]]{Athletics} check against the target's Reflex DC.</p>\n<hr />\n<p><strong>Critical Success</strong> The target falls and lands @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} and takes @Damage[1d6[bludgeoning]] damage.</p>\n<p><strong>Success</strong> The target falls and lands prone.</p>\n<p><strong>Critical Failure</strong> You lose your balance and fall and land prone.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-unique",
+          "type-npc",
+          "npc-aberration"
+        ]
+      }
+    },
+    "The Behemoth": {
+      "_id": "IU4Gx9vHKMT2KYDq",
+      "name": {
+        "translate": "Велетень",
+        "original": "The Behemoth"
+      },
+      "languages": {
+        "translate": "(не може говорити), зв’язок емпатії",
+        "original": "(can't speak), empathy link"
+      },
+      "items": {
+        "WtfcXfbAXXdkKtTz": {
+          "_id": "WtfcXfbAXXdkKtTz",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "hFW1o4do0v4GBG9f": {
+          "_id": "hFW1o4do0v4GBG9f",
+          "name": {
+            "translate": "Зв’язок Емпатії",
+            "original": "Empathy Link"
+          },
+          "description": {
+            "translate": "<p>Велетень не може говорити, але його розум пов’язаний з творцем. Він може ділитися базовою емоційною інформацією зі своїм творцем, такою як страх, радість або гнів. Якщо велетень знищується, його господар автоматично про це дізнається. Дальність цього зв’язку — 1500 футів.</p>",
+            "original": "<p>The behemoth can't speak, but its mind is linked to its creator. It can share basic emotional information with its creator, such as fear, happiness, or anger. If the behemoth is destroyed, its master automatically knows this. The range of this link is 1,500 feet.</p>"
+          }
+        },
+        "nCqM4vxcz2ZtK9Ka": {
+          "_id": "nCqM4vxcz2ZtK9Ka",
+          "name": {
+            "translate": "Атака Можливості",
+            "original": "Attack of Opportunity"
+          }
+        },
+        "NRhJd4TWmu6ZArpW": {
+          "_id": "NRhJd4TWmu6ZArpW",
+          "name": {
+            "translate": "Масивний Удар",
+            "original": "Massive Strike"
+          },
+          "description": {
+            "translate": "<p>Велетень робить ближній удар і, якщо атака влучає, може відштовхнути істоту на 10 футів (20 футів при критичному ударі). Ціль має пройти спасбросок @Check[fortitude|dc:19] або бути збитою @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Лежить навзнак} цією атакою.</p>",
+            "original": "<p>The behemoth makes a melee Strike and, if the attack hits, it can push the creature back 10 feet (20 feet on a critical hit). The target must succeed at a @Check[fortitude|dc:19] save or be knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} by this attack.</p>"
+          }
+        },
+        "A1XwGa6RjEXJGJQJ": {
+          "_id": "A1XwGa6RjEXJGJQJ",
+          "name": {
+            "translate": "Топтання",
+            "original": "Stomp"
+          },
+          "description": {
+            "translate": "<p>Велетень може топтати землю, змушуючи всіх істот у радіусі 10 футів впасти @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Лежить навзнак} (спасбросок @Check[reflex|dc:19] скасовує).</p>",
+            "original": "<p>The behemoth can stomp on the ground, causing all creatures within 10 feet to fall @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} (@Check[reflex|dc:19] save negates).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-unique",
+          "type-npc",
+          "npc-construct"
+        ]
+      }
+    },
+    "The Sculptor": {
+      "_id": "h9b23NJBKSACAkWa",
+      "name": {
+        "translate": "Скульптор",
+        "original": "The Sculptor"
+      },
+      "items": {
+        "1D0fyBgX98vg1Vtg": {
+          "_id": "1D0fyBgX98vg1Vtg",
+          "name": {
+            "translate": "Оркський Кинджал з Кулаком",
+            "original": "Orc Knuckle Dagger"
+          },
+          "description": {
+            "translate": "<p>Цей міцний металевий клинок оркського дизайну має горизонтальну корзину-рукоять з лезами на кожному кінці або іноді одне лезо, як у катара.</p>",
+            "original": "<p>This stout, metal blade of orc design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.</p>"
+          }
+        },
+        "nWZObmCdoI2whZKc": {
+          "_id": "nWZObmCdoI2whZKc",
+          "name": {
+            "translate": "Вогонь Алхіміка (Середній, Насичений)",
+            "original": "Alchemist's Fire (Moderate, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Удар</p>\n<p>Алхімічний вогонь — це суміш летких рідин, що спалахують під дією повітря. Алхімічний вогонь завдає 2d8 шкоди вогнем, 2 тривалої шкоди вогнем і 2 шкоди вогнем бризками. Ви отримуєте предметний бонус +1 до кидків атак.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 2d8 fire damage, 2 persistent fire damage, and 2 fire splash damage. You gain a +1 item bonus to attack rolls.</p>"
+          }
+        },
+        "Qng0P7o12DtXwhza": {
+          "_id": "Qng0P7o12DtXwhza",
+          "name": {
+            "translate": "Флакон Морозу (Середній, Насичений)",
+            "original": "Frost Vial (Moderate, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">1</span> Удар</p>\n<hr />\n<p>Рідкі реагенти у цьому флаконі швидко поглинають тепло при контакті з повітрям. Флакон морозу завдає вказаної холодної шкоди та шкоди від холодного сплеску. При влучанні ціль отримує штраф до швидкостей до кінця свого наступного ходу. Багато типів флаконів морозу також дають бонус предмета до кидків атаки.</p>\n<p>Ви отримуєте +1 бонус предмета до кидків атаки, бомба завдає 2d6 холодної шкоди і 2 шкоди від холодного сплеску, а ціль отримує штраф -10 футів.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Strike</p>\n<hr />\n<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>You gain a +1 item bonus to attack rolls, the bomb deals 2d6 cold damage and 2 cold splash damage, and the target takes a –10-foot penalty.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial}</p>"
+          }
+        },
+        "07TM5wTwt5fQ9ypI": {
+          "_id": "07TM5wTwt5fQ9ypI",
+          "name": {
+            "translate": "Шкіряна Броня з Накладками",
+            "original": "Studded Leather Armor"
+          },
+          "description": {
+            "translate": "<p>Ця шкіряна броня посилена металевими заклепками і іноді маленькими металевими пластинами, забезпечуючи більшу гнучкість шкіряної броні з більш надійним захистом.</p>",
+            "original": "<p>This leather armor is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.</p>"
+          }
+        },
+        "sfP77Z49y77mmDBE": {
+          "_id": "sfP77Z49y77mmDBE",
+          "name": {
+            "translate": "Окуляр Майстра",
+            "original": "Crafter's Eyepiece"
+          },
+          "description": {
+            "translate": "<p>Цей міцний металевий окуляр з квадратним візерунком призначений для носіння на одному оці. Поворот лінзи відкриває слабкий тривимірний контур предмета, який ви плануєте створити або відремонтувати, з корисними позначками на складових частинах.</p>\n<p>Поки окуляр одягнений, він дає +1 бонус предмета до перевірок Ремесла. Коли ви ремонтуєте предмет, збільшуйте відновлені очки життя на 15 за кожен рівень навички замість 10.</p>",
+            "original": "<p>This rugged metal eyepiece etched with square patterns is designed to be worn over a single eye. Twisting the lens reveals a faint three-dimensional outline of an item you plan to build or repair, with helpful labels on the component parts.</p>\n<p>While worn, this eyepiece gives you a +1 item bonus to Crafting checks. When you Repair an item, increase the Hit Points restored by 15 per proficiency rank instead of 10.</p>"
+          }
+        },
+        "SRmAby5RV9B2hDc5": {
+          "_id": "SRmAby5RV9B2hDc5",
+          "name": {
+            "translate": "Еліксир Ока Бомбардира (Менший)",
+            "original": "Bomber's Eye Elixir (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<p>Ця настоянка дає змогу точно визначати положення ворогів. Протягом наступних 5 хвилин ваші Удари алхімічними бомбами зменшують на 1 обставинний бонус до КБ, який цілі отримують від укриття.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p>This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from cover by 1.</p>"
+          }
+        },
+        "ly7mQpnwRdZLf1Hd": {
+          "_id": "ly7mQpnwRdZLf1Hd",
+          "name": {
+            "translate": "Еліксир Життя (Менший, Насичений)",
+            "original": "Elixir of Life (Lesser, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<p>Еліксири життя прискорюють природні процеси зцілення та імунну систему живої істоти. Випивши цей еліксир, ви відновлюєте @Damage[(3d6+6)[healing]] Пунктів Здоров’я й на 10 хвилин отримуєте предметний бонус +1 до спаскидків проти хвороб і отрут.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Ефект: Еліксир життя}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creatures natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[(3d6+6)[healing]] Hit Points and gain +1 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>"
+          }
+        },
+        "AJWjRyrAAIHiYhoC": {
+          "_id": "AJWjRyrAAIHiYhoC",
+          "name": {
+            "translate": "Оркський Кинджал з Кулаком",
+            "original": "Orc Knuckle Dagger"
+          }
+        },
+        "agzqqH3xx1cwPvYd": {
+          "_id": "agzqqH3xx1cwPvYd",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "TAU5ivcNMiNlO22I": {
+          "_id": "TAU5ivcNMiNlO22I",
+          "name": {
+            "translate": "Вогонь Алхіміка",
+            "original": "Alchemist's Fire"
+          }
+        },
+        "qy0FT7Uc1pkIw9VL": {
+          "_id": "qy0FT7Uc1pkIw9VL",
+          "name": {
+            "translate": "Флакон Морозу",
+            "original": "Frost Vial"
+          }
+        },
+        "ybVy82D41OJgh19C": {
+          "_id": "ybVy82D41OJgh19C",
+          "name": {
+            "translate": "Кислотна Фляга",
+            "original": "Acid Flask"
+          }
+        },
+        "XaUIXvZNj4MAeDYh": {
+          "_id": "XaUIXvZNj4MAeDYh",
+          "name": {
+            "translate": "Блискавка в пляшці",
+            "original": "Bottled Lightning"
+          }
+        },
+        "tRbuse2Nw4kFyQar": {
+          "_id": "tRbuse2Nw4kFyQar",
+          "name": {
+            "translate": "Лють",
+            "original": "Ferocity"
+          }
+        },
+        "DBlqCyXmWFAIQkEK": {
+          "_id": "DBlqCyXmWFAIQkEK",
+          "name": {
+            "translate": "Алхімія",
+            "original": "Alchemy"
+          },
+          "description": {
+            "translate": "<p>Скульптор використав свою алхімію, щоб створити 4 @UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{Вогонь алхіміка (Середній)}, 2 @UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{Еліксир життя (Менший)} і 4 @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{Флакон Морозу (Середній)}. Це інфузії. Він може витратити дію, щоб створити додатковий флакон будь-якого з них, @UUID[Compendium.pf2e.equipment-srd.Item.AFR01HVd7DcZvkpP]{Пляшкована блискавка (Маленька)} або @UUID[Compendium.pf2e.equipment-srd.Item.M1k5QQc1qQLxzyCK]{Пляшка з кислотою (Маленька)}</p>",
+            "original": "<p>The Sculptor has used his alchemy ability to create 4 @UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{Alchemist's Fire (Moderate)}, 2 @UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{Elixir of Life (Lesser)}, and 4 @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{Frost Vial (Moderate)}. These are infusions. He can spend an action to create an additional vial of any one of those, @UUID[Compendium.pf2e.equipment-srd.Item.AFR01HVd7DcZvkpP]{Bottled Lightning (Lesser)}, or a @UUID[Compendium.pf2e.equipment-srd.Item.M1k5QQc1qQLxzyCK]{Acid Flask (Lesser)}</p>"
+          }
+        },
+        "dCVpgXVgB9Cvbkk8": {
+          "_id": "dCVpgXVgB9Cvbkk8",
+          "name": {
+            "translate": "Швидкий Бомбардир",
+            "original": "Quick Bomber"
+          },
+          "description": {
+            "translate": "<p>Скульптор може використати Взаємодію, щоб дістати бомбу, а потім нанести нею удар.</p>",
+            "original": "<p>The Sculptor can use Interact to draw a bomb and then Strike with it.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-unique",
+          "type-npc",
+          "npc-chaotic"
+        ]
+      }
+    },
+    "Vilree": {
+      "_id": "Er9kW7JtUX4zf15Q",
+      "name": {
+        "translate": "Вілрі",
+        "original": "Vilree"
+      },
+      "items": {
+        "pkUSoNTqgtnI9GU4": {
+          "_id": "pkUSoNTqgtnI9GU4",
+          "name": {
+            "translate": "Алхімічний Арбалет",
+            "original": "Alchemical Crossbow"
+          },
+          "description": {
+            "translate": "<p>Цей арбалет може стріляти болтами, насиченими алхімічними речовинами. На боці прикладу біля лещата встановлено металевий кронштейн. Як дію, ви можете зарядити в кронштейн одну меншу алхімічну бомбу; ця бомба має завдавати енергетичної шкоди (наприклад, кислотна фляга, алхімічний вогонь, пляшка блискавки, морозна ампула або грімкамінь).</p>\n<p>Наступні три атаки арбалетом завдають [[/r 1d6]] шкоди типу бомби додатково до звичайної шкоди арбалета. Якщо друга і третя атаки не будуть здійснені протягом 1 хвилини після першої, енергія бомби витрачається даремно. Ці атаки ніколи не завдають шкоди від розльоту або інших спеціальних ефектів бомби і не модифікуються здібностями, що додають або змінюють ефекти бомби.</p>\n<p>Додавання кронштейна порушує баланс зброї, зменшуючи її дальність до 30 футів. В іншому він функціонує як арбалет (при визначенні шкоди, перезарядки тощо). Сутності використовують свою майстерність арбалета при користуванні алхімічним арбалетом.</p>",
+            "original": "<p>This crossbow can deliver alchemically infused bolts. The strange weapon has a metal bracket mounted on the side of the stock near the lath. As an action, you can load a single lesser alchemical bomb into the bracket; this bomb must be one that deals energy damage (such as an acid flask, alchemist's fire, bottled lightning, frost vial, or thunderstone).</p>\n<p>The next three attacks made with the crossbow deal [[/r 1d6]] damage of the bomb's damage type in addition to the crossbow's normal damage. If the second and third attacks are not all made within 1 minute of the first attack, the bomb's energy is wasted. These attacks never deal splash damage or other special effects of the bomb and are not modified by any abilities that add to or modify a bomb's effect.</p>\n<p>The addition of the bracket serves to unbalance the weapon, reducing its range to 30 feet. It otherwise functions as a crossbow (when determining damage, reload, and so on). Creatures use their crossbow proficiency when using the alchemical crossbow.</p>"
+          }
+        },
+        "EMEgEFhVpogHt1ou": {
+          "_id": "EMEgEFhVpogHt1ou",
+          "name": {
+            "translate": "Кинджал",
+            "original": "Dagger"
+          },
+          "description": {
+            "translate": "<p>Ця маленька клинкова зброя тримається в одній руці і використовується для колючих ударів у ближньому бою. Також її можна кидати.</p>",
+            "original": "<p>This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.</p>"
+          }
+        },
+        "4MqzrR0HiCRLqDYj": {
+          "_id": "4MqzrR0HiCRLqDYj",
+          "name": {
+            "translate": "Кинджал",
+            "original": "Dagger"
+          },
+          "description": {
+            "translate": "<p>Ця маленька клинкова зброя тримається в одній руці і використовується для колючих ударів у ближньому бою. Також її можна кидати.</p>",
+            "original": "<p>This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.</p>"
+          }
+        },
+        "XrXyd2Jutclay3SY": {
+          "_id": "XrXyd2Jutclay3SY",
+          "name": {
+            "translate": "Кислотна фляга (Середня, Насичена)",
+            "original": "Acid Flask (Moderate, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активація</strong> <span class=\"action-glyph\">A</span> Удар</p>\n<p>Ця колба з їдкою кислотою завдає 1 шкоди кислотою, 2d6 тривалої шкоди кислотою та 2 шкоди бризками кислоти. Ви отримуєте предметний бонус +1 до кидків атак.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>This flask filled with corrosive acid deals 1 acid damage, 2d6 persistent acid damage, and 2 acid splash damage. You gain a +1 item bonus to attack rolls.</p>"
+          }
+        },
+        "8rEGphd48JD2zALZ": {
+          "_id": "8rEGphd48JD2zALZ",
+          "name": {
+            "translate": "Алхімічний вогонь (Середній, Насичений)",
+            "original": "Alchemist's Fire (Moderate, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Удар</p>\n<p>Алхімічний вогонь — це суміш летких рідин, що спалахують під дією повітря. Алхімічний вогонь завдає 2d8 шкоди вогнем, 2 тривалої шкоди вогнем і 2 шкоди вогнем бризками. Ви отримуєте предметний бонус +1 до кидків атак.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 2d8 fire damage, 2 persistent fire damage, and 2 fire splash damage. You gain a +1 item bonus to attack rolls.</p>"
+          }
+        },
+        "TlTLpPCOdUagvCNY": {
+          "_id": "TlTLpPCOdUagvCNY",
+          "name": {
+            "translate": "Пляшка блискавки (Середня, Насичена)",
+            "original": "Bottled Lightning (Moderate, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активація</strong> <span class=\"action-glyph\">A</span> Удар</p>\n<p>Пляшкова блискавка наповнена нестабільними реагентами, які вибухають електрикою під час контакту з повітрям. Пляшкова блискавка завдає 2d6 шкоди електрикою та 2 шкоди бризками електрики. У разі влучання ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутою зненацька} до початку вашого наступного ходу. Ви отримуєте предметний бонус +1 до кидків атак.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 2d6 electricity damage and 2 electricity splash damage. On a hit, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of your next turn. You gain a +1 item bonus to attack rolls.</p>"
+          }
+        },
+        "TUXQwzwuB2QRWdap": {
+          "_id": "TUXQwzwuB2QRWdap",
+          "name": {
+            "translate": "Мішечок з липкою пасткою (Менший, Насичений)",
+            "original": "Tanglefoot Bag (Lesser, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активація</strong> <span class=\"action-glyph\">1</span> Удар</p>\n<hr />\n<p>Мішечок з липкою пасткою наповнений клейкими речовинами. Коли ви влучаєте ним у істоту, ця істота отримує штраф -10 футів до швидкості на 1 хвилину. Складність втечі — 17 ([[/act escape dc=17]]).</p>\n<p>При критичному влучанні істота, що торкається твердої поверхні, прилипає до неї і @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомлений} на 1 раунд, а істота, що літає за допомогою крил, заплутує крила, безпечно падає на землю і не може літати 1 раунд. Мішечки з липкою пасткою неефективні проти істот у воді.</p>\n<p>Ціль може припинити ефекти, втікаючи або витративши загалом 3 дії на обережне видалення клейких речовин. Ці дії взаємодії не обов’язково мають бути послідовними, і інші істоти можуть допомагати.</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Strike</p>\n<hr />\n<p>A tanglefoot bag is filled with sticky substances. When you hit a creature with a tanglefoot bag, that creature takes a –10-foot status penalty to its Speeds for 1 minute. The Escape DC is 17 ([[/act escape dc=17]]).</p>\n<p>On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Tanglefoot bags are not effective when used on a creature that is in water.</p>\n<p>The target can end any effects by Escaping or spending a total of 3 actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.</p>"
+          }
+        },
+        "KlYyHT4ccpQLK0J6": {
+          "_id": "KlYyHT4ccpQLK0J6",
+          "name": {
+            "translate": "Шкіряна броня",
+            "original": "Leather Armor"
+          },
+          "description": {
+            "translate": "<p>Суміш гнучкої та формованої вареної шкіри, цей тип броні забезпечує певний захист при максимальній гнучкості.</p>",
+            "original": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+          }
+        },
+        "Tuo6zitGS0xOw476": {
+          "_id": "Tuo6zitGS0xOw476",
+          "name": {
+            "translate": "Наручі відхилення снарядів",
+            "original": "Bracers of Missile Deflection"
+          },
+          "description": {
+            "translate": "<p>Ці наручі зроблені з пластин міцного світанкового срібла і блищать, як літнє сонце.</p>\n<p><strong>Активація</strong> <span class=\"action-glyph\">R</span> Взаємодія</p>\n<p><strong>Частота</strong> один раз на день</p>\n<p><strong>Тригер</strong> Вогнепальна атака по вас, що не є критичним влучанням</p>\n<p><strong>Вимоги</strong> Ви усвідомлюєте атаку і не застигли зненацька</p>\n<hr />\n<p><strong>Ефект</strong> Наручі відхиляють снаряд з курсу. Ви отримуєте +2 обставинний бонус до КЗ проти цієї атаки. Якщо це призведе до провалу атаки, вона промахується.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.PeiuJ951kkBPTCSM]{Ефект: Наручі відхилення ракет}</p>",
+            "original": "<p>These bracers are made from plates of durable dawnsilver and gleam like the summer sun.</p>\n<p><strong>Activate</strong> <span class=\"action-glyph\">R</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A ranged weapon attack hits you but doesn't critically hit</p>\n<p><strong>Requirements</strong> You are aware of the attack and not off-guard</p>\n<hr />\n<p><strong>Effect</strong> The bracers send the missile off-course. You gain a +2 circumstance bonus to AC against the triggering attack. If this would cause the attack to be a failure, the attack misses you.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.PeiuJ951kkBPTCSM]{Effect: Bracers of Missile Deflection}</p>"
+          }
+        },
+        "DHbdQT264fOaCFxa": {
+          "_id": "DHbdQT264fOaCFxa",
+          "name": {
+            "translate": "Ключ",
+            "original": "Key"
+          }
+        },
+        "oiHACGBUrWebvlA7": {
+          "_id": "oiHACGBUrWebvlA7",
+          "name": {
+            "translate": "Зілля вогнестійкості (Менше)",
+            "original": "Potion of Fire Resistance (Lesser)"
+          },
+          "description": {
+            "translate": "<p>Випивання цього густого зміцнювального зілля надає опір 5 шкоді вогнем на 1 годину.</p>\n<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>",
+            "original": "<p>Drinking this thick, fortifying potion grants resistance 5 against fire damage for 1 hour.</p>\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>"
+          }
+        },
+        "iH1DW9SDoom5foXd": {
+          "_id": "iH1DW9SDoom5foXd",
+          "name": {
+            "translate": "Мутаген Джаггернаута (Менший)",
+            "original": "Juggernaut Mutagen (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<hr />\n<p>Після випивання цього мутагену ваше тіло стає товстим і міцним. Ви маєте здоровий рум’янець, хоча стаєте повільними й неуважними.</p>\n<p><strong>Перевага</strong> Ви отримуєте предметний бонус +1 до спаскидків Стійкості та 5 тимчасових Пунктів Здоров’я. Щоразу, коли ви маєте максимум ПЗ щонайменше 1 повну хвилину, тимчасові ПЗ відновлюються.</p>\n<p><strong>Недолік</strong> Ви отримуєте штраф –2 до спаскидків Волі, перевірок Сприйняття та кидків ініціативи.</p>\n<p><strong>Тривалість</strong> 1 хвилина.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.1l139A2Qik4lBHKO]{Ефект: Мутаген джагернаута (слабший)}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<hr />\n<p>After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.</p>\n<p><strong>Benefit</strong> You gain a +1 item bonus to Fortitude saves and 5 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to Will saves, Perception checks and initiative rolls.</p>\n<p><strong>Duration</strong> 1 minute.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.1l139A2Qik4lBHKO]{Effect: Juggernaut Mutagen (Lesser)}</p>"
+          }
+        },
+        "fiVpkhoGCMxibpae": {
+          "_id": "fiVpkhoGCMxibpae",
+          "name": {
+            "translate": "Мутаген Кам'яного Тіла (Менший)",
+            "original": "Stone Body Mutagen (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<hr />\n<p>Цей мутаген кальцифікує ваше тіло, роблячи його твердим, як камінь.</p>\n<p><strong>Перевага</strong> Ви отримуєте опір 5 фізичній шкоді (крім дробильної).</p>\n<p><strong>Недолік</strong> Ваші Швидкості зменшуються на 10 футів (мінімум 5 футів), і ви отримуєте штраф –2 до спаскидків Рефлексів.</p>\n<p><strong>Тривалість</strong> 10 хвилин.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.PEPOd38VfVzQMKG5]{Ефект: Мутаген кам’яного тіла (слабший)}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<hr />\n<p>This mutagen calcifies your body making it as hard as stone.</p>\n<p><strong>Benefit</strong> You gain resistance 5 to physical damage (except bludgeoning).</p>\n<p><strong>Drawback</strong> Your speeds are reduced by 10 feet (minimum 5 feet) and you take a -2 penalty to Reflex saves.</p>\n<p><strong>Duration</strong> 10 minute.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.PEPOd38VfVzQMKG5]{Effect: Stone Body Mutagen (Lesser)}</p>"
+          }
+        },
+        "SiM6qBzt7lVtOzta": {
+          "_id": "SiM6qBzt7lVtOzta",
+          "name": {
+            "translate": "Мутаген Кислотної Енергії (Менший)",
+            "original": "Acid Energy Mutagen (Lesser)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<hr />\n<p>Під час створення цей мутаген налаштовується на один із чотирьох типів енергії: кислоту, холод, електрику або вогонь. Після споживання мутаген насичує ваше тіло енергією, що виривається назовні під час кожної атаки. На вищих рівнях він навіть може надати здатність вивільняти енергію контрольованими вибухами.</p>\n<p><strong>Перевага</strong> Ви отримуєте опір 5 налаштованому типу енергії. Щоразу, коли влучаєте зброєю ближнього бою, додавайте 1 шкоди налаштованого типу енергії.</p>\n<p><strong>Недолік</strong> Ви отримуєте слабкість 5 до інших трьох типів енергії.</p>\n<p><strong>Тривалість</strong> 1 хвилина.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.C9Tnl6Q7Z5Sbw5EY]{Ефект: Енергетичний мутаген (слабший)}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<hr />\n<p>When created, this mutigen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.</p>\n<p><strong>Benefit</strong> You gain resistance 5 to the attuned energy type. Whenever you score a hit with a melee weapon, add 1 damage to the attuned energy type.</p>\n<p><strong>Drawback</strong> You gain weakness 5 to the other three energy types.</p>\n<p><strong>Duration</strong> 1 minute.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.C9Tnl6Q7Z5Sbw5EY]{Effect: Energy Mutagen (Lesser)}</p>"
+          }
+        },
+        "4W7aXiF7zzSQoKTr": {
+          "_id": "4W7aXiF7zzSQoKTr",
+          "name": {
+            "translate": "Еліксир життя (Менший, Насичений)",
+            "original": "Elixir of Life (Lesser, Infused)"
+          },
+          "description": {
+            "translate": "<p><strong>Активувати</strong> <span class=\"action-glyph\">A</span> Взаємодія</p>\n<p>Еліксири життя прискорюють природні процеси зцілення та імунну систему живої істоти. Випивши цей еліксир, ви відновлюєте @Damage[(3d6+6)[healing]] Пунктів Здоров’я й на 10 хвилин отримуєте предметний бонус +1 до спаскидків проти хвороб і отрут.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Ефект: Еліксир життя}</p>",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creatures natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[(3d6+6)[healing]] Hit Points and gain +1 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>"
+          }
+        },
+        "HDtrQRjjDpEvzFOw": {
+          "_id": "HDtrQRjjDpEvzFOw",
+          "name": {
+            "translate": "Платинові монети",
+            "original": "Platinum Pieces"
+          }
+        },
+        "f3gSMcRYKGBvH77r": {
+          "_id": "f3gSMcRYKGBvH77r",
+          "name": {
+            "translate": "Золоті монети",
+            "original": "Gold Pieces"
+          }
+        },
+        "09rrEhezjFtogVhe": {
+          "_id": "09rrEhezjFtogVhe",
+          "name": {
+            "translate": "Срібні монети",
+            "original": "Silver Pieces"
+          }
+        },
+        "u1zA8fSPZ0RdHY47": {
+          "_id": "u1zA8fSPZ0RdHY47",
+          "name": {
+            "translate": "Поясний мішечок",
+            "original": "Belt Pouch"
+          }
+        },
+        "vACP18XqpwSKIwpu": {
+          "_id": "vACP18XqpwSKIwpu",
+          "name": {
+            "translate": "Кинджал",
+            "original": "Dagger"
+          }
+        },
+        "yMAxt5X4yKHVkmRO": {
+          "_id": "yMAxt5X4yKHVkmRO",
+          "name": {
+            "translate": "Кулак",
+            "original": "Fist"
+          }
+        },
+        "Tk6rmGNBuVrHBJa3": {
+          "_id": "Tk6rmGNBuVrHBJa3",
+          "name": {
+            "translate": "Кислотна фляга",
+            "original": "Acid Flask"
+          }
+        },
+        "grCtKdzXEThkkEnh": {
+          "_id": "grCtKdzXEThkkEnh",
+          "name": {
+            "translate": "Алхімічний вогонь",
+            "original": "Alchemist's Fire"
+          }
+        },
+        "GUPfjrn8zA2wRtby": {
+          "_id": "GUPfjrn8zA2wRtby",
+          "name": {
+            "translate": "Пляшка блискавки",
+            "original": "Bottled Lightning"
+          }
+        },
+        "mS0cgJYX09iGU6Dg": {
+          "_id": "mS0cgJYX09iGU6Dg",
+          "name": {
+            "translate": "Мішечок з липкою пасткою",
+            "original": "Tanglefoot Bag"
+          }
+        },
+        "tJAcVBe69z7PlOrg": {
+          "_id": "tJAcVBe69z7PlOrg",
+          "name": {
+            "translate": "Алхімічний арбалет",
+            "original": "Alchemical Crossbow"
+          }
+        },
+        "s4Mw2UHu6wej4awv": {
+          "_id": "s4Mw2UHu6wej4awv",
+          "name": {
+            "translate": "Алхімія",
+            "original": "Alchemy"
+          },
+          "description": {
+            "translate": "<p>Вілрі використала свою здатність алхімії, щоб створити 4 @UUID[Compendium.pf2e.equipment-srd.Item.SgtqZxt26BdjUmEB]{Пляшка з кислотою (Середня)}, 6 @UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{Вогонь алхіміка (Середній)}, 2 @UUID[Compendium.pf2e.equipment-srd.Item.97QyNEOAyYLdGaYc]{Пляшка Блискавки (Середня)}, 3 менших еліксири життя @UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{Еліксир життя (Менший)} і 2 менших мішечки з липкою пасткою @UUID[Compendium.pf2e.equipment-srd.Item.T6Appwwl6nUl56Xj]{Tanglefoot Bag (Lesser)}. Це інфузії. Вона може витратити дію, щоб створити додаткову флакон будь-якого з цих предметів або будь-якого з предметів, перелічених у її книзі як формули.</p>",
+            "original": "<p>Vilree has used her alchemy ability to create 4 @UUID[Compendium.pf2e.equipment-srd.Item.SgtqZxt26BdjUmEB]{Acid Flask (Moderate)}, 6 @UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{Alchemist's Fire (Moderate)}, 2 @UUID[Compendium.pf2e.equipment-srd.Item.97QyNEOAyYLdGaYc]{Bottled Lightning (Moderate)}, 3 lesser elixirs of life @UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]{Elixir of Life (Lesser)}, and 2 lesser tanglefoot bags @UUID[Compendium.pf2e.equipment-srd.Item.T6Appwwl6nUl56Xj]{Tanglefoot Bag (Lesser)}. These are infusions. She can spend an action to create an additional vial of any one of these items, or any of the items listed as formulas in her book.</p>"
+          }
+        },
+        "UNvS4DCLAYyLk9BV": {
+          "_id": "UNvS4DCLAYyLk9BV",
+          "name": {
+            "translate": "Далеке кидання",
+            "original": "Far Lob"
+          },
+          "description": {
+            "translate": "<p>Бомби Вілрі мають приріст дальності 30 футів.</p>",
+            "original": "<p>Vilree's bombs have a range increment of 30 feet.</p>"
+          }
+        },
+        "CfawbSTZsSlWiCtA": {
+          "_id": "CfawbSTZsSlWiCtA",
+          "name": {
+            "translate": "Алхімічний арбалет",
+            "original": "Alchemical Crossbow"
+          },
+          "description": {
+            "translate": "<p>Арбалет Вілрі може стріляти болтами, насиченими алхімічними речовинами. Як дію, вона може вставити алхімічну бомбу в арбалет, і наступні 3 атаки завдають 1d6 шкоди типу бомби. Ці атаки ніколи не завдають шкоди від розльоту.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.ucAwSIZsGrpBLg6G]{Ефект: алхімічний арбалет}</p>",
+            "original": "<p>Vilree's crossbow can deliver bolts that are alchemically infused. As an action, she can slot an alchemical bomb into the crossbow, and the next 3 attacks she makes with it deal 1d6 damage of the type dealt by the bomb. These attacks never deal splash damage.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.ucAwSIZsGrpBLg6G]{Effect: Alchemical Crossbow}</p>"
+          }
+        },
+        "qTFM74fJettSOvPE": {
+          "_id": "qTFM74fJettSOvPE",
+          "name": {
+            "translate": "Швидкий бомбардир",
+            "original": "Quick Bomber"
+          },
+          "description": {
+            "translate": "<p>Вілрі може взаємодіяти, щоб дістати бомбу, а потім зробити удар нею.</p>",
+            "original": "<p>Vilree can interact to draw a bomb and then make a Strike with it.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-5",
+          "rarity-unique",
+          "type-npc",
+          "npc-elf"
+        ]
+      }
+    },
+    "Vine Lasher": {
+      "_id": "wBCpq9pX4NZFXE0T",
+      "name": {
+        "translate": "Ліанолом",
+        "original": "Vine Lasher"
+      },
+      "publicNotes": {
+        "translate": "<p>Ліанолом атакує групами, намагаючись обездвижити здобич і повільно розірвати істоту на частини.</p>\n<hr />\n<p>Те, що спочатку здається простим кущем, раптом оживає.</p>",
+        "original": "<p>The vine lasher attacks in groups, attempting to immobilize prey and slowly tear a creature to pieces.</p>\n<hr />\n<p>What first appears to be a simple shrub suddenly stirs to life.</p>"
+      },
+      "items": {
+        "JWZ3MiXhWwFprWgn": {
+          "_id": "JWZ3MiXhWwFprWgn",
+          "name": {
+            "translate": "Ліана",
+            "original": "Vine"
+          }
+        },
+        "HUSsHe6Sz3WV3nnH": {
+          "_id": "HUSsHe6Sz3WV3nnH",
+          "name": {
+            "translate": "Відчуття тремтіння (неточне) 30 футів",
+            "original": "Tremorsense (Imprecise) 30 feet"
+          }
+        },
+        "tgEiQ20X2hPkiyPM": {
+          "_id": "tgEiQ20X2hPkiyPM",
+          "name": {
+            "translate": "Світлове утримання",
+            "original": "Light Hold"
+          },
+          "description": {
+            "translate": "<p>Істота, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Схоплений} ліаноломом, не обездвижена, але простір захопленої істоти і всі суміжні квадрати вважаються складною місцевістю. Якщо істота рухається, ліанолом рухається разом з нею, завжди тримаючи захоплену істоту в межах 10 футів.</p>\n<p>Якщо двоє або більше ліаноломів захопили істоту таким чином, простір цілі і суміжні квадрати вважаються дуже складною місцевістю.</p>",
+            "original": "<p>A creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by a vine lasher is not immobilized, but the grabbed creature's space and every adjacent square use the rules for difficult terrain. If the creature moves, the vine lasher moves with it, always keeping the grabbed creature within 10 feet of itself.</p>\n<p>If two or more vine lashers have a creature grabbed in this way, then the target's space and adjacent square instead use the rules for greater difficult terrain.</p>"
+          }
+        },
+        "mKyOknI17VKNArnE": {
+          "_id": "mKyOknI17VKNArnE",
+          "name": {
+            "translate": "Захоплення",
+            "original": "Grab"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-npc",
+          "npc-plant"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "hazard-mechanical",
+    "level-0",
+    "level-1",
+    "level-2",
+    "level-3",
+    "level-4",
+    "level-5",
+    "npc-aberration",
+    "npc-animal",
+    "npc-chaotic",
+    "npc-construct",
+    "npc-elf",
+    "npc-evil",
+    "npc-good",
+    "npc-mindless",
+    "npc-plant",
+    "rarity-common",
+    "rarity-rare",
+    "rarity-unique",
+    "type-hazard",
+    "type-npc"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.fall-of-plaguestone-bestiary",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Actor",
+    "fileMode": "created-new",
+    "processedAt": "2026-05-18T11:20:28.338Z",
+    "documents": 24,
+    "existingEntriesUpdated": 0,
+    "missingEntriesAdded": 24,
+    "missingFieldsAdded": 0,
+    "wrappedStrings": 0,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}

@@ -1,0 +1,1732 @@
+{
+  "entries": {
+    "Geb's Blessing": {
+      "_id": "SvR7Ez1lfnN4You5",
+      "name": {
+        "translate": "Благословення Геба",
+        "original": "Geb's Blessing"
+      },
+      "description": {
+        "translate": "<p>Кожен персонаж отримує опір 20 до двох із наведених типів шкоди на свій вибір: кислотою, дроблячої, холодом, електрикою, вогнем, колотої, отрутою, рубаючої, звуком, життєвістю або пустотою. Також вони отримують 40 тимчасових Очок Здоров’я на 24 години. Нарешті, кожен персонаж отримує дві наведені особливі здібності, кожну з яких можна використати один раз.</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.MgSwLes5lp3TE1ZV]{Ментальний захист}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.TM4pOPSM9r7XEM64]{Захист душі}</p>",
+        "original": "<p>Each character gains resistance 20 to two of the following damage types of their choice: acid, bludgeoning, cold, electricity, fire, piercing, poison, slashing, sonic, vitality, or void. They also gain 40 temporary Hit Points for 24 hours. Finally, each character gains the following two special abilities, each usable once.</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.MgSwLes5lp3TE1ZV]{Mental Ward}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.TM4pOPSM9r7XEM64]{Soul Ward}</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-feat",
+          "feat-deityboon"
+        ]
+      }
+    },
+    "Persona Trait": {
+      "_id": "mHsp4jGurcemml59",
+      "name": {
+        "translate": "",
+        "original": "Persona Trait"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Celebrities, including famous adventurers like your PCs, don't always present themselves to the public in a way that accurately reflects who they are. In Curtain Call, each PC will select a persona trait. Regardless of your character's personality, motives, and goals, the public's perception of their legend may be quite different as a result of rumors, misinterpreted events, fanciful imaginings, or even deliberate attempts by a character to foster a different persona.</p>\n<p>There are eight persona traits you can choose from for your PC. The trait you adopt doesn't have to match your character's actual personality or role, but if you pick one that's off the mark, be prepared for NPCs you encounter to make some curious assumptions about your character! Note that while each persona trait has a positive and negative aspect to it, both of these elements are strictly narrative and have no mechanical effects on your character's abilities. Think of them as roleplaying tools that you can use to help guide your PC's actions during the campaign. These traits do, however, have an impact on the adventures: in certain parts of Curtain Call, characters with specific persona traits will be particularly well-suited to face certain challenges and will gain one-time boons and bonuses that help them navigate the encounter in question. Your GM has all of this information and will inform the party whenever persona traits come into play.</p>\n<p>The eight persona traits are:</p>\n<p><strong>Flirt</strong>: The public perceives you as the most romantic of the group, and you may be thought of as a seducer or vapid pretender who gets by on their looks and brings nothing of value to the party.</p>\n<p><strong>Guardian</strong>: The public perceives you as the healer and protector of the group, but some may also consider you too soft-hearted and meek to be a \"true hero.\"</p>\n<p><strong>Leader</strong>: The public perceives you as the leader of the group, but some likewise consider you too brash or even pompous.</p>\n<p><strong>Scholar</strong>: The public considers you the problem-solver and brains of the group, though some also perceive you as arrogant or incapable of physical tasks.</p>\n<p><strong>Scoundrel</strong>: The public is convinced you are the \"bad boy/bad girl\" of the group who gets the distasteful but necessary things done, but who is at times thought of as a criminal or potential traitor to the party.</p>\n<p><strong>Underdog</strong>: The public perceives you as a \"fish out of water\"—someone who accidently got swept up by the group and still manages to triumph, but who is sometimes thought of as a weak link or loser.</p>\n<p><strong>Warrior</strong>: The public believes you are the strong-arm of the group, the person who excels in a fight but is also at times considered cruel, uncouth, or even a bully.</p>\n<p><strong>Wildcard</strong>: The public perceives you as a source of whimsy, outlandish ideas, and comedy in the group, but that reputation is a double-edged sword, as some also consider you a liability or unreliable.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-deityboon"
+        ]
+      }
+    },
+    "Effect: Reflection of Life (Fast Healing)": {
+      "_id": "DOxl0FDd21VMDOMP",
+      "name": {
+        "translate": "Ефект: відображення життя (швидке загоєння)",
+        "original": "Effect: Reflection of Life (Fast Healing)"
+      },
+      "description": {
+        "translate": "<p>Ви отримуєте швидке зцілення протягом 1 хвилини. Ця кількість швидкого зцілення починається з 3 і збільшується на 1 за кожні 2 рівні після 5 рівня.</p>",
+        "original": "<p>You gain fast healing for 1 minute. This amount of fast healing starts at 3 and increases by 1 for every 2 levels you have beyond 5th level.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Resonant Reflection: Reflection of Life": {
+      "_id": "eckkKdNGlaPlAgOW",
+      "name": {
+        "translate": "Резонансна рефлексія: рефлексія життя",
+        "original": "Resonant Reflection: Reflection of Life"
+      },
+      "description": {
+        "translate": "<p>Під час відпочинку ви відновлюєте вдвічі більше Очок Здоров’я, ніж зазвичай (тобто подвоєний модифікатор Статури, помножений на ваш рівень). Зцілення від тривалого відпочинку також подвоюється. Крім того, ви можете зосередити цю цілющу енергію, щоб іще більше пришвидшити природні процеси відновлення тіла.</p>\n<hr />\n<p><strong>Активувати</strong> <span class=\"action-glyph\">2</span> уявлення</p>\n<p><strong>Частота</strong> раз на день</p>\n<hr />\n<p><strong>Ефект</strong> Ви отримуєте швидке зцілення 3 на 1 хвилину. Значення швидкого зцілення збільшується на 1 за кожні 2 рівні понад 5-й.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.DOxl0FDd21VMDOMP]{Ефект: Відбиття життя (Швидке зцілення)}</p>",
+        "original": "<p>You regain double the normal number of Hit Points when resting (meaning you regain double your Constitution modifier multiplied by your level). The healing you gain from long-term rest is similarly doubled. In addition, you can focus this healing energy to accelerate your body's natural healing processes even further.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> You gain fast healing 3 for 1 minute. This amount of fast healing increases by 1 for every 2 levels you have beyond 5th level.</p>\n<p>@UUID[Compendium.pf2e.campaign-effects.Item.DOxl0FDd21VMDOMP]{Effect: Reflection of Life (Fast Healing)}</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-feat",
+          "feat-deityboon"
+        ]
+      }
+    },
+    "Resonant Reflection: Reflection of Light": {
+      "_id": "MXATTT52FQc8MTZv",
+      "name": {
+        "translate": "Резонансне відображення: відбиття світла",
+        "original": "Resonant Reflection: Reflection of Light"
+      },
+      "description": {
+        "translate": "<p>Ваші очі наповнюються внутрішнім світлом, невидимим зовні, яке надає вам темний зір і здатність розрізняти кольори в темряві. Ви також можете зосередити це внутрішнє світло, щоб випустити з очей яскравий промінь енергії.</p>\n<hr />\n<p><strong>Активувати</strong> <span class=\"action-glyph\">2</span> уявлення</p>\n<p><strong>Частота</strong> раз на день</p>\n<hr />\n<p><strong>Ефект</strong> Ви накладаєте @UUID[Compendium.pf2e.spells-srd.Item.DyiD239dNS7RIxZE]{Святе світло} як вроджене божественне закляття, посилене до рангу, що дорівнює половині вашого рівня з округленням угору.</p>",
+        "original": "<p>Your eyes are imbued with an inner light that is not visible externally but that provides you with darkvision and the ability to distinguish color in darkness. You can also focus this inner light to manifest as a brilliant beam of energy from your eyes.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> You cast @UUID[Compendium.pf2e.spells-srd.Item.DyiD239dNS7RIxZE]{Holy Light} as an innate divine spell, heightened to a spell rank equal to half your level rounded up.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-feat",
+          "feat-deityboon"
+        ]
+      }
+    },
+    "Resonant Reflection: Reflection of Stone": {
+      "_id": "mL13OZS2t1eMRlly",
+      "name": {
+        "translate": "Резонансне відображення: Відображення каменю",
+        "original": "Resonant Reflection: Reflection of Stone"
+      },
+      "description": {
+        "translate": "<p>Ваше тіло сповнюється стійкістю й міцністю каменю. Ви захищені від ефектів лютої спеки та лютого холоду. Крім того, ви можете зосередити цю міцність, щоб отримати додатковий ефект.</p><hr /><p><strong>Активувати</strong> <span class=\"action-glyph\">2</span> уявлення</p>\n<p><strong>Частота</strong> раз на день</p><hr /><p><strong>Ефект</strong> Ви накладаєте @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{Стійкість гори} як вроджене божественне закляття, посилене до рангу, що дорівнює половині вашого рівня з округленням угору.</p>",
+        "original": "<p>Your body is infused with the resilience and durability of stone. You are protected against the effects of severe cold and severe heat. In addition, you can also focus this durability to gain an additional effect.</p><hr /><p><strong>Activate</strong> <span class=\"action-glyph\">2</span> envision</p>\n<p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> You cast @UUID[Compendium.pf2e.spells-srd.Item.2BV2yYPfVJ5zirZt]{Mountain Resilience} as an innate divine spell, heightened to a spell rank equal to half your level rounded up.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-feat",
+          "feat-deityboon"
+        ]
+      }
+    },
+    "Resonant Reflection: Reflection of Storm": {
+      "_id": "fOz4CDZmc6CSKAUm",
+      "name": {
+        "translate": "Резонансне відображення: Відображення бурі",
+        "original": "Resonant Reflection: Reflection of Storm"
+      },
+      "description": {
+        "translate": "<p>Ваше тіло загартоване проти руйнувань, спричинених природними силами. Ви отримуєте опір шкоді електрикою, що дорівнює вашому рівню. Під час польоту ви не вважаєте вітер складною або дуже складною місцевістю, і вітер не може перемістити вас, якщо ви самі цього не бажаєте. Ви отримуєте статусний бонус +1 до спаскидків проти первісної магії. Крім того, ви можете поглинути цю відновлювальну енергію тілом, щоб отримати наведений ефект.</p>\n<hr />\n<p><strong>Активувати</strong> <span class=\"action-glyph\">2</span> уявлення</p>\n<p><strong>Частота</strong> раз на день</p>\n<hr />\n<p><strong>Ефект</strong> Ви накладаєте @UUID[Compendium.pf2e.spells-srd.Item.4MOew29Z1oCX8O28]{Мить відновлення} (лише на себе) як вроджене божественне закляття 8-го рангу й відновлюєте 1 Очко Фокусування.</p>",
+        "original": "<p>Your body is inured to the devastation inflicted by natural forces. You gain resistance to electricity damage equal to your level. You don't treat wind as difficult terrain or greater difficult terrain while flying, and you can't be moved by wind unless you choose to be. You gain a +1 status bonus to saves against primal magic. In addition, you can absorb this reinvigorating energy into your body to gain the following effect.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> You cast @UUID[Compendium.pf2e.spells-srd.Item.4MOew29Z1oCX8O28]{Moment of Renewal} (self only) as an 8th-rank divine innate spell and regain 1 Focus Point.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-feat",
+          "feat-deityboon"
+        ]
+      }
+    },
+    "Resonant Reflection: Reflection of Water": {
+      "_id": "7Rpu9g6GBxg3jmoG",
+      "name": {
+        "translate": "Резонансне відображення: відображення води",
+        "original": "Resonant Reflection: Reflection of Water"
+      },
+      "description": {
+        "translate": "<p>Ваше тіло наповнюється сутністю води й пристосовується до її присутності. Ви отримуєте Швидкість плавання 10 футів і можете дихати під водою. Крім того, ви можете зосередити цю спорідненість, щоб отримати додатковий ефект.</p>\n<hr />\n<p><strong>Активувати</strong> <span class=\"action-glyph\">2</span> уявлення</p>\n<p><strong>Частота</strong> раз на день</p>\n<hr />\n<p><strong>Ефект</strong> Ви накладаєте @UUID[Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP]{Керування водою} як вроджене божественне закляття 5-го рангу. Довжина й ширина області води, якою ви керуєте, збільшуються на 10 футів за кожні 2 рівні понад 10-й.</p>",
+        "original": "<p>Your body is infused with the essence of water and becomes adapted to its presence. You gain a swim speed of 10 feet and can breathe underwater. In addition, you can also focus this affinity to gain an additional effect.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> You cast @UUID[Compendium.pf2e.spells-srd.Item.zfn5RqAdF63neqpP]{Control Water} as a 5th-rank innate divine spell. The area of water you control increases by 10 feet in length and width for every 2 levels you have beyond 10th level.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-feat",
+          "feat-deityboon"
+        ]
+      }
+    },
+    "Effect: Boar Form": {
+      "_id": "LJOZk2O6KS3iulXy",
+      "name": {
+        "translate": "",
+        "original": "Effect: Boar Form"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>The polymorphed character transforms into a Large animal. Each polymorphed character gains the following statistics and abilities regardless of which form they choose.</p>\n<ul>\n<li>AC = 36.</li>\n<li>30 temporary Hit Points.</li>\n<li>Low-light vision and scent (imprecise) 30 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form, which are the only attacks you can use. (You are trained with them.) You can use your own unarmed attack modifier if it is better.</li>\n<li>Athletics modifier of +26 unless yours is better.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.LVSGvlzI1rGWtGJA]{Rallying Display}</strong> <span class=\"action-glyph\">1</span> (auditory, visual) You roar or otherwise make a show of bestial strength. You automatically roll a success to rally the crowd for your team.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.oUP8jylH97ZbRvfw]{Reposition Chains}</strong> <span class=\"action-glyph\">1</span> You pull on the chains, moving a willing chained ally up to 10 feet to a space within your reach.</li>\n</ul>\n<hr />\n<p><strong>Speed</strong> 40 feet</p>\n<p><strong>Melee</strong> <span class=\"action-glyph\">1</span> tusk +25, Damage 3d10+16 piercing</p>\n<p><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.71ypBixnbV4bE5Hv]{Chained Charge}</strong> <span class=\"action-glyph\">2</span> You Stride and then make a tusk Strike at the end of your movement. If you move farther than 15 feet from your chained allies, you pull them along to the nearest open space 15 feet behind you. The creature you hit must succeed at a @Check[reflex|dc:35] save or fall @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Tiger Form": {
+      "_id": "PnAzso0F6XUvbYKb",
+      "name": {
+        "translate": "",
+        "original": "Effect: Tiger Form"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>The polymorphed character transforms into a Large animal. Each polymorphed character gains the following statistics and abilities regardless of which form they choose.</p>\n<ul>\n<li>AC = 36.</li>\n<li>30 temporary Hit Points.</li>\n<li>Low-light vision and scent (imprecise) 30 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form, which are the only attacks you can use. (You are trained with them.) You can use your own unarmed attack modifier if it is better.</li>\n<li>Athletics modifier of +26 unless yours is better.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.LVSGvlzI1rGWtGJA]{Rallying Display}</strong> <span class=\"action-glyph\">1</span> (auditory, visual) You roar or otherwise make a show of bestial strength. You automatically roll a success to rally the crowd for your team.</li>\n<li><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.oUP8jylH97ZbRvfw]{Reposition Chains}</strong> <span class=\"action-glyph\">1</span> You pull on the chains, moving a willing chained ally up to 10 feet to a space within your reach.</li>\n</ul>\n<hr />\n<p><strong>Speed</strong> 30 feet</p>\n<p><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws +25, Damage 3d6+16 piercing plus @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab}</p>\n<p><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw +25 (agile), Damage 2d8+16 slashing</p>\n<p><strong>@UUID[Compendium.pf2e.adventure-specific-actions.Item.GSLSCo0OWDUtET4e]{Wrestle}</strong> <span class=\"action-glyph\">1</span> You make a claw Strike against a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} by you. If you hit, you deal damage as usual and that creature is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Forgive Foe": {
+      "_id": "tWFcPYueuOdSgSgg",
+      "name": {
+        "translate": "",
+        "original": "Effect: Forgive Foe"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by @UUID[Compendium.pf2e.adventure-specific-actions.Item.764EVGVADrDSbdqu]{Forgive Foe}</p>\n<p>The target suffers a -2 status penalty on all attacks, effect DCs, and its Will DC against additional Forgive Foe attempts until the end of your next turn.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-0",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Hope or Despair (Critical Success)": {
+      "_id": "meTIFa2VsIzRVywE",
+      "name": {
+        "translate": "Ефект: надія чи відчай (критичний успіх)",
+        "original": "Effect: Hope or Despair (Critical Success)"
+      },
+      "description": {
+        "translate": "<p>Шелін бачить у цій істоті шанс повернути святиню до слави, і замість того, щоб сповнювати їх відчаєм, притулок сповнює їх надією. Окрім бажання перемогти зло, яке заполонило святиню, істота має бажання відновити святиню. Точні деталі про природу зла, що наповнює святиню, невідомі, крім того, щоб попередити персонажа про те, що в стінах святині є щось жахливе. Істоті не потрібно діяти згідно з цими спонуканнями, але поки вони переслідують одну з цілей, вони отримують бонус статусу +1 до всіх перевірок, залишаючись у зоні святині. ГМ визначає, чи зараховується перевірка для досягнення цієї мети (принаймні, усі бойові перевірки, зроблені проти ворогів у решті пригоди, зараховуються).</p>",
+        "original": "<p>Shelyn sees in the creature a chance to bring the shrine back to glory, and instead of filling them with despair, the haunt fills them with hope. In addition to being filled with an urge to defeat the evil that has infested the shrine, the creature has the urge to restore the shrine. Exact details as to the nature of the evil infesting the shrine aren't apparent other than to alert the character that there's certainly something dire within the shrine's walls. The creature need not act on these urges, but as long as they pursue either goal, they gain a +1 status bonus to all checks while remaining in the shrine's area. The GM determines whether or not a check counts toward this goal (at the very least, all combat checks made against foes in the rest of the adventure count).</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Hope or Despair (Failure or Critical Failure)": {
+      "_id": "Px7sSipQxHdOMSjk",
+      "name": {
+        "translate": "Ефект: надія чи розпач (провал чи критичний провал)",
+        "original": "Effect: Hope or Despair (Failure or Critical Failure)"
+      },
+      "description": {
+        "translate": "<p><strong>Невдача</strong> Почуття смутку та відчаю спливають у свідомості істоти. Протягом наступної години істота отримує -1 штраф до всіх рятівних кидків проти ментальних ефектів; цей штраф збільшується до -2 штрафу проти емоцій, психічних ефектів. Цей ефект має рису прокляття.</p>\n<p><strong>Критична помилка</strong> Як помилка, але наслідки зберігаються, доки зелена ведма Тулвак контролює святиню.</p>",
+        "original": "<p><strong>Failure</strong> Feelings of sadness and despair well up in the creature's mind. For the next hour, the creature takes a -1 penalty to all saving throws against mental effects; this penalty increases to a -2 penalty against emotion mental effects. This effect has the curse trait.</p>\n<p><strong>Critical Failure</strong> As failure, but the effects persist as long as the green hag Tulvak remains in control of the shrine.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Stoop": {
+      "_id": "IRmIB2435SCvoSTS",
+      "name": {
+        "translate": "",
+        "original": "Effect: Stoop"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Medium creatures are forced to stoop and awkwardly adjust the swing of their weapons—as a result, these creatures take a –1 circumstance penalty on attack rolls and are clumsy 1.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Malevolence": {
+      "_id": "KDzP1XoF2noQvPNI",
+      "name": {
+        "translate": "",
+        "original": "Malevolence"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Effect: Xenia Spirit Grand Feast": {
+      "_id": "2Co7H8w20nOwCCoN",
+      "name": {
+        "translate": "",
+        "original": "Effect: Xenia Spirit Grand Feast"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>The Xenia Spirit takes a –2 penalty to its attack, AC, DCs, Perception, and skill modifiers.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Burned Mouth and Throat (Linguistic)": {
+      "_id": "nwFhhgZRggDoDgdk",
+      "name": {
+        "translate": "Ефект: обпалений рот і горло (лінгвістичний)",
+        "original": "Effect: Burned Mouth and Throat (Linguistic)"
+      },
+      "description": {
+        "translate": "<p>Опікає рот і горло, даючи -1 штраф за лінгвістичні перевірки та КС на 1 годину.</p>",
+        "original": "<p>Burns mouth and throat, giving a -1 item penalty to linguistic-based checks and DCs for 1 hour.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Burned Mouth and Throat (No Singing or Yelling)": {
+      "_id": "CS1XbH7GYfP6Ve61",
+      "name": {
+        "translate": "Ефект: обпалений рот і горло (без співу чи крику)",
+        "original": "Effect: Burned Mouth and Throat (No Singing or Yelling)"
+      },
+      "description": {
+        "translate": "<p>Той, хто п'є, не може кричати або співати протягом 8 годин.</p>",
+        "original": "<p>The drinker is unable to yell or sing for 8 hours.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Burned Tongue (Linguistic)": {
+      "_id": "lZ4DA81o4kbL8nve",
+      "name": {
+        "translate": "Ефект: спалений язик (лінгвістичний)",
+        "original": "Effect: Burned Tongue (Linguistic)"
+      },
+      "description": {
+        "translate": "<p>Опікає язик, даючи -1 штраф за лінгвістичні перевірки та КС на 1 хвилину.</p>",
+        "original": "<p>Burns tongue, giving a -1 item penalty to linguistic-based checks and DCs for 1 minute.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Burned Tongue (No Singing or Yelling)": {
+      "_id": "XOE1gp3phFyxL4Dq",
+      "name": {
+        "translate": "Ефект: обпалений язик (без співу чи крику)",
+        "original": "Effect: Burned Tongue (No Singing or Yelling)"
+      },
+      "description": {
+        "translate": "<p>Той, хто п'є, не може кричати чи співати протягом 1 години.</p>",
+        "original": "<p>The drinker is unable to yell or sing for 1 hour.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Extreme stomach cramps": {
+      "_id": "Luti1qjFOKYwZio0",
+      "name": {
+        "translate": "Ефект: сильні спазми в животі",
+        "original": "Effect: Extreme stomach cramps"
+      },
+      "description": {
+        "translate": "<p>Ви не можете добровільно вживати нічого, навіть інші напої, протягом 8 годин</p>",
+        "original": "<p>You can't willingly ingest anything, even other drinks, for 8 hours</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Heightened Awareness": {
+      "_id": "Rz35d02dUtAjKtMB",
+      "name": {
+        "translate": "",
+        "original": "Effect: Heightened Awareness"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Heightened awareness, granting a +1 item bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} for 8 hours</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Immediate and Intense Headache": {
+      "_id": "QWW4hNCtLkOK1k71",
+      "name": {
+        "translate": "Ефект: миттєвий і сильний головний біль",
+        "original": "Effect: Immediate and Intense Headache"
+      },
+      "description": {
+        "translate": "<p>Негайний та інтенсивний головний біль, що спричиняє слабкість 5 до психічного ураження протягом 8 годин</p>",
+        "original": "<p>Immediate and intense headache, causing weakness 5 to mental damage for 8 hours</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Improved reflexes": {
+      "_id": "4vnF6BFM4Xg4Eg0k",
+      "name": {
+        "translate": "Ефект: Поліпшення рефлексів",
+        "original": "Effect: Improved reflexes"
+      },
+      "description": {
+        "translate": "<p>Покращено рефлекси, надаючи бонус +1 до збереження Рефлекс протягом 8 годин</p>",
+        "original": "<p>Improved reflexes, giving a +1 item bonus to Reflex saves for 8 hours</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Keen insight": {
+      "_id": "yJWWTfZkAF4raa4R",
+      "name": {
+        "translate": "Ефект: глибоке розуміння",
+        "original": "Effect: Keen insight"
+      },
+      "description": {
+        "translate": "<p>Гостра проникливість, що на 8 годин надає бонус предмета +1 до перевірок Сприйняття, щоб @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Розпізнати мотиви}</p>",
+        "original": "<p>Keen insight, granting a +1 item bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive} for 8 hours</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Mixed Drink: Dancing Lights": {
+      "_id": "JnQi8whNqY7sPW7x",
+      "name": {
+        "translate": "Змішаний напій: танцюючі вогні",
+        "original": "Mixed Drink: Dancing Lights"
+      },
+      "description": {
+        "translate": "<p>Протягом наступної доби ви можете один раз накласти @UUID[Compendium.pf2e.spells-srd.Item.WBmvzNDfpwka3qT4]{Світло} як первісний кантріп.</p>",
+        "original": "<p>You can cast @UUID[Compendium.pf2e.spells-srd.Item.WBmvzNDfpwka3qT4]{Light} as a primal cantrip once within the next day.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Mixed Drink: Guidance": {
+      "_id": "cESIlNrgjo1uW71D",
+      "name": {
+        "translate": "Змішаний напій: Керівництво",
+        "original": "Mixed Drink: Guidance"
+      },
+      "description": {
+        "translate": "<p>Протягом наступної доби ви можете один раз накласти @UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{Настанову} як первісний кантріп.</p>",
+        "original": "<p>You can cast @UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{Guidance} as a primal cantrip once within the next day.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Mixed Drink: Luck": {
+      "_id": "e8K0YTKxzf0bhayh",
+      "name": {
+        "translate": "Змішаний напій: удача",
+        "original": "Mixed Drink: Luck"
+      },
+      "description": {
+        "translate": "<p>Ви отримуєте трохи удачі: один раз протягом наступних 8 годин, коли ви намагаєтеся виконати захисний кидок або перевірити навички, ви можете кинути двічі та отримати вищий результат. Це ефект удачі.</p>",
+        "original": "<p>You gain a bit of luck: once during the next 8 hours when you attempt a saving throw or a skill check, you can roll twice and take the higher result. This is a fortune effect.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Mixed Drink: Prestidigitation": {
+      "_id": "j8hA7CsmSY90tBqw",
+      "name": {
+        "translate": "Змішаний напій: Prestidigitation",
+        "original": "Mixed Drink: Prestidigitation"
+      },
+      "description": {
+        "translate": "<p>Протягом наступної доби ви можете один раз накласти @UUID[Compendium.pf2e.spells-srd.Item.Qw3fnUlaUbnn7ipC]{Фокусництво} як первісний кантріп.</p>",
+        "original": "<p>You can cast @UUID[Compendium.pf2e.spells-srd.Item.Qw3fnUlaUbnn7ipC]{Prestidigitation} as a primal cantrip once within the next day.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Aura: Righteous Call": {
+      "_id": "3BZisQv0wVLGEvzp",
+      "name": {
+        "translate": "",
+        "original": "Aura: Righteous Call"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by @UUID[Compendium.pf2e.adventure-specific-actions.Item.EbF9U21iMu0JkTzG]{Righteous Call}</p>\n<p>Strikes your allies make while they're within 30 feet of you gain the holy trait.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Righteous Call": {
+      "_id": "ywrtR63bJqpN0FsK",
+      "name": {
+        "translate": "",
+        "original": "Effect: Righteous Call"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by @UUID[Compendium.pf2e.adventure-specific-actions.Item.EbF9U21iMu0JkTzG]{Righteous Call}</p>\n<p>Your Strikes gain the holy trait.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Wind Barrier": {
+      "_id": "MH3VWOysJ8XboONX",
+      "name": {
+        "translate": "",
+        "original": "Effect: Wind Barrier"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by @UUID[Compendium.pf2e.adventure-specific-actions.Item.UEBVXi4VSQf70ggQ]{Wind Barrier}</p>\n<p>You gain a +2 circumstance bonus to AC against ranged attacks. At 13th level, this increases to a +3 circumstance bonus to AC against ranged attacks.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Attitude": {
+      "_id": "kTnRp6zfI32iqjHc",
+      "name": {
+        "translate": "",
+        "original": "Effect: Attitude"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>See @UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.CtFrwkS2yJ64080e]{Attitudes}</p>\n<p>Use this effect to keep track of the attitude of relevant NPCs, increasing or decreasing the effect's badge value as needed.</p>"
+      },
+      "badge": {
+        "0": {
+          "translate": "",
+          "original": "Hostile"
+        },
+        "1": {
+          "translate": "",
+          "original": "Unfriendly"
+        },
+        "2": {
+          "translate": "",
+          "original": "Indifferent"
+        },
+        "3": {
+          "translate": "",
+          "original": "Friendly"
+        },
+        "4": {
+          "translate": "",
+          "original": "Helpful"
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Chthonic Mucus (1-2)": {
+      "_id": "cpeMnTLFpi106fjg",
+      "name": {
+        "translate": "",
+        "original": "Effect: Chthonic Mucus (1-2)"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>The creature takes a –5-foot status penalty to its Speed for 1 round.</p>"
+      },
+      "rules": {
+        "0": {
+          "label": {
+            "translate": "",
+            "original": "Effect: Chthonic Mucus"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Chthonic Mucus": {
+      "_id": "uZ2mAwpVz1bkw5GK",
+      "name": {
+        "translate": "",
+        "original": "Effect: Chthonic Mucus"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>The creature takes a –5-foot status penalty to their Speed. This reduction ends with the persistent spirit damage.</p>"
+      },
+      "rules": {
+        "0": {
+          "label": {
+            "translate": "",
+            "original": "Effect: Chthonic Mucus"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-5",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Combat Mentor": {
+      "_id": "0PDng7D5Aj0szeSU",
+      "name": {
+        "translate": "",
+        "original": "Effect: Combat Mentor"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Combat Mentor</p>\n<p>Your Level Bump modifier to attack rolls and spell attack rolls increases to 2.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Exotic Edge": {
+      "_id": "OwrgpWYQTCLM6Ye7",
+      "name": {
+        "translate": "",
+        "original": "Effect: Exotic Edge"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Exotic Edge</p>\n<p>You gain a +1 circumstance bonus to either all of your attack rolls or all of your skill checks.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Grand Finale": {
+      "_id": "L2gnvfJ5y2cTNryW",
+      "name": {
+        "translate": "",
+        "original": "Effect: Grand Finale"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Grand Finale</p>\n<p>You gain a +2 circumstance bonus to Performance checks, 20 temporary Hit Points, and a +1 circumstance bonus to Fortitude saves.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Heroic Aegis": {
+      "_id": "a8LGc1NEXXBTvvy3",
+      "name": {
+        "translate": "",
+        "original": "Effect: Heroic Aegis"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Heroic Aegis</p>\n<p>You gain a +2 status bonus to AC and saving throws.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Heroic Hustle": {
+      "_id": "i5PHb9yR33Cr6XMK",
+      "name": {
+        "translate": "",
+        "original": "Effect: Heroic Hustle"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Heroic Hustle</p>\n<p>You gain a +10-foot status bonus to your Speed.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Heroic Inspiration": {
+      "_id": "53nP5ljwRhD9BlUk",
+      "name": {
+        "translate": "",
+        "original": "Effect: Heroic Inspiration"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Heroic Inspiration</p>\n<p>You gain a +1 circumstance bonus to checks of the same type the origin succeeded against.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Light in the Dark": {
+      "_id": "j2xuFnWfTov0VQoG",
+      "name": {
+        "translate": "",
+        "original": "Effect: Light in the Dark"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by S1-18 - Light in the Dark</p>\n<p>You gain a +1 circumstance bonus to Diplomacy checks to @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request Assistance} or @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} while adventuring in Razmiran.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Magical Mentor": {
+      "_id": "b1sZC0knPcr7B6Gz",
+      "name": {
+        "translate": "",
+        "original": "Effect: Magical Mentor"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Magical Mentor</p>\n<p>Your Level Bump modifier bonus to your spell DC that is the same tradition of the mentor increases to 2.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Nexian Researcher": {
+      "_id": "rEQP3SwRF9Zb1ppV",
+      "name": {
+        "translate": "",
+        "original": "Effect: Nexian Researcher"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by S1-00 - Nexian Researcher</p>\n<p>If you are Untrained in Pathfinder Society Lore, you can add your level to your Intelligence modifier when determining your bonus. If you are at least Trained in Pathfinder Society Lore, you gain a +2 circumstance bonus to this check instead.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Pompous Rage": {
+      "_id": "ALYd08DB00ZeoHAp",
+      "name": {
+        "translate": "",
+        "original": "Effect: Pompous Rage"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Foroxicks takes a –2 circumstance penalty to his jaws attack, but each hit deals additional piercing damage.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Practiced Medic": {
+      "_id": "OJibRFm4JCVGQZnx",
+      "name": {
+        "translate": "",
+        "original": "Effect: Practiced Medic"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Practiced Medic</p>\n<p>You can improve a Medicine check's degree of success by one step to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Protective Mentor": {
+      "_id": "IlSPZvli2IcLVPyi",
+      "name": {
+        "translate": "",
+        "original": "Effect: Protective Mentor"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Protective Mentor</p>\n<p>Your maximum Hit Points increases in addition to the bonus provided by the Level Bump.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Resist Corruption": {
+      "_id": "EdYvHSzJC5pGLdoV",
+      "name": {
+        "translate": "",
+        "original": "Effect: Resist Corruption"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Resist Corruption</p>\n<p>You gain resistance to unholy equal to your Reputation Tier with the Vigilant Seal faction.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Rugged Mentor": {
+      "_id": "84OsM8ml9VUAlNze",
+      "name": {
+        "translate": "",
+        "original": "Effect: Rugged Mentor"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Rugged Mentor</p>\n<p>Your Level Bump modifier to saving throws increases to 2.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Skillful Mentor": {
+      "_id": "n6PAwAqignNXd75G",
+      "name": {
+        "translate": "",
+        "original": "Effect: Skillful Mentor"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Skillful Mentor</p>\n<p>Your Level Bump modifier to skill checks increases to 2.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Tarnbreaker Champions": {
+      "_id": "zcGenQGOjZgFuqzs",
+      "name": {
+        "translate": "",
+        "original": "Effect: Tarnbreaker Champions"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Tarnbreaker Champions</p>\n<p>you gain a +1 circumstance bonus on all Diplomacy checks to @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Make a Request} while playing in an adventure that takes place primarily in the Lands of the Linnorm Kings.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Technological Defence": {
+      "_id": "XmNIl5QrNXy88Fk8",
+      "name": {
+        "translate": "",
+        "original": "Effect: Technological Defence"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Technological Defence.</p>\n<p>You gain a +1 circumstance bonus to a saving throw against a technological weapon or effect.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Worldly Mentor": {
+      "_id": "ICT4vGhOmPbriy16",
+      "name": {
+        "translate": "",
+        "original": "Effect: Worldly Mentor"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by Worldly Mentor</p>\n<p>Your Level Bump bonus modifier to perception checks increases by 2.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Crownhold Consecration": {
+      "_id": "dZT1w2EciqaR2NRz",
+      "name": {
+        "translate": "",
+        "original": "Effect: Crownhold Consecration"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Worshippers of Gorum get a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks.</p>\n<p>In addition, the underhanded nature of the PCs causes them to take a –1 status penalty to attack rolls, skill checks, saving throws, and Perception.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Favor of a Future Ally": {
+      "_id": "rjQyiAqxvVzYUpqV",
+      "name": {
+        "translate": "",
+        "original": "Effect: Favor of a Future Ally"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You take a –3 penalty to AC, and a –5 penalty to strike attack rolls.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Favor of a Past Benefactor": {
+      "_id": "G8YANJEFkHebehZh",
+      "name": {
+        "translate": "",
+        "original": "Effect: Favor of a Past Benefactor"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You take a –5 penalty to your spell DC and attack modifier.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Favor of a Present Foe": {
+      "_id": "HTPJ0ciyeaIgrPzQ",
+      "name": {
+        "translate": "",
+        "original": "Effect: Favor of a Present Foe"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You take a –4 penalty to skill checks, saving throws, and perception.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Favor of the Oliphaunt": {
+      "_id": "WWevYlEmHFDBiOLe",
+      "name": {
+        "translate": "",
+        "original": "Effect: Favor of the Oliphaunt"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Your max HP is reduced by 110.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Bickering Family": {
+      "_id": "1iIObOrXUGA3RwQ9",
+      "name": {
+        "translate": "",
+        "original": "Effect: Bickering Family"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You gain a +1 status bonus to your saving throws.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Blessed Coins": {
+      "_id": "A1VCJqeusccB7OOH",
+      "name": {
+        "translate": "",
+        "original": "Effect: Blessed Coins"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You are granted a +1 item bonus to skill checks you attempt with the deities' divine skills.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Seasonal Boon (Outskirt Dweller)": {
+      "_id": "8KtjzHHR7n7ALvQc",
+      "name": {
+        "translate": "",
+        "original": "Effect: Seasonal Boon (Outskirt Dweller)"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You gain a status bonus to your initiative roll equal to the number of seasons since you've started Season of Ghosts (+1 during the first adventure, up to a maximum of +4 during the fourth and final adventure).</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Spirit Power (Flight)": {
+      "_id": "UQmizjvdBfSVYoZe",
+      "name": {
+        "translate": "",
+        "original": "Effect: Spirit Power (Flight)"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You gain a fly Speed equal to your Speed or 30 feet, whichever is greater.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Spirit Power (Passion)": {
+      "_id": "ECCyLvt5uRw8Qv8V",
+      "name": {
+        "translate": "",
+        "original": "Effect: Spirit Power (Passion)"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Your body is engulfed in fire of a color of your choice that sheds bright light in a 40-foot radius (and dim light to the next 40 feet). Your melee Strikes inflict an additional 1d6 points of fire damage, you gain resistance 10 to fire, and you gain the @UUID[Compendium.pf2e.adventure-specific-actions.Item.kfmEGGs8DbIL9JuF]{Reactive Scorch} reaction.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Spirit Powers": {
+      "_id": "Rzlo3kvFUavFQJ3S",
+      "name": {
+        "translate": "",
+        "original": "Effect: Spirit Powers"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>When the PCs @UUID[Compendium.pf2e.spells-srd.Item.8Lk9K3tRnV68MQPW]{Transmigrate} into the living world during Act 3, they manifest as beings trapped somewhere between life and undeath. While in this state, the PCs function mostly normally but appear as semisolid ectoplasmic versions of themselves. They aren't quite transparent, but their solid bodies seem to waver and shimmer along the edges, giving them an eerie, unsettling appearance. While in this state, they're living creatures but gain some of the following abilities similar to those shared by undead creatures. As living creatures more akin to phantoms, they remain susceptible to void damage and are healed by vitality effects.</p>\n<p><strong>Undead Vision</strong>: They gain low-light vision, or darkvision if their ancestry already has low-light vision.</p>\n<p><strong>Transmigrated Survival</strong>: A PC in this state never gains the wounded condition but instead becomes exposed to soul degradation upon recovering from the dying condition (see below). If a PC dies while transmigrated, they awaken, alive, in the Willowshore mindscape and gain the @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1} condition.</p>\n<p><strong>Transmigrated Protection</strong>: They gain a +2 circumstance bonus to saving throws (or any other defense) against disease, poison, sleep, and any effects that would impose the @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} condition.</p>\n<p><strong>Spirit Powers</strong>: While in this state, the PCs can interact with the living world via their newfound spirit powers. When the PCs manifest their transmigrated bodies in the living world, they each gain two minor spirit powers and one major spirit power from the spirit powers listed on the following pages. Every time the PCs do their daily preparations, they can reselect their chosen spirit powers. When a spirit power calls for a saving throw, use the higher of that PC's class DC or spell DC. Any spirit powers calling for attack rolls use this DC – 10. Use the PC's own level for determining the effects of any counteract checks.</p>\n<p><strong>Soul Degradation</strong>: Initially, PCs will likely revel in their newfound spirit powers. Whenever a transmigrated PC comes close to death, however, they risk losing themselves entirely to their ghostly nature. Each time a dying transmigrated PC would normally gain the wounded condition, they're instead exposed to soul degradation and must attempt a new saving throw to resist increasing the stage of this curse.</p><h3>Minor Spirit Powers</h3><p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.VMpc8QWEZxSH8Mr4]{Curiosity}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.fsxCcyWpag5iuWOU]{Delusion}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.ekiKKfsBDFEeVmun]{Duty}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.w4t0ElpqNQRFCaPJ]{Love}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.g6iKvH7Y3InQtZ8K]{Obsession}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.w1nzN61S6NfkDH7Y]{Passion}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.YdG3UwVBia5AyLjO]{Spite}</p><h3>Major Spirit Powers</h3><p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.DVILYNQVB2hx9Chl]{Chilling Paralysis}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.pHXGTgjwWY3OBRF2]{Dematerialize}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.0HChyDaXdpXN11q4]{Flickering Figure}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.SnIvcCNASDzgevQK]{Flight}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.3yYlHV7GBrafsDwE]{Grudge}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.KtqDsKBuOmCkbDcR]{Resist Death}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.KbQXDTBi5MKtHbpU]{River's Reflection}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.sjLNgLFyDvTt6VVV]{Sap Life}</p>\n<p>@UUID[Compendium.pf2e.adventure-specific-actions.Item.UnQ8oHYc0dBJHZv9]{Undying Flesh}</p>"
+      },
+      "gm": {
+        "translate": "",
+        "original": "<h2>Soul Degradation (Curse 7)</h2><section class=\"traits\"><p>rare</p><p>curse</p><p>magical</p></section><p>The PC's sense of self becomes subsumed by ghostly desires, eventually rendering them a senseless shell. Soul degradation doesn't increase or decrease its stage over the passage of time. Instead, each time a transmigrated PC recovers from the dying condition, they must attempt a new saving throw against this curse. Certain events or effects that the PCs might encounter in Chapter 10 can also force them to save against soul degradation. Once the effects of transmigrate ritual end for a PC, they immediately and fully recover from soul degradation.</p><p><strong>Saving Throw</strong> @Check[will|dc:23|traits:curse,magical]</p><p><strong>Stage 1</strong> spirit weakness 5</p><p><strong>Stage 2</strong> spirit weakness 10</p><p><strong>Stage 3</strong> spirit weakness 10, and each time the PC critically fails an attack roll or skill check, they're @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} as their mind obsesses over the failure</p><p><strong>Stage 4</strong> as stage 3</p><p><strong>Stage 5</strong> as stage 3</p><p><strong>Stage 6</strong> The PC is reduced to an unthinking haunt. Until the curse is removed or the duration of the transmigrate ritual ends, they repeat a short loop of actions and are no longer under the control of the player (unlimited duration).</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Azata's Grace": {
+      "_id": "7pTfh1NwnXhEX7Lq",
+      "name": {
+        "translate": "",
+        "original": "Effect: Azata's Grace"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by @UUID[Compendium.pf2e.adventure-specific-actions.Item.p4CE62CG9S9RpU5F]{Azata's Grace}</p>\n<p>You gain 50 additional Hit Points, increasing both your maximum and current Hit Points, and gain the effects of the Righteous Call relic gift.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Consecrated Altar to Ydersius": {
+      "_id": "Up4O78PvSYAlXxDA",
+      "name": {
+        "translate": "",
+        "original": "Effect: Consecrated Altar to Ydersius"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Creatures who worship Ydersius gain a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks, and their Strikes gain the unholy trait.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Little Ripple's Blessing": {
+      "_id": "GBaN8XZrzFp7C7fL",
+      "name": {
+        "translate": "",
+        "original": "Effect: Little Ripple's Blessing"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Granted by @UUID[Compendium.pf2e.adventure-specific-actions.Item.31uM8IkenDZdeid6]{Little Ripple's Blessing}</p>\n<p>You gain a +1 status bonus to Will saves.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Call Upon the Ancients": {
+      "_id": "6ReMiLTAc70nbzAC",
+      "name": {
+        "translate": "",
+        "original": "Effect: Call Upon the Ancients"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You gain resistance 5 to all damage caused by Treerazer.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Call Upon the Sovyrian Stone": {
+      "_id": "l2fxGJVR9ffNI8uC",
+      "name": {
+        "translate": "",
+        "original": "Effect: Call Upon the Sovyrian Stone"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Decrease the DC of Treerazer's primal innate spells and his Defoliation ability to DC 46, the DC of his aura of corruption to DC 43, and his spell attack modifier to +38.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Invoke the Witchbole's Spirit": {
+      "_id": "yZGqaYXpuZ3NfbNB",
+      "name": {
+        "translate": "",
+        "original": "Effect: Invoke the Witchbole's Spirit"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>PCs gain a +4 circumstance bonus to all saving throws against Witchbole Collapse effects. Conversely, Treerazer takes a –4 circumstance penalty to his saving throws against the same effects.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Memories of Failure": {
+      "_id": "jS1J008XoEo50adu",
+      "name": {
+        "translate": "",
+        "original": "Effect: Memories of Failure"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>You take a -1 penalty to all saving throws against emotion effects created by the marked creature.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Recruit the Recent Dead": {
+      "_id": "A0w4C7GsqgFmkR8u",
+      "name": {
+        "translate": "",
+        "original": "Effect: Recruit the Recent Dead"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Reduce Treerazer's AC to 51, his Blackaxe Strike modifier to +44, and his jaws Strike modifier to +42.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Spore Feedback": {
+      "_id": "nTTqHZGSub9kmpOr",
+      "name": {
+        "translate": "",
+        "original": "Effect: Spore Feedback"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Treerazer's maximum Hit Points are reduced to 500 and his regeneration reduces to 30.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Effect: Utter Treerazer's Name": {
+      "_id": "fhcpgC3RX1CEGTC9",
+      "name": {
+        "translate": "",
+        "original": "Effect: Utter Treerazer's Name"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Decrease Treerazer's saving throw modifiers, Perception check modifiers, and skill check modifiers by 3.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-unknown",
+          "type-effect"
+        ]
+      }
+    },
+    "Blood Lords": {
+      "_id": "AGwZACBdvzFW7Alt",
+      "name": {
+        "translate": "",
+        "original": "Blood Lords"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Curtain Call": {
+      "_id": "8aTEGG8Cq1wG6qI5",
+      "name": {
+        "translate": "",
+        "original": "Curtain Call"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Extinction Curse": {
+      "_id": "x1BXD0wU3Jn73wgS",
+      "name": {
+        "translate": "",
+        "original": "Extinction Curse"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Myth-Speaker": {
+      "_id": "TkJtvE40gwxy3G0K",
+      "name": {
+        "translate": "",
+        "original": "Myth-Speaker"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Pathfinder Player Core": {
+      "_id": "dHkIfyfz2uyglAR2",
+      "name": {
+        "translate": "",
+        "original": "Pathfinder Player Core"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Revenge of the Runelords": {
+      "_id": "X4m1j7Mkqkts8fyV",
+      "name": {
+        "translate": "",
+        "original": "Revenge of the Runelords"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Sky King's Tomb": {
+      "_id": "n1mLGzv9Fcj7I32Z",
+      "name": {
+        "translate": "",
+        "original": "Sky King's Tomb"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Spore War": {
+      "_id": "93ELfrtUYYWaaOKE",
+      "name": {
+        "translate": "",
+        "original": "Spore War"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Season of Ghosts": {
+      "_id": "nYejRh5pL5dk5R7M",
+      "name": {
+        "translate": "",
+        "original": "Season of Ghosts"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Seven Dooms for Sandpoint": {
+      "_id": "lW4SmuXik98vi0td",
+      "name": {
+        "translate": "",
+        "original": "Seven Dooms for Sandpoint"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Pathfinder GM Core": {
+      "_id": "mFJYkag4aA4D7cSj",
+      "name": {
+        "translate": "",
+        "original": "Pathfinder GM Core"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Fists of the Ruby Phoenix": {
+      "_id": "S0vnaS17OowkLvHX",
+      "name": {
+        "translate": "",
+        "original": "Fists of the Ruby Phoenix"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Outlaws of Alkenstar": {
+      "_id": "8rkL5zSnCcrg6Q9J",
+      "name": {
+        "translate": "",
+        "original": "Outlaws of Alkenstar"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Prey for Death": {
+      "_id": "gZz0ReLZQXJEUa4w",
+      "name": {
+        "translate": "",
+        "original": "Prey for Death"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Kingmaker": {
+      "_id": "eDXJ3K6EaXRdCgJa",
+      "name": {
+        "translate": "",
+        "original": "Kingmaker"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Pathfinder Society": {
+      "_id": "KN9hhATq6X3GwryB",
+      "name": {
+        "translate": "",
+        "original": "Pathfinder Society"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "feat-deityboon",
+    "level-0",
+    "level-1",
+    "level-10",
+    "level-17",
+    "level-2",
+    "level-3",
+    "level-5",
+    "level-unknown",
+    "rarity-common",
+    "rarity-unknown",
+    "type-condition",
+    "type-effect",
+    "type-feat",
+    "type-item"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.campaign-effects",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Item",
+    "fileMode": "updated-existing",
+    "processedAt": "2026-05-18T11:19:40.533Z",
+    "documents": 74,
+    "existingEntriesUpdated": 21,
+    "missingEntriesAdded": 53,
+    "missingFieldsAdded": 35,
+    "wrappedStrings": 42,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 3,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "fn": "convertRulesData",
+    "args": [
+      [
+        {
+          "key": "Note",
+          "selector": "AC",
+          "text": "See @UUID[Compendium.pf2e.feats-srd.Item.ABC123]{Battle Instinct} for the full rules text.",
+          "title": "PF2E.NoteTitle",
+          "outcome": "__UNDEFINED__"
+        },
+        {
+          "key": "GrantItem",
+          "value": {
+            "uuid": "Compendium.pf2e.spells-srd.Item.DEF456",
+            "flag": "granted-spell",
+            "label": "@UUID[Compendium.pf2e.spells-srd.Item.DEF456]{Granted Spell}"
+          },
+          "reevaluateOnUpdate": null
+        },
+        {
+          "key": "FlatModifier",
+          "selector": "perception",
+          "value": 2,
+          "label": "Circumstance bonus to Perception"
+        },
+        {
+          "key": "Note",
+          "selector": "will",
+          "text": "Plain untranslated text with no UUID link at all."
+        }
+      ],
+      [
+        {
+          "text": "Дивіться @UUID[Compendium.pf2e.feats-srd.Item.ABC123]{Battle Instinct} для повного тексту правил.",
+          "outcome": "should-be-ignored-because-data-key-is-undefined"
+        },
+        {
+          "value": {
+            "flag": "надано-заклинання"
+          },
+          "reevaluateOnUpdate": "should-be-ignored-because-data-leaf-is-null"
+        },
+        {
+          "label": "Ситуативний бонус до Сприйняття"
+        }
+      ]
+    ],
+    "output": [
+      {
+        "key": "Note",
+        "selector": "AC",
+        "text": "Дивіться @UUID[Compendium.pf2e.feats-srd.Item.ABC123]{Battle Instinct} для повного тексту правил.",
+        "title": "PF2E.NoteTitle"
+      },
+      {
+        "key": "GrantItem",
+        "value": {
+          "uuid": "Compendium.pf2e.spells-srd.Item.DEF456",
+          "flag": "надано-заклинання",
+          "label": "@UUID[Compendium.pf2e.spells-srd.Item.DEF456]{Granted Spell}"
+        },
+        "reevaluateOnUpdate": null
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "perception",
+        "value": 2,
+        "label": "Ситуативний бонус до Сприйняття"
+      },
+      {
+        "key": "Note",
+        "selector": "will",
+        "text": "Plain untranslated text with no UUID link at all."
+      }
+    ],
+    "note": "realistic multi-entry system.rules array: index 0 - a key (outcome) whose data value is undefined is FILTERED OUT of the result regardless of what translation provides for it, an untranslated @UUID-labeled text leaf passes through stripOriginalUuidLabels (no-op under Node), a plain untranslated title string leaf passes through unchanged; index 1 - a null leaf (reevaluateOnUpdate) short-circuits BEFORE checking translation and stays null even though translation offers a value, a nested object (value) gets a PARTIAL translation (flag translated, uuid/label untranslated leaves pass through stripOriginalUuidLabels); index 2 - a translated string leaf (label) is fully replaced, untranslated leaves (selector string, value number) pass through unchanged; index 3 - entirely untranslated (translation array has only 3 entries) -> the whole object recurses and passes through unchanged."
+  },
+  {
+    "fn": "convertRulesData",
+    "args": [
+      {
+        "key": "Note",
+        "text": "@UUID[Compendium.pf2e.feats-srd.Item.ABC123]{Battle Instinct}"
+      },
+      "__UNDEFINED__"
+    ],
+    "output": {
+      "key": "Note",
+      "text": "@UUID[Compendium.pf2e.feats-srd.Item.ABC123]{Battle Instinct}"
+    },
+    "note": "default params (stripUuidLabels not === false) -> untranslated string leaf passes through stripOriginalUuidLabels (no-op under Node, output unchanged either way; the strip-vs-no-strip call itself is what's pinned here)"
+  },
+  {
+    "fn": "convertRulesData",
+    "args": [
+      {
+        "key": "Note",
+        "text": "@UUID[Compendium.pf2e.feats-srd.Item.ABC123]{Battle Instinct}"
+      },
+      "__UNDEFINED__",
+      {
+        "stripUuidLabels": false
+      }
+    ],
+    "output": {
+      "key": "Note",
+      "text": "@UUID[Compendium.pf2e.feats-srd.Item.ABC123]{Battle Instinct}"
+    },
+    "note": "params.stripUuidLabels:false -> stripOriginalUuidLabels is skipped entirely for the untranslated string leaf (same output as the default-params case above under Node, since the strip itself is a no-op here - only the live parseUuid label-drop path would ever differ)"
+  }
+]

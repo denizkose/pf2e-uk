@@ -1,0 +1,214 @@
+{
+  "COMP": {
+    "Prompt": {
+      "IsSpecialized": "Чи спеціалізований компаньйон?",
+      "Specialized": "Виберіть спеціалізацію вашого компаньйона"
+    },
+    "SpecificRule": {
+      "AirElemental": {
+        "EffectNote": "ви @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} до цієї істоти до початку вашого наступного ходу."
+      },
+      "Ape": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашої мавпи, істота стає @Compendium[pf2e.conditionitems.Frightened]{Frightened 1}."
+      },
+      "Bacallia": {
+        "AdvancedManeuver": {
+          "Note": "Жива істота, уражена цим ударом, також стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} при критичному влучанні)."
+        },
+        "EffectNote": "Удари, що завдають шкоди істоті в межах досяжності вашої бакалії, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} до кінця вашого наступного ходу."
+      },
+      "Beetle": {
+        "EffectNote": "Ваші удари, що завдають шкоди, або роблять ціль @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard} до кінця вашого наступного ходу, або відсувають ціль на 5 футів від жука (це примусовий рух). Ціль обирає, який ефект застосувати."
+      },
+      "Bird": {
+        "EffectNote": "Ціль стає @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}, доки не усуне кровотечу."
+      },
+      "Cat": {
+        "EffectNote": "Ваші удари, що завдають шкоди істоті в межах досяжності вашого кота, роблять ціль @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard}."
+      },
+      "CragstoneBear": {
+        "RollingCharge": {
+          "Note": "Ціль збита @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}."
+        }
+      },
+      "Elephant": {
+        "EffectNote": "Цілі в межах досяжності вашого слона, яких ви влучаєте і завдаєте шкоди, отримують штраф –4 до перевірок чисто слухового сприйняття. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.3EGbKKD73gGbSWIa]{Effect: Elephant Support Benefit (Penalty)}"
+      },
+      "Elk": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашого лося, істота стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}."
+      },
+      "FlyingSquirrel": {
+        "EffectNote": "Якщо ваш удар завдає шкоди істоті в межах досяжності вашої гігантської літаючої білки, ця істота отримує штраф –10 футів до швидкості. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.lACoOtINmUb1fTMY]{Effect: Flying Squirrel Support Benefit (Penalty)}"
+      },
+      "Follower": {
+        "ExceptionalAdvancement": {
+          "Label": "Виняткове просування"
+        },
+        "ExperiencedAdvancement": {
+          "Label": "Досвідчене просування",
+          "Sharpshooter": {
+            "Note": "Коли істота отримує шкоду від далекобійного удару стрільця, вона отримує штраф –5 футів до швидкості на 1 раунд, або штраф –10 футів, якщо атака була критичною. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.GXWxbmqTJApVu0f3]{Effect: Experienced Sharpshooter}",
+            "Note-SF": "Коли істота отримує шкоду від далекобійного удару стрільця, вона отримує штраф –5 футів до швидкості на 1 раунд, або штраф –10 футів, якщо атака була критичною. @UUID[Compendium.pf2e-animal-companions.sf-AC-effects.Item.GXWxbmqTJApVu0f3]{Effect: Experienced Sharpshooter}"
+          }
+        },
+        "FollowerAbility": {
+          "Berserker": {
+            "Note": "Коли берсерк отримує шкоду, він отримує бонус +1 до наступного кидка шкоди до кінця вашого наступного ходу. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.oM4smdqElgYmPzae]{Effect: Berserker Follower Ability}"
+          },
+          "Label": "Здібність послідовника"
+        },
+        "KitArmor": {
+          "Label": "Обладунки набору"
+        },
+        "Shieldbearer": {
+          "MartialProficiency": "Бос з довгим мечем і щитом",
+          "ShieldLabel": "Щит щитоносця"
+        },
+        "VeteranAdvancement": {
+          "Label": "Ветеранське просування",
+          "Sharpshooter": {
+            "Note": "Коли стрілець прицілюється, він також ігнорує прихованість цілі."
+          }
+        }
+      },
+      "Ghost": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашого привида, істота стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}."
+      },
+      "GiantRockTuatara": {
+        "EffectNote": "Удари, що завдають шкоди істоті в межах досяжності вашої гігантської кам'яної туатари, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} до кінця вашого наступного ходу."
+      },
+      "GiantWasp": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашої гігантської оси, істота стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}."
+      },
+      "Giraffe": {
+        "EffectNote": {
+          "CriticalSuccess": "Ваша ціль рухається на 15 футів.",
+          "Success": "Ваша ціль рухається на 10 футів."
+        }
+      },
+      "GrayBladeling": {
+        "EffectNote": {
+          "Frightened": "Ціль стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}"
+        }
+      },
+      "HermitKrait": {
+        "DefensiveCurl": {
+          "DamageNote": "Ви отримуєте @Damage[2d6[persistent,poison]] шкоди."
+        }
+      },
+      "Hyena": {
+        "EffectNote": "Коли ви влучаєте істоті в межах досяжності гієни ударом, істота стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}."
+      },
+      "IridescentSalamander": {
+        "EffectNote": {
+          "PF": "Істота стає @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} до початку вашого наступного ходу, якщо її рівень не вищий за ваш.",
+          "SF": "Істота стає @UUID[Compendium.sf2e.conditions.Item.TkIyaNPgTZFBCCuh]{Dazzled} до початку вашого наступного ходу, якщо її рівень не вищий за ваш."
+        }
+      },
+      "IsgeriBoarhound": {
+        "DesignatedFoe": {
+          "RollOptionLabel": "Визначений ворог"
+        }
+      },
+      "MetalElemental": {
+        "SpikedBunker": {
+          "DamageNote": "Ви отримуєте @Damage[(@actor.flags.pf2e.rulesSelections.isSpecialized)d6[piercing]] шкоди."
+        }
+      },
+      "Mole": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті, що прилягає до вашого крота, ця істота стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}, доки не покине своє поточне місце."
+      },
+      "MonitorLizard": {
+        "EffectNote": "Якщо ваш удар завдає шкоди ворогу, кожного разу, коли ворог намагається виконати дію з ознакою маніпуляції до кінця вашого наступного ходу, він повинен пройти перевірку DC 5 Flat Check. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.eXABjTK48R1xCvOZ]{Effect: Monitor Lizard Support Benefit (Penalty)}",
+        "ManipulateNote": "Спробуйте @Check[flat|dc:5|showDC:all]. При провалі дія переривається."
+      },
+      "Moth": {
+        "EffectNote": "Якщо ви завдаєте шкоди прихованій або замаскованій істоті в межах досяжності вашої молі ударом, ця істота потребує лише DC 3 Flat Check, щоб бути ціллю, якщо вона замаскована, або DC 9 Flat Check, якщо вона прихована. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.Db0Vtobv3v4Iybj5]{Effect: Moth Support Benefit (Penalty)}"
+      },
+      "Pangolin": {
+        "DefensiveCurl": {
+          "DamageNote": "Ви отримуєте @Damage[2d6[bleed]] шкоди."
+        }
+      },
+      "Rhinoceros": {
+        "EffectNote": "Перша істота в межах досяжності вашого носорога, яку ви влучаєте і завдаєте шкоди до початку вашого наступного ходу, стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}."
+      },
+      "RidingDrake": {
+        "Label": "Верхом на їздовому драконі"
+      },
+      "RidingTarantula": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті, яку загрожує ваш їздовий тарантул, ціль повинна пройти @Check[type:flat|dc:5] щоразу, коли вона виконує дію концентрації, або дія втрачається. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.crYJGMzeiXh8xve3]{Effect: Riding Tarantula Support Benefit (Penalty)}",
+        "ConcentrateNote": "Спробуйте @Check[flat|dc:5|showDC:all]. При провалі дія переривається."
+      },
+      "Roc": {
+        "EffectNote": "Ваші удари, що завдають шкоди істоті, яку загрожує ваш рок, відштовхують ціль на 5 футів від вашого рока."
+      },
+      "SeveredHead": {
+        "EffectNote": {
+          "SupportBenefit": "Ціль отримує штраф –5 футів до швидкості і повинна пройти DC 5 flat check, щоб використовувати реакції, викликані вашими діями. @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.agTdJDFIKuduum1p]{Effect: Severed Head Support Benefit (Penalty)}",
+          "Reactions": "Ви повинні пройти @Check[flat|dc:5], щоб використовувати реакції, викликані діями джерела."
+        }
+      },
+      "ShadowHound": {
+        "EffectNote": "Коли ви завдаєте шкоди істоті ударом, і ця істота знаходиться в межах досяжності вашого тіньового пса, і ви, і ваш тіньовий пес стаєте @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} до цієї істоти."
+      },
+      "SiltFrog": {
+        "EffectNote": {
+          "PF": "Істота стає @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} до початку вашого наступного ходу.",
+          "SF": "Істота стає @UUID[[Compendium.sf2e.conditions.Item.9PR9y0bi4JPKnHPR]{Deafened} до початку вашого наступного ходу."
+        }
+      },
+      "SkeletalBirdOfPrey": {
+        "EffectNote": "Коли ви завдаєте шкоди істоті в межах досяжності птаха ударом, ця істота стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}."
+      },
+      "SkeletalConstrictor": {
+        "EffectNote": "Ваші удари, що завдають шкоди обраній істоті, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}."
+      },
+      "SkeletalMount": {
+        "Label": "Верхом на скелетному скакуні",
+        "EffectNote": {
+          "CriticalSuccess": "Будь-яка істота, пошкоджена атакою, стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.",
+          "Success": "Будь-яка істота, пошкоджена атакою, стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}."
+        }
+      },
+      "SkeletalServant": {
+        "EffectNote": "Коли удар, який ви завдаєте, влучає і завдає шкоди істоті в межах досяжності вашого скелетного слуги, ця ціль стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}."
+      },
+      "TerrorBird": {
+        "EffectNote": "Ваші удари, що завдають шкоди обраній істоті, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}."
+      },
+      "Tyrannosaurus": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашого тиранозавра, істота стає @Compendium[pf2e.conditionitems.Frightened]{Frightened 1}."
+      },
+      "UmbrellaMushroom": {
+        "EffectNote": "Ваші удари, що завдають шкоди істоті в межах досяжності вашого грибного парасолька, роблять ціль @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}. Цей ефект має ознаку отрути."
+      },
+      "WarPig": {
+        "EffectNote": "Якщо ви влучаєте і завдаєте шкоди істоті в межах досяжності вашої бойової свині, істота стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}."
+      },
+      "WaterElemental": {
+        "EffectNote": "Ваш удар, що завдає шкоди істоті в межах досяжності вашого водяного елементаля, робить ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}."
+      },
+      "WaterWraith": {
+        "EffectNote": "Істота стає @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}."
+      },
+      "Wolf": {
+        "EffectNote": "Ціль отримує штраф –5 футів до швидкості (–10 при критичному успіху). @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.UhWenwf5XOlk9ZHY]{Effect: Wolf Support Benefit Speed Penalty}"
+      },
+      "WoodElemental": {
+        "EffectNote": "Ціль отримує штраф –5 футів до швидкості на 1 хвилину (–10 при критичному успіху). @UUID[Compendium.pf2e-animal-companions.AC-effects.Item.U2mkebPNSs531ADL]{Effect: Wood Elemental Support Benefit Speed Penalty}"
+      },
+      "Wyvern": {
+        "DivingSkewer": {
+          "Note": "Ціль збита @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}."
+        },
+        "StingerPoison": {
+          "Label": "Отрута жала"
+        }
+      }
+    },
+    "UnarmedAttacks": {
+      "TailSlam": "Удар хвостом"
+    }
+  }
+}

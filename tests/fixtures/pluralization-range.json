@@ -1,0 +1,866 @@
+[
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "touch"
+    ],
+    "output": "доторк",
+    "note": "touch keyword"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "30 feet, then touch"
+    ],
+    "output": "30 футів, then доторк",
+    "note": "mixed sentence"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      ""
+    ],
+    "output": "",
+    "note": "empty string"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      null
+    ],
+    "output": null,
+    "note": "non-string input (null passthrough)"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      42
+    ],
+    "output": 42,
+    "note": "non-string input (number passthrough)"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 feet"
+    ],
+    "output": "1 фут",
+    "note": "count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "2 feet"
+    ],
+    "output": "2 фути",
+    "note": "count=2"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 feet"
+    ],
+    "output": "3 фути",
+    "note": "count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "4 feet"
+    ],
+    "output": "4 фути",
+    "note": "count=4"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "5 feet"
+    ],
+    "output": "5 футів",
+    "note": "count=5"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "10 feet"
+    ],
+    "output": "10 футів",
+    "note": "count=10"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 feet"
+    ],
+    "output": "11 футів",
+    "note": "count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "12 feet"
+    ],
+    "output": "12 футів",
+    "note": "count=12"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "13 feet"
+    ],
+    "output": "13 футів",
+    "note": "count=13"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "14 feet"
+    ],
+    "output": "14 футів",
+    "note": "count=14"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "15 feet"
+    ],
+    "output": "15 футів",
+    "note": "count=15"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "20 feet"
+    ],
+    "output": "20 футів",
+    "note": "count=20"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "21 feet"
+    ],
+    "output": "21 фут",
+    "note": "count=21"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "24 feet"
+    ],
+    "output": "24 фути",
+    "note": "count=24"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "25 feet"
+    ],
+    "output": "25 футів",
+    "note": "count=25"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "31 feet"
+    ],
+    "output": "31 фут",
+    "note": "count=31"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "100 feet"
+    ],
+    "output": "100 футів",
+    "note": "count=100"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "101 feet"
+    ],
+    "output": "101 фут",
+    "note": "count=101"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "104 feet"
+    ],
+    "output": "104 фути",
+    "note": "count=104"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "105 feet"
+    ],
+    "output": "105 футів",
+    "note": "count=105"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "111 feet"
+    ],
+    "output": "111 футів",
+    "note": "count=111"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "114 feet"
+    ],
+    "output": "114 футів",
+    "note": "count=114"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "120 feet"
+    ],
+    "output": "120 футів",
+    "note": "count=120"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "121 feet"
+    ],
+    "output": "121 фут",
+    "note": "count=121"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "124 feet"
+    ],
+    "output": "124 фути",
+    "note": "count=124"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "125 feet"
+    ],
+    "output": "125 футів",
+    "note": "count=125"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "0 feet"
+    ],
+    "output": "0 футів",
+    "note": "count=0"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "-1 feet"
+    ],
+    "output": "-1 фут",
+    "note": "count=-1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "-11 feet"
+    ],
+    "output": "-11 футів",
+    "note": "count=-11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1.5 feet"
+    ],
+    "output": "1.5 футів",
+    "note": "count=1.5"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 1 feet"
+    ],
+    "output": "до 1 фута",
+    "note": "up-to count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 2 feet"
+    ],
+    "output": "до 2 футів",
+    "note": "up-to count=2"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 5 feet"
+    ],
+    "output": "до 5 футів",
+    "note": "up-to count=5"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 11 feet"
+    ],
+    "output": "до 11 футів",
+    "note": "up-to count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 24 feet"
+    ],
+    "output": "до 24 футів",
+    "note": "up-to count=24"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 feet"
+    ],
+    "output": "1 фут",
+    "note": "alias form=\"feet\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 feet"
+    ],
+    "output": "3 фути",
+    "note": "alias form=\"feet\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 feet"
+    ],
+    "output": "11 футів",
+    "note": "alias form=\"feet\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 feets"
+    ],
+    "output": "1 фут",
+    "note": "alias form=\"feets\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 feets"
+    ],
+    "output": "3 фути",
+    "note": "alias form=\"feets\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 feets"
+    ],
+    "output": "11 футів",
+    "note": "alias form=\"feets\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 foot"
+    ],
+    "output": "1 фут",
+    "note": "alias form=\"foot\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 foot"
+    ],
+    "output": "3 фути",
+    "note": "alias form=\"foot\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 foot"
+    ],
+    "output": "11 футів",
+    "note": "alias form=\"foot\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 ft"
+    ],
+    "output": "1 фут",
+    "note": "alias form=\"ft\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 ft"
+    ],
+    "output": "3 фути",
+    "note": "alias form=\"ft\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 ft"
+    ],
+    "output": "11 футів",
+    "note": "alias form=\"ft\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 ft."
+    ],
+    "output": "1 фут.",
+    "note": "alias form=\"ft.\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 ft."
+    ],
+    "output": "3 фути.",
+    "note": "alias form=\"ft.\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 ft."
+    ],
+    "output": "11 футів.",
+    "note": "alias form=\"ft.\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3,5 feet"
+    ],
+    "output": "3,5 футів",
+    "note": "comma-decimal (non-integer)"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 miles"
+    ],
+    "output": "1 миля",
+    "note": "count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "2 miles"
+    ],
+    "output": "2 милі",
+    "note": "count=2"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 miles"
+    ],
+    "output": "3 милі",
+    "note": "count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "4 miles"
+    ],
+    "output": "4 милі",
+    "note": "count=4"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "5 miles"
+    ],
+    "output": "5 миль",
+    "note": "count=5"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "10 miles"
+    ],
+    "output": "10 миль",
+    "note": "count=10"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 miles"
+    ],
+    "output": "11 миль",
+    "note": "count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "12 miles"
+    ],
+    "output": "12 миль",
+    "note": "count=12"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "13 miles"
+    ],
+    "output": "13 миль",
+    "note": "count=13"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "14 miles"
+    ],
+    "output": "14 миль",
+    "note": "count=14"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "15 miles"
+    ],
+    "output": "15 миль",
+    "note": "count=15"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "20 miles"
+    ],
+    "output": "20 миль",
+    "note": "count=20"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "21 miles"
+    ],
+    "output": "21 миля",
+    "note": "count=21"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "24 miles"
+    ],
+    "output": "24 милі",
+    "note": "count=24"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "25 miles"
+    ],
+    "output": "25 миль",
+    "note": "count=25"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "31 miles"
+    ],
+    "output": "31 миля",
+    "note": "count=31"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "100 miles"
+    ],
+    "output": "100 миль",
+    "note": "count=100"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "101 miles"
+    ],
+    "output": "101 миля",
+    "note": "count=101"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "104 miles"
+    ],
+    "output": "104 милі",
+    "note": "count=104"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "105 miles"
+    ],
+    "output": "105 миль",
+    "note": "count=105"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "111 miles"
+    ],
+    "output": "111 миль",
+    "note": "count=111"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "114 miles"
+    ],
+    "output": "114 миль",
+    "note": "count=114"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "120 miles"
+    ],
+    "output": "120 миль",
+    "note": "count=120"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "121 miles"
+    ],
+    "output": "121 миля",
+    "note": "count=121"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "124 miles"
+    ],
+    "output": "124 милі",
+    "note": "count=124"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "125 miles"
+    ],
+    "output": "125 миль",
+    "note": "count=125"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "0 miles"
+    ],
+    "output": "0 миль",
+    "note": "count=0"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "-1 miles"
+    ],
+    "output": "-1 миля",
+    "note": "count=-1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "-11 miles"
+    ],
+    "output": "-11 миль",
+    "note": "count=-11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1.5 miles"
+    ],
+    "output": "1.5 миль",
+    "note": "count=1.5"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 1 miles"
+    ],
+    "output": "до 1 милі",
+    "note": "up-to count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 2 miles"
+    ],
+    "output": "до 2 миль",
+    "note": "up-to count=2"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 5 miles"
+    ],
+    "output": "до 5 миль",
+    "note": "up-to count=5"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 11 miles"
+    ],
+    "output": "до 11 миль",
+    "note": "up-to count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "up to 24 miles"
+    ],
+    "output": "до 24 миль",
+    "note": "up-to count=24"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 miles"
+    ],
+    "output": "1 миля",
+    "note": "alias form=\"miles\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 miles"
+    ],
+    "output": "3 милі",
+    "note": "alias form=\"miles\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 miles"
+    ],
+    "output": "11 миль",
+    "note": "alias form=\"miles\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 mile"
+    ],
+    "output": "1 миля",
+    "note": "alias form=\"mile\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 mile"
+    ],
+    "output": "3 милі",
+    "note": "alias form=\"mile\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 mile"
+    ],
+    "output": "11 миль",
+    "note": "alias form=\"mile\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 mi"
+    ],
+    "output": "1 миля",
+    "note": "alias form=\"mi\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 mi"
+    ],
+    "output": "3 милі",
+    "note": "alias form=\"mi\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 mi"
+    ],
+    "output": "11 миль",
+    "note": "alias form=\"mi\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "1 mi."
+    ],
+    "output": "1 миля.",
+    "note": "alias form=\"mi.\" count=1"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3 mi."
+    ],
+    "output": "3 милі.",
+    "note": "alias form=\"mi.\" count=3"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "11 mi."
+    ],
+    "output": "11 миль.",
+    "note": "alias form=\"mi.\" count=11"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "3,5 miles"
+    ],
+    "output": "3,5 миль",
+    "note": "comma-decimal (non-integer)"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "feet"
+    ],
+    "output": "футів",
+    "note": "bare unit, no number (fallback branch)"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "foot"
+    ],
+    "output": "фут",
+    "note": "bare unit, no number (fallback branch)"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "miles"
+    ],
+    "output": "миль",
+    "note": "bare unit, no number (fallback branch)"
+  },
+  {
+    "fn": "translateRangeValue",
+    "args": [
+      "mile"
+    ],
+    "output": "миля",
+    "note": "bare unit, no number (fallback branch)"
+  }
+]

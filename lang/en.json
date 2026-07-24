@@ -1,0 +1,6 @@
+{
+  "PF2E-UK.OriginalLabel": "Original",
+  "PF2E-UK.ItemConversionError": "Item translation failed: {itemName} [{itemId}] {actorClause}(Foundry: {foundryVersion}, system: {systemId} {systemVersion}, translation: {moduleVersion})",
+  "PF2E-UK.ItemConversionErrorActor": "on actor {actorName} [{actorId}] ",
+  "PF2E-UK.ItemConversionErrorFallback": "Item translation failed (could not build a detailed error message)"
+}

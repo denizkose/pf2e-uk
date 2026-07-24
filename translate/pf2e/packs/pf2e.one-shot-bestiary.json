@@ -1,0 +1,3651 @@
+{
+  "entries": {
+    "Carl The Cobbler": {
+      "_id": "ws7D95828SXNi4Vp",
+      "name": {
+        "translate": "",
+        "original": "Carl The Cobbler"
+      },
+      "blurb": {
+        "translate": "",
+        "original": "Variant redcap"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>Redcaps are sadistic and capricious fey who thrill in bloodletting and murder. While they are most famous for appearing as wizened, bearded men, redcap women are no less fearsome or cruel. Redcaps are ultimately craven bullies, cowed by anything more powerful than themselves, a trait that leads them to fear and despise the symbols of good deities. Many fairy tales explain how the redcaps draw power from dipping the hats for which they are named in fresh blood. Just as iconic to these cruel little fey are their iron-clad boots, and the clanging sound of their metal soles clanking on stone floors is both discordant and disconcerting-especially to those who recognize the sound for what it is. Redcaps typically stand only 3 feet tall, with hunched frames, pointed ears, crooked teeth, and long, white, tangled hair.</p>"
+      },
+      "hp": {
+        "translate": "",
+        "original": "fast healing 10"
+      },
+      "skills": {
+        "crafting": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "",
+                "original": "for shoes"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "EwFIGxm34Yw0S51k": {
+          "_id": "EwFIGxm34Yw0S51k",
+          "name": {
+            "translate": "",
+            "original": "Scythe"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Derived from a farming tool used to mow down long grains and cereals, this weapon has a long wooden shaft with protruding handles, capped with a curved blade set at a right angle.</p>"
+          }
+        },
+        "9K08qcNrvT5fefj0": {
+          "_id": "9K08qcNrvT5fefj0",
+          "name": {
+            "translate": "",
+            "original": "Iron Boots"
+          }
+        },
+        "qxeMxKzn8k64O7D0": {
+          "_id": "qxeMxKzn8k64O7D0",
+          "name": {
+            "translate": "",
+            "original": "Red Cap"
+          }
+        },
+        "8CNN6le6tEVrWmR5": {
+          "_id": "8CNN6le6tEVrWmR5",
+          "name": {
+            "translate": "",
+            "original": "Scythe"
+          }
+        },
+        "r4Qkdy83VOkw6r0p": {
+          "_id": "r4Qkdy83VOkw6r0p",
+          "name": {
+            "translate": "",
+            "original": "Boot"
+          }
+        },
+        "2OPayJrYVYfP1LZk": {
+          "_id": "2OPayJrYVYfP1LZk",
+          "name": {
+            "translate": "",
+            "original": "Red Cap"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A redcap's woolen hat is dyed with the blood of its victims. If the redcap loses its cap, it no longer benefits from fast healing and takes a -4 status penalty to its damage rolls. It can create a new cap in 10 minutes, but that cap doesn't grant its powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.s5mS7CyE0oOYlecv]{Effect: Lost Red Cap}</p>"
+          }
+        },
+        "xxGqls5RMZVYvmHf": {
+          "_id": "xxGqls5RMZVYvmHf",
+          "name": {
+            "translate": "",
+            "original": "Fast Healing 10"
+          }
+        },
+        "7XdX39vruCh59MIe": {
+          "_id": "7XdX39vruCh59MIe",
+          "name": {
+            "translate": "",
+            "original": "Divine Revulsion"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>If a redcap sees a creature brandish a religious symbol of a good deity (which requires an interact action by that creature) or use one to cast a divine spell, the redcap must attempt a @Check[will|dc:19] save. It then becomes temporarily immune to all brandished religious symbols for 10 minutes.</p>\n<hr />\n<p><strong>Critical Success</strong> The redcap is unaffected</p>\n<p><strong>Success</strong> The redcap is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}</p>\n<p><strong>Failure</strong> The redcap gains the @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} condition for 1 round and is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 4}</p>"
+          }
+        },
+        "ivsgBmmJjZW5Wr5S": {
+          "_id": "ivsgBmmJjZW5Wr5S",
+          "name": {
+            "translate": "",
+            "original": "Blood Soak"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The redcap dips its cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.wPIGBcpCqCWgrCiq]{Effect: Blood Soak}</p>"
+          }
+        },
+        "Q9TQFtMzhVqywWrB": {
+          "_id": "Q9TQFtMzhVqywWrB",
+          "name": {
+            "translate": "",
+            "original": "Deadly Cleave"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> The redcap reduces a creature to 0 Hit Points with a scythe Strike.</p>\n<hr />\n<p><strong>Effect</strong> The redcap makes another scythe Strike against a different creature, using the same multiple attack penalty as the scythe Strike that triggered this reaction. This counts toward its multiple attack penalty.</p>"
+          }
+        },
+        "P7S7nuGr7qWkygVT": {
+          "_id": "P7S7nuGr7qWkygVT",
+          "name": {
+            "translate": "",
+            "original": "Stomp"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The redcap Strides up to half its Speed and makes a boot Strike at any point during that movement. If the boot Strike hits a @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} creature, it deals an extra @Damage[2d6[bleed]].</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-5",
+          "rarity-unique",
+          "type-npc",
+          "npc-chaotic"
+        ]
+      }
+    },
+    "Hidden Spiked Pit": {
+      "_id": "dMcQ1v7uuNpH4cMy",
+      "name": {
+        "translate": "",
+        "original": "Hidden Spiked Pit"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>A wooden trapdoor covers a pit that's 10 feet square and 20 feet deep. Knives are arrayed at the bottom of the trap, impaling anyone who falls on them.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[thievery|dc:18] (trained) to remove the trapdoor</p>"
+      },
+      "reset": {
+        "translate": "",
+        "original": "<p>Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} again.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(trained) or DC 0 if the trapdoor is disabled or broken</p>"
+      },
+      "items": {
+        "46QQLfvX9fW6Bk1l": {
+          "_id": "46QQLfvX9fW6Bk1l",
+          "name": {
+            "translate": "",
+            "original": "Pitfall"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature walks onto the trapdoor</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature falls in and takes falling damage (@Damage[10[bludgeoning]|options:fall-damage] damage) as well as @Damage[2d6[piercing]] damage from falling on to the knives. That creature can use the @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge} reaction to avoid falling.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Jinkin Ripclaw": {
+      "_id": "VKHaguCFtnDVMXTz",
+      "name": {
+        "translate": "",
+        "original": "Jinkin Ripclaw"
+      },
+      "skills": {
+        "crafting": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "",
+                "original": "traps"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "7qYSCkLUt7VdjJqF": {
+          "_id": "7qYSCkLUt7VdjJqF",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "5aOi2V8jW8bju4iW": {
+          "_id": "5aOi2V8jW8bju4iW",
+          "name": {
+            "translate": "",
+            "original": "Prestidigitation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The simplest magic does your bidding. You can perform simple magical effects for as long as you Sustain the Spell. Each time you Sustain the Spell, you can choose one of four options.</p>\n<ul>\n<li><strong>Cook</strong> Cool, warm, or flavor 1 pound of nonliving material.</li>\n<li><strong>Lift</strong> Slowly lift an unattended object of light Bulk or less 1 foot off the ground.</li>\n<li><strong>Make</strong> Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile-it can't be used as a tool, weapon, or spell component.</li>\n<li><strong>Tidy</strong> Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.</li>\n</ul>\n<p>Prestidigitation can't deal damage or cause adverse conditions. Any actual change to an object (beyond what is noted above) persists only as long as you Sustain the Spell.</p>"
+          }
+        },
+        "IwDJy9E3HcmIRFRG": {
+          "_id": "IwDJy9E3HcmIRFRG",
+          "name": {
+            "translate": "",
+            "original": "Pincer Claw"
+          }
+        },
+        "CVjUFBRBNFzzyeUM": {
+          "_id": "CVjUFBRBNFzzyeUM",
+          "name": {
+            "translate": "",
+            "original": "Pincer Claw"
+          }
+        },
+        "kY2sEnpBUtAf3yWp": {
+          "_id": "kY2sEnpBUtAf3yWp",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "7Tr463aYLlpKVHXH": {
+          "_id": "7Tr463aYLlpKVHXH",
+          "name": {
+            "translate": "",
+            "original": "Rip Flesh"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> A jinkin has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} with their pincer claw</p>\n<hr />\n<p><strong>Effect</strong> The jinkin forcefully pulls the pincer claw out of the creature, ripping flesh and cackling in sadistic glee. The creature takes @Damage[1d8[piercing]] damage and is no longer grabbed.</p>"
+          }
+        },
+        "hZy96Ln7woTYG0EE": {
+          "_id": "hZy96Ln7woTYG0EE",
+          "name": {
+            "translate": "",
+            "original": "Sneak Attack"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The jinkin deals 1d6 extra precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>"
+          }
+        },
+        "sdTQ4UDze0yoQiqJ": {
+          "_id": "sdTQ4UDze0yoQiqJ",
+          "name": {
+            "translate": "",
+            "original": "Tinker"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hiding}. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (@Check[flat|dc:5] or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber.</p>"
+          }
+        },
+        "uF8rrbcid5DCz1gK": {
+          "_id": "uF8rrbcid5DCz1gK",
+          "name": {
+            "translate": "",
+            "original": "Grab"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-1",
+          "rarity-rare",
+          "type-npc",
+          "npc-chaotic"
+        ]
+      }
+    },
+    "Vilm": {
+      "_id": "I9nJltbnjRRTKjoj",
+      "name": {
+        "translate": "",
+        "original": "Vilm"
+      },
+      "blurb": {
+        "translate": "",
+        "original": "Variant jinkin ripclaw"
+      },
+      "skills": {
+        "crafting": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "",
+                "original": "traps"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "7qYSCkLUt7VdjJqF": {
+          "_id": "7qYSCkLUt7VdjJqF",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "5aOi2V8jW8bju4iW": {
+          "_id": "5aOi2V8jW8bju4iW",
+          "name": {
+            "translate": "",
+            "original": "Prestidigitation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The simplest magic does your bidding. You can perform simple magical effects for as long as you Sustain the Spell. Each time you Sustain the Spell, you can choose one of four options.</p>\n<ul>\n<li><strong>Cook</strong> Cool, warm, or flavor 1 pound of nonliving material.</li>\n<li><strong>Lift</strong> Slowly lift an unattended object of light Bulk or less 1 foot off the ground.</li>\n<li><strong>Make</strong> Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile-it can't be used as a tool, weapon, or spell component.</li>\n<li><strong>Tidy</strong> Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.</li>\n</ul>\n<p>Prestidigitation can't deal damage or cause adverse conditions. Any actual change to an object (beyond what is noted above) persists only as long as you Sustain the Spell.</p>"
+          }
+        },
+        "IwDJy9E3HcmIRFRG": {
+          "_id": "IwDJy9E3HcmIRFRG",
+          "name": {
+            "translate": "",
+            "original": "Pincer Claw"
+          }
+        },
+        "JiOjgo31jQPPDL1p": {
+          "_id": "JiOjgo31jQPPDL1p",
+          "name": {
+            "translate": "",
+            "original": "Shortbow"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This smaller bow is made of a single piece of wood and favored by skirmishers and cavalry.</p>"
+          }
+        },
+        "iVCHXn2IbVYrD3Ct": {
+          "_id": "iVCHXn2IbVYrD3Ct",
+          "name": {
+            "translate": "",
+            "original": "Boots of Elvenkind"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>These tall, pointed boots are made from soft, supple black or green leather and are decorated with trim and buckles of gold. When worn, the boots allow you to move more nimbly, granting you a +1 item bonus to Acrobatics checks.</p>\n<p><strong>Activate</strong> <span class=\"action-glyph\">F</span> envision</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> Until the end of your turn, you ignore difficult terrain when moving on the ground. If you're wearing a @UUID[Compendium.pf2e.equipment-srd.Item.MNBnZn0b80Q7yHJM]{Cloak of Elvenkind}, you also gain a +5-foot status bonus to your land Speed until the end of your turn.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.88kqcDmsoAEddzUt]{Effect: Boots of Elvenkind}</p>"
+          }
+        },
+        "ltAQkS0Veq8SlsBm": {
+          "_id": "ltAQkS0Veq8SlsBm",
+          "name": {
+            "translate": "",
+            "original": "Arrows"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+          }
+        },
+        "CVjUFBRBNFzzyeUM": {
+          "_id": "CVjUFBRBNFzzyeUM",
+          "name": {
+            "translate": "",
+            "original": "Pincer Claw"
+          }
+        },
+        "kY2sEnpBUtAf3yWp": {
+          "_id": "kY2sEnpBUtAf3yWp",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "swxKayt24LlzWhYn": {
+          "_id": "swxKayt24LlzWhYn",
+          "name": {
+            "translate": "",
+            "original": "Shortbow"
+          }
+        },
+        "7Tr463aYLlpKVHXH": {
+          "_id": "7Tr463aYLlpKVHXH",
+          "name": {
+            "translate": "",
+            "original": "Rip Flesh"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> A jinkin has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} with their pincer claw</p>\n<hr />\n<p><strong>Effect</strong> The jinkin forcefully pulls the pincer claw out of the creature, ripping flesh and cackling in sadistic glee. The creature takes @Damage[1d8[piercing]] damage and is no longer grabbed.</p>"
+          }
+        },
+        "hZy96Ln7woTYG0EE": {
+          "_id": "hZy96Ln7woTYG0EE",
+          "name": {
+            "translate": "",
+            "original": "Sneak Attack"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The jinkin deals 1d6 extra precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>"
+          }
+        },
+        "sdTQ4UDze0yoQiqJ": {
+          "_id": "sdTQ4UDze0yoQiqJ",
+          "name": {
+            "translate": "",
+            "original": "Tinker"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hiding}. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (@Check[flat|dc:5] or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber.</p>"
+          }
+        },
+        "uF8rrbcid5DCz1gK": {
+          "_id": "uF8rrbcid5DCz1gK",
+          "name": {
+            "translate": "",
+            "original": "Grab"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-1",
+          "rarity-unique",
+          "type-npc",
+          "npc-chaotic"
+        ]
+      }
+    },
+    "Bad Vibrations": {
+      "_id": "eqehrCFAe1bgMLgK",
+      "name": {
+        "translate": "",
+        "original": "Bad Vibrations"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>The three larger crystals on the table begin to vibrate and emit a swiftly growing peal of sound.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[thievery|dc:17] (trained) or @Check[occultism|dc:17] (trained) to disrupt the magic enchanting one of the crystals, or @Check[performance|dc:20] (trained) by a character who can cast @UUID[Compendium.pf2e.spells-srd.Item.WILXkjU5Yq3yw10r]{Counter Performance} to use sound to redirect the noise back into the crystal, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (2nd rank, DC 18) to counteract a crystal.</span></p>"
+      },
+      "routine": {
+        "translate": "",
+        "original": "<p>(3 actions) The hazard loses 1 action for each crystal that's disabled or destroyed. On each of the trap's actions, one of the crystals fires a blast of sound at a single Small or larger creature in the room. The target is randomly determined and takes @Damage[1d8[sonic]] damage (@Check[fortitude|dc:20|basic]); a target who critically fails this save is @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} for 1 minute. At the end of the hazard's routine, attempt a @Check[flat|dc:10|name:Destroy a Crystal]. On a success, one of the crystals shatters and is destroyed.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(expert)</p>"
+      },
+      "hp": {
+        "translate": "",
+        "original": "HP per crystal"
+      },
+      "items": {
+        "kwP5EE8ZdYRra6P4": {
+          "_id": "kwP5EE8ZdYRra6P4",
+          "name": {
+            "translate": "",
+            "original": "Shrill Chime"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature other than Darius or one of his homonculi approaches within 5 feet of the table or attempts to Interact with the crystals in any way other than to attempt to disable the hazard.</p>\n<hr />\n<p><strong>Effect</strong> The three large crystals on the table begin vibrating and humming. The hazard rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Darius": {
+      "_id": "ODOBHqugzvfGkZVS",
+      "name": {
+        "translate": "",
+        "original": "Darius"
+      },
+      "blurb": {
+        "translate": "",
+        "original": "Male human alchemist"
+      },
+      "items": {
+        "YwtxWsqn5kqOm72m": {
+          "_id": "YwtxWsqn5kqOm72m",
+          "name": {
+            "translate": "",
+            "original": "Wax Stirring Stick"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This long piece of wood can aid in walking and deliver a mighty blow.</p>"
+          }
+        },
+        "zud8SIUSP9JFpUK6": {
+          "_id": "zud8SIUSP9JFpUK6",
+          "name": {
+            "translate": "",
+            "original": "Key to Basement"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Key to the Basement</p>"
+          }
+        },
+        "gAWcBmqlxvNk6biL": {
+          "_id": "gAWcBmqlxvNk6biL",
+          "name": {
+            "translate": "",
+            "original": "Singed Leather Apron and Clothing"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Ordinary clothing is functional with basic tailoring, such as peasant garb, monk's robes, or work clothes.</p>"
+          }
+        },
+        "awiTMgWCM0KexLLD": {
+          "_id": "awiTMgWCM0KexLLD",
+          "name": {
+            "translate": "",
+            "original": "Improvised Wax Sprayer"
+          }
+        },
+        "I7afvPVzvaAFDvYl": {
+          "_id": "I7afvPVzvaAFDvYl",
+          "name": {
+            "translate": "",
+            "original": "Bestial Mutagen (Moderate)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<hr />\n<p>Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.</p>\n<p><strong>Benefit</strong> You gain a +2 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (@Damage[1d6[slashing]] damage) with the agile trait and a jaws unarmed attack (@Damage[1d8[piercing]] damage).</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>\n<p><strong>Duration</strong> 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.xFQRiVU6h8EA6Lw9]{Effect: Bestial Mutagen (Moderate)}</p>"
+          }
+        },
+        "KVCx0qW7ozoFIZ5b": {
+          "_id": "KVCx0qW7ozoFIZ5b",
+          "name": {
+            "translate": "",
+            "original": "Effect: Active Mutagen"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Darius has an active mutagen.</p>"
+          }
+        },
+        "L0XHKXE9uSNSy90h": {
+          "_id": "L0XHKXE9uSNSy90h",
+          "name": {
+            "translate": "",
+            "original": "Wax Stirring Stick"
+          }
+        },
+        "xaLR3kxqklsAogya": {
+          "_id": "xaLR3kxqklsAogya",
+          "name": {
+            "translate": "",
+            "original": "Metabolize Mutagen"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Darius metabolizes the power of an active mutagen to regain @Damage[2d6[healing]] Hit Points. If he does so (or if he's confronted by a stealthy party before he's had a chance to drink a mutagen), he loses his jaws and claw unarmed attacks, his bonus on Athletics checks decreases by 2, his AC increases by 1, and his Reflex save bonus increases by 2.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.wE4S9lwOhtaRAm9n]{Effect: Active Mutagen}</p>"
+          }
+        },
+        "1AYgyqie1Elv3mKg": {
+          "_id": "1AYgyqie1Elv3mKg",
+          "name": {
+            "translate": "",
+            "original": "Crystaline Mutation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When Darius drinks any mutagen, his teeth and fingernails grow sharp crystalline edges.</p>"
+          }
+        },
+        "2KlbsyUe3x0xTxPs": {
+          "_id": "2KlbsyUe3x0xTxPs",
+          "name": {
+            "translate": "",
+            "original": "Spray Hot Wax"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Darius sprays hot wax from his improvised wax sprayer in a @Template[cone|distance:15]. All creatures in the area must attempt a @Check[reflex|dc:20|options:area-effect,damaging-effect] save. Scented candle homonoculi in the area take no damage, instead healing @Damage[2d6[healing]] damage. After using the hot wax cannon, Darius can't use it again until he takes two Interact actions while adjacent to the cauldron of bubbling wax to reload the sprayer.</p><hr /><p><strong>Critical Success</strong> The creature takes no damage.</p>\n<p><strong>Success</strong> The creature takes @Damage[2d6[fire]|options:area-damage] damage.</p>\n<p><strong>Failure</strong> The creature takes @Damage[3d6[fire],1d6[persistent,fire]|options:area-damage]{3d6 fire damage plus 1d6 persistent fire damage}.</p>\n<p><strong>Critical Failure</strong> The creature takes @Damage[5d6[fire],2d6[persistent,fire]|options:area-damage]{5d6 fire damage plus 2d6 persistent fire damage}.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-unique",
+          "type-npc",
+          "npc-human"
+        ]
+      }
+    },
+    "Grazing Deer": {
+      "_id": "305dxeny5G1sVvwe",
+      "name": {
+        "translate": "",
+        "original": "Grazing Deer"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>A herd of deer exits the woods to investigate the delicious-looking leshys.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[diplomacy|dc:17|name:Befriend the Deer]{Diplomacy (with Wild Empathy)} to befriend the deer and convince them that leshys aren't for nibbling, or @Check[intimidation|dc:20|name:Scare the Deer Away]{Intimidation} to scare away the deer.</p>"
+      },
+      "routine": {
+        "translate": "",
+        "original": "<p>(2 actions) The grazing deer takes one action to move about, and then one action to eagerly nibble at a randomly chosen PC. A character who spends three actions on their turn to Stride can avoid being nibbled by the grazing deer during the hazard's next turn. If all of the PCs do so, attempt a @Check[flat|dc:5|name:Escape the Deer]-on a success, the party escapes the deer and can proceed onward to Petalbrook, but they become delayed as a result of having to flee the pack of ravenous deer.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(expert)</p>"
+      },
+      "hp": {
+        "translate": "",
+        "original": "(if the grazing deer take this much damage, they aren't killed, but they do flee into the woods and don't return)"
+      },
+      "items": {
+        "OjGrZRhSqafKOuyA": {
+          "_id": "OjGrZRhSqafKOuyA",
+          "name": {
+            "translate": "",
+            "original": "Approach and Taste"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> The PCs emerge from the forest's edge</p>\n<hr />\n<p><strong>Effect</strong> A deer approaches the party and attempts a nibble Strike against a randomly determined PC. The grazing deer rolls initiative.</p>"
+          }
+        },
+        "jRyHe0gkU99THj1F": {
+          "_id": "jRyHe0gkU99THj1F",
+          "name": {
+            "translate": "",
+            "original": "Nibble"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-uncommon",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Meliosa's Leshy (Golden Bamboo Leshy)": {
+      "_id": "vTJkvG8rDs0O8HzF",
+      "name": {
+        "translate": "",
+        "original": "Meliosa's Leshy (Golden Bamboo Leshy)"
+      },
+      "languages": {
+        "translate": "",
+        "original": "speak with plants (golden bamboo only)"
+      },
+      "items": {
+        "VtOvwAguc0r46tbG": {
+          "_id": "VtOvwAguc0r46tbG",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "XhCvQ4lV1fV9xDZV": {
+          "_id": "XhCvQ4lV1fV9xDZV",
+          "name": {
+            "translate": "",
+            "original": "Speak with Plants"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You can ask questions of and receive answers from plants, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</p>"
+          }
+        },
+        "pMSeU5bKC5Lsck6O": {
+          "_id": "pMSeU5bKC5Lsck6O",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "GHQR2PY6wyAAu2sb": {
+          "_id": "GHQR2PY6wyAAu2sb",
+          "name": {
+            "translate": "",
+            "original": "Verdant Burst"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When a leshy dies, a burst of primal energy explodes from its body, restoring @Damage[2d8[healing]] Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours.</p>"
+          }
+        },
+        "66KTkMw80p8afUoW": {
+          "_id": "66KTkMw80p8afUoW",
+          "name": {
+            "translate": "",
+            "original": "Bend Back"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The golden bamboo leshy uses an action to bend itself back, ready to whip forward, increasing its reach with its fists to 10 feet. After the golden bamboo Strikes with its fist, it's no longer Bent Back.</p>"
+          }
+        },
+        "gKzbyEE7g3Lf5TPT": {
+          "_id": "gKzbyEE7g3Lf5TPT",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The leshy transforms into a Small plant. This ability otherwise uses the effects of @UUID[Compendium.pf2e.spells-srd.Item.dileJ0Yxqg76LMvu]{One with Plants}.</p>"
+          }
+        },
+        "XXOfhS9UxaUnXBkL": {
+          "_id": "XXOfhS9UxaUnXBkL",
+          "name": {
+            "translate": "",
+            "original": "Coiled Opportunity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>As @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]{Attack of Opportunity}, but the golden bamboo leshy can use this reaction only if it's Bent Back.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-leshy"
+        ]
+      }
+    },
+    "Meliosa's Leshy (Minkaian Honeysuckle Leshy)": {
+      "_id": "ds8kPHp9yV6F34oX",
+      "name": {
+        "translate": "",
+        "original": "Meliosa's Leshy (Minkaian Honeysuckle Leshy)"
+      },
+      "languages": {
+        "translate": "",
+        "original": "speak with plants (minkaian honeysuckle only)"
+      },
+      "items": {
+        "VtOvwAguc0r46tbG": {
+          "_id": "VtOvwAguc0r46tbG",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "XhCvQ4lV1fV9xDZV": {
+          "_id": "XhCvQ4lV1fV9xDZV",
+          "name": {
+            "translate": "",
+            "original": "Speak with Plants"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You can ask questions of and receive answers from plants, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</p>"
+          }
+        },
+        "pMSeU5bKC5Lsck6O": {
+          "_id": "pMSeU5bKC5Lsck6O",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "KWfzW6wQi6tK0Btv": {
+          "_id": "KWfzW6wQi6tK0Btv",
+          "name": {
+            "translate": "",
+            "original": "Agile Leshy"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The honeysuckle leshy gains a +1 status bonus to Reflex and Fortitude saves and DCs against trip and forced movement.</p>"
+          }
+        },
+        "GHQR2PY6wyAAu2sb": {
+          "_id": "GHQR2PY6wyAAu2sb",
+          "name": {
+            "translate": "",
+            "original": "Verdant Burst"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When a leshy dies, a burst of primal energy explodes from its body, restoring @Damage[2d8[healing]] Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours.</p>"
+          }
+        },
+        "gKzbyEE7g3Lf5TPT": {
+          "_id": "gKzbyEE7g3Lf5TPT",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The leshy transforms into a Small plant. This ability otherwise uses the effects of @UUID[Compendium.pf2e.spells-srd.Item.dileJ0Yxqg76LMvu]{One with Plants}.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-leshy"
+        ]
+      }
+    },
+    "Meliosa's Leshy (Mint Leshy)": {
+      "_id": "Aw74KaHNvnWG349N",
+      "name": {
+        "translate": "",
+        "original": "Meliosa's Leshy (Mint Leshy)"
+      },
+      "languages": {
+        "translate": "",
+        "original": "speak with plants (mint only)"
+      },
+      "items": {
+        "VtOvwAguc0r46tbG": {
+          "_id": "VtOvwAguc0r46tbG",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "XhCvQ4lV1fV9xDZV": {
+          "_id": "XhCvQ4lV1fV9xDZV",
+          "name": {
+            "translate": "",
+            "original": "Speak with Plants"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You can ask questions of and receive answers from plants, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</p>"
+          }
+        },
+        "pMSeU5bKC5Lsck6O": {
+          "_id": "pMSeU5bKC5Lsck6O",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "GHQR2PY6wyAAu2sb": {
+          "_id": "GHQR2PY6wyAAu2sb",
+          "name": {
+            "translate": "",
+            "original": "Verdant Burst"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When a leshy dies, a burst of primal energy explodes from its body, restoring @Damage[2d8[healing]] Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours.</p>"
+          }
+        },
+        "gKzbyEE7g3Lf5TPT": {
+          "_id": "gKzbyEE7g3Lf5TPT",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The leshy transforms into a Small plant. This ability otherwise uses the effects of @UUID[Compendium.pf2e.spells-srd.Item.dileJ0Yxqg76LMvu]{One with Plants}.</p>"
+          }
+        },
+        "Nnqm6DzwVVzOVEOF": {
+          "_id": "Nnqm6DzwVVzOVEOF",
+          "name": {
+            "translate": "",
+            "original": "Engulf"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>@Check[reflex|dc:18], @Damage[1d6[bludgeoning],1d6[poison]]{1d6 bludgeoning plus 1d6 poison damage}, [[/act escape dc=18]], Rupture 6</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-leshy"
+        ]
+      }
+    },
+    "Meliosa's Leshy (Wisteria Leshy)": {
+      "_id": "YkHZ8FMeZ7uxsDJ4",
+      "name": {
+        "translate": "",
+        "original": "Meliosa's Leshy (Wisteria Leshy)"
+      },
+      "languages": {
+        "translate": "",
+        "original": "speak with plants (wisteria only)"
+      },
+      "items": {
+        "VtOvwAguc0r46tbG": {
+          "_id": "VtOvwAguc0r46tbG",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "XhCvQ4lV1fV9xDZV": {
+          "_id": "XhCvQ4lV1fV9xDZV",
+          "name": {
+            "translate": "",
+            "original": "Speak with Plants"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You can ask questions of and receive answers from plants, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</p>"
+          }
+        },
+        "pMSeU5bKC5Lsck6O": {
+          "_id": "pMSeU5bKC5Lsck6O",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "GHQR2PY6wyAAu2sb": {
+          "_id": "GHQR2PY6wyAAu2sb",
+          "name": {
+            "translate": "",
+            "original": "Verdant Burst"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When a leshy dies, a burst of primal energy explodes from its body, restoring @Damage[2d8[healing]] Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours.</p>"
+          }
+        },
+        "gKzbyEE7g3Lf5TPT": {
+          "_id": "gKzbyEE7g3Lf5TPT",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The leshy transforms into a Small plant. This ability otherwise uses the effects of @UUID[Compendium.pf2e.spells-srd.Item.dileJ0Yxqg76LMvu]{One with Plants}.</p>"
+          }
+        },
+        "gUrcTxH9bZhgba6f": {
+          "_id": "gUrcTxH9bZhgba6f",
+          "name": {
+            "translate": "",
+            "original": "Constrict"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>@Damage[(1d6+4)[bludgeoning]], @Check[fortitude|dc:18|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+          }
+        },
+        "5Zy8QEu0MsvvSBLQ": {
+          "_id": "5Zy8QEu0MsvvSBLQ",
+          "name": {
+            "translate": "",
+            "original": "Grab"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-leshy"
+        ]
+      }
+    },
+    "Meliosa's Leshy": {
+      "_id": "3oCs4xRge4oXjQC4",
+      "name": {
+        "translate": "",
+        "original": "Meliosa's Leshy"
+      },
+      "languages": {
+        "translate": "",
+        "original": "speak with plants (same type as leshy)"
+      },
+      "items": {
+        "VtOvwAguc0r46tbG": {
+          "_id": "VtOvwAguc0r46tbG",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "XhCvQ4lV1fV9xDZV": {
+          "_id": "XhCvQ4lV1fV9xDZV",
+          "name": {
+            "translate": "",
+            "original": "Speak with Plants"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You can ask questions of and receive answers from plants, but the spell doesn't make them more friendly or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don't recognize details about creatures or know anything about the world beyond their immediate vicinity. Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.</p>"
+          }
+        },
+        "pMSeU5bKC5Lsck6O": {
+          "_id": "pMSeU5bKC5Lsck6O",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "GHQR2PY6wyAAu2sb": {
+          "_id": "GHQR2PY6wyAAu2sb",
+          "name": {
+            "translate": "",
+            "original": "Verdant Burst"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When a leshy dies, a burst of primal energy explodes from its body, restoring @Damage[2d8[healing]] Hit Points to each plant creature within a @Template[emanation|distance:30]. This area is filled with plants of the same type as the leshy, becoming difficult terrain. If the terrain isn't a viable environment for these plants, they wither after 24 hours.</p>"
+          }
+        },
+        "gKzbyEE7g3Lf5TPT": {
+          "_id": "gKzbyEE7g3Lf5TPT",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The leshy transforms into a Small plant. This ability otherwise uses the effects of @UUID[Compendium.pf2e.spells-srd.Item.dileJ0Yxqg76LMvu]{One with Plants}.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-unique",
+          "type-npc",
+          "npc-leshy"
+        ]
+      }
+    },
+    "Scented Candle Homunculus": {
+      "_id": "8BMVxqhcdNtdStUj",
+      "name": {
+        "translate": "",
+        "original": "Scented Candle Homunculus"
+      },
+      "blurb": {
+        "translate": "",
+        "original": "Variant homunculus"
+      },
+      "languages": {
+        "translate": "",
+        "original": "can't speak any language; master link"
+      },
+      "items": {
+        "vUqOLWWqpienUPoZ": {
+          "_id": "vUqOLWWqpienUPoZ",
+          "name": {
+            "translate": "",
+            "original": "Jaws"
+          }
+        },
+        "WrgYaUmRHEPgpUAn": {
+          "_id": "WrgYaUmRHEPgpUAn",
+          "name": {
+            "translate": "",
+            "original": "Wax Glob"
+          }
+        },
+        "kJ3xBADJasQJPN6d": {
+          "_id": "kJ3xBADJasQJPN6d",
+          "name": {
+            "translate": "",
+            "original": "Master Link"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A homunculus can't speak, but it is telepathically linked to its creator. It can share information back and forth, including its master's knowledge and everything the homunculus hears. The range of this link is 1,500 feet. The homunculus adopts the same alignment as its creator and is utterly faithful. If the homunculus is destroyed, the master takes @Damage[2d10[mental]] damage. If the master is slain, the homunculus becomes mindless, claims its current location as its lair, and instinctively attacks anyone who comes near.</p>"
+          }
+        },
+        "3lJBv7HwAjkSPmgN": {
+          "_id": "3lJBv7HwAjkSPmgN",
+          "name": {
+            "translate": "",
+            "original": "Perfume Aura"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>5 feet. The scented candle homunculus's fragrance of lavender is overwhelmingly intense. Any creature other than the homunculus's master who enters the aura must attempt a @Check[fortitude|dc:15] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is temporarily immune to the homunculus's aura for 24 hours.</p>\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}.</p>\n<p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round and sickened 1.</p>"
+          }
+        },
+        "eSTtFDnAz2NbJSXY": {
+          "_id": "eSTtFDnAz2NbJSXY",
+          "name": {
+            "translate": "",
+            "original": "Dunk in Wax"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A scented candle homunculus who is adjacent to the large wax cauldron can dunk itself in wax, healing @Damage[2d6[healing]] damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-rare",
+          "type-npc",
+          "npc-construct"
+        ]
+      }
+    },
+    "Auldegrund Grimcarver": {
+      "_id": "iPhDi4SU6pbTJmef",
+      "name": {
+        "translate": "",
+        "original": "Auldegrund Grimcarver"
+      },
+      "blurb": {
+        "translate": "",
+        "original": "Male dwarf ritualist"
+      },
+      "items": {
+        "RCJtVVnkNnh0N8md": {
+          "_id": "RCJtVVnkNnh0N8md",
+          "name": {
+            "translate": "",
+            "original": "Divine Innate Spells"
+          }
+        },
+        "Uq8IXbc9ab2TtvoG": {
+          "_id": "Uq8IXbc9ab2TtvoG",
+          "name": {
+            "translate": "",
+            "original": "Glibness"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Falsehoods pass your lips as smoothly as silk. You gain a +4 status bonus to Deception checks to Lie and against Perception checks to discern if you are telling the truth, and you add your level even if you're untrained. If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty or increase by half.</p>"
+          }
+        },
+        "3UUdwGNyDy0Oa64G": {
+          "_id": "3UUdwGNyDy0Oa64G",
+          "name": {
+            "translate": "",
+            "original": "Simulacrum"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You create an illusory duplicate of the target creature by animating ice or snow sculpted in its shape. The simulacrum is a 4th-level creature with no special abilities. If it needs to attempt a roll or use a DC, use the moderate number for a monster, except as noted below. It doesn't have any specific memories from the target, but it can use information about the creature gained from any of the casters to Impersonate the target. It looks exactly like the target and has a Deception modifier to @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate} that creature equal to the modifier of the secondary spellcaster who rolled the Deception check, with a +4 status bonus.</p>\n<p>While it doesn't have any of the original's special abilities, like a dragon's breath weapon, the illusions that make up the simulacrum allow it to appear to use those abilities; they just never seem to have an effect. For instance, against a simulacrum dragon's breath weapon, all creatures in the area seem to critically succeed at their saving throws and take no damage. Creatures can attempt to disbelieve the illusion by attempting a Perception check against the Deception DC of the secondary spellcaster who rolled the Deception check.</p>\n<hr />\n<p><strong>Critical Success</strong> You bring the simulacrum to life. It has the minion trait and is under your absolute control. You gain a direct mental link with the simulacrum and can spend an action to command the simulacrum via this link, even at a distance.</p>\n<p><strong>Success</strong> As a critical success, but there is no special link between you and the simulacrum. You must spend an action to command it verbally or by some other means.</p>\n<p><strong>Failure</strong> The ritual fails and has no effect.</p>\n<p><strong>Critical Failure</strong> The simulacrum awakens, but it isn't your minion and is hostile to all the casters. It does everything it can to destroy them, but if it can't immediately slay them, the simulacrum tries to escape and plots their demise.</p>"
+          }
+        },
+        "jnwwcDbAr2ccTYwD": {
+          "_id": "jnwwcDbAr2ccTYwD",
+          "name": {
+            "translate": "",
+            "original": "Summon Animal (lion only)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You conjure an animal to fight for you. You summon a common creature that has the animal trait and whose level is -1, such as those found in Pathfinder Bestiary volumes. Heightening the spell increases the maximum level of creature you can summon.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1</p>\n<p><strong>Heightened (3rd)</strong> Level 2</p>\n<p><strong>Heightened (4th)</strong> Level 3</p>\n<p><strong>Heightened (5th)</strong> Level 5</p>\n<p><strong>Heightened (6th)</strong> Level 7</p>\n<p><strong>Heightened (7th)</strong> Level 9</p>\n<p><strong>Heightened (8th)</strong> Level 11</p>\n<p><strong>Heightened (9th)</strong> Level 13</p>\n<p><strong>Heightened (10th)</strong> Level 15</p>"
+          }
+        },
+        "gdpKLPuLB4xNNj1i": {
+          "_id": "gdpKLPuLB4xNNj1i",
+          "name": {
+            "translate": "",
+            "original": "Crisis of Faith"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You assault the target's faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. The effects are determined by its Will save.</p>\n<p>To many deities, casting this spell on a follower of your own deity without significant cause is anathema.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes half damage.</p>\n<p><strong>Failure</strong> The target takes full damage; if the target can cast divine spells, it's @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round.</p>\n<p><strong>Critical Failure</strong> The target takes double damage, is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round, and can't cast divine spells for 1 round.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6 (or by 2d8 if the target is a divine spellcaster).</p>"
+          }
+        },
+        "HvGzc6ANlYVWTcjC": {
+          "_id": "HvGzc6ANlYVWTcjC",
+          "name": {
+            "translate": "",
+            "original": "Animate Object"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You transform the target into an animated object with a level up to that allowed by Table 7-1 and of a type corresponding to the object (so a broom would become an animated broom).</p>\n<h2>Table 7-1: Creatures Creation Rituals</h2>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>Creature Level</th>\n<th>Spell Rank Required</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>-1 or 0</td>\n<td>2</td>\n<td>15 gp</td>\n</tr>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>60 gp</td>\n</tr>\n<tr>\n<td>2</td>\n<td>3</td>\n<td>105 gp</td>\n</tr>\n<tr>\n<td>3</td>\n<td>3</td>\n<td>180 gp</td>\n</tr>\n<tr>\n<td>4</td>\n<td>4</td>\n<td>300 gp</td>\n</tr>\n<tr>\n<td>5</td>\n<td>4</td>\n<td>480 gp</td>\n</tr>\n<tr>\n<td>6</td>\n<td>5</td>\n<td>750 gp</td>\n</tr>\n<tr>\n<td>7</td>\n<td>5</td>\n<td>1,080 gp</td>\n</tr>\n<tr>\n<td>8</td>\n<td>6</td>\n<td>1,500 gp</td>\n</tr>\n<tr>\n<td>9</td>\n<td>6</td>\n<td>2,100 gp</td>\n</tr>\n<tr>\n<td>10</td>\n<td>7</td>\n<td>3,000 gp</td>\n</tr>\n<tr>\n<td>11</td>\n<td>7</td>\n<td>4,200 gp</td>\n</tr>\n<tr>\n<td>12</td>\n<td>8</td>\n<td>6,000 gp</td>\n</tr>\n<tr>\n<td>13</td>\n<td>8</td>\n<td>9,000 gp</td>\n</tr>\n<tr>\n<td>14</td>\n<td>9</td>\n<td>13,500 gp</td>\n</tr>\n<tr>\n<td>15</td>\n<td>9</td>\n<td>19,500 gp</td>\n</tr>\n<tr>\n<td>16</td>\n<td>10</td>\n<td>30,000 gp</td>\n</tr>\n<tr>\n<td>17</td>\n<td>10</td>\n<td>45,000 gp</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Critical Success</strong> The target becomes an animated object of the appropriate type. If it's at least 4 levels lower than you, you can make it a minion. This gives it the minion trait, meaning it can use 2 actions when you command it, and commanding it is a single action that has the auditory and concentrate traits. You can have a maximum of four minions under your control. If it doesn't become a minion, you can give it one simple command. It pursues that goal single-mindedly, ignoring any of your subsequent commands.</p>\n<p><strong>Success</strong> As critical success, except an animated object that doesn't become your minion stays in place and attacks anyone that attacks it or tries to steal or move it, rather than following your command.</p>\n<p><strong>Failure</strong> You fail to create the animated object.</p>\n<p><strong>Critical Failure</strong> You create the animated object, but it goes berserk and attempts to destroy you.</p>"
+          }
+        },
+        "8AIRH5LjPkj2VDLo": {
+          "_id": "8AIRH5LjPkj2VDLo",
+          "name": {
+            "translate": "",
+            "original": "Undetectable Alignment"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You shroud a creature or object in wards that hide its alignment. The target appears to be neutral to all effects that would detect its alignment.</p>"
+          }
+        },
+        "os30Z6592q8NvzCf": {
+          "_id": "os30Z6592q8NvzCf",
+          "name": {
+            "translate": "",
+            "original": "Infernal Pact"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You make an appeal to a powerful devil, asking it to bind some of its subordinates to your service. If you succeed, the devil sends you its choice of one devil whose level is no more than double <em>infernal pact's</em> rank, two devils whose levels are each at least 2 less than double the spell rank, or three devils whose levels are each at least 3 less than double the spell rank.</p>\n<hr />\n<p><strong>Critical Success</strong> The devils are sent to you and serve you for [[/r 1d4 #weeks]]{1d4 weeks}.</p>\n<p><strong>Success</strong> The devils are sent to you and serve you for [[/r 1d4 #days]]{1d4 days}.</p>\n<p><strong>Failure</strong> Your request is denied.</p>\n<p><strong>Critical Failure</strong> Not only is your request denied, but the powerful devil sends word of its displeasure to your master.</p>"
+          }
+        },
+        "KDyO1IClbgVAh4ky": {
+          "_id": "KDyO1IClbgVAh4ky",
+          "name": {
+            "translate": "",
+            "original": "True Strike"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A glimpse into the future ensures your next blow strikes true. The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} or @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.fpGDAz2v5PG0zUSl]{Spell Effect: Sure Strike}</p>"
+          }
+        },
+        "TLncKNhYiNzZLGtT": {
+          "_id": "TLncKNhYiNzZLGtT",
+          "name": {
+            "translate": "",
+            "original": "Warhammer"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This weapon has a wooden shaft ending in a large, heavy metal head. The head of the hammer might be single-sided or double-sided, but it's always capable of delivering powerful bludgeoning blows.</p>"
+          }
+        },
+        "m2DuSqZ9AANzYpJh": {
+          "_id": "m2DuSqZ9AANzYpJh",
+          "name": {
+            "translate": "",
+            "original": "Composite Shortbow"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This shortbow is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Its compact size and power make it a favorite of mounted archers. Any time an ability is specifically restricted to a shortbow, it also applies to composite shortbows unless otherwise stated.</p>"
+          }
+        },
+        "HISjG6rAbyiDviDC": {
+          "_id": "HISjG6rAbyiDviDC",
+          "name": {
+            "translate": "",
+            "original": "Breastplate"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Though referred to as a breastplate, this type of armor consists of several pieces of plate or half-plate armor that protect the torso, chest, neck, and sometimes the hips and lower legs. It strategically grants some of the protection of plate while allowing greater flexibility and speed.</p>"
+          }
+        },
+        "bX4zWk5GKUohRS53": {
+          "_id": "bX4zWk5GKUohRS53",
+          "name": {
+            "translate": "",
+            "original": "Infernal Contract"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Auldegrund's infernal contract with Alocer.</p>"
+          }
+        },
+        "sGGmfBpBIdaarMTN": {
+          "_id": "sGGmfBpBIdaarMTN",
+          "name": {
+            "translate": "",
+            "original": "Key Ring"
+          }
+        },
+        "PpTCy5Q6rMHeb9Ku": {
+          "_id": "PpTCy5Q6rMHeb9Ku",
+          "name": {
+            "translate": "",
+            "original": "Healing Potion (Lesser)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain @Damage[(2d8+5)[healing]] Hit Points.</p>"
+          }
+        },
+        "tXXw9xHIB0hE0gld": {
+          "_id": "tXXw9xHIB0hE0gld",
+          "name": {
+            "translate": "",
+            "original": "Arrows"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+          }
+        },
+        "ftOspvMiV3ql3L5k": {
+          "_id": "ftOspvMiV3ql3L5k",
+          "name": {
+            "translate": "",
+            "original": "Sleep Arrow"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p><em>Sleep arrows</em> often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated <em>sleep arrow</em> deals no damage, but a living creature hit by it is subject to the effects of a @UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{Sleep} spell (DC 17).</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>sleep</em>.</p>"
+          }
+        },
+        "nkKhmehnjM75AKNT": {
+          "_id": "nkKhmehnjM75AKNT",
+          "name": {
+            "translate": "",
+            "original": "Warhammer"
+          }
+        },
+        "1u9tQ8DKxZlZLnWb": {
+          "_id": "1u9tQ8DKxZlZLnWb",
+          "name": {
+            "translate": "",
+            "original": "Shortbow"
+          }
+        },
+        "8s6y6eF6aIz8kL9y": {
+          "_id": "8s6y6eF6aIz8kL9y",
+          "name": {
+            "translate": "",
+            "original": "Invoke Alocer"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> Auldegrund is reduced to 60 or fewer Hit Points</p>\n<p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> Auldegrund calls out, in Infernal, \"Give me the strength to slay these foes in your name, almighty Alocer!\" As he does so, his skin darkens to red, diabolic horns jut from his brow, a flaming lion-like mane appears around his head, burning wings burst from his shoulders, and his weapons ignite with black fire.</p>\n<p>He immediately heals @Damage[(3d6+7)[healing]] Hit Points, gains a fly speed of 25 feet, and deals an additional 1d6 fire damage with his melee and ranged Strikes.</p>\n<p>This is a risky gambit, though, for Alocer is not patient. At the end of each of Auldegrund's turns, he must attempt a @Check[flat|dc:11|name:End Invoke Alocer] (the DC of this flat check increases by 1 each round). On a failure, Alocer grows disappointed that Auldegrund has not defeated his foes and the effects of Invoke Alocer end immediately. This deals @Damage[(3d6+7)[untyped]] damage to Auldegrund, removes his fly speed and additional fire damage to weapon Strikes, and causes Auldegrund to become @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3}.</p>"
+          }
+        },
+        "NWeQmIwwe3qjz779": {
+          "_id": "NWeQmIwwe3qjz779",
+          "name": {
+            "translate": "",
+            "original": "Cruel Shot"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Auldegrund takes time to line up a shot with his bow and smiles cruelly as he makes a ranged Strike with it.</p>\n<p>If he hits, he deals 2d6 precision damage and 1d6 bleed damage. Even if he misses, he still deals @Damage[2d6[untyped]] damage from the glancing blow. Only on a critical miss does his cruel shot deal no damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-unique",
+          "type-npc",
+          "npc-devil"
+        ]
+      }
+    },
+    "Cultist of Alocer": {
+      "_id": "OvM1oLgQ7V2qa3vy",
+      "name": {
+        "translate": "",
+        "original": "Cultist of Alocer"
+      },
+      "items": {
+        "iaLpIf8RHbgTBNwI": {
+          "_id": "iaLpIf8RHbgTBNwI",
+          "name": {
+            "translate": "",
+            "original": "Divine Spells Prepared"
+          }
+        },
+        "TJwvFm56opUsH2L8": {
+          "_id": "TJwvFm56opUsH2L8",
+          "name": {
+            "translate": "",
+            "original": "Cleric Domain Spells"
+          }
+        },
+        "FgzTJV6xS96wqi8f": {
+          "_id": "FgzTJV6xS96wqi8f",
+          "name": {
+            "translate": "",
+            "original": "Divine Font"
+          }
+        },
+        "2SYSY4QMwBXerTRJ": {
+          "_id": "2SYSY4QMwBXerTRJ",
+          "name": {
+            "translate": "",
+            "original": "Spiritual Weapon"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A weapon made of pure magical force materializes and attacks foes you designate within range. This weapon has a ghostly appearance and manifests as a club, a dagger, or your deity's favored weapon.</p>\n<p>When you cast the spell, the weapon appears next to a foe you choose within range and makes a Strike against it. Each time you Sustain the Spell, you can move the weapon to a new target within range (if needed) and Strike with it. The spiritual weapon uses and contributes to your multiple attack penalty.</p>\n<p>The weapon's Strikes are melee spell attacks. Regardless of its appearance, the weapon deals 2d8 force damage. You can deal damage of the type normally dealt by the weapon instead of force damage (or any of the available damage types for a versatile weapon). No other statistics or traits of the weapon apply, and even a ranged weapon attacks adjacent creatures only. Despite making a spell attack, the spiritual weapon is a weapon for purposes of triggers, resistances, and so forth.</p>\n<p>The weapon doesn't take up space, grant flanking, or have any other attributes a creature would. The weapon can't make any attack other than its Strike, and feats or spells that affect weapons do not apply to it.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The weapon's damage increases by 1d8.</p>"
+          }
+        },
+        "rVI3YjnMS2yNqtdr": {
+          "_id": "rVI3YjnMS2yNqtdr",
+          "name": {
+            "translate": "",
+            "original": "Undetectable Alignment"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You shroud a creature or object in wards that hide its alignment. The target appears to be neutral to all effects that would detect its alignment.</p>"
+          }
+        },
+        "LDQF2CkSC8qnGY9E": {
+          "_id": "LDQF2CkSC8qnGY9E",
+          "name": {
+            "translate": "",
+            "original": "Command"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} condition), release what it's holding, drop @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}, or stand in place. It can't Delay or take any reactions until it has obeyed your command. The effects depend on the target's Will save.</p>\n<hr /><p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> For the first action on its next turn, the creature must use a single action to do as you command.</p>\n<p><strong>Critical Failure</strong> The target must use all its actions on its next turn to obey your command.</p>\n<hr /><p><strong>Heightened (5th)</strong> You can target up to 10 creatures.</p>"
+          }
+        },
+        "8BgQRi9zcsnaGurZ": {
+          "_id": "8BgQRi9zcsnaGurZ",
+          "name": {
+            "translate": "",
+            "original": "Daze"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You cloud the target's mind and daze it with a mental jolt. The jolt deals mental damage equal to your spellcasting ability modifier; the target must attempt a basic Will save. If the target critically fails the save, it is also @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>"
+          }
+        },
+        "ovS51lDTnMfOhp6W": {
+          "_id": "ovS51lDTnMfOhp6W",
+          "name": {
+            "translate": "",
+            "original": "Divine Lance"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You unleash a beam of divine energy. Make a ranged spell attack against the target's AC. On a hit, the target takes 2d4 spirit damage (double damage on a critical hit).</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>"
+          }
+        },
+        "B2VmjvMD9i30xBX4": {
+          "_id": "B2VmjvMD9i30xBX4",
+          "name": {
+            "translate": "",
+            "original": "Forbidding Ward"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You ward an ally against the attacks and hostile spells from the target enemy. The target ally gains a +1 status bonus to Armor Class and saving throws against the target enemy's attacks, spells, and other effects.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.ctMxYPGEpstvhW9C]{Spell Effect: Forbidding Ward}</p>\n<hr />\n<p><strong>Heightened (6th)</strong> The status bonus increases to +2.</p>"
+          }
+        },
+        "mnwqo0UeuX6k2GI8": {
+          "_id": "mnwqo0UeuX6k2GI8",
+          "name": {
+            "translate": "",
+            "original": "Harm"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You channel void energy to harm the living or heal the undead. If the target is a living creature, you deal 1d8 void damage to it, and it gets a basic Fortitude save. If the target is a willing undead creature, you restore that amount of Hit Points. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<p><span class=\"action-glyph\">1</span> <strong>(somatic)</strong> The spell has a range of touch.</p>\n<p><span class=\"action-glyph\">2</span> <strong>(verbal, somatic)</strong> The spell has a range of 30 feet. If you're healing an undead creature, increase the Hit Points restored by 8.</p>\n<p><span class=\"action-glyph\">3</span> <strong>(material, verbal, somatic)</strong> You disperse void energy in a 30-foot emanation. This targets all living and undead creatures in the area.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>"
+          }
+        },
+        "XHlO1HgjRJXR9jw5": {
+          "_id": "XHlO1HgjRJXR9jw5",
+          "name": {
+            "translate": "",
+            "original": "Harm"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You channel void energy to harm the living or heal the undead. If the target is a living creature, you deal 1d8 void damage to it, and it gets a basic Fortitude save. If the target is a willing undead creature, you restore that amount of Hit Points. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<p><span class=\"action-glyph\">1</span> <strong>(somatic)</strong> The spell has a range of touch.</p>\n<p><span class=\"action-glyph\">2</span> <strong>(verbal, somatic)</strong> The spell has a range of 30 feet. If you're healing an undead creature, increase the Hit Points restored by 8.</p>\n<p><span class=\"action-glyph\">3</span> <strong>(material, verbal, somatic)</strong> You disperse void energy in a 30-foot emanation. This targets all living and undead creatures in the area.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>"
+          }
+        },
+        "adMcP0tSEkRX1MgG": {
+          "_id": "adMcP0tSEkRX1MgG",
+          "name": {
+            "translate": "",
+            "original": "Heal"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You channel vitality energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of vitality damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<p><span class=\"action-glyph\">1</span> <strong>(somatic)</strong> The spell has a range of touch.</p>\n<p><span class=\"action-glyph\">2</span> <strong>(verbal, somatic)</strong> The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8</p>\n<p><span class=\"action-glyph\">3</span> <strong>(material, somatic, verbal)</strong> You disperse vitality energy in a 30-foot emanation. This targets all living and undead creatures in the burst.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>"
+          }
+        },
+        "E12jBU0h8H6xCqNr": {
+          "_id": "E12jBU0h8H6xCqNr",
+          "name": {
+            "translate": "",
+            "original": "Message"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You mouth words quietly, but instead of coming out of your mouth, they're transferred directly to the ears of the target. While others can't hear your words any better than if you normally mouthed them, the target can hear your words as if they were standing next to you.</p>\n<p>The target can give a brief response as a reaction, or as a free action on their next turn if they wish, but they must be able to see you and be within range to do so. If they respond, their response is delivered directly to your ear, just like the original message.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The spell's range increases to 500 feet.</p>"
+          }
+        },
+        "pmbVg7qpi7XwdG13": {
+          "_id": "pmbVg7qpi7XwdG13",
+          "name": {
+            "translate": "",
+            "original": "Ray of Enfeeblement"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A ray that saps a foe's strength flashes from your hand. Attempt a ranged spell attack against the target. If you succeed, that creature attempts a Fortitude save to determine the spell's effect. If your attack roll is a critical success, use the outcome for one degree of success worse than the result of its save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1}.</p>\n<p><strong>Failure</strong> The target becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2}.</p>\n<p><strong>Critical Failure</strong> The target becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 3}.</p>"
+          }
+        },
+        "Ny16pxs8KZTq7BOG": {
+          "_id": "Ny16pxs8KZTq7BOG",
+          "name": {
+            "translate": "",
+            "original": "Shield"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.</p>\n<p>While the spell is in effect, you can use the @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Shield Block} reaction with your magic shield. The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the @UUID[Compendium.pf2e.spells-srd.Item.gKKqvLohtrSJj3BM]{Force Barrage} spell.</p>\n<p>Heightening the spell increases the shield's Hardness.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Jemq5UknGdMO7b73]{Spell Effect: Shield}</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The shield has Hardness 10.</p>\n<p><strong>Heightened (5th)</strong> The shield has Hardness 15.</p>\n<p><strong>Heightened (7th)</strong> The shield has Hardness 20.</p>\n<p><strong>Heightened (9th)</strong> The shield has Hardness 25.</p>"
+          }
+        },
+        "Np1E55kmlnngTCBR": {
+          "_id": "Np1E55kmlnngTCBR",
+          "name": {
+            "translate": "",
+            "original": "Weapon Surge"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Holding your weapon aloft, you fill it with divine energy.</p>\n<p>On your next Strike with that weapon before the start of your next turn, you gain a +1 status bonus to the attack roll and the weapon deals an additional die of damage.</p>\n<p>If the weapon has a striking rune, this instead increases the number of dice from the striking rune by 1 (to a maximum of 3 extra weapon dice).</p>\n<p>If the target weapon leaves your possession, weapon surge immediately ends.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.qlz0sJIvqc0FdUdr]{Spell Effect: Weapon Surge}</p>"
+          }
+        },
+        "xPoHd6wzTvZmILbK": {
+          "_id": "xPoHd6wzTvZmILbK",
+          "name": {
+            "translate": "",
+            "original": "Composite Shortbow"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This shortbow is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Its compact size and power make it a favorite of mounted archers. Any time an ability is specifically restricted to a shortbow, it also applies to composite shortbows unless otherwise stated.</p>"
+          }
+        },
+        "2H8OV98fWHfosqTD": {
+          "_id": "2H8OV98fWHfosqTD",
+          "name": {
+            "translate": "",
+            "original": "Spiked Gauntlet"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Providing the same defensive function as a standard gauntlet, this version has a group of spikes protruding from the knuckles to deliver piercing damage with a punch.</p>"
+          }
+        },
+        "6WLC50XcrGiq3ez4": {
+          "_id": "6WLC50XcrGiq3ez4",
+          "name": {
+            "translate": "",
+            "original": "Scale Mail"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Scale mail consists of many metal scales sewn onto a reinforced leather backing, often in the form of a long shirt that protects the torso, arms, and legs.</p>"
+          }
+        },
+        "DKchAibGvreDEILk": {
+          "_id": "DKchAibGvreDEILk",
+          "name": {
+            "translate": "",
+            "original": "Arrows"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+          }
+        },
+        "koLu6MS8Z8wsZsoR": {
+          "_id": "koLu6MS8Z8wsZsoR",
+          "name": {
+            "translate": "",
+            "original": "Sleep Arrow"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p><em>Sleep arrows</em> often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated <em>sleep arrow</em> deals no damage, but a living creature hit by it is subject to the effects of a @UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{Sleep} spell (DC 17).</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>sleep</em>.</p>"
+          }
+        },
+        "5zthliRLGM96Nbxe": {
+          "_id": "5zthliRLGM96Nbxe",
+          "name": {
+            "translate": "",
+            "original": "Spiked Gauntlet"
+          }
+        },
+        "o74xHBJOxDwnVk01": {
+          "_id": "o74xHBJOxDwnVk01",
+          "name": {
+            "translate": "",
+            "original": "Composite Shortbow"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-uncommon",
+          "type-npc",
+          "npc-evil"
+        ]
+      }
+    },
+    "Poisoned Lock (Lionlodge)": {
+      "_id": "E6e8iE0BgIxLYqQZ",
+      "name": {
+        "translate": "",
+        "original": "Poisoned Lock (Lionlodge)"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>A spring-loaded, poisoned needle is hidden near the drawer's keyhole. Disabling or breaking the trap does not disable or break the lock.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[thievery|dc:23|name:Disable Thievery] (expert) on the spring mechanism.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "mSHFzRlFXnG67gvg": {
+          "_id": "mSHFzRlFXnG67gvg",
+          "name": {
+            "translate": "",
+            "original": "Spring"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature tries to unlock or @UUID[Compendium.pf2e.actionspf2e.Item.2EE4aF4SZpYf0R6H]{Pick the Lock}</p>\n<hr />\n<p><strong>Effect</strong> The needle extends to attack the triggering creature.</p>"
+          }
+        },
+        "F7pAqbfwb5BHQasS": {
+          "_id": "F7pAqbfwb5BHQasS",
+          "name": {
+            "translate": "",
+            "original": "Needle"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>plus Enhanced Hunting Spider Venom</p>"
+          }
+        },
+        "4HwflTBmGsWNVzQu": {
+          "_id": "4HwflTBmGsWNVzQu",
+          "name": {
+            "translate": "",
+            "original": "Enhanced Hunting Spider Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:23|basic]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<hr />\n<p><strong>Stage 1</strong> @Damage[1d10[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[1d12[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}, and off-guard (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[2d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}, and off-guard (1 round).</p>\n<hr />\n<p><strong>Note</strong> The clumsy condition caused by this venom persists for 24 hours before fading.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Simulacrum": {
+      "_id": "ki4Wf1p5DlJaIYmU",
+      "name": {
+        "translate": "",
+        "original": "Simulacrum"
+      },
+      "skills": {
+        "deception": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "",
+                "original": "to Impersonate"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "LfLEtzG7zcSfm1lR": {
+          "_id": "LfLEtzG7zcSfm1lR",
+          "name": {
+            "translate": "",
+            "original": "Warhammer"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This weapon has a wooden shaft ending in a large, heavy metal head. The head of the hammer might be single-sided or double-sided, but it's always capable of delivering powerful bludgeoning blows.</p>"
+          }
+        },
+        "fbbOj5qcJfI3G3qS": {
+          "_id": "fbbOj5qcJfI3G3qS",
+          "name": {
+            "translate": "",
+            "original": "Scale Mail"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Scale mail consists of many metal scales sewn onto a reinforced leather backing, often in the form of a long shirt that protects the torso, arms, and legs.</p>"
+          }
+        },
+        "fsafZEEGsIaBeXJR": {
+          "_id": "fsafZEEGsIaBeXJR",
+          "name": {
+            "translate": "",
+            "original": "Key Ring"
+          }
+        },
+        "TqC1uaMbn5081Gzl": {
+          "_id": "TqC1uaMbn5081Gzl",
+          "name": {
+            "translate": "",
+            "original": "Warhammer"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-4",
+          "rarity-rare",
+          "type-npc",
+          "npc-dwarf"
+        ]
+      }
+    },
+    "Lawn Crawfish": {
+      "_id": "OPaV3fwegwyQY48m",
+      "name": {
+        "translate": "",
+        "original": "Lawn Crawfish"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>Reefclaws are aquatic monsters that resemble huge shrimp or lobsters. As one might expect from its name, a reefclaw's oversized claws are powerful weapons with their vicelike grip and the ability to inject potent venom into unfortunate prey.</p>\n<p>While reefclaws can't speak, they are intelligent enough to understand the local language of humanoids near their hunting grounds. The creatures sometimes listen to conversations, either to gain intelligence on the best place to ambush aquatic or land-dwelling prey, or merely for entertainment value-reefclaws are particularly fond of listening to people with high-pitched voices. Reefclaws are usually solitary hunters, but small swarms of female reefclaws have been known to gather around a single male for mating purposes or together for the communal raising of their broods. In the latter case, the females will perform widespread hunts in order to bring back a large enough bounty to feed their young. Such hunting parties are extremely dangerous-they've been known to tip over small flshing boats and attack those who fall overboard.</p>\n<p>Once a reefclaw has decided upon a course of action, it follows through even if doing so spells its own end. More than one reefclaw survivor has said that the creature released its bone-crushing grasp only after its brains were leaking from its broken skull, and even then the reefclaw was able to perform a terrible last slash as part of its dying breath. During mating season, female reefclaws are often a little more pragmatic and release their prey before endangering themselves and their offspring.</p>\n<p>Despite their intelligence and the accompanying moral quandaries, reefclaws frequently find their way onto the dinner plates of land-dwelling hunters such as humans and hobgoblins. According to those who have a taste for reefclaw flesh, the meat is either delectably sweet or slightly tangy (in the case of warm-water reefclaws). Most civilized people who know of reefclaws' intellect find the act of eating them distasteful, but this does not dissuade unscrupulous nobles in coastal regions, for whom reefclaw meat is a delicacy well worth the expense. Likewise, fisherfolk whose focus is on the bottom line of their ledgers are more than willing to hunt the dangerous creatures-or, even better, hire out the task to naive adventurers.</p>"
+      },
+      "skills": {
+        "athletics": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "",
+                "original": "to Swim"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "oGR3hLNhUlAR66Kw": {
+          "_id": "oGR3hLNhUlAR66Kw",
+          "name": {
+            "translate": "",
+            "original": "Claw"
+          }
+        },
+        "D2ezhwANZLcMNbz9": {
+          "_id": "D2ezhwANZLcMNbz9",
+          "name": {
+            "translate": "",
+            "original": "Death Frenzy"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> The reefclaw is reduced to 0 Hit Points.</p>\n<hr />\n<p><strong>Effect</strong> The reefclaw makes a claw Strike before dying.</p>"
+          }
+        },
+        "wXMKFkzyO8JcxivY": {
+          "_id": "wXMKFkzyO8JcxivY",
+          "name": {
+            "translate": "",
+            "original": "Constrict"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>@Damage[1d6[bludgeoning]], @Check[fortitude|dc:17|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+          }
+        },
+        "We6LladGR4C687q0": {
+          "_id": "We6LladGR4C687q0",
+          "name": {
+            "translate": "",
+            "original": "Crawfish Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:17]</p>\n<p><strong>Maximum Duration</strong> 4 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[1d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round).</p>"
+          }
+        },
+        "xSrJboXYh6Bug0IV": {
+          "_id": "xSrJboXYh6Bug0IV",
+          "name": {
+            "translate": "",
+            "original": "Grab"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> The monster's last action was a success with a Strike that lists Grab in its damage entry, or it has a creature grabbed using this action.</p>\n<hr />\n<p><strong>Effect</strong> The monster automatically Grabs the target until the end of the monster's next turn. The creature is grabbed by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended. Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-aberration"
+        ]
+      }
+    },
+    "Precarious Pile": {
+      "_id": "JhQqV8t4BPk2Ixg8",
+      "name": {
+        "translate": "",
+        "original": "Precarious Pile"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>This dangerously unsteady pile of miscellaneous goods stands 7 feet high and 10 feet wide</span></p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[thievery|dc:15|name:Excavate Safe Path|traits:action:disable-a-device] to carefully excavate a path through the wall without upsetting its balance</p>\n<p>@Check[athletics|dc:17|name:Hold Up Unstable Portions] to hold up any unstable portions</p>"
+      },
+      "items": {
+        "VtHcDRIcr6uZeQFk": {
+          "_id": "VtHcDRIcr6uZeQFk",
+          "name": {
+            "translate": "",
+            "original": "Collapse"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature attempts to climb or remove an object from the wall or the wall suffers a forceful impact</p>\n<hr />\n<p><strong>Effect</strong> The wall collapses, dealing @Damage[2d8[bludgeoning]] damage to creatures on it or within 10 feet of it. A creature that succeeds at a @Check[reflex|dc:18|traits:damaging-effect] save takes half damage and rolls out of the way in a random direction. On a critical success, they take no damage and can choose the direction.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Princess Sunset": {
+      "_id": "BFTodEMAuiYhte03",
+      "name": {
+        "translate": "",
+        "original": "Princess Sunset"
+      },
+      "ac": {
+        "translate": "",
+        "original": "AC 13 when broken"
+      },
+      "items": {
+        "nT3TM6fopj35YQ5R": {
+          "_id": "nT3TM6fopj35YQ5R",
+          "name": {
+            "translate": "",
+            "original": "Headbutt"
+          }
+        },
+        "bDHxUX6Z1RFekU8z": {
+          "_id": "bDHxUX6Z1RFekU8z",
+          "name": {
+            "translate": "",
+            "original": "Construct Armor (Hardness 5)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Like normal objects, an animated rocking horse has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once the animated rocking horse is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 13.</p>"
+          }
+        },
+        "r6NeyXy7urudFlGz": {
+          "_id": "r6NeyXy7urudFlGz",
+          "name": {
+            "translate": "",
+            "original": "Trample"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Princess Sunset Strides up to double its Speed and can move through the spaces of creatures of size Small or smaller, Trampling each creature whose space it enters. Princess Sunset can attempt to Trample the same creature only once in a single use of Trample. The monster deals the damage of the headbutt Strike, but trampled creatures can attempt a basic Reflex save at @Check[reflex|dc:14|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-npc",
+          "npc-construct"
+        ]
+      }
+    },
+    "Taxidermic Dog": {
+      "_id": "hfoTGdl5WdS5s1Ss",
+      "name": {
+        "translate": "",
+        "original": "Taxidermic Dog"
+      },
+      "items": {
+        "6xOYkXaZahFpHvw3": {
+          "_id": "6xOYkXaZahFpHvw3",
+          "name": {
+            "translate": "",
+            "original": "Jaws"
+          }
+        },
+        "NhcqCfallZ7DaLf1": {
+          "_id": "NhcqCfallZ7DaLf1",
+          "name": {
+            "translate": "",
+            "original": "Pack Attack"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A taxidermic dog's Strikes deal 1d4 extra damage to creatures within the reach of the taxidermic dog's two allies.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-evil"
+        ]
+      }
+    },
+    "Boreal Rage Trap": {
+      "_id": "Ve1QhQgmE6Ex2Guc",
+      "name": {
+        "translate": "",
+        "original": "Boreal Rage Trap"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>A stuffed owlbear twists toward intruders and breathes a gust of frigid air.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[thievery|dc:22|traits:cold,evocation,magical,trap,hazard]{Thievery (expert)} on the owlbear's base</p>"
+      },
+      "reset": {
+        "translate": "",
+        "original": "<p>10 minutes</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "GvNIHxShQxa9QiM0": {
+          "_id": "GvNIHxShQxa9QiM0",
+          "name": {
+            "translate": "",
+            "original": "Exhale"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature enters either of the marked areas, or a creature remains in the room for 1 minute</p>\n<hr />\n<p><strong>Effect</strong> The trap breathes cold that envelops a @Template[burst|distance:15]{15-foot burst} centered on the triggering creature's square. This deals @Damage[(4d8+18)[cold]] damage (@Check[reflex|dc:24|basic|traits:cold,evocation,magical,trap,hazard] save), and a creature that critically fails the save becomes @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} for 10 minutes due to frostbite.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-hazard",
+          "hazard-cold"
+        ]
+      }
+    },
+    "Doatara the Poisoner": {
+      "_id": "SoSFKK1TmqMqtnuR",
+      "name": {
+        "translate": "",
+        "original": "Doatara the Poisoner"
+      },
+      "items": {
+        "ZWmj36nyssOtt8vf": {
+          "_id": "ZWmj36nyssOtt8vf",
+          "name": {
+            "translate": "",
+            "original": "Alchemist's Fire (Moderate)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 2d8 fire damage, 2 persistent fire damage, and 2 fire splash damage. You gain a +1 item bonus to attack rolls.</p>"
+          }
+        },
+        "xWeJpwl7jPJnEqMo": {
+          "_id": "xWeJpwl7jPJnEqMo",
+          "name": {
+            "translate": "",
+            "original": "Bottled Lightning (Moderate)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 2d6 electricity damage and 2 electricity splash damage. On a hit, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of your next turn. You gain a +1 item bonus to attack rolls.</p>"
+          }
+        },
+        "PhkU600JoD4Qwxku": {
+          "_id": "PhkU600JoD4Qwxku",
+          "name": {
+            "translate": "",
+            "original": "Dagger"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.</p>"
+          }
+        },
+        "5aM3FvJyDvHbwujG": {
+          "_id": "5aM3FvJyDvHbwujG",
+          "name": {
+            "translate": "",
+            "original": "Shortsword"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>These blades come in a variety of shapes and styles, but they are typically 2 feet long.</p>"
+          }
+        },
+        "P63w2UZvMQSbz0St": {
+          "_id": "P63w2UZvMQSbz0St",
+          "name": {
+            "translate": "",
+            "original": "Leather Armor"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+          }
+        },
+        "WZFrr1mp5n54Elzm": {
+          "_id": "WZFrr1mp5n54Elzm",
+          "name": {
+            "translate": "",
+            "original": "Religious Symbol (Silver)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This piece of wood or silver is emblazoned with an image representing a deity. Some divine spellcasters, such as clerics, can use a religious symbol of their deity as a divine focus to use certain abilities and cast some spells. A religious symbol must be held in one hand to use it.</p>"
+          }
+        },
+        "GHPbBftdXrtQ1HOq": {
+          "_id": "GHPbBftdXrtQ1HOq",
+          "name": {
+            "translate": "",
+            "original": "Darkvision Elixir (Moderate)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Interact</p>\n<p>After you drink this elixir, your sight becomes sharper in darkness. You gain darkvision for 1 hour.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.bcxVvIbuZWOvsKcA]{Effect: Darkvision Elixir (Moderate)}</p>"
+          }
+        },
+        "37wj2GgNpJwVoI6t": {
+          "_id": "37wj2GgNpJwVoI6t",
+          "name": {
+            "translate": "",
+            "original": "Elixir of Life (Moderate)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[(5d6+12)[healing]] Hit Points and gain +2 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>"
+          }
+        },
+        "2LTRUowPoip0YGtc": {
+          "_id": "2LTRUowPoip0YGtc",
+          "name": {
+            "translate": "",
+            "original": "Giant Scorpion Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Scorpion venom is excruciating and its effects are somewhat debilitating.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:22]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d10[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[2d10[poison]] damage and enfeebled 1 (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[2d10[poison]] damage and enfeebled 2 (1 round)</p>"
+          }
+        },
+        "uUzFr83377kpE3O6": {
+          "_id": "uUzFr83377kpE3O6",
+          "name": {
+            "translate": "",
+            "original": "Giant Wasp Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Giant wasp venom interferes with a victim's movement.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:25]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[2d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[3d6[poison]] damage and clumsy 2 (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[4d6[poison]] damage and clumsy 2 (1 round)</p>"
+          }
+        },
+        "TxLLR0S08OmTUcU7": {
+          "_id": "TxLLR0S08OmTUcU7",
+          "name": {
+            "translate": "",
+            "original": "Shortsword"
+          }
+        },
+        "3C97dBJxHVxzmZbK": {
+          "_id": "3C97dBJxHVxzmZbK",
+          "name": {
+            "translate": "",
+            "original": "Dagger"
+          }
+        },
+        "2sy1o06ck8XIlhfn": {
+          "_id": "2sy1o06ck8XIlhfn",
+          "name": {
+            "translate": "",
+            "original": "Alchemist's Fire"
+          }
+        },
+        "csNqFPhBD3KDCIrl": {
+          "_id": "csNqFPhBD3KDCIrl",
+          "name": {
+            "translate": "",
+            "original": "Bottled Lightning"
+          }
+        },
+        "VCY1DZAApT95dFMR": {
+          "_id": "VCY1DZAApT95dFMR",
+          "name": {
+            "translate": "",
+            "original": "Reckless Toxin"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature critically fails a melee Strike against Doatara</p>\n<p><strong>Requirements</strong> The triggering creature is affected by a poison</p>\n<hr />\n<p><strong>Effect</strong> The poison makes it difficult to distinguish friend from foe. The triggering creature makes a melee Strike against another creature of Doatara's choice within its reach. The triggering creature's multiple attack penalty doesn't apply to this Strike.</p>"
+          }
+        },
+        "eWe9F3BGT8vvpd1n": {
+          "_id": "eWe9F3BGT8vvpd1n",
+          "name": {
+            "translate": "",
+            "original": "Blackfingers's Blessing"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Doatara deals an extra 2d6 poison damage when she deals piercing or slashing damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>"
+          }
+        },
+        "2WeSNefSX1K6rZFj": {
+          "_id": "2WeSNefSX1K6rZFj",
+          "name": {
+            "translate": "",
+            "original": "Quick Bomber"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Doatara Interacts to draw a bomb, then Strikes with it.</p>"
+          }
+        },
+        "fn6zUFcwvcTZ3WTT": {
+          "_id": "fn6zUFcwvcTZ3WTT",
+          "name": {
+            "translate": "",
+            "original": "Toxic Flourish"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> Doatara has one hand free</p>\n<hr />\n<p><strong>Effect</strong> Doatara Interacts to draw an injury poison, applies that poison to one piercing or slashing weapon she's wielding, and then Strikes.</p>"
+          }
+        },
+        "wq1w6V7b3rHNYeJ0": {
+          "_id": "wq1w6V7b3rHNYeJ0",
+          "name": {
+            "translate": "",
+            "original": "Assassin Lore"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-unique",
+          "type-npc",
+          "npc-evil"
+        ]
+      }
+    },
+    "Doatara the Priest": {
+      "_id": "T2lqHFAnZ1u6Z6MD",
+      "name": {
+        "translate": "",
+        "original": "Doatara the Priest"
+      },
+      "items": {
+        "ThFmtc1FQL5VJ5rq": {
+          "_id": "ThFmtc1FQL5VJ5rq",
+          "name": {
+            "translate": "",
+            "original": "Divine Prepared Spells"
+          }
+        },
+        "1568vjnhIuG3IPD2": {
+          "_id": "1568vjnhIuG3IPD2",
+          "name": {
+            "translate": "",
+            "original": "Divine Focus Spells"
+          }
+        },
+        "VOQvm4Y4TrKKpsYq": {
+          "_id": "VOQvm4Y4TrKKpsYq",
+          "name": {
+            "translate": "",
+            "original": "Vampiric Touch"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Your touch leeches the lifeblood out of a target to empower yourself. You deal 6d6 void damage to the target. You gain temporary Hit Points equal to half the void damage the target takes (after applying resistances and the like). You lose any remaining temporary Hit Points after 1 minute.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+          }
+        },
+        "WzwqGqghoA0a8FyP": {
+          "_id": "WzwqGqghoA0a8FyP",
+          "name": {
+            "translate": "",
+            "original": "Darkvision"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You grant yourself supernatural sight in areas of darkness. You gain Darkvision.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.IXS15IQXYCZ8vsmX]{Spell Effect: Darkvision}</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.inNfTmtWpsxeGBI9]{Spell Effect: Darkvision (24 hours)}</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The spell's range is touch and it targets 1 willing creature.</p>\n<p><strong>Heightened (5th)</strong> The spell's range is touch and it targets 1 willing creature. The duration is until the next time you make your daily preparations.</p>"
+          }
+        },
+        "B1c6tB9AoILIwo3J": {
+          "_id": "B1c6tB9AoILIwo3J",
+          "name": {
+            "translate": "",
+            "original": "Dispel Magic"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an artifact or similar item, you automatically fail.</p>"
+          }
+        },
+        "gdbGa7lMILCB7Jqo": {
+          "_id": "gdbGa7lMILCB7Jqo",
+          "name": {
+            "translate": "",
+            "original": "Faerie Fire"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>All creatures in the area when you cast the spell are limned in colorful, heatless fire of a color of your choice for the duration. Visible creatures can't be @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} while affected by faerie fire. If the creatures are @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}, they are Concealed while affected by faerie fire, rather than being @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected}.</p>"
+          }
+        },
+        "ELBpHScMXwYroFx1": {
+          "_id": "ELBpHScMXwYroFx1",
+          "name": {
+            "translate": "",
+            "original": "Invisibility"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Cloaked in illusion, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}. This makes it @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} to all creatures, though the creatures can attempt to find the target, making it @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.</p>"
+          }
+        },
+        "nr4jPAeJuTEdXGwy": {
+          "_id": "nr4jPAeJuTEdXGwy",
+          "name": {
+            "translate": "",
+            "original": "Restore Senses"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You attempt to counteract a single effect imposing the @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} or @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} conditions on the target, restoring its vision or hearing. This can counteract both temporary magic and permanent consequences of magic, but it doesn't cure someone who does not have the sense due to some natural state or effect, such as from birth or from a non-magical wound or toxin.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> The spell's range increases to 30 feet, and you can target up to 10 creatures. You can choose the effect to counteract separately for each selected creature.</p>"
+          }
+        },
+        "CCCiDEn8ADGbtQHq": {
+          "_id": "CCCiDEn8ADGbtQHq",
+          "name": {
+            "translate": "",
+            "original": "Detect Magic"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.</p>\n<p>You detect illusion magic only if that magic's effect has a lower level than the rank of your detect magic spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an invisibility potion) typically are detected normally.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.</p>\n<p><strong>Heightened (4th)</strong> As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).</p>"
+          }
+        },
+        "VDW3QqNjPo3oWaTy": {
+          "_id": "VDW3QqNjPo3oWaTy",
+          "name": {
+            "translate": "",
+            "original": "Fear"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You plant fear in the target; it must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3} and @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} for 1 round.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target up to five creatures.</p>"
+          }
+        },
+        "8bwD4e7SR9ZNj7yZ": {
+          "_id": "8bwD4e7SR9ZNj7yZ",
+          "name": {
+            "translate": "",
+            "original": "Guidance"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You ask for divine guidance, granting the target a +1 status bonus to one attack roll, Perception check, saving throw, or skill check the target attempts before the duration ends. The target chooses which roll to use the bonus on before rolling. If the target uses the bonus, the spell ends. Either way, the target is then temporarily immune for 1 hour.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.3qHKBDF7lrHw8jFK]{Spell Effect: Guidance}</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.3LyOkV25p7wA181H]{Effect: Guidance Immunity}</p>"
+          }
+        },
+        "09CD7HMNrIdjIBaL": {
+          "_id": "09CD7HMNrIdjIBaL",
+          "name": {
+            "translate": "",
+            "original": "Harm"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You channel void energy to harm the living or heal the undead. If the target is a living creature, you deal 1d8 void damage to it, and it gets a basic Fortitude save. If the target is a willing undead creature, you restore that amount of Hit Points. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<p><span class=\"action-glyph\">1</span> <strong>(somatic)</strong> The spell has a range of touch.</p>\n<p><span class=\"action-glyph\">2</span> <strong>(verbal, somatic)</strong> The spell has a range of 30 feet. If you're healing an undead creature, increase the Hit Points restored by 8.</p>\n<p><span class=\"action-glyph\">3</span> <strong>(material, verbal, somatic)</strong> You disperse void energy in a 30-foot emanation. This targets all living and undead creatures in the area.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>"
+          }
+        },
+        "EaI8neQoeQBYHnWr": {
+          "_id": "EaI8neQoeQBYHnWr",
+          "name": {
+            "translate": "",
+            "original": "Heal"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You channel vitality energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of vitality damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<p><span class=\"action-glyph\">1</span> <strong>(somatic)</strong> The spell has a range of touch.</p>\n<p><span class=\"action-glyph\">2</span> <strong>(verbal, somatic)</strong> The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8</p>\n<p><span class=\"action-glyph\">3</span> <strong>(material, somatic, verbal)</strong> You disperse vitality energy in a 30-foot emanation. This targets all living and undead creatures in the burst.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>"
+          }
+        },
+        "Eb9BDXZDm7e12llF": {
+          "_id": "Eb9BDXZDm7e12llF",
+          "name": {
+            "translate": "",
+            "original": "Shield"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.</p>\n<p>While the spell is in effect, you can use the @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Shield Block} reaction with your magic shield. The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the @UUID[Compendium.pf2e.spells-srd.Item.gKKqvLohtrSJj3BM]{Force Barrage} spell.</p>\n<p>Heightening the spell increases the shield's Hardness.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Jemq5UknGdMO7b73]{Spell Effect: Shield}</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The shield has Hardness 10.</p>\n<p><strong>Heightened (5th)</strong> The shield has Hardness 15.</p>\n<p><strong>Heightened (7th)</strong> The shield has Hardness 20.</p>\n<p><strong>Heightened (9th)</strong> The shield has Hardness 25.</p>"
+          }
+        },
+        "bKUJU8cgBhp7qUNS": {
+          "_id": "bKUJU8cgBhp7qUNS",
+          "name": {
+            "translate": "",
+            "original": "Sudden Shift"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> An enemy misses you with a melee attack.</p>\n<hr />\n<p>You swiftly move from a dangerous spot and veil yourself. You Step and become @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}.</p>"
+          }
+        },
+        "PhkU600JoD4Qwxku": {
+          "_id": "PhkU600JoD4Qwxku",
+          "name": {
+            "translate": "",
+            "original": "Dagger"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.</p>"
+          }
+        },
+        "5aM3FvJyDvHbwujG": {
+          "_id": "5aM3FvJyDvHbwujG",
+          "name": {
+            "translate": "",
+            "original": "Shortsword"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>These blades come in a variety of shapes and styles, but they are typically 2 feet long.</p>"
+          }
+        },
+        "P63w2UZvMQSbz0St": {
+          "_id": "P63w2UZvMQSbz0St",
+          "name": {
+            "translate": "",
+            "original": "Leather Armor"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+          }
+        },
+        "WZFrr1mp5n54Elzm": {
+          "_id": "WZFrr1mp5n54Elzm",
+          "name": {
+            "translate": "",
+            "original": "Religious Symbol (Silver)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This piece of wood or silver is emblazoned with an image representing a deity. Some divine spellcasters, such as clerics, can use a religious symbol of their deity as a divine focus to use certain abilities and cast some spells. A religious symbol must be held in one hand to use it.</p>"
+          }
+        },
+        "GHPbBftdXrtQ1HOq": {
+          "_id": "GHPbBftdXrtQ1HOq",
+          "name": {
+            "translate": "",
+            "original": "Darkvision Elixir (Moderate)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Interact</p>\n<p>After you drink this elixir, your sight becomes sharper in darkness. You gain darkvision for 1 hour.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.bcxVvIbuZWOvsKcA]{Effect: Darkvision Elixir (Moderate)}</p>"
+          }
+        },
+        "37wj2GgNpJwVoI6t": {
+          "_id": "37wj2GgNpJwVoI6t",
+          "name": {
+            "translate": "",
+            "original": "Elixir of Life (Moderate)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[(5d6+12)[healing]] Hit Points and gain +2 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>"
+          }
+        },
+        "2LTRUowPoip0YGtc": {
+          "_id": "2LTRUowPoip0YGtc",
+          "name": {
+            "translate": "",
+            "original": "Giant Scorpion Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Scorpion venom is excruciating and its effects are somewhat debilitating.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:22]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d10[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[2d10[poison]] damage and enfeebled 1 (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[2d10[poison]] damage and enfeebled 2 (1 round)</p>"
+          }
+        },
+        "uUzFr83377kpE3O6": {
+          "_id": "uUzFr83377kpE3O6",
+          "name": {
+            "translate": "",
+            "original": "Giant Wasp Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Giant wasp venom interferes with a victim's movement.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:25]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[2d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[3d6[poison]] damage and clumsy 2 (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[4d6[poison]] damage and clumsy 2 (1 round)</p>"
+          }
+        },
+        "TxLLR0S08OmTUcU7": {
+          "_id": "TxLLR0S08OmTUcU7",
+          "name": {
+            "translate": "",
+            "original": "Shortsword"
+          }
+        },
+        "yuUqFU9aeQibXK4x": {
+          "_id": "yuUqFU9aeQibXK4x",
+          "name": {
+            "translate": "",
+            "original": "Dagger"
+          }
+        },
+        "yjwQiSKfLGrGNqvM": {
+          "_id": "yjwQiSKfLGrGNqvM",
+          "name": {
+            "translate": "",
+            "original": "Channel Smite"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> Doatara expends a @UUID[Compendium.pf2e.spells-srd.Item.wdA52JJnsuQWeyqz]{Harm} spell</p>\n<hr />\n<p><strong>Effect</strong> Doatara makes a melee Strike and adds the <em>harm</em> spell's void damage to the Strike's damage.</p>"
+          }
+        },
+        "YNkUC99qBUu0WKuT": {
+          "_id": "YNkUC99qBUu0WKuT",
+          "name": {
+            "translate": "",
+            "original": "Poison Weapon"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> Doatara is wielding a piercing or slashing weapon</p>\n<hr />\n<p><strong>Effect</strong> Doatara Interacts to draw an injury poison and applies the poison to the required weapon. If her next attack with that weapon before the end of her next turn hits and deals damage, it applies the effects of the poison. If she critically fails the attack roll, the poison is wasted as normal.</p>"
+          }
+        },
+        "wq1w6V7b3rHNYeJ0": {
+          "_id": "wq1w6V7b3rHNYeJ0",
+          "name": {
+            "translate": "",
+            "original": "Assassin Lore"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-unique",
+          "type-npc",
+          "npc-evil"
+        ]
+      }
+    },
+    "Hail of Darts": {
+      "_id": "8ct9FQL7WuiX4Dve",
+      "name": {
+        "translate": "",
+        "original": "Hail of Darts"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>An array of spring-loaded, ceiling-mounted darts are primed to fire down into the hallway when triggered by a pressure plate.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[thievery|dc:25|traits:hazard,trap,mechanical]{Thievery (expert)} on the floor tile or wall socket</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "NYFHKRRaPEtLeynP": {
+          "_id": "NYFHKRRaPEtLeynP",
+          "name": {
+            "translate": "",
+            "original": "Darts"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> Pressure is applied to the floor tile</p>\n<hr />\n<p><strong>Effect</strong> The trap shoots darts, making an attack against each creature in a @Template[line|distance:30] centered on the floor tile.</p>"
+          }
+        },
+        "N1DlNwW7rdwRgvZf": {
+          "_id": "N1DlNwW7rdwRgvZf",
+          "name": {
+            "translate": "",
+            "original": "Dart"
+          }
+        },
+        "ww3XNNjqDJOclXVx": {
+          "_id": "ww3XNNjqDJOclXVx",
+          "name": {
+            "translate": "",
+            "original": "Old Giant Wasp Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:22]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<hr />\n<p><strong>Stage 1</strong> @Damage[2d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[3d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[4d6[poison]] damage and clumsy 2 (1 round).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Kelorbeyan Guard": {
+      "_id": "pPk3CgAHycfQZno7",
+      "name": {
+        "translate": "",
+        "original": "Kelorbeyan Guard"
+      },
+      "items": {
+        "hhgMmWUf9zNa87tz": {
+          "_id": "hhgMmWUf9zNa87tz",
+          "name": {
+            "translate": "",
+            "original": "Longsword"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Longswords can be one-edged or two-edged swords. Their blades are heavy and they're between 3 and 4 feet in length.</p>"
+          }
+        },
+        "VTo7Sx3k5uYaVJ2R": {
+          "_id": "VTo7Sx3k5uYaVJ2R",
+          "name": {
+            "translate": "",
+            "original": "Sap"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A sap has a soft wrapping around a dense core, typically a leather sheath around a lead rod. Its head is wider than its grip to disperse the force of a blow, as the weapon's purpose is to knock out its victim rather than to draw blood.</p>"
+          }
+        },
+        "MsQ93RX6kp1ZK32w": {
+          "_id": "MsQ93RX6kp1ZK32w",
+          "name": {
+            "translate": "",
+            "original": "Composite Shortbow"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This shortbow is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Its compact size and power make it a favorite of mounted archers. Any time an ability is specifically restricted to a shortbow, it also applies to composite shortbows unless otherwise stated.</p>"
+          }
+        },
+        "yVqMKGVS5tSBrQpj": {
+          "_id": "yVqMKGVS5tSBrQpj",
+          "name": {
+            "translate": "",
+            "original": "Studded Leather Armor"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This leather armor is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.</p>"
+          }
+        },
+        "Reily3z1ICDNJCAj": {
+          "_id": "Reily3z1ICDNJCAj",
+          "name": {
+            "translate": "",
+            "original": "Lantern (Hooded)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A lantern sheds bright light and requires 1 pint of oil to function for 6 hours. A bull's-eye lantern emits its light in a 60-foot cone (and dim light in the next 60 feet). A hooded lantern sheds light in a 30-foot radius (and dim light in the next 30 feet) and is equipped with shutters, which you can close to block the light. Closing or opening the shutters takes an Interact action.</p>"
+          }
+        },
+        "vnHow0eCnvh6BGtU": {
+          "_id": "vnHow0eCnvh6BGtU",
+          "name": {
+            "translate": "",
+            "original": "Signal Whistle"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When sounded, a signal whistle can be heard clearly up to half a mile away across open terrain.</p>"
+          }
+        },
+        "aLfP2ktWcpUSpshR": {
+          "_id": "aLfP2ktWcpUSpshR",
+          "name": {
+            "translate": "",
+            "original": "Arrows"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+          }
+        },
+        "cBW0pTUJgpGbQTuZ": {
+          "_id": "cBW0pTUJgpGbQTuZ",
+          "name": {
+            "translate": "",
+            "original": "Longsword"
+          }
+        },
+        "FZlF8DNH9zoHHtGs": {
+          "_id": "FZlF8DNH9zoHHtGs",
+          "name": {
+            "translate": "",
+            "original": "Sap"
+          }
+        },
+        "GhJYsgLhPBbMBLSk": {
+          "_id": "GhJYsgLhPBbMBLSk",
+          "name": {
+            "translate": "",
+            "original": "Composite Shortbow"
+          }
+        },
+        "35F3caeD70ItnVu9": {
+          "_id": "35F3caeD70ItnVu9",
+          "name": {
+            "translate": "",
+            "original": "Attack of Opportunity"
+          }
+        },
+        "NDuOjUZc8tDjQFB8": {
+          "_id": "NDuOjUZc8tDjQFB8",
+          "name": {
+            "translate": "",
+            "original": "Combat Grab"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> The Kelorbeyan guard has one hand free, and their target is in reach of that hand</p>\n<hr />\n<p><strong>Effect</strong> The guard makes a melee Strike while keeping one hand free. If the Strike hits, they grab the target using their free hand. The creature remains @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} until the end of the guard's next turn or until it @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes}, whichever comes first.</p>"
+          }
+        },
+        "MkimJ5yTOiDVYeop": {
+          "_id": "MkimJ5yTOiDVYeop",
+          "name": {
+            "translate": "",
+            "original": "Knockdown"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Kelorbeyan guard makes an attack to knock a foe off-balance, then follows up immediately with a sweep to topple them. The guard makes a melee Strike. If it hits and deals damage, they attempt an Athletics check to @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} the creature they hit. Both attacks count toward their multiple attack penalty, but the penalty doesn't increase until after they've made both.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-uncommon",
+          "type-npc",
+          "npc-evil"
+        ]
+      }
+    },
+    "Pairaka (One-Shot #4)": {
+      "_id": "RGcXNLz4TaziTInr",
+      "name": {
+        "translate": "",
+        "original": "Pairaka (One-Shot #4)"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>Some fiends want to tear down the multiverse; others dedicate themselves to creating chaos and carnage, or to rule over realms with an iron fist. Divs strive toward a different, if equally reprehensible, goal-they seek to thwart and ruin the schemes and works of mortal beings.</p>\n<p>Long ago, divs were once genies bound to serve ancient mortal empires lost to the passage of eons. In the beginning, these genies were masters of creation, working alongside gracious mortal partners to create works of subtle design and powerful magical potential. What started as a collaboration with mortals soon morphed into abuse, disrespect, and even slavery and bondage. Eventually, these genies rebelled, but in doing so, they came under the sway of a nihilistic demigod known as Ahriman. Their new master twisted their form and granted them the power to avenge themselves upon their mortal overlords, leading to the birth of the first divs.</p>\n<p>Since that first wave of corruption, new divs arise from the spirits of the most wicked and hateful genies who die on the Material Plane, or those truly betrayed by mortals and overcome through their desire for vengeance. Upon such a death, instead of returning to the Elemental Planes, these genies' spirits are trapped in the dread orbit of Abaddon, where Ahriman reshapes them as divs and hoists them back to the world to wreak vengeance upon mortals.</p>\n<hr />\n<p>Often charming, sometimes even seductive, pairakas worm their way into mortal relationships, subtly destroying the ties of friendship and love through emotional and physical corruption and plague. Pairakas appear as beautiful, blue-skinned humanoids spotted with large rashes and boils, but they rarely take on their true forms. Instead, they adopt shapes that attract just enough attention for them to worm their way into the confidences of those they wish to torment and corrupt.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "telepathy 100 feet"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "+1 status to all saves vs. magic"
+      },
+      "items": {
+        "3qTHGtELBqbZqCRQ": {
+          "_id": "3qTHGtELBqbZqCRQ",
+          "name": {
+            "translate": "",
+            "original": "Divine Innate Spells"
+          }
+        },
+        "NN6mSRTNytPfZ7NS": {
+          "_id": "NN6mSRTNytPfZ7NS",
+          "name": {
+            "translate": "",
+            "original": "Charm (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.</p>\n<p>You can Dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>\n<p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell.</p>\n<p><strong>Failure</strong> The target's attitude becomes @UUID[Compendium.pf2e.conditionitems.Item.v66R7FdOf11l94im]{Friendly} toward you. If it was Friendly, it becomes @UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{Helpful}. It can't use hostile actions against you.</p>\n<p><strong>Critical Failure</strong> The target's attitude becomes Helpful toward you, and it can't use hostile actions against you.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The duration lasts until the next time you make your daily preparations.</p>\n<p><strong>Heightened (8th)</strong> The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures.</p>"
+          }
+        },
+        "r9hpyIjmBvXaKGH4": {
+          "_id": "r9hpyIjmBvXaKGH4",
+          "name": {
+            "translate": "",
+            "original": "Dimension Door (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Opening a door that bypasses normal space, you instantly transport yourself and any items you're wearing and holding from your current space to a clear space within range you can see. If this would bring another creature with you-even if you're carrying it in an extradimensional container-the spell is lost.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> The range increases to 1 mile. You don't need to be able to see your destination, as long as you have been there in the past and know its relative location and distance from you. You are temporarily immune for 1 hour.</p>"
+          }
+        },
+        "U8nw3PU47hz0tq8n": {
+          "_id": "U8nw3PU47hz0tq8n",
+          "name": {
+            "translate": "",
+            "original": "Misdirection (At Will, Self Only)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You reshape the magic aura of one creature or object to resemble that of another. You designate one target as the primary target and the other as the secondary target. Effects that would detect auras on the primary target instead detect the same types of auras from the secondary target. A creature reading the aura can attempt to disbelieve the illusion. You can Dismiss the spell from up to a mile away.</p>"
+          }
+        },
+        "KHPX4IyilKw2vaD9": {
+          "_id": "KHPX4IyilKw2vaD9",
+          "name": {
+            "translate": "",
+            "original": "Outcast's Curse (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You afflict the target with a curse that makes its presence abrasive and off-putting. The target must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> For 10 minutes, the target must roll twice and use the worse result whenever attempting a Deception, Diplomacy, Intimidation, or Performance check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, @UUID[Compendium.pf2e.conditionitems.Item.I1ffBVISxLr2gC4u]{Unfriendly} instead of @UUID[Compendium.pf2e.conditionitems.Item.fuG8dgthlDWfWjIA]{Indifferent}).</p>\n<p><strong>Failure</strong> As success, but the effect is permanent.</p>\n<p><strong>Critical Failure</strong> As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse.</p>"
+          }
+        },
+        "Tb67hH4CruPE5kk8": {
+          "_id": "Tb67hH4CruPE5kk8",
+          "name": {
+            "translate": "",
+            "original": "Suggestion (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Your honeyed words are difficult for creatures to resist. You suggest a course of action to the target, which must be phrased in such a way as to seem like a logical course of action to the target and can't be self-destructive or obviously against the target's self-interest. The target must attempt a Will save.</p>\n<hr /><p><strong>Critical Success</strong> The target is unaffected and knows you tried to control it.</p>\n<p><strong>Success</strong> The target is unaffected and thinks you were talking to them normally, not casting a spell on them.</p>\n<p><strong>Failure</strong> The target immediately follows your suggestion. The spell has a duration of 1 minute, or until the target has completed a finite suggestion or the suggestion becomes self-destructive or has other obvious negative effects.</p>\n<p><strong>Critical Failure</strong> As failure, but the base duration is 1 hour.</p>\n<hr /><p><strong>Heightened (8th)</strong> You can target up to 10 creatures.</p>"
+          }
+        },
+        "ersET69tlZGM5E5J": {
+          "_id": "ersET69tlZGM5E5J",
+          "name": {
+            "translate": "",
+            "original": "Detect Magic"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.</p>\n<p>You detect illusion magic only if that magic's effect has a lower level than the rank of your detect magic spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an invisibility potion) typically are detected normally.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.</p>\n<p><strong>Heightened (4th)</strong> As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).</p>"
+          }
+        },
+        "XMWaKDeqdhRhvgwk": {
+          "_id": "XMWaKDeqdhRhvgwk",
+          "name": {
+            "translate": "",
+            "original": "Div Pact"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You call upon the powers of Abaddon to grant you the assistance of a div. You call upon a div whose level can be no more than double <em>div pact</em>'s spell rank, two divs whose levels are each at least 2 less than double the spell rank, or three divs whose levels are each at least 3 less than double the spell rank.</p>\n<hr />\n<p><strong>Critical Success</strong> You conjure the div or divs, and they require nothing in return for their service.</p>\n<p><strong>Success</strong> You conjure the div or divs. They are not eager to pursue the task, so they require a favor in return.</p>\n<p><strong>Failure</strong> you don't conjure any divs.</p>\n<p><strong>Critical Failure</strong> You don't conjure any divs, and they send a spiritual backlash that denies your use of any of your innate divine spells for 24 hours. If you are under the effect of any of your innate divine spells, the durations end.</p>"
+          }
+        },
+        "xhKg9xsYMFAK403H": {
+          "_id": "xhKg9xsYMFAK403H",
+          "name": {
+            "translate": "",
+            "original": "Poisoned Dart"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.</p>"
+          }
+        },
+        "9rWukglRKNo6c7Jk": {
+          "_id": "9rWukglRKNo6c7Jk",
+          "name": {
+            "translate": "",
+            "original": "Claw"
+          }
+        },
+        "YpsnJaxTr4v9kv5p": {
+          "_id": "YpsnJaxTr4v9kv5p",
+          "name": {
+            "translate": "",
+            "original": "Poisoned Dart"
+          }
+        },
+        "fzkFHUIw06YZhQU3": {
+          "_id": "fzkFHUIw06YZhQU3",
+          "name": {
+            "translate": "",
+            "original": "Greater Darkvision"
+          }
+        },
+        "wK3dnqQbpz2HUZw5": {
+          "_id": "wK3dnqQbpz2HUZw5",
+          "name": {
+            "translate": "",
+            "original": "Telepathy 100 feet"
+          }
+        },
+        "sZkTgu7T9gViMgGW": {
+          "_id": "sZkTgu7T9gViMgGW",
+          "name": {
+            "translate": "",
+            "original": "+1 Status to All Saves vs. Magic"
+          }
+        },
+        "BDbSH109hF8RleEa": {
+          "_id": "BDbSH109hF8RleEa",
+          "name": {
+            "translate": "",
+            "original": "Hatred of Red"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Pairakas hate the color red. They won't wear the color or willingly enter any place painted red. Given a choice, they'll attack a creature wearing red first.</p>\n<p>If barred from expressing their displeasure toward the color by force or some magical effect, they take @Damage[2d6[mental]] damage at the end of their turn.</p>"
+          }
+        },
+        "OnmLcXNYU1Jxp5ji": {
+          "_id": "OnmLcXNYU1Jxp5ji",
+          "name": {
+            "translate": "",
+            "original": "Bubonic Plague"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A creature can't remove the fatigued condition while infected</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:23]</p>\n<hr />\n<p><strong>Onset</strong> 1 day</p>\n<p><strong>Stage 1</strong> @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} (1 day)</p>\n<p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} and fatigued (1 day)</p>\n<p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 3}, fatigued, and take @Damage[1d6[bleed]] every [[/br 1d20 #Minutes]]{1d20 minutes} (1 day)</p>"
+          }
+        },
+        "D4noCa8oJeJbAEEn": {
+          "_id": "D4noCa8oJeJbAEEn",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The pairaka can take the appearance of any Small or Medium humanoid or animal. This doesn't change their Speed or their attack and damage modifiers with the Strikes, but it might change the damage type their strikes deal.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+          }
+        },
+        "VZlTraWqYIrTlPGW": {
+          "_id": "VZlTraWqYIrTlPGW",
+          "name": {
+            "translate": "",
+            "original": "Tormenting Dreams"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> The pairaka torments a sleeping creature within 100 feet with visions of betrayals by loved ones and friends. The target must attempt a @Check[will|dc:25] save, with the effects of the @UUID[Compendium.pf2e.spells-srd.Item.Uqj344bezBq3ESdq]{Nightmare} spell.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-npc",
+          "npc-div"
+        ]
+      }
+    },
+    "Giant Pirate Skeleton": {
+      "_id": "PbCcYOGqsDU96a4y",
+      "name": {
+        "translate": "",
+        "original": "Giant Pirate Skeleton"
+      },
+      "hp": {
+        "translate": "",
+        "original": "void healing"
+      },
+      "items": {
+        "BHl8dYHvfw3wudwe": {
+          "_id": "BHl8dYHvfw3wudwe",
+          "name": {
+            "translate": "",
+            "original": "Gaff Hook"
+          }
+        },
+        "WY438acWymvSxQun": {
+          "_id": "WY438acWymvSxQun",
+          "name": {
+            "translate": "",
+            "original": "Claw"
+          }
+        },
+        "7LrXSjw6oX8NtpUt": {
+          "_id": "7LrXSjw6oX8NtpUt",
+          "name": {
+            "translate": "",
+            "original": "Easily Distracted"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The giant pirate skeleton's poor vision makes it easily distracted by creatures that flank it. Whenever it has the off-guard condition from being flanked, increase the penalty to its AC to -4.</p>"
+          }
+        },
+        "1V7jsEG1WArbOCHt": {
+          "_id": "1V7jsEG1WArbOCHt",
+          "name": {
+            "translate": "",
+            "original": "Void Healing"
+          }
+        },
+        "Exe8oQGHGEFAmB5B": {
+          "_id": "Exe8oQGHGEFAmB5B",
+          "name": {
+            "translate": "",
+            "original": "Focused Assault"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The giant pirate skeleton makes two Strikes with its claw against one foe. The multiple attack penalty doesn't increase until after both attacks are resolved.</p>\n<p>The giant pirate skeleton doesn't use this ability if there is more than one creature within its reach that it can see.</p>"
+          }
+        },
+        "9LrnTtrOFInnVVZB": {
+          "_id": "9LrnTtrOFInnVVZB",
+          "name": {
+            "translate": "",
+            "original": "Impaling Hook"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A creature critically hit by the giant pirate skeleton's gaff hook is impaled upon it.</p>\n<p>The creature is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the giant pirate skeleton and whenever the giant pirate skeleton maintains the grab, the creature takes @Damage[(1d10+10)[piercing]] damage from the agonizing wound.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-npc",
+          "npc-evil"
+        ]
+      }
+    },
+    "Soulbound Guardian": {
+      "_id": "Z6aUTOMtvX2erFeA",
+      "name": {
+        "translate": "",
+        "original": "Soulbound Guardian"
+      },
+      "items": {
+        "PkEjTKfQ32atCVEv": {
+          "_id": "PkEjTKfQ32atCVEv",
+          "name": {
+            "translate": "",
+            "original": "Fist"
+          }
+        },
+        "VLH2brZkO5X2s8zB": {
+          "_id": "VLH2brZkO5X2s8zB",
+          "name": {
+            "translate": "",
+            "original": "Personality Fragments"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A soulbound guardian shares fragments of its donor soul's personality, though none of that creature's memories. This causes a soulbound guardian to match a strong personality trait of its donor soul. Because of its soul sliver, a soulbound guardian is not immune to spirit as most constructs are.</p>"
+          }
+        },
+        "t4TnMTAYDWzMaJx7": {
+          "_id": "t4TnMTAYDWzMaJx7",
+          "name": {
+            "translate": "",
+            "original": "Mannequin"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Until the next time it acts, the soulbound guardian appears to be a harmless mannequin. It has an automatic result of 30 on Deception checks and DCs to pass as a mannequin.</p>"
+          }
+        },
+        "Dy3dLWA01tuP9tgc": {
+          "_id": "Dy3dLWA01tuP9tgc",
+          "name": {
+            "translate": "",
+            "original": "Splitsoul"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> The soulbound guardian lends some of the energy animating it to other inanimate objects in the area. Three Small items or pieces of furniture within 60 feet come to life for 1 minute. These objects have the minion trait, though all the objects can act when the soulbound guardian uses a single action to issue them commands. The soulbound guardian can also issue commands to each object as part of using this ability.</p>\n<p>Each object animated in this way has a Speed of 20 feet and can make an unarmed melee Strike at +11 that deals @Damage[(1d6+3)[bludgeoning]] damage. In addition, each object has an AC of 16, a Hardness of 3, and 14 Hit Points.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-rare",
+          "type-npc",
+          "npc-construct"
+        ]
+      }
+    },
+    "Splitsoul Object": {
+      "_id": "fIV51W6NgHjZQDEG",
+      "name": {
+        "translate": "",
+        "original": "Splitsoul Object"
+      },
+      "items": {
+        "VtKHMPYYwbuzPTjb": {
+          "_id": "VtKHMPYYwbuzPTjb",
+          "name": {
+            "translate": "",
+            "original": "Object"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-npc",
+          "npc-construct"
+        ]
+      }
+    },
+    "Armored Cave Bears": {
+      "_id": "zQmFPwuGNkF9EGTX",
+      "name": {
+        "translate": "",
+        "original": "Armored Cave Bears"
+      },
+      "blurb": {
+        "translate": "",
+        "original": "Variant cave bear"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>Larger, stronger, and far more aggressive than its smaller cousins, the cave bear is a behemoth that avoids civilized lands, preferring to dwell in remote places. As its name might suggest, the cave bear makes its den in natural caves, and like the grizzly bear, it is fiercely territorial. Unlike a grizzly bear, however, a cave bear is short tempered and will make sure its foe is dead before moving on, usually feasting on its prey's soft flesh once it has been incapacitated. Cave bears are often regarded as powerful guardian spirits by remotedwelling people, though they are also utilized as beasts of war by orcs or even giants. Stone giants in particular have an affinity for keeping trained cave bears as pets or guardians for their homes.</p>\n<hr />\n<p>Bears are ferocious predators typically found in cold or temperate woodlands and hills. Many species of bear exist in addition to the two presented below, such as the smaller black bear or the arctic-dwelling polar bear.</p>"
+      },
+      "items": {
+        "PLLmu0Mc4VizpZYv": {
+          "_id": "PLLmu0Mc4VizpZYv",
+          "name": {
+            "translate": "",
+            "original": "Jaws"
+          }
+        },
+        "woTn67ogkZRQUfvH": {
+          "_id": "woTn67ogkZRQUfvH",
+          "name": {
+            "translate": "",
+            "original": "Claw"
+          }
+        },
+        "UzoVnSdYfHSSQRI9": {
+          "_id": "UzoVnSdYfHSSQRI9",
+          "name": {
+            "translate": "",
+            "original": "Broken Armor"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When an armored cave bear is reduced to half its Hit Points or less or it's hit with a critical hit from an adamantine weapon, it loses its physical resistance.</p>"
+          }
+        },
+        "A0gIyI3vxxzTPvTO": {
+          "_id": "A0gIyI3vxxzTPvTO",
+          "name": {
+            "translate": "",
+            "original": "Armored Charge"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The armored cave bear Strides up to its Speed in a straight line, slamming its armored skull into every creature whose space it moves into. Each creature in this line of movement must attempt a @Check[fortitude|dc:26] save. The armored cave bear can't use Armored Charge again for [[/gmr 1d4 #Recharge Armored Charge]]{1d4 rounds}.</p><hr /><p><strong>Critical Success</strong> The creature takes no damage and stops the armored cave bear's movement.</p>\n<p><strong>Success</strong> The creature takes no damage.</p>\n<p><strong>Failure</strong> The creature takes @Damage[4d8[bludgeoning]] damage.</p>\n<p><strong>Critical Failure</strong> The creature takes @Damage[8d8[bludgeoning]] damage and is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>"
+          }
+        },
+        "deLQWsbCp3jKrpIv": {
+          "_id": "deLQWsbCp3jKrpIv",
+          "name": {
+            "translate": "",
+            "original": "Mauler"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The armored cave bear gains a +4 circumstance bonus to damage rolls against creatures it has @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}.</p>"
+          }
+        },
+        "X9lnoAMRNp4d62Iu": {
+          "_id": "X9lnoAMRNp4d62Iu",
+          "name": {
+            "translate": "",
+            "original": "Rush"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The armored cave bear Strides with a +10-foot circumstance bonus to its Speed and makes a Strike at the end of that movement.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-9",
+          "rarity-rare",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Boulder Cage": {
+      "_id": "IkRDtRFBdQd1LRvD",
+      "name": {
+        "translate": "",
+        "original": "Boulder Cage"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Several large boulders are separated by wooden support beams, entrapping a woman and three young children within.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[thievery|dc:28] (expert) on the support beams to separate them enough to allow Mayor Eliana's family to escape without being crushed.</p>"
+      },
+      "routine": {
+        "translate": "",
+        "original": "<p>(3 actions) The trap uses its first action to slam a hanging stone into the main beam of the trap, and its last two actions to launch splinter Strikes against two Medium or smaller creatures. The main beam can withstand four rounds of this before splintering.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>trained</p>"
+      },
+      "hp": {
+        "translate": "",
+        "original": "to destroy the beams holding the side stones and disable the trap"
+      },
+      "items": {
+        "0q9Zd69VoWhQwenx": {
+          "_id": "0q9Zd69VoWhQwenx",
+          "name": {
+            "translate": "",
+            "original": "Splinter Shower"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A Medium or smaller creature steps into the room</p><hr /><p><strong>Effect</strong> A wooden beam explodes as a rock drops onto it, shooting large splinters in all directions and making a splinter Strike against every creature in the room. The trap then rolls initiative.</p>"
+          }
+        },
+        "BmNPiFaMFbVfDL4B": {
+          "_id": "BmNPiFaMFbVfDL4B",
+          "name": {
+            "translate": "",
+            "original": "Splinter"
+          }
+        },
+        "B5pXZwTw3sAoqLCq": {
+          "_id": "B5pXZwTw3sAoqLCq",
+          "name": {
+            "translate": "",
+            "original": "Shattered Beam"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> The main beam has been struck by the hanging stone four times</p><hr /><p><strong>Effect</strong> The main beam abruptly shatters into pieces and the boulders of the trap collapse, dealing @Damage[12d8[bludgeoning]] damage to all creatures held within.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-9",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Zikritrax": {
+      "_id": "QB0wbfOVhiZqJtYP",
+      "name": {
+        "translate": "",
+        "original": "Zikritrax"
+      },
+      "blurb": {
+        "translate": "",
+        "original": "Variant adult adamantine dragon"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>The powerful adamantine dragons are one of several dragons known as skymetal dragons. The innate magic that flows through these dragons causes them to draw particular metals to their bodies like magnets or, in some cases, naturally grow these skymetals on their bodies. Adamantine dragons begin their lives with tough scales that are naturally replaced with thicker and even tougher adamantine plating as they grow older. Adamantine dragons are typically steadfast and loyal. Once they commit to a certain purpose, changing their minds is nigh impossible.</p>\n<hr />\n<p>Dragons come in myriad forms, with many having magical abilities or connections to magic. Some dragons draw greater power from magic than others, allowing them to manifest abilities or alter their physiques with prolonged exposure to magic. These dragons become more powerful as they age and strengthen their connections with their magical origins. Scholars debate the classification of these dragons, with some preferring the name magical dragons and others using traditional dragons due to their connection to specific magical traditions. Regardless of their names, these dragons share a number of characteristics: their ability to tap into magical energies, intensified might and cunning as they grow older, and an inclination to hoard vast amounts of treasure and wealth.</p>"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "+2 status to all saves vs primal"
+      },
+      "items": {
+        "2p6i5BA3VT0Awpw6": {
+          "_id": "2p6i5BA3VT0Awpw6",
+          "name": {
+            "translate": "",
+            "original": "Jaws"
+          }
+        },
+        "s64qcOc82MfOM1BV": {
+          "_id": "s64qcOc82MfOM1BV",
+          "name": {
+            "translate": "",
+            "original": "Claw"
+          }
+        },
+        "T1zx1v2pNRTAUXUg": {
+          "_id": "T1zx1v2pNRTAUXUg",
+          "name": {
+            "translate": "",
+            "original": "Tail"
+          }
+        },
+        "xYDMD5k7o0XYnpVq": {
+          "_id": "xYDMD5k7o0XYnpVq",
+          "name": {
+            "translate": "",
+            "original": "Rock"
+          }
+        },
+        "Da8GNNMYxszM5ItF": {
+          "_id": "Da8GNNMYxszM5ItF",
+          "name": {
+            "translate": "",
+            "original": "Tremorsense (Imprecise) 90 feet"
+          }
+        },
+        "LUwtdpWWfHRKXjmJ": {
+          "_id": "LUwtdpWWfHRKXjmJ",
+          "name": {
+            "translate": "",
+            "original": "+2 Status to All Saves vs. Primal"
+          }
+        },
+        "eiF3caXCeUyEeCyp": {
+          "_id": "eiF3caXCeUyEeCyp",
+          "name": {
+            "translate": "",
+            "original": "Abandon Armor"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Once Zikritrax is reduced to fewer than half his Hit Points, his resistance is reduced by 10 and he gains a +10 circumstance bonus to his Speeds.</p>"
+          }
+        },
+        "2Fy5iLD2TzN5Y4ks": {
+          "_id": "2Fy5iLD2TzN5Y4ks",
+          "name": {
+            "translate": "",
+            "original": "Frightful Presence"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>90 feet. @Check[will|dc:30|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+          }
+        },
+        "Bd6m642VMIE5yoVM": {
+          "_id": "Bd6m642VMIE5yoVM",
+          "name": {
+            "translate": "",
+            "original": "Resilient Form"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> Zikritrax is critically hit with a weapon or unarmed attack</p><hr /><p><strong>Effect</strong> The dragon's tough scales ward off deadly attacks. The dragon attempts a @Check[flat|dc:17]. On a success, the triggering attack becomes a normal hit.</p>"
+          }
+        },
+        "Nsq37LYvx8Gc8M1O": {
+          "_id": "Nsq37LYvx8Gc8M1O",
+          "name": {
+            "translate": "",
+            "original": "Adamantine Body"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The dragon's unarmed melee Strikes are adamantine.</p>"
+          }
+        },
+        "S1Ztj3jcXHNboSRl": {
+          "_id": "S1Ztj3jcXHNboSRl",
+          "name": {
+            "translate": "",
+            "original": "Avalanche Breath"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Zikritrax belches a mass of boulders that deals @Damage[11d8[bludgeoning]|options:area-damage] damage in a @Template[type:cone|distance:40] (@Check[reflex|dc:33|basic] save). He can't use Avalanche Breath again for [[/gmr 1d4 #Recharge Avalanche Breath]]{1d4 rounds}.</p>"
+          }
+        },
+        "oIGArcTy5v4hSbt2": {
+          "_id": "oIGArcTy5v4hSbt2",
+          "name": {
+            "translate": "",
+            "original": "Burrowing Pounce"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> Zikritrax is burrowed</p><hr /><p><strong>Effect</strong> Zikritrax Burrows, then Leaps out of the ground, landing at a point within 25 feet. Zikritrax makes a melee Strike against a creature within reach when he lands. If the Strike is a critical hit, the target is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>"
+          }
+        },
+        "HCxDD7AHLDXLnBaG": {
+          "_id": "HCxDD7AHLDXLnBaG",
+          "name": {
+            "translate": "",
+            "original": "Draconic Frenzy"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Zikritrax makes two claw Strikes and one tail Strike in any order.</p>"
+          }
+        },
+        "EkcaWZenNTH0adjS": {
+          "_id": "EkcaWZenNTH0adjS",
+          "name": {
+            "translate": "",
+            "original": "Draconic Momentum"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Zikritrax recharges his Avalanche Breath whenever he scores a critical hit with a Strike.</p>"
+          }
+        },
+        "GxvACJ69DbxdcfgE": {
+          "_id": "GxvACJ69DbxdcfgE",
+          "name": {
+            "translate": "",
+            "original": "Rock Tunneler"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Zikritrax can burrow through solid stone at a Speed of 20 feet. He can leave a tunnel if he desires, but he usually doesn't.</p>"
+          }
+        },
+        "uFP1Yw0V53Uii1mE": {
+          "_id": "uFP1Yw0V53Uii1mE",
+          "name": {
+            "translate": "",
+            "original": "Swallow Whole"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Large, @Damage[(3d12+7)[bludgeoning]], Rupture 29</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+          }
+        },
+        "2iyCQPtD05LBG8Gz": {
+          "_id": "2iyCQPtD05LBG8Gz",
+          "name": {
+            "translate": "",
+            "original": "Throw Rock"
+          }
+        },
+        "l6aNI0UsY2Dhl3kx": {
+          "_id": "l6aNI0UsY2Dhl3kx",
+          "name": {
+            "translate": "",
+            "original": "Grab"
+          }
+        },
+        "U7XnR0V6Ep934osJ": {
+          "_id": "U7XnR0V6Ep934osJ",
+          "name": {
+            "translate": "",
+            "original": "Knockdown"
+          }
+        },
+        "1PCNYN0NvuAibolT": {
+          "_id": "1PCNYN0NvuAibolT",
+          "name": {
+            "translate": "",
+            "original": "Mining Lore"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-13",
+          "rarity-unique",
+          "type-npc",
+          "npc-dragon"
+        ]
+      }
+    },
+    "Dinner at Lionlodge": {
+      "_id": "6Jnb3oCeOQWO3YL7",
+      "name": {
+        "translate": "",
+        "original": "Dinner at Lionlodge"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "Mark of the Mantis": {
+      "_id": "Bc1zApWx9QaTy6bg",
+      "name": {
+        "translate": "",
+        "original": "Mark of the Mantis"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "Sundered Waves": {
+      "_id": "bY4L8AfAddLq0xf3",
+      "name": {
+        "translate": "",
+        "original": "Sundered Waves"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "The Scourge of Sheerleaf": {
+      "_id": "3h06Halkdn06mSXI",
+      "name": {
+        "translate": "",
+        "original": "The Scourge of Sheerleaf"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "A Few Flowers More": {
+      "_id": "mvK7UGl6kewNeK8z",
+      "name": {
+        "translate": "",
+        "original": "A Few Flowers More"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "A Fistful of Flowers": {
+      "_id": "bDeT2pksQyGN5uDr",
+      "name": {
+        "translate": "",
+        "original": "A Fistful of Flowers"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "Little Trouble in Big Absalom": {
+      "_id": "eFFCX7lsxQbbusaA",
+      "name": {
+        "translate": "",
+        "original": "Little Trouble in Big Absalom"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    },
+    "The Great Toy Heist": {
+      "_id": "rIGaXwiTfJTBblsZ",
+      "name": {
+        "translate": "",
+        "original": "The Great Toy Heist"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-actor"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "hazard-cold",
+    "hazard-environmental",
+    "hazard-magical",
+    "hazard-mechanical",
+    "level-1",
+    "level-13",
+    "level-2",
+    "level-3",
+    "level-4",
+    "level-5",
+    "level-6",
+    "level-7",
+    "level-8",
+    "level-9",
+    "level-unknown",
+    "npc-aberration",
+    "npc-animal",
+    "npc-chaotic",
+    "npc-construct",
+    "npc-devil",
+    "npc-div",
+    "npc-dragon",
+    "npc-dwarf",
+    "npc-evil",
+    "npc-human",
+    "npc-leshy",
+    "rarity-common",
+    "rarity-rare",
+    "rarity-uncommon",
+    "rarity-unique",
+    "rarity-unknown",
+    "type-actor",
+    "type-hazard",
+    "type-npc"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.one-shot-bestiary",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Actor",
+    "fileMode": "created-new",
+    "processedAt": "2026-05-18T11:22:35.572Z",
+    "documents": 33,
+    "existingEntriesUpdated": 0,
+    "missingEntriesAdded": 33,
+    "missingFieldsAdded": 0,
+    "wrappedStrings": 0,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}

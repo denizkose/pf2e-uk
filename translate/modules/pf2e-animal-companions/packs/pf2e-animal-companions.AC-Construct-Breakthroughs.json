@@ -1,0 +1,372 @@
+{
+  "entries": {
+    "Accelerated Mobility": {
+      "_id": "CxT9zcqn7LV2eMHZ",
+      "name": {
+        "translate": "Прискорена мобільність",
+        "original": "Accelerated Mobility"
+      },
+      "description": {
+        "translate": "<p>Привідні ноги, ефективні шестерні у колесах або гусеницях, або додаткові прискорювачі роблять ваш конструкт швидшим. Швидкість вашої інновації збільшується до 40 футів.</p>",
+        "original": "<p>Actuated legs, efficient gears in the wheels or treads, or add-on boosters make your construct faster. Your innovation's Speed increases to 40 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Advanced Weaponry": {
+      "_id": "djv1KiWWTOajTsCk",
+      "name": {
+        "translate": "Розвинена зброя",
+        "original": "Advanced Weaponry"
+      },
+      "description": {
+        "translate": "<p>Ви посилили зброю вашого конструкта. Оберіть одну з беззбройних атак вашого конструкта, щоб отримати одну початкову модифікацію зброї на ваш вибір, обрану зі списку на сторінці 18 або з інших початкових модифікацій зброї, до яких ви маєте доступ. Беззбройна атака має відповідати будь-яким вимогам для обраних рис (наприклад, бути ближньою атакою для форми, що заплутує), і оскільки це беззбройна атака, вона ніколи не може відповідати певним вимогам, таким як бути простою зброєю для складної простоти.</p>\n<p><em>Примітка: Модифікації зброї наразі відсутні в цьому модулі або системі, елементи правил удару на відповідній особливості можна змінити для застосування модифікацій.</em></p>",
+        "original": "<p>You've powered up your construct's weaponry. Choose one of your construct's unarmed attacks to gain your choice of one initial weapon modification, chosen from the list on page 18 or from other initial weapon modifications to which you have access. The unarmed attack must meet any requirements for the chosen traits (such as being a melee attack for entangling form), and since it's an unarmed attack, it can never meet certain requirements, such as being a simple weapon for complex simplicity.</p>\n<p><em>Note: Weapon Modifications are not in this module or the system currently, the strike rule elements on the appropriate feature can be modified to apply the modifications.</em></p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Amphibious Construct": {
+      "_id": "O6kII65D6nqbbHtO",
+      "name": {
+        "translate": "Амфібійний конструкт",
+        "original": "Amphibious Construct"
+      },
+      "description": {
+        "translate": "<p>Підвищена плавучість, керма та засіб руху, як хвіст з лопатями або потужний пропелер, дозволяють вашому конструкту пересуватися у воді. Ваша інновація отримує швидкість плавання 25 футів.</p>",
+        "original": "<p>Increased buoyancy, rudders, and a means of propulsion like a fluked tail or powerful propeller make your construct able to travel in water. Your innovation gains a swim Speed of 25 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Antimagic Construction": {
+      "_id": "cYu2Rf6SiyAhtsr2",
+      "name": {
+        "translate": "Антимагічна конструкція",
+        "original": "Antimagic Construction"
+      },
+      "description": {
+        "translate": "<p>Чи то ви використали хитру адаптацію магічно-негативного небесного металу, відомого як ноквал, чи створили магічний захист власного винаходу, ви зробили вашу інновацію дуже стійкою до заклять. Ваша інновація конструкта отримує бонус обставин +2 до всіх спасбросків і КЗ проти заклять.</p>",
+        "original": "<p>Whether you used some clever adaptation of the magic-negating skymetal known as noqual or created magical protections entirely of your own devising, you've made your innovation highly resilient to spells. Your construct innovation gains a +2 circumstance bonus to all saving throws and AC against spells.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Climbing Limbs": {
+      "_id": "Jl0HsbQh05ajHZAh",
+      "name": {
+        "translate": "Лазячі кінцівки",
+        "original": "Climbing Limbs"
+      },
+      "description": {
+        "translate": "<p>З кінцівками, що можуть чіплятися кігтями або створювати присмоктування, ваш конструкт стає вправним лазачем. Ваша інновація отримує швидкість лазіння, що дорівнює половині її швидкості пересування по землі.</p>",
+        "original": "<p>With appendages that can claw or create suction, your construct becomes a capable climber. Your innovation gains a climb Speed equal to half its land Speed.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Durable Construction": {
+      "_id": "gL9ywotxNnoP1rOp",
+      "name": {
+        "translate": "Міцна конструкція",
+        "original": "Durable Construction"
+      },
+      "description": {
+        "translate": "<p>Ваша інновація міцно збудована; вона може витримати значні пошкодження перед знищенням. Збільшіть її максимальні ХП на ваш рівень.</p>",
+        "original": "<p>Your innovation is solidly built; it can take significant punishment before being destroyed. Increase its maximum HP by your level.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Flight Chassis": {
+      "_id": "CugdA3rsjW1hWt9O",
+      "name": {
+        "translate": "Літальний шасі",
+        "original": "Flight Chassis"
+      },
+      "description": {
+        "translate": "<p>Ви обладнали ваш конструкт засобом польоту, наприклад, додали ротори або перебудували його з крилами та легкою конструкцією. Ваша інновація отримує швидкість польоту 25 футів.</p>",
+        "original": "<p>You fit your construct with a means of flight, such as adding rotors or rebuilding it with wings and a lightweight construction. Your innovation gains a fly Speed of 25 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Increased Size": {
+      "_id": "lg4K3gO0VtIawWq0",
+      "name": {
+        "translate": "Збільшений розмір",
+        "original": "Increased Size"
+      },
+      "description": {
+        "translate": "<p>Ви створили вашу інновацію конструкта більшою за більшість. Ваш конструкт має розмір Великий. Якщо у вас є ця модифікація і ваша інновація конструкта стає просунутим компаньйоном конструкта або іншим чином отримує здатність ставати Великим, ви можете негайно замінити збільшений розмір на іншу початкову модифікацію конструкта.</p>",
+        "original": "<p>You built your construct innovation bigger than most. Your construct is Large. If you have this modification and your construct innovation becomes an advanced construct companion or otherwise gains the ability to become Large, you can immediately change increased size to a different initial construct modification.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Manual Dexterity": {
+      "_id": "A3UROfr7qu1iWNKy",
+      "name": {
+        "translate": "Ручна спритність",
+        "original": "Manual Dexterity"
+      },
+      "description": {
+        "translate": "<p>Ваша інновація конструкта має артикуляційні руки або подібні кінцівки з значною ручною спритністю. Вона може виконувати дії маніпулювання до двома своїми кінцівками. Як і зазвичай для компаньйона, вона все ще не може володіти зброєю або триманими предметами, які не мають рис компаньйона, і не може активувати предмети.</p>",
+        "original": "<p>Your construct innovation has articulated hands or similar appendages with significant manual dexterity. It can perform manipulate actions with up to two of its limbs. As normal for a companion, it still can't wield weapons or held items that don't have the companion trait, and it can't activate items.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Marvelous Gears": {
+      "_id": "BR7Bu48ijB4Jzgci",
+      "name": {
+        "translate": "Дивовижні шестерні",
+        "original": "Marvelous Gears"
+      },
+      "description": {
+        "translate": "<p>Ваша інновація отримує експертну майстерність у Залякуванні, Схованці та Виживанні. Для будь-яких із цих навичок, у яких вона вже була експертом (наприклад, через те, що є просунутим компаньйоном конструкта), вона отримує майстерну майстерність замість цього. Якщо у вас є класова особливість революційної інновації, ці майстерності покращуються до майстерної або легендарної, якщо ваша інновація конструкта вже була експертом. Ви повинні мати модифікацію дивовижних шестерень, щоб обрати цю модифікацію.</p>",
+        "original": "<p>Your innovation gains expert proficiency in Intimidation, Stealth, and Survival. For any of these skills in which it was already an expert (because of being an advanced construct companion, for example), it gains master proficiency instead. If you have the revolutionary innovation class feature, these proficiencies improve to master, or legendary if your construct innovation was already an expert. You must have the wonder gears modification to select this modification.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Miracle Gears": {
+      "_id": "qRnfaGuJ1k0Agm35",
+      "name": {
+        "translate": "Чудодійні шестерні",
+        "original": "Miracle Gears"
+      },
+      "description": {
+        "translate": "<p>У міру вдосконалення кори вашої інновації вона стає значно розумнішою. Модифікатор Інтелекту збільшується на 2, і вона вивчає мову на ваш вибір із мов, які ви знаєте. Ваш конструкт отримує здатність використовувати дії, що вимагають вищого Інтелекту, як-от @Compendium[pf2e.actionspf2e.Coerce]{Coerce} та @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Decipher Writing}. Нарешті, ваш конструкт стає легендарним у двох навичках на основі Інтелекту або Харизми на ваш вибір. Ви повинні мати модифікацію дивовижних шестерень, щоб обрати цю модифікацію.</p>",
+        "original": "<p>As you perfect your innovation's cortex, it becomes much more intelligent. Its Intelligence modifier increases by 2, and it learns a language of your choice from among the languages you know. Your construct gains the ability to use actions that require greater Intelligence, like @Compendium[pf2e.actionspf2e.Coerce]{Coerce} and @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Decipher Writing}. Finally, your construct becomes legendary in two Intelligence- or Charisma-based skills of your choice. You must have the marvelous gears modification to select this modification.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Projectile Launcher": {
+      "_id": "zo6B3JGQIt99K1HF",
+      "name": {
+        "translate": "Запуск проєктилів",
+        "original": "Projectile Launcher"
+      },
+      "description": {
+        "translate": "<p>Ваш конструкт має встановлений запуск стріл, вбудовану гармату або подібне озброєння. Ваша інновація отримує дистанційну беззбройну атаку, що завдає 1d4 дроблячого або колючого ушкодження (ви обираєте при виборі цієї модифікації). Атака має рису руху і дальність 30 футів.</p>",
+        "original": "<p>Your construct has a mounted dart launcher, embedded cannon, or similar armament. Your innovation gains a ranged unarmed attack that deals 1d4 bludgeoning or piercing damage (you choose when you pick this modification). The attack has the propulsive trait and a range increment of 30 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Resistant Coating": {
+      "_id": "phxQm79wotHHIGUg",
+      "name": {
+        "translate": "Стійке покриття",
+        "original": "Resistant Coating"
+      },
+      "description": {
+        "translate": "<p>Вашу інновацію важко пошкодити будь-якими засобами. Вона отримує стійкість 5 до всіх ушкоджень (крім адамантину).</p>",
+        "original": "<p>Your innovation is hard to damage by any means. It gains resistance 5 to all damage (except adamantine).</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Runic Keystone": {
+      "_id": "1mE83uSucJZS4FB9",
+      "name": {
+        "translate": "Рунний камінь",
+        "original": "Runic Keystone"
+      },
+      "description": {
+        "translate": "<p>Ви вбудували у вашу інновацію пристрій, схожий на руно-камінь, що дозволяє їй утримувати властивість руни, хоча вона не є зброєю чи обладунком. Властивість руни обладунку впливає на вашу інновацію, якщо вона вплинула б на носія обладунку. Властивість руни зброї надає властивості, які вона зазвичай надає зброї, беззбройним атакам вашої інновації, дотримуючись усіх вимог як зазвичай (наприклад, руна ворпала застосовується лише до рубаючих ближніх беззбройних атак); якщо руна впливає лише на дистанційні атаки, вона не має ефекту, якщо ваша інновація не має вбудованої дистанційної атаки (наприклад, від модифікації запуску проєктилів). Якщо руна впливає на фізичну форму або зовнішній вигляд зброї чи обладунку, як глемер, руна не має ефекту, коли її витравлено у вашому конструкті.</p>\n<p><em>Примітка: Автоматизація відсутня до завершення покращень системи рун.</em></p>",
+        "original": "<p>You've incorporated a device similar to a runestone into your innovation, allowing it to hold a property rune, even though it isn't a weapon or suit of armor. An armor property rune affects your innovation itself if it would affect the wearer of the armor. A weapon property rune grants whatever properties it would normally grant to a weapon to your innovation's unarmed attacks, following all the requirements as normal (for instance, a vorpal rune would only apply to slashing melee unarmed attacks); if the rune affects only ranged attacks, it has no effect unless your innovation has a built-in ranged attack (from the projectile launcher initial modification, for example). If the rune would affect the physical shape or appearance of the weapon or armor itself, like glamered, the rune has no effect when etched into your construct.</p>\n<p><em>Note: This is left without automation until system rune improvements are completed.</em></p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Sensory Array": {
+      "_id": "owiurEqGXM726Iwd",
+      "name": {
+        "translate": "Сенсорний масив",
+        "original": "Sensory Array"
+      },
+      "description": {
+        "translate": "<p>Додаткові сенсорні пристрої надають вашій інновації здатність бачити в сутінках і темряві, а також неточне відчуття тремтіння на відстані до 30 футів.</p>",
+        "original": "<p>Additional sensory devices give your innovation low-light vision and darkvision, as well as imprecise tremorsense out to a range of 30 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Turret Configuration": {
+      "_id": "3Q7nASFamnMm7cBz",
+      "name": {
+        "translate": "Конфігурація турелі",
+        "original": "Turret Configuration"
+      },
+      "description": {
+        "translate": "<p>Ваша інновація може трансформуватися з мобільного конструкта у стаціонарну турель. Ваш компаньйон-конструкт може трансформуватися за одну дію, що має рису маніпулювання, перетворюючись на турель у своєму просторі (або повертаючись з турелі у звичайну конфігурацію). Поки він є туреллю, ваша інновація є @Compendium[pf2e.conditionitems.Immobilized]{Immobilized}, але кубик ушкоджень від запуску проєктилів збільшується до 1d6, а дальність до 60 футів. Ви повинні мати модифікацію запуску проєктилів, щоб обрати цю модифікацію.</p>\n<p><em>Примітка: Якщо ви перейменували прорив Запуск проєктилів, вам потрібно змінити селектор елементів правил на цю нову назву.</em></p>",
+        "original": "<p>Your innovation can transform from a mobile construct to a stationary turret. Your construct companion can transform as a single action, which has the manipulate trait, turning into a turret in its space (or transforming back from a turret into its normal configuration). While it's a turret, your innovation is @Compendium[pf2e.conditionitems.Immobilized]{Immobilized}, but the damage die from its projectile launcher increases to 1d6 and the range increment increases to 60 feet. You must have the projectile launcher modification to select this modification.</p>\n<p><em>Note: If you renamed the Projectile Launcher breakthrough you will need to modify the rule element selector on this to the new name.</em></p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Wall Configuration": {
+      "_id": "TS2DXi5f4y7wtED5",
+      "name": {
+        "translate": "Конфігурація стіни",
+        "original": "Wall Configuration"
+      },
+      "description": {
+        "translate": "<p>Ваша інновація може трансформуватися з мобільного конструкта у стаціонарне бойове укріплення. Вона може розгортатися як дія з 2 кроків, що має рису маніпулювання, змінюючись зі звичайної форми у тонку, пряму стіну з металу та шестерень висотою до 10 футів і довжиною до 30 футів. Стіна має проходити через початковий простір вашої інновації. Поки ваш конструкт є стіною, він не може виконувати жодних дій, окрім використання тієї ж дії для повернення у звичайну форму, і він не може легко захищатися, стаючи @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard} і отримуючи додатковий статусний штраф -2 до КЗ. Стіна блокує лінію зору та ефект, якщо у вашої інновації більше половини максимальних ХП; якщо ж ХП половина або менше, у стіні з’являються отвори, через які істоти можуть бачити і атакувати з укриттям, а дрібні істоти можуть прослизати крізь неї.</p>",
+        "original": "<p>Your innovation can transform from a mobile construct to a stationary battlefield emplacement. It can unfold as a 2-action activity that has the manipulate trait, changing from its usual form into a thin, straight wall of metal and gears up to 10 feet tall and 30 feet long. The wall must extend through your innovation's original space. While your construct is a wall, it can't take any actions except to use the same activity to transform back, and it can't defend itself easily, making it @Compendium[pf2e.conditionitems.Off-Guard]{Off-Guard} and giving it an additional -2 status penalty to its AC. The wall blocks line of sight and effect unless your innovation has half its maximum HP or fewer, at which point holes in the wall allow creatures to see through and attack with cover, and Tiny creatures to slip through.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Wonder Gears": {
+      "_id": "Z2GWP5gsbS1SsP1W",
+      "name": {
+        "translate": "Дивовижні шестерні",
+        "original": "Wonder Gears"
+      },
+      "description": {
+        "translate": "<p>Ви заклали спеціалізовані навички у примітивний інтелект вашої інновації. Ваша інновація стає навченим у Залякуванні, Схованці та Виживанні.</p>",
+        "original": "<p>You map specialized skills into your construct's crude intelligence. Your innovation becomes trained in Intimidation, Stealth, and Survival.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "feat-classfeature",
+    "level-1",
+    "level-15",
+    "level-7",
+    "rarity-common",
+    "type-feat"
+  ]
+}

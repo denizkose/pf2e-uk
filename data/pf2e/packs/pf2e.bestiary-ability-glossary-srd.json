@@ -1,0 +1,235 @@
+{
+  "entries": {
+    "+1 Status to All Saves vs. Magic": {
+      "_id": "kquBnQ0kObZztnBc",
+      "name": "+1 статус до всіх спас-бросків проти магії"
+    },
+    "All-Around Vision": {
+      "_id": "9qV49KjZujZnSp6w",
+      "name": "Огляд на всі боки"
+    },
+    "Aquatic Ambush": {
+      "_id": "HBrBrUzjfvj2gDXB",
+      "name": "Водяна засідка"
+    },
+    "At-Will Spells": {
+      "_id": "2YRDYVnC1eljaXKK",
+      "name": "Закляття на волі"
+    },
+    "Attack of Opportunity": {
+      "_id": "hFtNbo1LKYCoDy2O",
+      "name": "Атака нагоди"
+    },
+    "Aura": {
+      "_id": "v61oEQaDdcRpaZ9X",
+      "name": "Аура"
+    },
+    "Buck": {
+      "_id": "nZMQh4AaBr291TUf",
+      "name": "Відбій",
+      "description": "<p>@Check[reflex|dc:]</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
+    },
+    "Catch Rock": {
+      "_id": "uG0Z8PsyZtsYuvGR",
+      "name": "Ловити камінь"
+    },
+    "Change Formation": {
+      "_id": "USyDPcSdzcm024zT",
+      "name": "Зміна формації"
+    },
+    "Change Shape": {
+      "_id": "eQM5hQ1W3d1uen97",
+      "name": "Зміна форми"
+    },
+    "Constant Spells": {
+      "_id": "kakyXBG5WA8c6Zfd",
+      "name": "Постійні закляття"
+    },
+    "Constrict": {
+      "_id": "g26YiEIfSHCpLocV",
+      "name": "Стискання",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+    },
+    "Coven": {
+      "_id": "52CdldlWMiVTZk1F",
+      "name": "Ковен"
+    },
+    "Darkvision": {
+      "_id": "qCCLZhnp2HhP3Ex6",
+      "name": "Темновидіння"
+    },
+    "Disease": {
+      "_id": "Z025dWgZtawbuRLI",
+      "name": "Хвороба"
+    },
+    "Engulf": {
+      "_id": "zU3Ovaet4xQ5Gmvy",
+      "name": "Поглинання",
+      "description": "<p>@Check[reflex|dc:], @Damage[(0)[damageType]] ушкодження, [[/act escape dc=0]], Розрив [0]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+    },
+    "Fast Healing": {
+      "_id": "fJSNOw4zHGbIm4bZ",
+      "name": "Швидке зцілення"
+    },
+    "Ferocity": {
+      "_id": "N1kstYbHScxgUQtN",
+      "name": "Лють"
+    },
+    "Form Up": {
+      "_id": "OvqohW9YuahnFaiX",
+      "name": "Вишикування"
+    },
+    "Frightful Presence": {
+      "_id": "etMnv73EIdEZrYYu",
+      "name": "Страшна присутність",
+      "description": "<p>0 футів. @Check[will|dc:|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+    },
+    "Grab": {
+      "_id": "Tkd8sH4pwFIPzqTr",
+      "name": "Хватка"
+    },
+    "Greater Constrict": {
+      "_id": "OmV6E3aELvq9CkK1",
+      "name": "Сильніше стискання",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+    },
+    "Greater Darkvision": {
+      "_id": "4Ho2xMPEC05aSxzr",
+      "name": "Покращене темновидіння"
+    },
+    "Improved Grab": {
+      "_id": "i18TlebMzwONyPhI",
+      "name": "Покращена хватка"
+    },
+    "Improved Knockdown": {
+      "_id": "LbnsT8yXchHMQT3t",
+      "name": "Покращене збивання з ніг"
+    },
+    "Improved Push": {
+      "_id": "6l7e7CHQLESlI57U",
+      "name": "Покращене штовхання"
+    },
+    "Knockdown": {
+      "_id": "BCLvAx4Pz4MLa2pu",
+      "name": "Збивання з ніг"
+    },
+    "Lifesense": {
+      "_id": "sebk9XseMCRkDqRg",
+      "name": "Відчуття життя"
+    },
+    "Light Blindness": {
+      "_id": "I0HYG0ctCLP5JRsW",
+      "name": "Світлова сліпота"
+    },
+    "Low-Light Vision": {
+      "_id": "fFu2sZz4KB01fVRc",
+      "name": "Зір у сутінках"
+    },
+    "Master's Eye": {
+      "_id": "1obHWaFiFI1pnC3R",
+      "name": "Око майстра",
+      "description": "<p>Майстер спостерігає світ через очі рактоварни замість власних, використовуючи сприйняття та темновидіння рактоварни. Це триває до кінця наступного ходу майстра, але майстер може підтримувати цю дію.</p>\n<p>Ця здатність працює на будь-якій відстані, навіть на різних планах існування. Якщо рактоварна помирає, поки майстер використовує цю здатність, майстер отримує @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшення 5}.</p>"
+    },
+    "Nimble Dodge": {
+      "_id": "wCnsRCHvtZkZTmO0",
+      "name": "Ловкий ухил",
+      "description": "<p><strong>Тригер</strong> Сутність цілиться в вас атакою, і ви бачите нападника.</p>\n<p><strong>Вимоги</strong> Ви не обтяжені</p>\n<hr />\n<p>Ви спритно ухиляєтеся, отримуючи +2 обставинний бонус до КЗ проти тригерної атаки.</p>"
+    },
+    "Poison": {
+      "_id": "kFv54DisTfCMTBEY",
+      "name": "Отрута"
+    },
+    "Power Attack": {
+      "_id": "0B39GdScyZMPWalX",
+      "name": "Сильна атака"
+    },
+    "Pull": {
+      "_id": "BYF0XL1ZtdkRda3u",
+      "name": "Тягнути"
+    },
+    "Push": {
+      "_id": "t6cx9FOODmeZQNYl",
+      "name": "Штовхати"
+    },
+    "Reactive Strike": {
+      "_id": "W7SbTykXrNwxDzJc",
+      "name": "Реактивний удар"
+    },
+    "Regeneration": {
+      "_id": "lR9R5Vld8Eu2Dha5",
+      "name": "Регенерація"
+    },
+    "Rend": {
+      "_id": "3JOi2cMcGhT3eze1",
+      "name": "Роздирання"
+    },
+    "Retributive Strike": {
+      "_id": "IQtb58p4EaeUzTN1",
+      "name": "Відплатний удар"
+    },
+    "Scent": {
+      "_id": "rqfnQ5VHT5hxm25r",
+      "name": "Нюх"
+    },
+    "Shield Block": {
+      "_id": "m4HQ2o5aPxjXf2kY",
+      "name": "Блок щитом"
+    },
+    "Sneak Attack": {
+      "_id": "AWvNPE4U0kEJSL1T",
+      "name": "Удар у спину",
+      "description": "<p>Удари істоти завдають додаткові 1d6 точних ушкоджень @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{непідготовленим} істотам.</p>"
+    },
+    "Stench": {
+      "_id": "PqGX4Dgy9siZJitH",
+      "name": "Смердючість",
+      "description": "<p>0 футів. @Check[fortitude|dc:|options:area-effect,inflicts:sickened,inflicts:slowed]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Stench]</p>"
+    },
+    "Swallow Whole": {
+      "_id": "uJSseLa57HZYSMUu",
+      "name": "Поглинання цілком",
+      "description": "<p>[Вказаний розмір], @Damage[(0)[bludgeoning]], Розрив [0]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+    },
+    "Swarm Mind": {
+      "_id": "baA0nSMhQyFyJIia",
+      "name": "Рійовий розум"
+    },
+    "Telepathy": {
+      "_id": "kdhbPaBMK1d1fpbA",
+      "name": "Телепатія"
+    },
+    "Thoughtsense": {
+      "_id": "JcaIJLGGmst79f1Y",
+      "name": "Відчуття думок"
+    },
+    "Throw Rock": {
+      "_id": "a0tx6exmB9v9CUsj",
+      "name": "Кидок каменя"
+    },
+    "Trample": {
+      "_id": "UNah0bxXxkcZjxO3",
+      "name": "Таран",
+      "description": "<p>[Розмір], [Вказаний удар], @Check[reflex|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+    },
+    "Tremorsense": {
+      "_id": "j2wsK6IsW5yMW1jW",
+      "name": "Відчуття тремтіння"
+    },
+    "Troop Defenses": {
+      "_id": "EawOw47nHueUPnYc",
+      "name": "Захист загону"
+    },
+    "Troop Movement": {
+      "_id": "MXI6zwrvbQNIv7ji",
+      "name": "Рух загону"
+    },
+    "Void Healing": {
+      "_id": "TTCw5NusiSSkJU1x",
+      "name": "Порожнє зцілення"
+    },
+    "Wavesense": {
+      "_id": "VdSMQ6yRZ3YXNXHL",
+      "name": "Відчуття хвиль"
+    }
+  }
+}

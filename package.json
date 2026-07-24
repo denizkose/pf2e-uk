@@ -1,0 +1,27 @@
+{
+  "name": "pf2e-uk",
+  "version": "0.3.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
+    "build:prepare": "npm run test && npm run build:verify-uuid && npm run build:data && npm run build:verify && npm run build:archive",
+    "build:data": "node ./build/build.js",
+    "build:verify-uuid": "node ./build/verify-uuid-links.js",
+    "build:verify": "node ./build/verify-project.js",
+    "build:archive": "node ./build/archive.js",
+    "build:report": "node ./build/generate-translation-report.js",
+    "version": "node ./build/sync-version.js",
+    "version:sync": "node ./build/sync-version.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolasTS/pf2e-uk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "archiver": "^7.0.1",
+    "jest": "^30.4.0"
+  }
+}

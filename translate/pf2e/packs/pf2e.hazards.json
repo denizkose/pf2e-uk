@@ -1,0 +1,2694 @@
+{
+  "entries": {
+    "Armageddon Orb": {
+      "_id": "BsZ6o2YrwVovKfNh",
+      "name": {
+        "translate": "Куля Армагеддону",
+        "original": "Armageddon Orb"
+      },
+      "description": {
+        "translate": "<p>Бурляча червона куля, створена з краплі крові бога Роваґуга, зливає вогонь з неба, коли виконується певна умова.</p>",
+        "original": "<p>A roiling red orb, forged from a drop of the god Rovagug's blood, rains fire from the sky when a specified condition is met.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:48|name:Imbue Thieves' Tools|traits:action:disable-a-device] (легендарний) щоб наділити набір злодія аспектами, що уособлюють Асмодея та Саренрае, і використати їх для виснаження сили кулі протягом 10 хвилин; персонаж, що намагається цей перевірку, отримує @Damage[5[fire]] ушкоджень кожен раунд, доки куля не буде виснажена</p>",
+        "original": "<p>@Check[thievery|dc:48|name:Imbue Thieves' Tools|traits:action:disable-a-device] (legendary) to imbue a thieves' toolkit with aspects representing Asmodeus and Sarenrae and use them to drain away the orb's power over 10 minutes; the character attempting this check takes @Damage[5[fire]] damage each round until the orb is depleted</p>"
+      },
+      "stealth": {
+        "translate": "або <em>виявлення магії</em>",
+        "original": "or <em>detect magic</em>"
+      },
+      "items": {
+        "KaYeYfefttO5X9OF": {
+          "_id": "KaYeYfefttO5X9OF",
+          "name": {
+            "translate": "Спалити Все",
+            "original": "Burn It All"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Особлива умова, встановлена творцем пастки, зазвичай подія їхньої смерті.</p>\n<hr />\n<p><strong>Ефект</strong> Вогонь зливається з неба в радіусі 100 миль, завдаючи @Damage[10d6[fire]] ушкоджень істотам і об’єктам у зоні. Кожна істота або об’єкт може спробувати зробити спас-кидок @Check[reflex|dc:46|basic]. Будь-яка істота, зведена до 0 очок життя цим ушкодженням, миттєво вмирає. Це не достатньо ушкоджень, щоб повністю спалити ліс або зрівняти з землею гору чи місто, але зазвичай вбиває більшість істот у зоні.</p>",
+            "original": "<p><strong>Trigger</strong> A special condition set by the trap's creator occurs, typically the event of their death.</p>\n<hr />\n<p><strong>Effect</strong> Fire rains from the sky in a 100-mile radius, dealing @Damage[10d6[fire]] damage to creatures and objects in the area. Each creature or object can attempt a @Check[reflex|dc:46|basic] save. Any creature reduced to 0 Hit Points by this damage dies instantly. This is not enough damage to completely burn away a forest or level an entire mountain or city, but it typically kills most creatures in the area.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-23",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Banshee's Symphony": {
+      "_id": "mMXHyWdmmAN0GPvG",
+      "name": {
+        "translate": "Симфонія Банші",
+        "original": "Banshee's Symphony"
+      },
+      "description": {
+        "translate": "<p>Магічно заразливий <em>вопль банші</em> ув’язнений у гортані невидимого муміфікованого ельфа.</p>",
+        "original": "<p>A magically contagious <em>wail of the banshee</em> spell is trapped in the larynx of an invisible, mummified elf.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:42|name:Pierce Larynx|traits:action:disable-a-device] (майстер) щоб так точно пробити невидиму гортань, що магія вивільниться краплями до активації пастки, @Check[thievery|dc:44|name:Deconstruct Larynx|traits:action:disable-a-device] (легендарний) тричі, щоб розібрати гортань під час активації пастки так, щоб розірвати закляття, або закляття DC 38 (9 рівень) щоб протидіяти <em>воплю банші</em> до активації пастки</p>",
+        "original": "<p>@Check[thievery|dc:42|name:Pierce Larynx|traits:action:disable-a-device] (master) to pierce the invisible larynx so precisely that the magic releases in a trickle before the trap activates, @Check[thievery|dc:44|name:Deconstruct Larynx|traits:action:disable-a-device] (legendary) three times to deconstruct the larynx while the trap is active in such a way that it tears the spell apart, or spell DC 38 (9th level) to counteract the <em>wail of the banshee</em> before the trap activates</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка завершується, коли вона не може змусити істоту кричати (зазвичай тому, що жодна істота не провалила спас-кидок у попередньому ході або всі істоти критично вдало пройшли його раніше). Потім вона скидається протягом 24 годин, поки в муміфікованій гортані не накопичиться новий крик.</p>",
+        "original": "<p>The trap ends when the trap is unable to make a creature scream (usually because no creature failed its save on the previous turn or because all creatures have critically succeeded in the past). It then resets over 24 hours, as a new scream builds up in the mummified larynx.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія) Пастка використовує свою дію, щоб змусити одну випадкову істоту, яка провалила спас-кидок проти <em>воплю банші</em> минулого ходу, видати <em>вопль банші</em> з тими ж характеристиками, що й початковий. Істота кричить навіть якщо вона мертва або не може говорити, незалежно від відстані від пастки. На відміну від накладання закляття, стан виснаження від цього <em>воплю банші</em> пастки збільшує значення стану виснаження цілей. Істота, що критично вдало пройшла будь-який зі своїх спас-кидків, все ще може бути уражена пасткою в майбутніх раундах, але не може бути змушена кричати пасткою.</p>",
+        "original": "<p>(1 action) The trap uses its action to force one random creature that failed its save against <em>wail of the banshee</em> last turn to emit a <em>wail of the banshee</em> with the same statistics as the initial one. The creature wails even if it is dead or unable to speak, no matter how far away from the trap it is. Unlike a casting of the spell, the drained condition from this trap's <em>wail of the banshee</em> spells increases the targets' drained condition values. A creature that critically succeeds at any of its saves can still be affected by the trap on future rounds, but can't be forced to wail by the trap.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(легендарний)</p>",
+        "original": "<p>(legendary)</p>"
+      },
+      "items": {
+        "nqcgUfOiRWy6Kti7": {
+          "_id": "nqcgUfOiRWy6Kti7",
+          "name": {
+            "translate": "Scream",
+            "original": "Scream"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Три або більше живих істот перебувають у межах 100 футів від пастки протягом 6 секунд або довше.</p>\n<hr />\n<p><strong>Ефект</strong> Пастка випускає арканний <em>вопль банші</em> (DC 40) з радіусом дії 100 футів замість 40, спрямований на всі живі істоти в зоні, і кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> Three or more living creatures remain within 100 feet of the trap for 6 seconds or longer.</p>\n<hr />\n<p><strong>Effect</strong> The trap releases an arcane <em>wail of the banshee</em> (DC 40) with a 100-foot-radius emanation instead of 40 feet, targeting all living creatures in the area, and rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-18",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Bloodthirsty Urge": {
+      "_id": "su4TRBOoso4vjkoK",
+      "name": {
+        "translate": "Кровожерливий Порив",
+        "original": "Bloodthirsty Urge"
+      },
+      "description": {
+        "translate": "<p>Об’єкт, що переслідується відлуннями жорстокого розуму, намагається вбити того, хто наближається.</p>",
+        "original": "<p>An object haunted by the echoes of a vicious mind attempts to kill someone who comes near.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[religion|dc:29|name:Exorcise Spirit] (майстер) щоб вигнати духа або @Check[diplomacy|dc:31|name:Talk Down the Spirit] (експерт) щоб вмовити його заспокоїтися</p>",
+        "original": "<p>@Check[religion|dc:29|name:Exorcise Spirit] (master) to exorcise the spirit or @Check[diplomacy|dc:31|name:Talk Down the Spirit] (expert) to talk it down</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "0FpzSygcs7G688GT": {
+          "_id": "0FpzSygcs7G688GT",
+          "name": {
+            "translate": "Quietus",
+            "original": "Quietus"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота наближається в межах 10 футів від об’єкта, що переслідується</p>\n<hr />\n<p><strong>Ефект</strong> Привид захоплює контроль над істотою, змушуючи її атакувати себе. Істота має зробити спас-кидок @Check[will|dc:29].</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Ціль не уражена.</p>\n<p><strong>Успіх</strong> Ціль робить удар по собі і автоматично влучає; ціль також стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканою 1}.</p>\n<p><strong>Невдача</strong> Ціль робить удар по собі і автоматично завдає критичного влучання; ціль також стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканою 2}.</p>\n<p><strong>Критична Невдача</strong> Ціль робить спас-кидок на Стойкість. Якщо ціль вдається, вона піддається ефектам невдачі замість цього. Якщо ціль провалює, вона зводиться до 0 очок життя і вмирає</p>",
+            "original": "<p><strong>Trigger</strong> A creature moves within 10 feet of the haunted object</p>\n<hr />\n<p><strong>Effect</strong> The haunt takes control of the triggering creature, forcing it to attack itself. The creature must attempt a @Check[will|dc:29] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target makes a Strike against itself and automatically hits; the target also becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The target makes a Strike against itself and automatically scores a critical hit; the target also becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Critical Failure</strong> The target attempts a Fortitude save. If the target succeeds, it is subject to the effects of a failure instead. If the target fails, it is reduced to 0 HP and dies</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Bottomless Pit": {
+      "_id": "xkqjwu1ox0pQLOnb",
+      "name": {
+        "translate": "Бездонна Яма",
+        "original": "Bottomless Pit"
+      },
+      "description": {
+        "translate": "<p>Залізна кришка прикриває бездонну яму розміром 10 на 10 футів.</p>",
+        "original": "<p>An iron trapdoor covers an infinitely deep 10-foot-square pit.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:28|name:Remove Trapdoor|traits:action:disable-a-device] (навчений) щоб зняти кришку</p>",
+        "original": "<p>@Check[thievery|dc:28|name:Remove Trapdoor|traits:action:disable-a-device] (trained) to remove the trapdoor</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка все ще змушує істот падати вічно, якщо вони впадуть, але кришку потрібно вручну закрити, щоб пастка знову стала прихованою.</p>",
+        "original": "<p>The trap still causes creatures to fall forever if they fall in, but the trapdoor must be reset manually for the trap to become Hidden again.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(або 0, якщо кришка відключена або зламана) або <em>виявлення магії</em></p>",
+        "original": "<p>(or 0 if the trapdoor is disabled or broken) or <em>detect magic</em></p>"
+      },
+      "items": {
+        "WJtDPJzNrJO19H6k": {
+          "_id": "WJtDPJzNrJO19H6k",
+          "name": {
+            "translate": "Нескінченна Яма",
+            "original": "Infinite Pitfall"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота ступає на кришку</p>\n<hr />\n<p><strong>Ефект</strong> Істота, що активувала пастку, падає і продовжує падати, потенційно вічно. Ця істота може спробувати @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Схопитися за край}, щоб уникнути падіння. DC для лазіння по стінах або схоплення за край — 26. Яма має багато хваток, тому падаюча істота може спробувати схопитися за край кожні 6 секунд. Якщо істота вдається, вона може почати підніматися звідти (хоч це може бути дуже довгий підйом, залежно від того, як далеко вона впала). Оскільки істота падає без кінця, вона може відпочивати і навіть готувати закляття під час падіння, хоча предмети, що випадають під час падіння, зазвичай втрачаються назавжди.</p>",
+            "original": "<p><strong>Trigger</strong> A creature walks onto the trapdoor</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature falls in and continues to fall, potentially forever. That creature can try to @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge} to avoid falling. The DC to Climb the walls or Grab an Edge is 26. The pit contains many handholds, so the falling creature can try to Grab an Edge again every 6 seconds. If the creature succeeds, it can start to Climb out from that point (though it might be a very long climb, depending on how far the creature fell). Since the creature falls endlessly, it can rest and even prepare spells while falling, though items dropped while falling are usually lost forever.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-9",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Brown Mold": {
+      "_id": "Q8bXKgDm8eguqThB",
+      "name": {
+        "translate": "Коричнева Пліснява",
+        "original": "Brown Mold"
+      },
+      "description": {
+        "translate": "<p>Цей непоказний гриб висмоктує тепло з повітря.</p>",
+        "original": "<p>This unassuming fungus leeches heat out of the air.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:18|name:Remove Brown Mold|traits:environmental,fungus] (навчений) щоб безпечно видалити плісняву</p>",
+        "original": "<p>@Check[survival|dc:18|name:Remove Brown Mold|traits:environmental,fungus] (trained) to safely remove the mold</p>"
+      },
+      "reset": {
+        "translate": "<p>Після розростання коричнева пліснява не може знову рости протягом 1 дня.</p>",
+        "original": "<p>After expanding, the brown mold can't grow again for 1 day.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "NcyiM0WihYrncbSF": {
+          "_id": "NcyiM0WihYrncbSF",
+          "name": {
+            "translate": "Виділення Холоду",
+            "original": "Emit Cold"
+          },
+          "description": {
+            "translate": "<p>5 футів. Коричнева пліснява завдає @Damage[2d6[cold]] ушкоджень істотам поруч.</p>",
+            "original": "<p>5 feet. Brown mold deals @Damage[2d6[cold]] damage to nearby creatures.</p>"
+          }
+        },
+        "MQ3CKYIdF6zrMg0x": {
+          "_id": "MQ3CKYIdF6zrMg0x",
+          "name": {
+            "translate": "Висмоктування Тепла",
+            "original": "Leech Warmth"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Вогонь наближається в межах 5 футів від коричневої плісняви.</p>\n<hr />\n<p><strong>Ефект</strong> Коричнева пліснява розростається на всі суміжні клітини. Під час росту вона витягує більше тепла з оточення, завдаючи @Damage[(2d6+6)[cold]] ушкоджень (@Check[fortitude|dc:18|basic] спас-кидок) істотам у межах 10 футів після розростання.</p>",
+            "original": "<p><strong>Trigger</strong> Fire comes within 5 feet of the brown mold.</p>\n<hr />\n<p><strong>Effect</strong> The brown mold expands into every square adjacent to its space. As it grows, it pulls more heat from its surroundings, dealing @Damage[(2d6+6)[cold]] damage (@Check[fortitude|dc:18|basic] save) to creatures within 10 feet after it expands.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Confounding Betrayal": {
+      "_id": "sFaAWmy1szDRmFtk",
+      "name": {
+        "translate": "Заплутуюча Зрада",
+        "original": "Confounding Betrayal"
+      },
+      "description": {
+        "translate": "<p>Союзники здаються такими, що скидають маски і виявляються зловісними монстрами.</p>",
+        "original": "<p>Allies appear to shed their disguises and reveal themselves to be malevolent monsters.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[deception|dc:28|name:Confound the Haunt] (експерт) двічі, щоб заплутати привид власними обманами, або @Check[occultism|dc:28|name:Create a Ward Against Influence] (навчений) двічі, щоб створити захист від ментального впливу привида</p>",
+        "original": "<p>@Check[deception|dc:28|name:Confound the Haunt] (expert) twice to confound the haunt with your own deceptions, or @Check[occultism|dc:28|name:Create a Ward Against Influence] (trained) twice to create a ward against the haunt's mental influence</p>"
+      },
+      "reset": {
+        "translate": "<p>Привид деактивується через 1 хвилину після того, як усі істоти покидають зону, але одразу після цього скидається.</p>",
+        "original": "<p>The haunt deactivates 1 minute after all creatures leave the area but resets immediately thereafter.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія; ілюзія, безпорадність, окультне) Привид продовжує плутати почуття жертв і надихає їх чинити насильство одне проти одного. Кожна істота в зоні привида має зробити спас-кидок @Check[will|dc:26].</p>\n<hr>\n<p><strong>Критичний Успіх</strong> Істота не уражена і тимчасово імунна протягом 1 хвилини.</p>\n<p><strong>Успіх</strong> Істота не уражена.</p>\n<p><strong>Невдача</strong> Істота стає @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Сплутаною} на 1 раунд.</p>\n<p><strong>Критична Невдача</strong> Істота сплутана на 1 хвилину.</p>",
+        "original": "<p>(1 action; illusion, incapacitation, occult) The haunt continues to confound victims' senses and inspire them to commit violence against each other. Each creature in the haunt's area must attempt a @Check[will|dc:26] save.</p>\n<hr>\n<p><strong>Critical Success</strong> The creature is unaffected and temporarily immune for 1 minute.</p>\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 round.</p>\n<p><strong>Critical Failure</strong> The creature is confused for 1 minute.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "QrgnumULVnz8pWfK": {
+          "_id": "QrgnumULVnz8pWfK",
+          "name": {
+            "translate": "Unmask",
+            "original": "Unmask"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Дві або більше істот входять у зону привида</p>\n<hr />\n<p><strong>Ефект</strong> Кожна істота бачить, як форми навколишніх істот змінюються, ніби перетворюючись на демонічних або аберативних істот, що жадають крові. Кожна істота в зоні має зробити спас-кидок @Check[will|dc:30]. Привид кидає ініціативу.</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Істота повністю розпізнає ілюзії і тимчасово імунна до рутини привида протягом 1 хвилини.</p>\n<p><strong>Успіх</strong> Істота не уражена дивними образами.</p>\n<p><strong>Невдача</strong> Істота вірить, що ілюзії справжні; якщо вона стає @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Сплутаною} через рутину привида, вона не може робити прості перевірки, щоб припинити стан сплутаності при отриманні ушкоджень.</p>\n<p><strong>Критична Невдача</strong> Як при невдачі, але істота залишається з підозрою до інших і не може користуватися реакціями допомоги протягом 24 годин.</p>",
+            "original": "<p><strong>Trigger</strong> Two or more creatures enter the haunt's area</p>\n<hr />\n<p><strong>Effect</strong> Each creature sees the forms of nearby creatures shift and change, appearing to transform into fiendish or aberrant beings with a thirst for blood. Each creature in the area must attempt a @Check[will|dc:30] save. The haunt then rolls initiative.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature sees through the illusions entirely and is temporarily immune to the haunt's routine for 1 minute.</p>\n<p><strong>Success</strong> The creature is unaffected by the strange images.</p>\n<p><strong>Failure</strong> The creature believes the illusions to be true; if they become @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} by the haunt's routine, they can't attempt flat checks to end the confused condition when they take damage.</p>\n<p><strong>Critical Failure</strong> As failure, but the creature is left with a lingering suspicion of others and can't benefit from Aid reactions for 24 hours.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Dance Of Death": {
+      "_id": "ZUCGvc2dTJUlM9dC",
+      "name": {
+        "translate": "Танець Смерті",
+        "original": "Dance Of Death"
+      },
+      "description": {
+        "translate": "<p>Моторошний оркестр змушує всіх, хто його чує, танцювати, доки вони не впадуть від виснаження.</p>",
+        "original": "<p>An eerie orchestra compels all who hear it to dance until they collapse from exhaustion.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[intimidation|dc:42|name:Frighten the Orchestra|traits:action:demoralize] (експерт) тричі, щоб налякати танцюристів і примарних музикантів і відмовити їх від участі в смертельному виступі, @Check[performance|dc:40|name:Disrupt Compulsion] (майстер) двічі, щоб створити дисонансну мелодію, що порушує примус, або @Check[religion|dc:42|name:Banish Spirits] (майстер) тричі, щоб вигнати духів молитвами</p>",
+        "original": "<p>@Check[intimidation|dc:42|name:Frighten the Orchestra|traits:action:demoralize] (expert) three times to frighten dancers and spectral musicians alike away from participating in the deadly performance, @Check[performance|dc:40|name:Disrupt Compulsion] (master) twice to produce a tune discordant enough to disrupt the compulsion, or @Check[religion|dc:42|name:Banish Spirits] (master) three times to banish the spirits with prayers</p>"
+      },
+      "reset": {
+        "translate": "<p>Моторошний оркестр проводить годину, налаштовуючи свої фантомні інструменти, після чого готовий знову почати рутину.</p>",
+        "original": "<p>The eerie orchestra spends an hour retuning its phantasmal instruments, after which it is ready to begin its routine again.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія; слухове, безпорадність, ментальне, окультне) Оркестр виконує галасливу мелодію, змушуючи всіх, хто її чує, витрачати дії на танець. Кожен раунд істота має зробити спас-кидок @Check[will|dc:37]; результати цього спас-кидка змінюють кількість дій, які істота має витратити на танець кожного раунду. Якщо це змусить істоту витрачати більше дій на танець, ніж вона може використати за свій хід, істота отримує @Damage[10d6] ушкоджень (або вдвічі більше при критичній невдачі) через надмірне навантаження.</p>\n<hr>\n<p><strong>Критичний Успіх</strong> Істота зменшує кількість дій, які має витратити на танець, на 1.</p>\n<p><strong>Успіх</strong> Без ефекту.</p>\n<p><strong>Невдача</strong> Істота збільшує кількість дій, які має витратити на танець, на 1.</p>\n<p><strong>Критична Невдача</strong> Істота збільшує кількість дій, які має витратити на танець, на 2.</p>",
+        "original": "<p>(1 action; auditory, incapacitation, mental, occult) The orchestra performs a raucous tune, compelling all creatures that can hear it to spend actions dancing. Each round, creature must attempt a @Check[will|dc:37] save; the results of this save modify the number of actions that the creature must spend dancing each round. If this would cause the creature to spend more actions dancing than it can use on its turn, the creature takes @Damage[10d6] damage (or double that on a critical failure) from moving faster than its body can manage.</p>\n<hr>\n<p><strong>Critical Success</strong> The creature decreases the number of actions it must spend dancing by 1.</p>\n<p><strong>Success</strong> No effect.</p>\n<p><strong>Failure</strong> The creature increases the actions it must spend dancing by 1.</p>\n<p><strong>Critical Failure</strong> The creature increases the actions it must spend dancing by 2.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(майстер)</p>",
+        "original": "<p>(master)</p>"
+      },
+      "items": {
+        "Bov9feGVYpn5nmUl": {
+          "_id": "Bov9feGVYpn5nmUl",
+          "name": {
+            "translate": "Prelude",
+            "original": "Prelude"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота наближається в межах 30 футів від оркестру</p>\n<hr />\n<p><strong>Ефект</strong> Оркестр змушує всіх, хто його чує, почати танцювати. Кожна істота має зробити спас-кидок @Check[will|dc:41] з такими ефектами. Привид кидає ініціативу.</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Істота не уражена.</p>\n<p><strong>Успіх</strong> Істота стає @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Несподіваною} і не може використовувати реакції. Крім того, вона має витрачати 1 дію на раунд на танець. Танцювати — це рухова дія, що дозволяє істоті рухатися до половини своєї швидкості.</p>\n<p><strong>Невдача</strong> Як при успіху, але істота має витрачати 2 дії на раунд на танець.</p>\n<p><strong>Критична Невдача</strong> Як при невдачі, але істота має витрачати 3 дії на раунд на танець.</p>",
+            "original": "<p><strong>Trigger</strong> A creature approaches within 30 feet of the orchestra</p>\n<hr />\n<p><strong>Effect</strong> The orchestra compels all creatures that can hear it to begin dancing. Each creature must attempt a @Check[will|dc:41] save, with the following effects. The haunt then rolls initiative.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} and cannot use reactions. Additionally, it must spend 1 of its actions each round dancing. Dancing is a move action that allows the creature to Stride up to half its Speed.</p>\n<p><strong>Failure</strong> As success, except the creature must spend 2 of its actions each round dancing.</p>\n<p><strong>Critical Failure</strong> As failure, except the creature must spend 3 of its actions each round dancing.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-16",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Drowning Pit": {
+      "_id": "OekigjNLNp9XENjx",
+      "name": {
+        "translate": "Яма Утоплення",
+        "original": "Drowning Pit"
+      },
+      "description": {
+        "translate": "<p>Кришка прикриває яму розміром 10 на 10 футів, глибиною 30 футів, з 5 футами води на дні. Чотири водяні сопла у стінах з’єднані з прихованими резервуарами. Кожне сопло виходить з різної стіни, за 6 дюймів від верху ями.</p>",
+        "original": "<p>A trapdoor covers a 10-foot-square pit that's 30 feet deep and has 5 feet of water at the bottom. Four water spouts in the walls connect to hidden water tanks. Each water spout extends out of a different wall, 6 inches from the top of the pit.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:18] (навчений) щоб закупорити кожне сопло, @Check[thievery|dc:22] (навчений) щоб відкрити кришку, або @Check[athletics|dc:22] щоб @UUID[Compendium.pf2e.action-macros.Macro.yMTKMnaYSGtDz4wk]{Відкрити Силою: Атлетика} кришку</p>",
+        "original": "<p>@Check[thievery|dc:18] (trained) to seal each water spout, @Check[thievery|dc:22] (trained) to open the trapdoor, or @Check[athletics|dc:22] to @UUID[Compendium.pf2e.action-macros.Macro.yMTKMnaYSGtDz4wk]{Force Open: Athletics} the trapdoor</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастку можна скинути, якщо кришку вручну закрити і резервуари наповнити; її можна скинути без зливання ями, але це робить пастку менш ефективною.</p>",
+        "original": "<p>The trap can be reset if the door is manually reengaged and the water tanks are refilled; it can be reset without draining the pit, but doing so renders the pit less effective.</p>"
+      },
+      "routine": {
+        "translate": "<p>(4 дії) Пастка втрачає 1 дію кожного ходу за кожне відключене сопло. Під час кожної дії пастки сопло виливає воду, збільшуючи глибину на 5 футів. Коли яма заповнюється водою, пастка припиняє використовувати дії, але істоти в ямі починають тонути.</p>",
+        "original": "<p>(4 actions) The trap loses 1 action each turn for each disabled water spout. On each of the trap's actions, a spout pours water, increasing the depth of the water by 5 feet. Once the pit is full of water, the pit stops using actions, but creatures in the pit begin drowning.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений); @Check[perception|dc:22|traits:action:seek] (експерт) щоб помітити сопла, коли яма відкривається</p>",
+        "original": "<p>(trained); @Check[perception|dc:22|traits:action:seek] (expert) to notice the water spouts once the pit opens</p>"
+      },
+      "hp": {
+        "translate": "Твердість сопла 8, HP сопла 32 (BT 16)",
+        "original": "Spout Hardness 8, Spout HP 32 (BT 16)"
+      },
+      "items": {
+        "iji2yCS44gpqc5p3": {
+          "_id": "iji2yCS44gpqc5p3",
+          "name": {
+            "translate": "Pitfall",
+            "original": "Pitfall"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота ступає на кришку</p>\n<hr />\n<p><strong>Ефект</strong> Істота падає і отримує ушкодження від падіння, зменшені на 5 футів через падіння у воду (зазвичай @Damage[12[bludgeoning]|options:fall-damage] ушкоджень). Істота може @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Схопитися за край}, щоб уникнути падіння. Кришка різко зачиняється, і пастка кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> A creature walks onto the trapdoor</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature falls in and takes damage from the fall, reduced by 5 feet for falling into the water (typically @Damage[12[bludgeoning]|options:fall-damage] damage). A creature can @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge} to avoid falling. The trapdoor then slams shut, and the hazard rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Electric Latch Rune": {
+      "_id": "491qhVbjsHnOuMZW",
+      "name": {
+        "translate": "Руна Електричного Засуву",
+        "original": "Electric Latch Rune"
+      },
+      "description": {
+        "translate": "<p>Невидима руна, нанесена на засув дверей, випускає потужний електричний розряд.</p>",
+        "original": "<p>An invisible rune imprinted on a door latch releases a powerful electric discharge.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:20|name:Scratch Out the Rune|traits:action:disable-a-device] (експерт) щоб зняти руну, не дозволяючи струму протікати, або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розвіювання Магії} (2 ранг; DC 18) щоб протидіяти руні</p>",
+        "original": "<p>@Check[thievery|dc:20|name:Scratch Out the Rune|traits:action:disable-a-device] (expert) to scratch out the rune without allowing electricity to flow, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (2nd rank; counteract DC 18) to counteract the rune</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "FzfgLXTt6R8bYmTP": {
+          "_id": "FzfgLXTt6R8bYmTP",
+          "name": {
+            "translate": "Electrocution",
+            "original": "Electrocution"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота хапає засув дверей безпосередньо або інструментом</p>\n<hr />\n<p><strong>Ефект</strong> Пастка завдає @Damage[3d12[electricity]] ушкоджень істоті, що активувала пастку (@Check[reflex|dc:22|basic] спас-кидок).</p>",
+            "original": "<p><strong>Trigger</strong> A creature grasps the door latch directly or with a tool</p>\n<hr />\n<p><strong>Effect</strong> The trap deals @Damage[3d12[electricity]] damage to the triggering creature (@Check[reflex|dc:22|basic] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-common",
+          "type-hazard",
+          "hazard-electricity"
+        ]
+      }
+    },
+    "Eternal Flame": {
+      "_id": "O0qA1ElCOgYGEBtL",
+      "name": {
+        "translate": "Вічне Полум’я",
+        "original": "Eternal Flame"
+      },
+      "description": {
+        "translate": "<p>Палаюче спектральне пекло виникає з повітря, посилюючи всіх нежиттєвих істот у своїй зоні. Цей привид найчастіше виникає з обгорілих решток трьох людей, які згоріли живцем, чи то внаслідок нещасного випадку, чи навмисної страти, і їхні невідплачені душі палають гнівом.</p>",
+        "original": "<p>A raging spectral inferno arises out of thin air, strengthening all undead creatures within its area. This haunt most often arises from the charred remains of a group of three people who burned to death, whether in a terrible accident or a deliberate execution, and their unavenged souls burn with rage.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[diplomacy|dc:27|name:Calm the Spirit's Rage] (експерт) щоб тимчасово заспокоїти гнів одного з трьох духів, або @Check[religion|dc:30|name:Exorcise Spirit] (навчений) щоб вигнати одного з духів; потрібно три успіхи, щоб відключити привид</p>",
+        "original": "<p>@Check[diplomacy|dc:27|name:Calm the Spirit's Rage] (expert) to temporarily calm the rage of one of the three spirits, or @Check[religion|dc:30|name:Exorcise Spirit] (trained) to exorcise one of the spirits; three total successes are required to disable the haunt</p>"
+      },
+      "reset": {
+        "translate": "<p>Полум’я згасає через 1 хвилину після того, як усі живі істоти покидають зону, але через 1 годину гнів і біль знову наростають, і привид готовий знову активуватися.</p>",
+        "original": "<p>The flames cease 1 minute after all living creatures leave the area, but after 1 hour, the anger and pain simmer up and the haunt is ready to trigger again.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія) Фантомні полум’я палають по зоні, завдаючи @Damage[4d6[fire]] ушкоджень кожній живій істоті в зоні (@Check[will|dc:23|basic] спас-кидок). Нежиті в зоні наповнюються полум’ям на наступний раунд. Вони отримують вогняну ознаку і імунітет до вогню, а всі їхні атаки завдають додаткові @Damage[1d6[fire]] ушкоджень. Об’єкти в зоні не уражені.</p>",
+        "original": "<p>(1 action) Phantom flames rage across the haunted area, dealing @Damage[4d6[fire]] damage to each living creature within the area (@Check[will|dc:23|basic] save). Undead creatures in the area are infused with flames for the following round. They gain the fire trait and immunity to fire, and all their attacks deal an additional @Damage[1d6[fire]] damage. Objects in the area are unaffected.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "E8X8ETVNwXuUF08C": {
+          "_id": "E8X8ETVNwXuUF08C",
+          "name": {
+            "translate": "Пекуча Агонія",
+            "original": "Searing Agony"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Жива істота наближається в межах 10 футів від решток жертви початкової пожежі</p>\n<hr />\n<p><strong>Ефект</strong> Спогади про біль минулих жертв пожежі атакують розум істоти, що активувала пастку. Істота має зробити спас-кидок @Check[will|dc:25], після чого привид кидає ініціативу.</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Істота не уражена.</p>\n<p><strong>Успіх</strong> Істота стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 1}.</p>\n<p><strong>Невдача</strong> Істота стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 2}.</p>\n<p><strong>Критична Невдача</strong> Істота стає @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 3} і @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Несподіваною} доти, поки перебуває в зоні привида і ще 3 раунди після цього.</p>",
+            "original": "<p><strong>Trigger</strong> A living creature approaches within 10 feet of the remains of a victim of the original fire</p>\n<hr />\n<p><strong>Effect</strong> Memories of the pain suffered by the fire's past victims assault the triggering creature's mind. The creature must attempt a @Check[will|dc:25] save, and the haunt then rolls initiative.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}.</p>\n<p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3}, and it is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} for as long as it remains within the haunt's area and for 3 rounds thereafter.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Fireball Rune": {
+      "_id": "2GAOUxDfoA48uCWP",
+      "name": {
+        "translate": "Руна Вогняної Кулі",
+        "original": "Fireball Rune"
+      },
+      "description": {
+        "translate": "<p>Невидима руна створює невидимий сферичний магічний сенсор з радіусом 20 футів.</p>",
+        "original": "<p>An invisible rune creates an invisible, spherical magical sensor with a 20-foot radius.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:22|name:Erase the Rune] (експерт) щоб стерти руну, не активуючи сенсор, або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розвіювання Магії} (3 ранг; DC 20) щоб протидіяти руні</p>",
+        "original": "<p>@Check[thievery|dc:22|name:Erase the Rune] (expert) to erase the rune without triggering the sensor, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (3rd rank; counteract DC 20) to counteract the rune</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "uJpg7vUJ1qag7R3t": {
+          "_id": "uJpg7vUJ1qag7R3t",
+          "name": {
+            "translate": "Fireball",
+            "original": "Fireball"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Жива істота входить у зону сенсора</p>\n<hr />\n<p><strong>Ефект</strong> Руна детонує @UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{Вогняну Кулю}, центровану на клітинці істоти, що активувала пастку. Це закляття 3-го рангу, що завдає @Damage[6d6[fire]] ушкоджень (@Check[reflex|dc:22|basic] спас-кидок).</p>",
+            "original": "<p><strong>Trigger</strong> A living creature enters the sensor area</p>\n<hr />\n<p><strong>Effect</strong> The rune detonates a @UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{Fireball} centered on the triggering creature's square. This is a 3rd-rank fireball spell that deals @Damage[6d6[fire]] damage (@Check[reflex|dc:22|basic] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-hazard",
+          "hazard-fire"
+        ]
+      }
+    },
+    "Flensing Blades": {
+      "_id": "g9HovYB4pfHgIML9",
+      "name": {
+        "translate": "Ріжучі Леза",
+        "original": "Flensing Blades"
+      },
+      "description": {
+        "translate": "<p>Вихор зі скляних і сталевих лез, що рухаються магічно, розрізає все, до чого доторкається, на стрічки.</p>",
+        "original": "<p>A whirling tornado of spectrally propelled glass and steel slices whatever it touches to ribbons.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:35|name:Adjust Blades|traits:action:disable-a-device] (майстер) щоб точно налаштувати леза так, щоб вони знищили одне одного, або @Check[religion|dc:38|name:Weaken the Haunt] (експерт) щоб послабити привид; потрібно чотири успіхи, щоб відключити його</p>",
+        "original": "<p>@Check[thievery|dc:35|name:Adjust Blades|traits:action:disable-a-device] (master) to precisely adjust the blades so that they destroy each other, or @Check[religion|dc:38|name:Weaken the Haunt] (expert) to weaken the haunt; four successes are required to disable it</p>"
+      },
+      "reset": {
+        "translate": "<p>Привид збирає гострі уламки назад у свою зону протягом години, після чого може знову активуватися.</p>",
+        "original": "<p>The haunt draws jagged shards back into its area over the course of an hour, after which it can trigger again.</p>"
+      },
+      "routine": {
+        "translate": "<p>(3 дії) Вихор лез використовує 3 дії для руху, переміщаючись до 30 футів за кожну дію і завдаючи @Damage[(2d10+10)[slashing]] ушкоджень. Кожна істота на його шляху має зробити спас-кидок @Check[reflex|dc:33].</p>\n<p><strong>Критичний Успіх</strong> Істота не уражена.</p>\n<p><strong>Успіх</strong> Істота отримує половину ушкоджень.</p>\n<p><strong>Невдача</strong> Істота отримує повні ушкодження плюс @Damage[1d10[bleed]].</p>\n<p><strong>Критична Невдача</strong> Істота отримує подвоєні ушкодження і @Damage[1d10[bleed]]. Вона також стає @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Пораненою 1} (або збільшує значення поранення на 1, якщо вже поранена).</p>\n<p>Кожен успішний перевірка для відключення цієї небезпеки зменшує рух привида на 30 футів, а четвертий успіх повністю відключає його.</p>",
+        "original": "<p>(3 actions) The tornado of blades uses 3 actions to move, traveling up to 30 feet with each action and dealing @Damage[(2d10+10)[slashing]] damage. Each creature in its path must attempt a @Check[reflex|dc:33].</p>\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage plus @Damage[1d10[bleed]].</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and @Damage[1d10[bleed]]. It also becomes @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1} (or increases its wounded value by 1, if it is already wounded).</p>\n<p>Each successful check to disable this hazard reduces the haunt's movement by 30 feet, and the fourth success disables it completely.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "jSBfyDGUXAPbIJTT": {
+          "_id": "jSBfyDGUXAPbIJTT",
+          "name": {
+            "translate": "Вихор Лез",
+            "original": "Whirling Blades"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Три або більше істот входять у зону привида</p>\n<hr />\n<p><strong>Ефект</strong> Гострі уламки піднімаються з землі і починають швидко обертатися, займаючи одну клітинку 5 футів. Привид кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> Three or more creatures enter the area of the haunt</p>\n<hr />\n<p><strong>Effect</strong> Sharp fragments lift up from the ground and begin to spin in rapid circles taking up one 5-foot square. The haunt rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-12",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Frozen Moment": {
+      "_id": "8gAoSgBJN8QqzP1R",
+      "name": {
+        "translate": "Заморожений Момент",
+        "original": "Frozen Moment"
+      },
+      "description": {
+        "translate": "<p>Охоронна магія намагається ув’язнити порушників або потенційних злодіїв у порушеному потоці часу.</p>",
+        "original": "<p>Warding magic attempts to trap intruders or would-be thieves in a disrupted time flow.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:38|name:Disassemble Spell Components|traits:action:disable-a-device] (легендарний) щоб швидко розібрати безліч компонентів закляття в один миг; або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розвіювання Магії} (9 ранг; DC 36) щоб протидіяти пастці до її активації або протидіяти ефекту на одній істоті після активації</p>",
+        "original": "<p>@Check[thievery|dc:38|name:Disassemble Spell Components|traits:action:disable-a-device] (legendary) to rapidly disassemble the spell's myriad components in a single blink of an eye; or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (9th rank; counteract DC 36) to counteract the trap before it triggers or to counteract the effect on one creature after the trap is triggered</p>"
+      },
+      "stealth": {
+        "translate": "<p>(майстер)</p>",
+        "original": "<p>(master)</p>"
+      },
+      "items": {
+        "SoObyOgEreU0KLDs": {
+          "_id": "SoObyOgEreU0KLDs",
+          "name": {
+            "translate": "Завислий у Часі",
+            "original": "Adrift in Time"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота торкається охороненого об’єкта або зони.</p>\n<hr />\n<p><strong>Ефект</strong> Істота, що активувала пастку, і всі істоти в межах 30 футів потрапляють у порушений потік часу (@Check[fortitude|dc:38] скасовує). Їхні розуми рухаються так швидко, що кожен раунд здається століттям, але їхні тіла і магічна енергія рухаються так повільно, що вони не можуть виконувати жодних дій, крім Відкликання Знань. Уражена істота має негайно зробити спас-кидок @Check[will|dc:36] проти закляття <em>спотворення розуму</em> і повторювати його кожну хвилину реального часу, поки перебуває у замороженому моменті. Цей ефект має необмежену тривалість, але може бути протидією.</p>",
+            "original": "<p><strong>Trigger</strong> A creature touches the warded object or area.</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature and all creatures within 30 feet are trapped in a disrupted time flow (@Check[fortitude|dc:38] negates). The creatures' minds move so quickly that each round seems to last a century, but their bodies and magical energies move so slowly that they can't use any actions except Recall Knowledge. An affected creature must attempt a @Check[will|dc:36] saving throw against a <em>warp mind</em> spell immediately and again for every minute of real time that passes while the creature is trapped in the frozen moment. This effect has an unlimited duration but can be counteracted.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Ghostly Choir": {
+      "_id": "d3YklujLpBFC5HfB",
+      "name": {
+        "translate": "Примарний Хор",
+        "original": "Ghostly Choir"
+      },
+      "description": {
+        "translate": "<p>Хор загублених душ піднімається з підлоги, співаючи моторошний спів, що лякає слухачів і б’є їхні тіла звуковими хвилями.</p>",
+        "original": "<p>A choir of lost souls rises out of the floor, singing an eerie chant that terrifies its listeners and buffets their bodies with walls of sound.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[performance|dc:28|name:Sing a Different Tune|traits:haunt] (навчений) щоб порушити резонанс пісні іншою мелодією або @Check[religion|dc:28|name:Ritually Silence the Haunt|traits:haunt] (навчений) щоб ритуально заглушити духів</p>",
+        "original": "<p>@Check[performance|dc:28|name:Sing a Different Tune|traits:haunt] (trained) to disrupt the song's resonance with another tune or @Check[religion|dc:28|name:Ritually Silence the Haunt|traits:haunt] (trained) to ritually silence the spirits</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "oZGdTS4jvoAj1myH": {
+          "_id": "oZGdTS4jvoAj1myH",
+          "name": {
+            "translate": "Богохульний Спів",
+            "original": "Profane Chant"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота наближається в межах 10 футів від ділянки підлоги, з якої може піднятися хор</p><hr /><p><strong>Ефект</strong> Хор піднімається, і його спів завдає @Damage[(4d8+18)[mental]] ушкоджень живим істотам у межах 30 футів від спектральних форм душ. Уражені істоти мають зробити спас-кидок @Check[will|dc:24|traits:damaging-effect].</p><hr /><p><strong>Критичний Успіх</strong> Істота не уражена.</p>\n<p><strong>Успіх</strong> Істота отримує половину ушкоджень і стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканою 1}.</p>\n<p><strong>Невдача</strong> Істота отримує повні ушкодження і стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканою 2}.</p>\n<p><strong>Критична Невдача</strong> Істота отримує подвоєні ушкодження. Вона також стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканою 3} і @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Втікає} на 1 раунд.</p>",
+            "original": "<p><strong>Trigger</strong> A creature moves within 10 feet of the section of floor from which the choir can arise</p><hr /><p><strong>Effect</strong> The choir rises, and its song deals @Damage[(4d8+18)[mental]] damage to living creatures within 30 feet of the souls' spectral forms. Affected creatures must each attempt a @Check[will|dc:24|traits:damaging-effect] save.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The creature takes full damage and becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage. It also becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3} and @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} for 1 round.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Grasp Of The Damned": {
+      "_id": "siylw0zIh1g4VnCW",
+      "name": {
+        "translate": "Хватка Проклятих",
+        "original": "Grasp Of The Damned"
+      },
+      "description": {
+        "translate": "<p>Ці відчайдушні духи — відлуння людей, які вчинили великі жорстокості в ім’я злого бога. Тепер у них залишилися лише знання, що їхні душі прокляті, і непохитна віра, що вони можуть покращити свою долю, приносячи потужні жертви своїм демонічним господарям.</p>",
+        "original": "<p>These desperate spirits are the echoes of people who committed great atrocities in the name of an evil god. Now, they are left with only the knowledge that their souls have been damned, and the unwavering belief that they can better their fate by providing powerful sacrifices for their fiendish masters.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[religion|dc:46|name:Call For Divine Intervention] (майстер) щоб надихнути божество втрутитися і протидіяти ритуалу</p>",
+        "original": "<p>@Check[religion|dc:46|name:Call For Divine Intervention] (master) to inspire a deity to intervene and counteract the ritual</p>"
+      },
+      "reset": {
+        "translate": "<p>1 день</p>",
+        "original": "<p>1 day</p>"
+      },
+      "stealth": {
+        "translate": "<p>(майстер)</p>",
+        "original": "<p>(master)</p>"
+      },
+      "items": {
+        "hK2a0NJwqQgjs15q": {
+          "_id": "hK2a0NJwqQgjs15q",
+          "name": {
+            "translate": "Мітка Прокляття",
+            "original": "Mark for Damnation"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Три або більше розумних живих істот 13 рівня або вище входять у зону привида.</p>\n<hr />\n<p><strong>Ефект</strong> Привид завдає @Damage[(6d12+35)[void]] ушкоджень кожній істоті в зоні, і кожна істота має зробити спас-кидок @Check[will|dc:40|traits:damaging-effect].</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Істота не отримує ушкоджень і отримує прокляття 1.</p>\n<p><strong>Успіх</strong> Істота отримує половину ушкоджень і прокляття 1.</p>\n<p><strong>Невдача</strong> Істота отримує повні ушкодження, стає проклятою 2 і позначена для прокляття.</p>\n<p><strong>Критична Невдача</strong> Істота отримує подвоєні ушкодження, стає проклятою 3 і позначена для прокляття.</p>\n<p>Якщо істота, позначена для прокляття, помирає протягом наступних 24 годин, включно з ушкодженнями від привида, її душа негайно затягується на площину злого божества, якому служили прокляті духи, де душа утримується в полоні одним із могутніх слуг цього божества. Лише <em>бажання</em> та подібні потужні ефекти можуть безпосередньо повернути загублену душу; однак також можливо повернути душу, вирушивши на злу площину і перемігши її захисника.</p>",
+            "original": "<p><strong>Trigger</strong> Three or more sentient living creatures of 13th level or higher enter the haunt's area.</p>\n<hr />\n<p><strong>Effect</strong> The haunt deals @Damage[(6d12+35)[void]] damage to each creature in the haunt's area, and each creature must attempt a @Check[will|dc:40|traits:damaging-effect] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature takes no damage and is doomed 1.</p>\n<p><strong>Success</strong> The creature takes half damage and is doomed 1.</p>\n<p><strong>Failure</strong> The creature takes full damage, becomes doomed 2, and is marked for damnation.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage, becomes doomed 3, and is marked for damnation.</p>\n<p>If a creature that is marked for damnation dies within the next 24 hours, including from the haunt's damage, its soul is immediately dragged away to the plane of the evil deity that the damned spirits served, where the creature's soul is held captive by one of that deity's powerful servitors. Only <em>wish</em> and similarly potent effects are able to recover the lost soul directly; however, it is also possible to recover the soul by journeying to the evil plane and defeating the soul's captor.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-17",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Gravehall Trap": {
+      "_id": "wHUIZ5QhG37cRzSV",
+      "name": {
+        "translate": "Пастка Крипти",
+        "original": "Gravehall Trap"
+      },
+      "description": {
+        "translate": "<p>Коли жива істота перетинає середину замінованого тунелю, некромантична магія частково оживляє трупи, поховані в стінах і стелі.</p>",
+        "original": "<p>When a living creature crosses the midpoint of the trapped tunnel, necromantic magic partially animates the corpses buried in the walls and ceiling.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:24|name:Disrupt Magical Trigger|traits:action:disable-a-device] (експерт) щоб порушити магічний тригер до того, як пастка кине ініціативу, або @Check[religion|dc:18|name:Overwhelm the Area with Vitality Energy] (навчений) щоб наповнити зону енергією життєвої сили і заборонити пастці використовувати рутину на 1 раунд; на третій успішний перевірці Релігії некромантична енергія порушується і пастка знищується.</p>",
+        "original": "<p>@Check[thievery|dc:24|name:Disrupt Magical Trigger|traits:action:disable-a-device] (expert) to disrupt the magical trigger before the hazard rolls initiative, or @Check[religion|dc:18|name:Overwhelm the Area with Vitality Energy] (trained) to overwhelm the area with vitality energy and prevent the hazard from using its routine for 1 round; on the third successful Religion check, the necromantic energies are disrupted and the hazard is destroyed.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія) Неживі кулаки атакують усіх істот у залі, завдаючи @Damage[4d6[bludgeoning]] ушкоджень. Істоти в залі мають зробити спас-кидок @Check[reflex|dc:21].</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Ціль не уражена.</p>\n<p><strong>Успіх</strong> Ціль отримує половину ушкоджень.</p>\n<p><strong>Невдача</strong> Ціль отримує повні ушкодження, а її швидкість зменшується на 10 футів (мінімум 5 футів) на 1 раунд.</p>\n<p><strong>Критична Невдача</strong> Ціль отримує подвоєні ушкодження і стає @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Немобільною} на 1 раунд.</p>",
+        "original": "<p>(1 action) Undead fists assail all creatures in the hall, dealing @Damage[4d6[bludgeoning]] damage. Creatures in the hall must attempt a @Check[reflex|dc:21].</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes half damage.</p>\n<p><strong>Failure</strong> The target takes full damage, and its Speeds are reduced by 10 feet (to a minimum of 5 feet) for 1 round.</p>\n<p><strong>Critical Failure</strong> The target takes double damage and is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round.</p>"
+      },
+      "items": {
+        "8yNeU3TLczTIlFjP": {
+          "_id": "8yNeU3TLczTIlFjP",
+          "name": {
+            "translate": "Мертвяки, що Рвуться",
+            "original": "Lunging Dead"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Жива істота перетинає середину тунелю</p>\n<hr />\n<p><strong>Ефект</strong> Мертві тягнуться зі стін і стелі, стогнучи і випльовуючи рухомих личинок. Істоти в кімнаті мають зробити спас-кидок @Check[will|dc:21]. Пастка кидає ініціативу.</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Ціль не уражена.</p>\n<p><strong>Успіх</strong> Ціль стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканою}</p>\n<p><strong>Невдача</strong> Ціль стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканою 2}. Вона не може зменшити стан страху нижче 1, перебуваючи в зоні пастки.</p>\n<p><strong>Критична Невдача</strong> Як при невдачі, але ціль стає @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Паралізованою} на 1 раунд.</p>",
+            "original": "<p><strong>Trigger</strong> A living creature crosses the midpoint of the tunnel</p>\n<hr />\n<p><strong>Effect</strong> The dead reach out from the walls and ceiling, moaning and spewing writhing maggots. Creatures in the room must attempt a @Check[will|dc:21] save. The trap then rolls initiative.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened}</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}. It can't reduce its frightened condition below 1 while in the trap's area.</p>\n<p><strong>Critical Failure</strong> As failure, and the target is @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} for 1 round.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Green Slime": {
+      "_id": "LLPsEKLoVmoPleJS",
+      "name": {
+        "translate": "Зелена Слизь",
+        "original": "Green Slime"
+      },
+      "description": {
+        "translate": "<p>Кислотна зелена плівка прилипає до стелі, чекаючи на здобич, що пройде під нею.</p>",
+        "original": "<p>A caustic green film clings to the ceiling above, watching for prey to pass beneath it.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:33|name:Peel the Slime Off the Ceiling] (експерт) щоб обережно зняти слиз зі стелі, не торкаючись його</p>",
+        "original": "<p>@Check[survival|dc:33|name:Peel the Slime Off the Ceiling] (expert) to carefully peel the slime off the ceiling without touching it</p>"
+      },
+      "reset": {
+        "translate": "<p>1 година, поки слиз харчується, а потім повільно повзе назад на стелю</p>",
+        "original": "<p>1 hour, as the slime feasts and then slowly creeps back up to the ceiling</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "aNYeaG5N3o5PQ9IB": {
+          "_id": "aNYeaG5N3o5PQ9IB",
+          "name": {
+            "translate": "Розчинна Засідка",
+            "original": "Dissolving Ambush"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота проходить під слизом.</p>\n<hr />\n<p><strong>Ефект</strong> Зелений слиз падає на істоту, намагаючись розчинити її в поживну масу. Ціль має зробити спас-кидок @Check[reflex|dc:28].</p>\n<hr />\n<p><strong>Критичний Успіх</strong> Ціль уникає слизу і не уражена.</p>\n<p><strong>Успіх</strong> Невелика кількість слизу потрапляє на ціль. Ціль отримує стан виснаження 1.</p>\n<p><strong>Невдача</strong> Слиз осідає на цілі. Ціль отримує стан виснаження 1, і це значення збільшується на 1 в кінці кожного її ходу, доки слиз не буде видалено. Якщо ціль досягає виснаження 4, наступного разу, коли значення виснаження збільшиться, вона вмирає і розпадається на поживну масу. Слиз, що покриває ціль, більше не можна видалити за допомогою перевірок Виживання, а ушкодження, завдані слизу, також завдаються цілі (з урахуванням імунітетів, слабкостей і опору цілі, а не слизу).</p>\n<p><strong>Критична Невдача</strong> Слиз повністю покриває ціль. Це має той самий ефект, що і невдача, але ціль негайно отримує виснаження 2, стає виснаженою 4 через 1 раунд і вмирає через 2 раунди.</p>",
+            "original": "<p><strong>Trigger</strong> A creature walks beneath the slime.</p>\n<hr />\n<p><strong>Effect</strong> The green slime drops on top of the creature, attempting to dissolve it into a nutritious slurry. The target must attempt a @Check[reflex|dc:28] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target leaps out of the way, and it is unaffected.</p>\n<p><strong>Success</strong> A small amount of the slime splashes onto the target. The target is drained 1.</p>\n<p><strong>Failure</strong> The slime lands on its target. The target is drained 1, and this condition value increases by 1 at the end of its turn each round until the slime is removed. If the target reaches drained 4, the next time its drained value would increase, it dies and collapses into a slurry of nutrients. A slime covering a target can no longer be removed through Survival checks, and damage dealt to the slime is also dealt to the target (applying the target's immunities, weaknesses, and resistances rather than those of the green slime).</p>\n<p><strong>Critical Failure</strong> The slime completely coats its target. This has the same effect as a failure, except the target is immediately drained 2, becomes drained 4 after 1 round, and dies after 2 rounds.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-9",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Hallucination Powder Trap": {
+      "_id": "uEZ4Jv2wNyukJTRL",
+      "name": {
+        "translate": "Пастка Галюциногенного Порошку",
+        "original": "Hallucination Powder Trap"
+      },
+      "description": {
+        "translate": "<p>Трубка з галюциногенним порошком, озброєна мініатюрним вибуховим пристроєм, підключена до дверної ручки або подібного засуву.</p>",
+        "original": "<p>A tube of hallucinogenic powder armed with a miniature explosive is connected to a doorknob or similar latch.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:26|name:Disable Hammer|traits:action:disable-a-device] (експерт) щоб відключити молоток, що б’є по капсулі</p>",
+        "original": "<p>@Check[thievery|dc:26|name:Disable Hammer|traits:action:disable-a-device] (expert) to disable the hammer that strikes the percussion cap</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "NjmHPcx6IEA14Yul": {
+          "_id": "NjmHPcx6IEA14Yul",
+          "name": {
+            "translate": "Вибух Порошку",
+            "original": "Powder Burst"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Засув відкривається або трубка ламається.</p>\n<hr />\n<p><strong>Ефект</strong> Трубка вибухає, розпилюючи галюциногенний порошок у @Template[cone|distance:30]. Будь-яка істота в конусі має успішно зробити спас-кидок @Check[will|dc:24] або стати сплутаною на 1 раунд і отримати -2 штраф до перевірок сприйняття і спас-кидків проти ментальних ефектів на [[/gmr 1d4 #hours]]{1d4 години}. При критичній невдачі штраф замінюється на -4.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6OpwHz0f55wPawHI]{Ефект: Вибух Порошку}</p>",
+            "original": "<p><strong>Trigger</strong> The latch is opened or the tube is broken.</p>\n<hr />\n<p><strong>Effect</strong> The tube explodes, spraying hallucinogenic powder in a @Template[cone|distance:30]. Any creature in the cone must succeed at a @Check[will|dc:24] save or be confused for 1 round and take a -2 status penalty to Perception checks and saves against mental effects for [[/gmr 1d4 #hours]]{1d4 hours}. On a critical failure, the penalty is instead -4.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.6OpwHz0f55wPawHI]{Effect: Powder Burst}</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Hammer Of Forbiddance": {
+      "_id": "tbwGr6FIr5WpvQ6l",
+      "name": {
+        "translate": "Молот Заборони",
+        "original": "Hammer Of Forbiddance"
+      },
+      "description": {
+        "translate": "<p>Величезний молот на вході в будівлю опускається, намагаючись пошкодити істоту, що входить, відштовхнути її назад і заборонити подальший прохід.</p>",
+        "original": "<p>An enormous hammer at an edifice's entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going any further.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:28|name:Prevent Hammer from Swinging|traits:action:disable-a-device] (експерт) один раз на самому молоті і один раз на його шарнірі, щоб запобігти його руху</p>",
+        "original": "<p>@Check[thievery|dc:28|name:Prevent Hammer from Swinging|traits:action:disable-a-device] (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка скидається протягом раунду і готова знову замахнутися через 1 раунд.</p>",
+        "original": "<p>The trap resets over the course of the round, and is ready to swing again 1 round later.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "hp": {
+        "translate": "Твердість шарніра:16, HP шарніра: 64 (BT 32)",
+        "original": "Joint Hardness: 16, Joint HP: 64 (BT 32)"
+      },
+      "items": {
+        "caUgV11OydLsLw1j": {
+          "_id": "caUgV11OydLsLw1j",
+          "name": {
+            "translate": "Заборонити Вхід",
+            "original": "Forbid Entry"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота намагається увійти через вхід.</p>\n<hr />\n<p><strong>Ефект</strong> Молот замахується, роблячи удар по істоті, що активувала пастку.</p>",
+            "original": "<p><strong>Trigger</strong> A creature attempts to enter through the entrance.</p>\n<hr />\n<p><strong>Effect</strong> The hammer swings down, making a Strike against the triggering creature.</p>"
+          }
+        },
+        "pLuxXYKq1Wi28Czn": {
+          "_id": "pLuxXYKq1Wi28Czn",
+          "name": {
+            "translate": "Hammer",
+            "original": "Hammer"
+          },
+          "description": {
+            "translate": "<p>При влучанні ціль відштовхується на 10 футів і має успішно зробити спас-кидок @Check[will|dc:30] або не зможе входити в будівлю через будь-який вхід протягом 24 годин (при критичному влучанні ціль автоматично провалює спас-кидок волі); штраф за множинні атаки відсутній</p>",
+            "original": "<p>On a hit, the target is knocked back 10 feet and must succeed at a @Check[will|dc:30] or be unable to enter the edifice through any entrance for 24 hours (on a critical hit, the target automatically fails the Will save); no multiple attack penalty</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-11",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Hampering Web": {
+      "_id": "98rS64gLzy1ReXoR",
+      "name": {
+        "translate": "Павутиння, що Сповільнює",
+        "original": "Hampering Web"
+      },
+      "description": {
+        "translate": "<p>Напівпрозорі шари павутиння простягаються через вхід, готові зловити дрібних комах або сповільнити більших істот, що проходять.</p>",
+        "original": "<p>Semitransparent sheets of webbing span the entryway, ready to capture small insects or hamper larger creatures that pass through.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:17|name:Dislodge Web] (навчений) щоб зняти павутиння</p>",
+        "original": "<p>@Check[survival|dc:17|name:Dislodge Web] (trained) to dislodge it</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "CHZ0RRKgpq6eI2AS": {
+          "_id": "CHZ0RRKgpq6eI2AS",
+          "name": {
+            "translate": "Ensnare",
+            "original": "Ensnare"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота, що не є павуком, потрапляє в павутиння</p>\n<hr />\n<p><strong>Ефект</strong> Павутиння обгортає тіло істоти, що активувала пастку, прилипаючи до її кінцівок. Істота має зробити спас-кидок @Check[reflex|dc:20] або отримує –10 футів штраф до всіх швидкостей, доки не @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Втече} з павутиння (DC 20). При критичній невдачі павутиння також прилипає до обличчя істоти, роблячи її @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворою 1}, і вона не може намагатися зменшити цей стан, доки не втече з павутиння.</p>",
+            "original": "<p><strong>Trigger</strong> A creature that isn't a spider walks into the web</p>\n<hr />\n<p><strong>Effect</strong> The web wraps around the triggering creature's body, clinging to their limbs. The triggering creature must succeed at a @Check[reflex|dc:20] save or take a –10-foot circumstance penalty to all their Speeds until they @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} the web (DC 20). On a critical failure, the webbing also clings to the creature's face, making them @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}, and they can't attempt to reduce this condition until they Escape the web.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Hidden Pit": {
+      "_id": "BHq5wpQU8hQEke8D",
+      "name": {
+        "translate": "Прихована Яма",
+        "original": "Hidden Pit"
+      },
+      "description": {
+        "translate": "<p>Дерев’яна кришка прикриває яму розміром 10 на 10 футів і глибиною 20 футів.</p>",
+        "original": "<p>A wooden trapdoor covers a pit that's 10 feet square and 20 feet deep.</p>"
+      },
+      "disable": {
+        "translate": "@Check[thievery|dc:12|name:Remove the Trapdoor] щоб зняти кришку",
+        "original": "@Check[thievery|dc:12|name:Remove the Trapdoor] to remove the trapdoor"
+      },
+      "reset": {
+        "translate": "<p>Істоти все ще можуть впасти в пастку, але кришку потрібно вручну закрити, щоб пастка знову стала прихованою.</p>",
+        "original": "<p>Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become hidden again.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(або 0, якщо кришка відключена або зламана)</p>",
+        "original": "<p>(or 0 if the trapdoor is disabled or broken)</p>"
+      },
+      "items": {
+        "lY83oUjx0DLxDByK": {
+          "_id": "lY83oUjx0DLxDByK",
+          "name": {
+            "translate": "Pitfall",
+            "original": "Pitfall"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота ступає на кришку.</p>\n<hr />\n<p><strong>Ефект</strong> Істота падає і отримує ушкодження від падіння (зазвичай @Damage[10[bludgeoning]|options:fall-damage] ушкоджень). Вона може використати реакцію @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Схопитися за край}, щоб уникнути падіння.</p>",
+            "original": "<p><strong>Trigger</strong> A creature walks onto the trapdoor.</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature falls in and takes falling damage (typically @Damage[10[bludgeoning]|options:fall-damage] damage). That creature can use the @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge} reaction to avoid falling.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Insistent Privacy Fence": {
+      "_id": "mWhmhYBHH9X1Ebb9",
+      "name": {
+        "translate": "Наполегливий Паркан Приватності",
+        "original": "Insistent Privacy Fence"
+      },
+      "description": {
+        "translate": "<p>Ділянка паркану електрифікована прихованою стаською котушкою.</p>",
+        "original": "<p>A stretch of fence is electrified by a hidden Stasian coil.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:28|name:Disconnect the coil from the fence|traits:electricity,hazard,trap,mechanical] (експерт) щоб обережно від’єднати котушку від паркану або @Check[crafting|dc:30|name:Jury-rig a grounding device|traits:electricity,hazard,trap,mechanical] (майстер) щоб саморобно заземлити пристрій і нейтралізувати удар</p>",
+        "original": "<p>@Check[thievery|dc:28|name:Disconnect the coil from the fence|traits:electricity,hazard,trap,mechanical] (expert) to carefully disconnect the coil from the fence or @Check[crafting|dc:30|name:Jury-rig a grounding device|traits:electricity,hazard,trap,mechanical] (master) to jury-rig a grounding device to nullify the shock</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка деактивується і скидається через 1 хвилину.</p>",
+        "original": "<p>The trap deactivates and resets after 1 minute.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "HhzDfHd26GkdqhME": {
+          "_id": "HhzDfHd26GkdqhME",
+          "name": {
+            "translate": "Shock",
+            "original": "Shock"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота торкається паркану безпосередньо або інструментом чи зброєю</p>\n<hr />\n<p><strong>Ефект</strong> Паркан завдає @Damage[7d12[electricity]] ушкоджень істоті, що активувала пастку (@Check[reflex|dc:26|basic|traits:electricity,mechanical,trap,hazard] спас-кидок).</p>",
+            "original": "<p><strong>Trigger</strong> A creature touches the fence directly or with a tool or weapon</p>\n<hr />\n<p><strong>Effect</strong> The fence deals @Damage[7d12[electricity]] damage to the triggering creature (@Check[reflex|dc:26|basic|traits:electricity,mechanical,trap,hazard] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-8",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-electricity"
+        ]
+      }
+    },
+    "Jealous Abjurer": {
+      "_id": "inUlZWE1isqnTRc5",
+      "name": {
+        "translate": "Ревнивий Захисник",
+        "original": "Jealous Abjurer"
+      },
+      "description": {
+        "translate": "<p>Дух у мантії піднімається з підлоги, вказуючи звинувачувальним пальцем.</p>",
+        "original": "<p>A robe-clad spirit rises out of the floor, pointing an accusing finger.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[arcana|dc:36|name:Convince the Spirit], @Check[nature|dc:36|name:Convince the Spirit], @Check[occultism|dc:36|name:Convince the Spirit] або @Check[religion|dc:36|name:Convince the Spirit] (майстер) щоб переконати дух, що магічні знання цілі надто великі, щоб з ними жартувати</p>",
+        "original": "<p>@Check[arcana|dc:36|name:Convince the Spirit], @Check[nature|dc:36|name:Convince the Spirit], @Check[occultism|dc:36|name:Convince the Spirit], or @Check[religion|dc:36|name:Convince the Spirit] (master) to convince the spirit that the target's magical knowledge is too great to be trifled with</p>"
+      },
+      "reset": {
+        "translate": "<p>1 година</p>",
+        "original": "<p>1 hour</p>"
+      },
+      "stealth": {
+        "translate": "<p>(майстер)</p>",
+        "original": "<p>(master)</p>"
+      },
+      "items": {
+        "e90G0Brsf6uhlGp6": {
+          "_id": "e90G0Brsf6uhlGp6",
+          "name": {
+            "translate": "Розрив Магії",
+            "original": "Rend Magic"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота, яка наразі під впливом корисного закляття, наближається на відстань 30 футів від абжурера.</p>\n<hr />\n<p><strong>Ефект</strong> Заздрячи славі та магічній силі інших, заздрісний абжурер намагається спричинити катастрофічний збій у найвищому рівні корисного закляття, що наразі впливає на його ціль. Він робить перевірку контрзакляття з модифікатором +26. Якщо перевірка вдається, закляття розсіюється, і істота, на яку воно впливало, отримує @Damage[(4d12+30)[force]] шкоди внаслідок насильницького руйнування закляття (рятівний кидок @Check[reflex|dc:32|basic]).</p>",
+            "original": "<p><strong>Trigger</strong> A creature that is currently affected by a beneficial spell approaches within 30 feet of the abjurer.</p>\n<hr />\n<p><strong>Effect</strong> Envying the fame and magical prowess of others, the jealous abjurer attempts to engineer a catastrophic failure in the highest-level beneficial spell currently affecting its target. It attempts a counteract check with a +26 modifier. If the counteract check succeeds, the spell is dispelled, and the creature it had been affecting takes @Damage[(4d12+30)[force]] damage as the spell violently implodes (@Check[reflex|dc:32|basic] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-11",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Lava Flume Tube": {
+      "_id": "oNLgR1iq6MVvNRWo",
+      "name": {
+        "translate": "Труба Лавового Потоку",
+        "original": "Lava Flume Tube"
+      },
+      "description": {
+        "translate": "<p>Чотири затворні канали, вирізані в камені, дозволяють лаві текти в кімнату висотою 15 футів; підлога може відступати, дозволяючи затверділій лаві падати в камеру під нею.</p>",
+        "original": "<p>Four gated channels carved into stone allow lava to flow into a 15-foot-tall room; the floor can withdraw to allow the hardened lava to fall into a chamber beneath.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:29|name:Block a Channel|traits:action:disable-a-device] (експерт) щоб заблокувати канал, або @Check[thievery|dc:31|name:Release Floor Latch|traits:action:disable-a-device] (майстер) щоб відпустити засув підлоги і втекти в камеру внизу</p>",
+        "original": "<p>@Check[thievery|dc:29|name:Block a Channel|traits:action:disable-a-device] (expert) to block a channel, or @Check[thievery|dc:31|name:Release Floor Latch|traits:action:disable-a-device] (master) to release the floor latch and escape to the chamber below</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка деактивується і скидається через 1 годину, відступаючи підлогою, тріскаючи і скидаючи затверділу лаву (та будь-яких істот, що опинилися всередині) у камеру. Істоти падають з висоти 40 футів, отримуючи ушкодження від падіння (зазвичай @Damage[17[bludgeoning]|options:fall-damage] шкоди).</p>",
+        "original": "<p>The trap deactivates and resets after 1 hour by withdrawing the floor, cracking and dumping the hardened lava (and any creatures trapped inside) into the chamber. Creatures fall 40 feet, taking falling damage (typically @Damage[17[bludgeoning]|options:fall-damage] damage).</p>"
+      },
+      "routine": {
+        "translate": "<p>(4 дії) Пастка втрачає 1 дію за кожен заблокований канал щоразу. Під час кожної дії інший канал викидає лаву, завдаючи @Damage[4d6[fire]] шкоди кожній істоті в межах 10 футів від каналу (рятівний кидок @Check[reflex|dc:27|basic]), і збільшуючи глибину лави в кімнаті на 1 фут (4 фути за раунд, якщо всі канали активні).</p><p>Істота, що починає свій хід у лаві, отримує @Damage[8d6[fire]] шкоди і є @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Немобільною} доки не @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Втече} від затверділої лави (DC 27). Істота може задихнутися, якщо буде покрита лавою.</p><p>Лава з попереднього раунду повністю затвердіє на початку ходу пастки, фактично піднімаючи підлогу кімнати. Коли кімната заповнена лавою, пастка припиняє діяти, але істоти в кімнаті залишаються застряглими, доки підлога не відкриється і пастка не скинеться.</p>",
+        "original": "<p>(4 actions) The trap loses 1 action per disabled channel each turn. On each action, a different channel spews lava, dealing @Damage[4d6[fire]] damage to each creature within 10 feet of the channel (@Check[reflex|dc:27|basic] save), and increasing the depth of the lava in the room by 1 foot (4 feet per round if all the channels are active).</p><p>A creature that starts its turn in lava takes @Damage[8d6[fire]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} until it @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes} the hardening lava (DC 27). The creature might suffocate if covered in lava.</p><p>Lava from the previous round hardens fully at the start of the trap's turn, effectively raising the floor of the room. Once the room is full of lava, the trap stops taking actions, but creatures in the room remain stuck until the floor opens and the trap resets.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "hp": {
+        "translate": "щоб зруйнувати затвор каналу (це запобігає відключенню каналу і зупиняє скидання пастки); <strong>Твердість підлоги</strong> 18; <strong>ХП підлоги</strong> 72 (BT 36)",
+        "original": "to destroy a channel gate (this prevents that channel from being disabled and stops the trap from resetting); <strong>Floor Hardness</strong> 18; <strong>Floor HP</strong> 72 (BT 36)"
+      },
+      "items": {
+        "slQb54KbvJ8vJpRb": {
+          "_id": "slQb54KbvJ8vJpRb",
+          "name": {
+            "translate": "Активація Потоку",
+            "original": "Flume Activation"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота намагається вийти з кімнати.</p>\n<hr />\n<p><strong>Ефект</strong> Виходи миттєво закриваються, і пастка кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> A creature tries to leave the room.</p>\n<hr />\n<p><strong>Effect</strong> The exits seal instantly and the trap rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Malevolent Mannequins": {
+      "_id": "4jAJh3cTLIgkqtou",
+      "name": {
+        "translate": "Зловмисні Манекени",
+        "original": "Malevolent Mannequins"
+      },
+      "description": {
+        "translate": "<p>Гостра група насильницьких духів вселяється в три механічні манекени, і кожен нападає на будь-яких істот, які наважуються підійти близько.</p>",
+        "original": "<p>A host of violent spirits possess three clockwork mannequins, and each lashes out at any creatures that dare walk near.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:37|name:Jam a mannequin's clockwork mechanisms|traits:clockwork,haunt,mechanical,hazard]{Крадіжка (майстер)} щоб заклинити механізми манекена або двічі @Check[religion|dc:35|name:Exorcise a spirit from a mannequin|traits:clockwork,haunt,mechanical,hazard]{Релігія (експерт)} щоб вигнати духа з манекена.</p>",
+        "original": "<p>@Check[thievery|dc:37|name:Jam a mannequin's clockwork mechanisms|traits:clockwork,haunt,mechanical,hazard]{Thievery (master)} to jam a mannequin's clockwork mechanisms or a @Check[religion|dc:35|name:Exorcise a spirit from a mannequin|traits:clockwork,haunt,mechanical,hazard]{Religion (expert)} twice to exorcise a spirit from a mannequin.</p>"
+      },
+      "reset": {
+        "translate": "<p>Привид деактивується, коли немає цілей, і скидається, зазвичай протягом 1 раунду, коли манекени повертаються на свої початкові позиції. Якщо манекен знаходиться більше ніж за 150 футів від початкової позиції, скидання триває довше, оскільки манекен повертається на 150 футів кожен раунд.</p>",
+        "original": "<p>The haunt deactivates after it has no target creatures and resets, usually over the course of 1 round, as the mannequins move to their original positions. If a mannequin is more than 150 feet from its original position, the haunt takes longer to reset, as the mannequin moves back 150 feet each round.</p>"
+      },
+      "routine": {
+        "translate": "<p>(9 дій) Кожен манекен використовує по три дії привида кожного ходу, і привид втрачає три дії за кожен відключений або знищений манекен. Кожен манекен використовує першу дію, щоб пройти до 50 футів, а дві інші — щоб зробити удари механічними кулаками. Кожен має окремий штраф за множинні атаки.</p>",
+        "original": "<p>(9 actions) Each of the mannequins uses three of the haunt's actions on each turn, and the haunt loses three actions each turn for every disabled or destroyed mannequin. Each mannequin uses its first action to Stride up to 50 feet and its remaining two actions to make clockwork fist Strikes. Each has its own separate multiple attack penalty.</p>"
+      },
+      "items": {
+        "Q2074Gj6y8XUUgAk": {
+          "_id": "Q2074Gj6y8XUUgAk",
+          "name": {
+            "translate": "Awaken",
+            "original": "Awaken"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота підходить на відстань 30 футів від манекена</p>\n<hr />\n<p><strong>Ефект</strong> Манекени всі рвуться до тригерної істоти, проходячи до 50 футів, після чого кидають ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> A creature comes within 30 feet of a mannequin</p>\n<hr />\n<p><strong>Effect</strong> The mannequins all lurch towards the triggering creature, Striding up to 50 feet, then roll initiative.</p>"
+          }
+        },
+        "h1kUAmChVAo2xByF": {
+          "_id": "h1kUAmChVAo2xByF",
+          "name": {
+            "translate": "Механічний Кулак",
+            "original": "Clockwork Fist"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-14",
+          "rarity-uncommon",
+          "type-hazard",
+          "hazard-clockwork"
+        ]
+      }
+    },
+    "Perilous Flash Flood": {
+      "_id": "lgyGhpyPosriQUzE",
+      "name": {
+        "translate": "Небезпечний Раптовий Потоп",
+        "original": "Perilous Flash Flood"
+      },
+      "description": {
+        "translate": "<p>Чи то вода, що мчить вулицями, піднімаючи небезпечне сміття, чи менш природна речовина, що виривається з контейнера, цей невпинний потоп б'є все на своєму шляху.</p>",
+        "original": "<p>Whether made up of water rushing through the streets that sweeps up dangerous debris along the way or a less natural substance bursting free of its container, this relentless flood batters everything in its path.</p>"
+      },
+      "disable": {
+        "translate": "<p>Три перевірки @Check[athletics|dc:35|name:Move Barricade], @Check[crafting|dc:35|name:Construct Barricade] або @Check[survival|dc:35|name:Construct Barricade], щоб перемістити або побудувати барикади, достатньо міцні, щоб створити притулок від потопу. Хоча це створює безпечне місце для стояння, істоти поза барикадою можуть залишатися в небезпеці залежно від природи та джерела потопу.</p>",
+        "original": "<p>Three @Check[athletics|dc:35|name:Move Barricade], @Check[crafting|dc:35|name:Construct Barricade], or @Check[survival|dc:35|name:Construct Barricade] checks to move or construct barricades strong enough to create a shelter from the flood. While this creates a safe place to stand, creatures outside of the barricaded area may still be in danger depending on the nature and the source of the flood.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія) Повінь просувається вперед на 60 футів, врізаючись у всіх істот у своїй області. Кожна істота повинна виконати спаскидок @Check[fortitude|dc:30], коли потік б'є її та тягне вниз за течією. Кількість і тип завданої шкоди залежать від природи повені, а деякі її види накладають додаткові ефекти. Через бурхливу воду істоти в області повені повинні виконати перевірку @Check[athletics|dc:20|name:Swim|traits:action:swim], щоб Плисти й рухатися; ті, хто щораунду не виконує успішну перевірку Плавання, можуть потонути.</p>\n<hr>\n<p><strong>Критичний успіх</strong> Істота не отримує шкоди.</p>\n<p><strong>Успіх</strong> Істота отримує половину шкоди.</p>\n<p><strong>Провал</strong> Істота отримує повну шкоду й переміщується разом із водою на 10 футів.</p>\n<p><strong>Критичний провал</strong> Істота отримує подвійну шкоду й переміщується разом із водою на 20 футів.</p>\n<hr>\n<ul>\n<li><strong>Кислотний стік</strong> Ця їдка повінь розчиняє плоть на своєму шляху, завдаючи @Damage[1d12[bludgeoning],(1d12+8)[acid]]{1d12 дробильної шкоди та 1d12+8 шкоди кислотою}. Крім того, вона завдає @Damage[2d6[persistent,acid]] тривалої шкоди істотам, які критично провалили спаскидок Стійкості.</li>\n<li><strong>Ударні хвилі</strong> Цей стрімкий потік води завдає @Damage[(2d12+10)[bludgeoning]] шкоди.</li>\n<li><strong>Огидне сміття</strong> Ця повінь підхопила заражені або хвороботворні предмети, як-от каналізаційні стоки чи гнила їжа. Вона завдає @Damage[(2d12+8)[bludgeoning]] шкоди. Кожна істота, що зазнала дії повені, повинна виконати спаскидок @Check[fortitude|dc:29], отримуючи @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Нудоту 1} у разі провалу або @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Нудоту 2} у разі критичного провалу. Крім того, істоти, що контактують із водою повені, зазнають впливу брудної гарячки (@Check[fortitude|dc:20]).</li>\n<li><strong>Гострі уламки</strong> Вода підхопила різноманітні предмети, деякі з яких особливо гострі. Повінь завдає @Damage[1d12[bludgeoning]] дробильної шкоди та @Damage[(1d12+12)[piercing]] колючої шкоди.</li>\n<li><strong>Липка маса</strong> Речовина особливо липка. Вона завдає @Damage[(2d12+6)[bludgeoning]] шкоди. Крім того, кожна істота в повені на початку свого ходу щораунду повинна виконати спаскидок @Check[reflex|dc:29]. У разі провалу вона отримує штраф обставин –10 футів до всіх своїх Швидкостей на 1 раунд. У разі критичного провалу натомість вона стає @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомленою} на 1 раунд.</li>\n</ul>",
+        "original": "<p>(1 action) The flood advances forward 60 feet, crashing into all creatures within its area. Each creature must attempt a @Check[fortitude|dc:30] save as the floodwaters pummel them and pull them downstream. The amount and type of damage dealt are based on the nature of the flood, and certain types of floods impose additional effects. The turbulent waters mean creatures within the area of the flood must attempt a @Check[athletics|dc:20|name:Swim|traits:action:swim] check to Swim in order to move, and those who do not succeed at a check to Swim each round may drown.</p>\n<hr>\n<p><strong>Critical Success</strong> The creature takes no damage.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is moved 10 feet along with the water.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is moved 20 feet along with the water.</p>\n<hr>\n<ul>\n<li><strong>Acidic Runoff</strong> This caustic flood dissolves flesh as it moves, dealing @Damage[1d12[bludgeoning],(1d12+8)[acid]]{1d12 bludgeoning damage and 1d12+8 acid damage}. Additionally, it deals @Damage[2d6[persistent,acid]] damage to creatures who critically fail their Fortitude saves.</li>\n<li><strong>Battering Waves</strong> This flood of rushing water deals @Damage[(2d12+10)[bludgeoning]] damage.</li>\n<li><strong>Repulsive Refuse</strong> This flood has picked up tainted or disease-ridden objects like sewer runoff or rotting food. It deals @Damage[(2d12+8)[bludgeoning]] damage. Each creature exposed to the flood must attempt a @Check[fortitude|dc:29] save, becoming @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} on a failure or @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} on a critical failure. Additionally, creatures who come into contact with the flood waters are exposed to filth fever (@Check[fortitude|dc:20]).</li>\n<li><strong>Sharp Debris</strong> The waters have picked up various objects, some of which are particularly sharp. The flood deals @Damage[1d12[bludgeoning]] damage and @Damage[(1d12+12)[piercing]] damage.</li>\n<li><strong>Sticky Goo</strong> The substance is particularly sticky. It deals @Damage[(2d12+6)[bludgeoning]] damage. Additionally, each creature in the flood must attempt a @Check[reflex|dc:29] save at the beginning of their turn each round. On a failed saving throw, they take a –10-foot circumstance penalty to all their Speeds for 1 round. On a critical failure, they are instead @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round.</li>\n</ul>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "gxjS3APksgflCuua": {
+          "_id": "gxjS3APksgflCuua",
+          "name": {
+            "translate": "Виривання Назовні",
+            "original": "Burst Free"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота або ефект порушує утримання потопу.</p>\n<hr />\n<p><strong>Ефект</strong> Небезпека кидає ініціативу, коли потоп виривається вперед.</p>",
+            "original": "<p><strong>Trigger</strong> A creature or effect breaks the flood's containment.</p>\n<hr />\n<p><strong>Effect</strong> The hazard rolls initiative as the flood surges forth.</p>"
+          }
+        },
+        "Pz2JfI4HEqH5iEwA": {
+          "_id": "Pz2JfI4HEqH5iEwA",
+          "name": {
+            "translate": "Лихоманка Бруду",
+            "original": "Filth Fever"
+          },
+          "description": {
+            "translate": "<p>Стан хвороби і @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Без свідомості} від лихоманки бруду не покращуються самі по собі, доки хворобу не вилікують.</p>\n<p><strong>Рятівний Кидок</strong> @Check[fortitude|dc:20]</p>\n<p><strong>Стадія 1</strong> носій без симптомів ([[/gmr 1d4 #hours]]{1d4 години})</p>\n<p><strong>Стадія 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 1} (1 день)</p>\n<p><strong>Стадія 3</strong> хворий 1 і @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Повільний 1} доки хворий (1 день)</p>\n<p><strong>Стадія 4</strong> без свідомості (1 день)</p>\n<p><strong>Стадія 5</strong> смерть</p>",
+            "original": "<p>The sickened and @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} conditions from filth fever don't improve on their own until the disease is cured.</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:20]</p>\n<p><strong>Stage 1</strong> carrier with no ill effect ([[/gmr 1d4 #hours]]{1d4 hours})</p>\n<p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (1 day)</p>\n<p><strong>Stage 3</strong> sickened 1 and @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} as long as it remains sickened (1 day)</p>\n<p><strong>Stage 4</strong> unconscious (1 day)</p>\n<p><strong>Stage 5</strong> dead</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Pharaoh's Ward": {
+      "_id": "m4PRYxFq9ojcwesh",
+      "name": {
+        "translate": "Охорона Фараона",
+        "original": "Pharaoh's Ward"
+      },
+      "description": {
+        "translate": "<p>Прокляття накладене на поріг входу.</p>",
+        "original": "<p>A curse is imbued on an entryway's threshold.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:27|name:Remove the Lintel] (майстер) щоб обережно зняти перемичку без спрацювання магії, або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розсіювання Магії} (4 рівень; контр DC 25) щоб нейтралізувати руну</p>",
+        "original": "<p>@Check[thievery|dc:27|name:Remove the Lintel] (master) to painstakingly remove the lintel without triggering the magic, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th rank; counteract DC 25) to counteract the rune</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка скидається, коли двері зачиняються.</p>",
+        "original": "<p>The trap resets when the door is shut.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "Cc30YjKZ7qSxVjSC": {
+          "_id": "Cc30YjKZ7qSxVjSC",
+          "name": {
+            "translate": "Прокляття Вторгнень",
+            "original": "Curse the Intruders"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Печатка на гробниці зламана зовні.</p>\n<hr />\n<p><strong>Ефект</strong> Кожна жива істота в межах 60 футів має успішно пройти рятівний кидок @Check[will|dc:23] або піддатися прокляттю фараона. Проклята істота отримує -2 статусний штраф до рятівних кидків на Стойкість, а будь-яке природне або магічне лікування, яке вона отримує, зменшується вдвічі. Прокляття залишається, доки його не зніме @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{Очищення Враження} або подібна магія.</p>",
+            "original": "<p><strong>Trigger</strong> The seal on the tomb is broken from the outside.</p>\n<hr />\n<p><strong>Effect</strong> Each living creature within 60 feet must succeed at a @Check[will|dc:23] save or be subjected to the pharaoh's curse. A cursed creature takes a -2 status penalty to Fortitude saves, and any natural or magical healing it receives is halved. The curse remains until removed by @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{Cleanse Affliction} or similar magic.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Planar Rift": {
+      "_id": "yM4G2LvMwvkIRx0G",
+      "name": {
+        "translate": "Планарний Розлом",
+        "original": "Planar Rift"
+      },
+      "description": {
+        "translate": "<p>Розлом намагається затягнути істот у іншу площину (ГМ обирає конкретну площину).</p>",
+        "original": "<p>A rift attempts to draw creatures into another plane (the GM chooses the specific plane).</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:33|name:Assemble a Rift Seal|traits:action:disable-a-device] (майстер) щоб зібрати печатку розлому з об’єктів, міцно прив’язаних до вашої площини, або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розсіювання Магії} (7 рівень; контр DC 31) щоб нейтралізувати розлом</p>",
+        "original": "<p>@Check[thievery|dc:33|name:Assemble a Rift Seal|traits:action:disable-a-device] (master) to assemble a rift seal using objects strongly grounded to your plane, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (7th rank; counteract DC 31) to counteract the rift</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "K7Ya0U5jerfvH0vw": {
+          "_id": "K7Ya0U5jerfvH0vw",
+          "name": {
+            "translate": "У Великий Поза",
+            "original": "Into the Great Beyond"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота рухається в межах 10 футів від розлому.</p>\n<hr />\n<p><strong>Ефект</strong> Тригерна істота і всі істоти в межах 30 футів від розлому затягуються в іншу площину. Кожна істота може зробити рятівний кидок @Check[reflex|dc:33], щоб уникнути цієї долі.</p>",
+            "original": "<p><strong>Trigger</strong> A creature moves within 10 feet of the rift.</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature and all creatures within 30 feet of the rift are drawn into another plane. Each creature can attempt a @Check[reflex|dc:33] save to avoid this fate.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-13",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Plummeting Doom": {
+      "_id": "gB9WkJtH88jJQa5Z",
+      "name": {
+        "translate": "Падіння Загибелі",
+        "original": "Plummeting Doom"
+      },
+      "description": {
+        "translate": "<p>Чотири мстиві духи хапають порушників і кидають їх з краю 120-футового обриву.</p>",
+        "original": "<p>Four vengeful spirits grab interlopers and toss them off the edge of a nearby 120-foot-tall cliff.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[athletics|dc:40|name:Forcefully Push Spirits Back] (навчений) щоб відштовхнутися так сильно, що духи бояться бути скинутими з обриву, або @Check[religion|dc:40|name:Seal the Spirits] (експерт) щоб тимчасово запечатати духів</p>",
+        "original": "<p>@Check[athletics|dc:40|name:Forcefully Push Spirits Back] (trained) to push back so forcefully that the spirits fear being thrown off the cliff, or @Check[religion|dc:40|name:Seal the Spirits] (expert) to temporarily seal the spirits away</p>"
+      },
+      "reset": {
+        "translate": "<p>1 година</p>",
+        "original": "<p>1 hour</p>"
+      },
+      "stealth": {
+        "translate": "<p>(майстер) щоб почути відлуння далекого об’єкта, що розбивається об землю</p>",
+        "original": "<p>(master) to hear the echoes of a faraway object crashing into the ground</p>"
+      },
+      "items": {
+        "i9qsvHuq9IdeRohO": {
+          "_id": "i9qsvHuq9IdeRohO",
+          "name": {
+            "translate": "Заклик Землі",
+            "original": "Call of the Ground"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота наближається на відстань 15 футів від краю обриву.</p>\n<hr />\n<p><strong>Ефект</strong> Кожен дух намагається кинути істоту в межах 60 футів від краю обриву, роблячи перевірку з модифікатором +26 проти Стойкості цілі. Якщо привид вдається, ціль скидають з краю обриву, де вона падає 120 футів на землю. Поки привид не переможений, кожна істота в межах 60 футів від краю обриву має робити рятівний кидок @Check[will|dc:40] щоразу, коли вона витрачає дію або реакцію, щоб Затримати Падіння, Літати, Схопитися за Край або уникнути падіння; якщо рятівний кидок провалений, дія переривається. Привид автоматично намагається контратакувати закляття, які уповільнюють падіння або пом’якшують його наслідки, як-от <em>пір’яне падіння</em>, з модифікатором контратаки +32.</p>",
+            "original": "<p><strong>Trigger</strong> A creature approaches within 15 feet of the edge of the cliff.</p>\n<hr />\n<p><strong>Effect</strong> Each spirit attempts to throw a creature within 60 feet of the cliff's edge off the cliff by attempting a check with a +26 modifier against the target's Fortitude DC. If the haunt succeeds, the target is thrown over the edge of the cliff, where it then falls 120 feet to the ground. Until the haunt is defeated, each creature within 60 feet of the cliff's edge must attempt a @Check[will|dc:40] save each time they would spend an action or reaction to Arrest a Fall, Fly, Grab an Edge, or otherwise avoid falling; if they fail the save, the action is disrupted. The haunt automatically attempts to counteract spells that would slow a fall or mitigate the effects of falling, such as <em>feather fall</em>, with a counteract modifier of +32.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-15",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Poisoned Dart Gallery": {
+      "_id": "lVqVDjXnHboMif7F",
+      "name": {
+        "translate": "Галерея Отруйних Дротиків",
+        "original": "Poisoned Dart Gallery"
+      },
+      "description": {
+        "translate": "<p>Безліч отворів для запуску отруйних дротиків вздовж довгого коридору з прихованою панеллю керування на дальньому кінці.</p>",
+        "original": "<p>Countless holes to launch poison darts from line a long hallway with a hidden control panel on the far end.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:21|name:Disable Trap (Control Panel)|traits:action:disable-a-device] (експерт) на панелі керування деактивує пастку.</p>",
+        "original": "<p>@Check[thievery|dc:21|name:Disable Trap (Control Panel)|traits:action:disable-a-device] (expert) on the control panel deactivates the trap.</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка деактивується і скидається через 1 хвилину.</p>",
+        "original": "<p>The trap deactivates and resets after 1 minute.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія) Пастка запускає один дротик проти кожної істоти в галереї як 1 дію. Оскільки вона запускає дротики безперервно, пастка також може використовувати безкоштовну дію Безперервний Обстріл (див. нижче), щоб запускати дротики по кожній істоті під час її ходу.</p>",
+        "original": "<p>(1 action) The trap launches one dart against every creature in the gallery as 1 action. Because it launches darts continuously, the trap can also use the Continuous Barrage free action (see below) to launch darts at each creature during that creature's turn.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт) або @Check[perception|dc:31|traits:action:seek] (майстер) щоб помітити панель керування</p>",
+        "original": "<p>(expert) or @Check[perception|dc:31|traits:action:seek] (master) to notice the control panel</p>"
+      },
+      "hp": {
+        "translate": "щоб зруйнувати панель керування і відключити пастку",
+        "original": "to destroy the control panel and disable the trap"
+      },
+      "items": {
+        "KFCwJINs8Uu4riRs": {
+          "_id": "KFCwJINs8Uu4riRs",
+          "name": {
+            "translate": "Залп Дротиків",
+            "original": "Dart Volley"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота входить у коридор або завершує хід у коридорі</p>\n<hr />\n<p><strong>Ефект</strong> Пастка робить отруйний дротиковий удар по тригерній істоті, потім кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> A creature enters the hallway or ends its turn in the hallway</p>\n<hr />\n<p><strong>Effect</strong> The trap makes a poisoned dart Strike against the triggering creature, then rolls initiative.</p>"
+          }
+        },
+        "3oSIIlS5PZwciZ3k": {
+          "_id": "3oSIIlS5PZwciZ3k",
+          "name": {
+            "translate": "Отруйний Дротик",
+            "original": "Poisoned Dart"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>No multiple attack penalty</p>"
+          }
+        },
+        "hkSWLZaKG41zef8w": {
+          "_id": "hkSWLZaKG41zef8w",
+          "name": {
+            "translate": "Безперервний Обстріл",
+            "original": "Continuous Barrage"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота в активній галереї завершує дію</p>\n<hr />\n<p><strong>Ефект</strong> Пастка робить отруйний дротиковий удар по тригерній істоті.</p>",
+            "original": "<p><strong>Trigger</strong> A creature within the active gallery finishes an action</p>\n<hr />\n<p><strong>Effect</strong> The trap makes a poisoned dart Strike against the triggering creature.</p>"
+          }
+        },
+        "eY731rvsYJZ2o5Sh": {
+          "_id": "eY731rvsYJZ2o5Sh",
+          "name": {
+            "translate": "Отрута Флессет",
+            "original": "Flesset Poison"
+          },
+          "description": {
+            "translate": "<p><strong>Рятівний Кидок</strong> @Check[fortitude|dc:22]</p>\n<p><strong>Максимальна Тривалість</strong> 6 раундів</p>\n<p><strong>Стадія 1</strong> @Damage[1d6[poison]] шкоди і @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбність 1} (1 раунд)</p>\n<p><strong>Стадія 2</strong> @Damage[2d6[poison]] шкоди і @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбність 2} (1 раунд)</p>\n<p><strong>Стадія 3</strong> @Damage[3d6[poison]] шкоди і @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбність 3} (1 раунд)</p>",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:22]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[2d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[3d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 3} (1 round)</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Poisoned Lock": {
+      "_id": "v2xIxZ9ZZ6fJyATF",
+      "name": {
+        "translate": "Отруйний Замок",
+        "original": "Poisoned Lock"
+      },
+      "description": {
+        "translate": "<p>Пружинний отруйний шип прихований біля замкової щілини. Відключення або зламання пастки не відключає і не ламає замок.</p>",
+        "original": "<p>A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:17|name:Disarm Lock Trap|traits:mechanical,trap] (навчений) на пружинному механізмі</p>",
+        "original": "<p>@Check[thievery|dc:17|name:Disarm Lock Trap|traits:mechanical,trap] (trained) on the spring mechanism</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "1bvXbELRBoJTBqsR": {
+          "_id": "1bvXbELRBoJTBqsR",
+          "name": {
+            "translate": "Spring",
+            "original": "Spring"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота намагається відкрити або відкрити замок.</p>\n<hr />\n<p><strong>Ефект</strong> Шип висувається, щоб вдарити тригерну істоту.</p>",
+            "original": "<p><strong>Trigger</strong> A creature tries to unlock or Pick the Lock.</p>\n<hr />\n<p><strong>Effect</strong> A spine extends to Strike the triggering creature.</p>"
+          }
+        },
+        "vFBoAHwlrVTu9wKm": {
+          "_id": "vFBoAHwlrVTu9wKm",
+          "name": {
+            "translate": "Spine",
+            "original": "Spine"
+          }
+        },
+        "HoWRGPkBlJjsL9zl": {
+          "_id": "HoWRGPkBlJjsL9zl",
+          "name": {
+            "translate": "Отрута Кладіс",
+            "original": "Cladis Poison"
+          },
+          "description": {
+            "translate": "<p><strong>Рятівний Кидок</strong> @Check[fortitude|dc:19]</p>\n<p><strong>Максимальна Тривалість</strong> 4 години</p>\n<p><strong>Стадія 1</strong> @Damage[1d6[poison]] шкоди і @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаження 1} (1 година)</p>\n<p><strong>Стадія 2</strong> @Damage[2d6[poison]] шкоди і @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаження 2} (1 година)</p>\n<p><strong>Стадія 3</strong> @Damage[3d6[poison]] шкоди і виснаження 2 (1 година)</p>",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:19]</p>\n<p><strong>Maximum Duration</strong> 4 hours</p>\n<p><strong>Stage 1</strong> @Damage[1d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1} (1 hour)</p>\n<p><strong>Stage 2</strong> @Damage[2d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2} (1 hour)</p>\n<p><strong>Stage 3</strong> @Damage[3d6[poison]] damage and drained 2 (1 hour)</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Poisonous Mold": {
+      "_id": "AqK60DreNDtgDb4o",
+      "name": {
+        "translate": "Отруйна Пліснява",
+        "original": "Poisonous Mold"
+      },
+      "description": {
+        "translate": "<p>Цей потворний гриб випускає отруйні спори, коли істота наближається.</p>",
+        "original": "<p>This grotesque fungus releases poisonous spores when a creature comes near.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:18] (навчений) щоб безпечно видалити плісняву</p>",
+        "original": "<p>@Check[survival|dc:18] (trained) to safely remove the mold</p>"
+      },
+      "reset": {
+        "translate": "<p>Якщо не знищена повністю (зазвичай кислотою або вогнем), пліснява відростає протягом 2 тижнів.</p>",
+        "original": "<p>Unless entirely eradicated (typically with acid or fire), the mold regrows over the course of 2 weeks.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "748inOlksdAeFB0A": {
+          "_id": "748inOlksdAeFB0A",
+          "name": {
+            "translate": "Живлення Гнилі",
+            "original": "Feed on Decay"
+          },
+          "description": {
+            "translate": "<p>Пліснява розростається, живлячись кров’ю або гниллю. Якщо в будь-який момент істота отримує кровотечу, перебуваючи поруч із пліснявою, або поруч із пліснявою знаходиться вмираюче чи мертве тіло, пліснява розростається, займаючи всі клітинки, суміжні з її поточним простором. Це може статися лише раз на день.</p>",
+            "original": "<p>The mold expands when fed by blood or decay. If at any point a creature takes bleed damage while adjacent to the mold or a dying or dead body is adjacent to the mold, the mold grows to expand into every square adjacent to its current space. This can happen only once per day.</p>"
+          }
+        },
+        "ZN34eJalpkCoNMeM": {
+          "_id": "ZN34eJalpkCoNMeM",
+          "name": {
+            "translate": "Вибух Спор",
+            "original": "Spore Burst"
+          },
+          "description": {
+            "translate": "<p><strong>Частота</strong> раз на день</p>\n<p><strong>Тригер</strong> Істота торкається, вдаряє або пошкоджує плісняву</p>\n<hr />\n<p><strong>Ефект</strong> Пліснява вибухає спорами і скупченнями, завдаючи @Damage[(2d6+6)[poison]] шкоди істотам у межах 10 футів з рятівним кидком @Check[fortitude|dc:18|basic].</p>",
+            "original": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A creature touches the mold, hits it, or damages it</p>\n<hr />\n<p><strong>Effect</strong> The mold explodes in a burst of spores and mold clusters, dealing @Damage[(2d6+6)[poison]] damage to creatures within 10 feet of it, with a @Check[fortitude|dc:18|basic] save.</p>"
+          }
+        },
+        "h7tMZClq2efB1OYA": {
+          "_id": "h7tMZClq2efB1OYA",
+          "name": {
+            "translate": "Плаваючі Спори",
+            "original": "Floating Spores"
+          },
+          "description": {
+            "translate": "<p>5 футів. Істота, що входить або починає свій хід в аурі, отримує @Damage[2d6[poison]] шкоди.</p>",
+            "original": "<p>5 feet. A creature that enters or starts its turn in the aura takes @Damage[2d6[poison]] damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Polymorph Trap": {
+      "_id": "H8CPGJn81JSTCRNx",
+      "name": {
+        "translate": "Пастка Перетворення",
+        "original": "Polymorph Trap"
+      },
+      "description": {
+        "translate": "<p>Друїдична гліфа намагається перетворити порушника на тварину.</p>",
+        "original": "<p>A Druidic glyph tries to transforms a trespasser into an animal.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:32|name:Drain Glyph's Power|traits:action:disable-a-device] (майстер) щоб безпечно відвести силу гліфи, або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розсіювання Магії} (6 рівень; контр DC 30) щоб нейтралізувати гліфу</p>",
+        "original": "<p>@Check[thievery|dc:32|name:Drain Glyph's Power|traits:action:disable-a-device] (master) to drain the glyph's power harmlessly, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (6th rank; counteract DC 30) to counteract the glyph</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "TxhvkFafggYWv5D7": {
+          "_id": "TxhvkFafggYWv5D7",
+          "name": {
+            "translate": "Проклята Метаморфоза",
+            "original": "Cursed Metamorphosis"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота рухається в межах 30 футів від гліфи, не вимовляючи пароля друїдською</p>\n<hr />\n<p><strong>Ефект</strong> Істота стає ціллю @UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{Проклятої Метаморфози} (рятівний кидок @Check[will|dc:32]).</p>",
+            "original": "<p><strong>Trigger</strong> A creature moves within 30 feet of the glyph without speaking the passphrase in Druidic</p>\n<hr />\n<p><strong>Effect</strong> The creature is targeted by @UUID[Compendium.pf2e.spells-srd.Item.dN8QBNuTiaBHCKUe]{Cursed Metamorphosis} (@Check[will|dc:32] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-12",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Quicksand": {
+      "_id": "C6nFe8SCWJ8FmLOT",
+      "name": {
+        "translate": "Quicksand",
+        "original": "Quicksand"
+      },
+      "description": {
+        "translate": "<p>Пляма води і піску шириною 15 футів намагається потопити істот, які на неї ступають.</p>",
+        "original": "<p>A 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:18|name:Safely Disturb the Surface] (навчений) щоб порушити поверхню</p>",
+        "original": "<p>@Check[survival|dc:18|name:Safely Disturb the Surface] (trained) to disturb the surface</p>"
+      },
+      "reset": {
+        "translate": "<p>Небезпека все ще потоплює будь-кого, хто в неї заходить, але поверхня не приховується знову, доки не вляжеться протягом 24 годин.</p>",
+        "original": "<p>The hazard still submerges anyone who walks in, but the surface doesn't become hidden again until it settles over the course of 24 hours.</p>"
+      },
+      "routine": {
+        "translate": "<p>(1 дія) Під час своєї ініціативи рідкий пісок тягне вниз кожну істоту в ньому. Істота, що була занурена по пояс, стає зануреною по шию, а істота, що була занурена по шию, тягнеться під воду і має затримати дихання, щоб уникнути задушення. Істота в рідкому піску може зробити перевірку плавання @Check[athletics|dc:20|traits:action:swim], щоб або піднятися на один рівень, якщо вона занурена по шию або глибше, або переміститися на 5 футів, якщо занурена лише по пояс. При критичному провалі істоту тягне вниз на один рівень. Істота, що випливає з рідкого піску, уникає небезпеки і стає @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Лежачою} у клітинці поруч із плямою рідкого піску. Інші істоти можуть допомогти їй, зазвичай використовуючи мотузку або подібну допомогу, або намагаються витягти істоту своїм власним кидком @Check[athletics|dc:20|name:Aid Another Creature in Quicksand], з такими ж результатами, як і при спробі істоти.</p>",
+        "original": "<p>(1 action) On its initiative, the quicksand pulls down each creature within it. A creature that was submerged up to its waist becomes submerged up to its neck, and a creature that was submerged up to its neck is pulled under and has to hold its breath to avoid suffocation. A creature in the quicksand can attempt a @Check[athletics|dc:20|traits:action:swim] check to Swim to either raise itself by one step if it's submerged to its neck or worse, or to move 5 feet if it's submerged only up to its waist. On a critical failure, the creature is pulled down one step. A creature that Swims out of the quicksand escapes the hazard and is @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} in a space adjacent to the quicksand patch. Other creatures can Aid the creature, typically by using a rope or similar aid, or attempt to pull the creature out with their own @Check[athletics|dc:20|name:Aid Another Creature in Quicksand] check, with the same results as if the creature attempted the check.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений) (або -10 і без мінімальної кваліфікації, якщо поверхня порушена)</p>",
+        "original": "<p>(trained) (or -10 and no minimum proficiency if the surface is disturbed)</p>"
+      },
+      "items": {
+        "Ey8CknllSG5csxdG": {
+          "_id": "Ey8CknllSG5csxdG",
+          "name": {
+            "translate": "Submerge",
+            "original": "Submerge"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Велика або менша істота ступає на рідкий пісок</p>\n<hr />\n<p><strong>Ефект</strong> Тригерна істота тоне в рідкому піску по пояс. Рідкий пісок кидає ініціативу, якщо ще не кидав.</p>",
+            "original": "<p><strong>Trigger</strong> A Huge or smaller creature walks onto the quicksand</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature sinks into the quicksand up to its waist. The quicksand rolls initiative if it hasn't already.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Scythe Blades": {
+      "_id": "7VqibTAEXXX6PIhh",
+      "name": {
+        "translate": "Косиці Леза",
+        "original": "Scythe Blades"
+      },
+      "description": {
+        "translate": "<p>Два леза, кожне приховане в 15-футовому жолобі на стелі, обидва з’єднані з тросом.</p>",
+        "original": "<p>Two blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:21|name:Disable a Blade] (навчений) щоб відключити кожне лезо</p>",
+        "original": "<p>@Check[thievery|dc:21|name:Disable a Blade] (trained) to disable each blade</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка скидається через 15 хвилин.</p>",
+        "original": "<p>The trap resets after 15 minutes.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "0fjRyLkdj1a2kfGM": {
+          "_id": "0fjRyLkdj1a2kfGM",
+          "name": {
+            "translate": "Падаючі Косиці",
+            "original": "Falling Scythes"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Трос натягується або перерізається.</p>\n<hr />\n<p><strong>Ефект</strong> Обидва леза опускаються, кожне вдаряючи по всіх істотах під жолобами на стелі.</p>",
+            "original": "<p><strong>Trigger</strong> The trip wire is pulled or severed.</p>\n<hr />\n<p><strong>Effect</strong> Both blades swing down, each one Striking all creatures under the ceiling grooves.</p>"
+          }
+        },
+        "oaNkRH35bkjdSm6P": {
+          "_id": "oaNkRH35bkjdSm6P",
+          "name": {
+            "translate": "Scythe",
+            "original": "Scythe"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>No multiple attack penalty</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Second Chance": {
+      "_id": "8ewUvJlvn6LVjoXJ",
+      "name": {
+        "translate": "Другий Шанс",
+        "original": "Second Chance"
+      },
+      "description": {
+        "translate": "<p>Потужна охоронна магія, пов’язана з об’єктом або місцем, намагається повернути істоту і її союзників до молодшого віку.</p>",
+        "original": "<p>Powerful warding magic tied to an object or location tries to regress the ages of a creature and its allies.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:46|name:Dismantle Spell|traits:action:disable-a-device] (легендарний) щоб розібрати закляття по частинах, з закритими очима, згадуючи кожен яскравий спогад у порядку, починаючи з найдавнішого</p>",
+        "original": "<p>@Check[thievery|dc:46|name:Dismantle Spell|traits:action:disable-a-device] (legendary) to take apart the spell one tiny piece at a time, with eyes closed, while recalling every vivid life memory in order, starting from the earliest memory</p>"
+      },
+      "stealth": {
+        "translate": "<p>(легендарний)</p>",
+        "original": "<p>(legendary)</p>"
+      },
+      "items": {
+        "ddB24NYRgK5YbbcR": {
+          "_id": "ddB24NYRgK5YbbcR",
+          "name": {
+            "translate": "На Початку",
+            "original": "In the Beginning"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота намагається вкрасти об’єкт або проникнути в місце. Якщо хтось використовує замінника або підробку для крадіжки чи проникнення, пастка безпомилково націлюється на справжнього винуватця чи винуватців на будь-якій відстані — навіть через площини.</p>\n<hr />\n<p><strong>Ефект</strong> Тригерна істота і до п’яти спільників миттєво повертаються до немовлят, втрачаючи всі спогади, класові здібності та інші навички, набуті протягом життя (@Check[fortitude|dc:44] скасовує). Зворотне перетворення майже неможливе, вимагає потужної магії, як-от @UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{Бажання}.</p>",
+            "original": "<p><strong>Trigger</strong> A creature tries to steal the object or intrude upon the location. If someone uses a proxy or dupe for the theft or intrusion, the trap unerringly targets the true perpetrator or perpetrators at any distance—even across planes.</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature and up to five coconspirators instantly revert to infants, losing all memories, class abilities, and other skills acquired during their lives (@Check[fortitude|dc:44] negates). Reversing this effect is nearly impossible, requiring powerful magic such as @UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{Wish}.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-21",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Shrieker": {
+      "_id": "vTdWEBzJzltMM6r4",
+      "name": {
+        "translate": "Shrieker",
+        "original": "Shrieker"
+      },
+      "description": {
+        "translate": "<p>Цей гриб розміром з людину фіолетового кольору видає пронизливий крик, коли його турбують.</p>",
+        "original": "<p>This human-sized purple mushroom emits a piercing shriek when disturbed.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:18|name:Disable Air Sac|traits:environmental,fungus] щоб обережно підійти і перерізати повітряну мішечок гриба, не спрацювавши крикуна</p>",
+        "original": "<p>@Check[survival|dc:18|name:Disable Air Sac|traits:environmental,fungus] to carefully approach and cut the mushroom's air sac without triggering the shrieker</p>"
+      },
+      "reset": {
+        "translate": "<p>1 хвилина</p>",
+        "original": "<p>1 minute</p>"
+      },
+      "items": {
+        "sBSa8YzXeDYM0ODl": {
+          "_id": "sBSa8YzXeDYM0ODl",
+          "name": {
+            "translate": "Shriek",
+            "original": "Shriek"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота або джерело світла наближається на відстань 10 футів від крикуна або крикун отримує шкоду.</p>\n<hr />\n<p><strong>Ефект</strong> Крикун видає оглушливий крик, завдаючи @Damage[1d6[sonic]] шкоди істотам у межах @Template[emanation|distance:30]{30 футів} (рятівний кидок @Check[fortitude|dc:16|basic|traits:auditory]; істоти, які критично провалили цей рятівний кидок, стають @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Глухими} на 1 хвилину).</p>",
+            "original": "<p><strong>Trigger</strong> A creature or light source approaches within 10 feet of the shrieker or the shrieker takes damage.</p>\n<hr />\n<p><strong>Effect</strong> The shrieker emits a deafening screech that deals @Damage[1d6[sonic]] damage to creatures within @Template[emanation|distance:30]{30 feet} (@Check[fortitude|dc:16|basic|traits:auditory] save; creatures that critically fail this saving throw are @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} for 1 minute).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Slamming Door": {
+      "_id": "4O7wKZdeAemTEbvG",
+      "name": {
+        "translate": "Гучно Закриваючі Двері",
+        "original": "Slamming Door"
+      },
+      "description": {
+        "translate": "<p>Панелі, чутливі до тиску, у підлозі з’єднані зі кам’яною плитою, прихованою в стелі коридору.</p>",
+        "original": "<p>Pressure-sensitive panels in the floor connect to a stone slab hidden in a hallway's ceiling.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:15|name:Disable Floor Panel] (навчений) на панелях підлоги перед падінням плити</p>",
+        "original": "<p>@Check[thievery|dc:15|name:Disable Floor Panel] (trained) on the floor panels before the slab falls</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "34y07VryqAVeJhfG": {
+          "_id": "34y07VryqAVeJhfG",
+          "name": {
+            "translate": "Різко Закрити",
+            "original": "Slam Shut"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> На будь-яку плитку підлоги тиснуть.</p>\n<hr />\n<p><strong>Ефект</strong> Двері падають, перекриваючи коридор. Кам’яна плита завдає @Damage[3d8[bludgeoning]] шкоди кожному під або поруч із плитою, коли падає, і відштовхує їх у випадковому напрямку. Істота, що успішно проходить рятівний кидок @Check[reflex|dc:17|traits:damaging-effect], не отримує шкоди і відкотиться в випадковому напрямку. При критичному успіху вона може обрати напрямок.</p>\n<p>Підняття впалої плити вимагає успішної перевірки @Check[athletics|dc:25|name:Lift a Slab Athletics|showDC:all].</p>\n<p>Удар по панелях підлоги спрацьовує пастку. Плита має той самий КЗ і рятівні кидки, що й пастка, але має Твердість 12, ХП 48 (BT 24).</p>",
+            "original": "<p><strong>Trigger</strong> Pressure is placed on any floor tile.</p>\n<hr />\n<p><strong>Effect</strong> The door falls, closing off the hallway. The stone slab deals @Damage[3d8[bludgeoning]] damage to anyone beneath or adjacent to the slab when it drops and pushes them out of its space in a random direction. A creature that succeeds at a @Check[reflex|dc:17|traits:damaging-effect] save takes no damage and rolls out of the way in a random direction. On a critical success, they can choose the direction.</p>\n<p>Lifting the fallen slab requires a successful @Check[athletics|dc:25|name:Lift a Slab Athletics|showDC:all] check.</p>\n<p>Hitting the floor panels triggers the trap. The slab uses the same AC and saves as the trap, but it has Hardness 12, HP 48 (BT 24).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Snowfall": {
+      "_id": "VA4VL3kVUxBYbwRf",
+      "name": {
+        "translate": "Snowfall",
+        "original": "Snowfall"
+      },
+      "description": {
+        "translate": "<p>Розсипаний сніг і лід накопичилися на високій поверхні, як-от гілка дерева або дах. Його утримання на поверхні хитке, і він, ймовірно, впаде, якщо поверхня рухнеться.</p>",
+        "original": "<p>Loose snow and ice have built up on a high surface, such as a tree branch or a rooftop. Its grip on the surface is tenuous, and it is likely to fall if the surface moves.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:19|name:Safely Dislodge the Snow] (навчений) щоб безпечно зрушити сніг або завдати будь-яку кількість вогняної шкоди, щоб знищити небезпеку без її спрацювання</p>",
+        "original": "<p>@Check[survival|dc:19|name:Safely Dislodge the Snow] (trained) to safely dislodge the snow, or deal any amount of fire damage to destroy the hazard without triggering it</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "hoSnbd89PgLy85mP": {
+          "_id": "hoSnbd89PgLy85mP",
+          "name": {
+            "translate": "Snowdrop",
+            "original": "Snowdrop"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота рухається під снігом.</p>\n<hr />\n<p><strong>Ефект</strong> Лід і сніг падають на тригерну істоту, завдаючи @Damage[(2d6+3)[bludgeoning]] шкоди (рятівний кидок @Check[reflex|dc:18|basic]) і змочуючи її одяг. Поки вона не переодягнеться або не проведе принаймні годину в зоні з нормальною або вищою температурою, вона вважає холодне середовище на один ступінь холоднішим (наприклад, помірний холод як сильний холод).</p>",
+            "original": "<p><strong>Trigger</strong> A creature moves beneath where the snowfall is resting.</p>\n<hr />\n<p><strong>Effect</strong> Ice and snow fall on the triggering creature, dealing @Damage[(2d6+3)[bludgeoning]] damage (@Check[reflex|dc:18|basic] save) and soaking their clothing. Until they change into fresh clothing or spend at least an hour in an area of normal or higher temperature, they treat cold environments as one step colder (for example, mild cold as severe cold).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-0",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Spear Launcher": {
+      "_id": "vlMuFskctUvjJe8X",
+      "name": {
+        "translate": "Запускальник Копій",
+        "original": "Spear Launcher"
+      },
+      "description": {
+        "translate": "<p>Настінна гніздо, завантажене коп’ям, з’єднане з плиткою підлоги в одному 5-футовому квадраті.</p>",
+        "original": "<p>A wall socket loaded with a spear connects to a floor tile in one 5-foot square.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:18|name:Disable Thievery] (навчений) на плитці підлоги або настінному гнізді</p>",
+        "original": "<p>@Check[thievery|dc:18|name:Disable Thievery] (trained) on the floor tile or wall socket</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "0KrOaCLFSEcIdcej": {
+          "_id": "0KrOaCLFSEcIdcej",
+          "name": {
+            "translate": "Spear",
+            "original": "Spear"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Тиск прикладений до плитки підлоги.</p>\n<hr />\n<p><strong>Ефект</strong> Пастка стріляє коп’ям, роблячи удар по істоті або об’єкту на плитці підлоги.</p>",
+            "original": "<p><strong>Trigger</strong> Pressure is applied to the floor tile.</p>\n<hr />\n<p><strong>Effect</strong> The trap shoots a spear, making a Strike against the creature or object on the floor tile.</p>"
+          }
+        },
+        "B486xwl3ZYYCqNyw": {
+          "_id": "B486xwl3ZYYCqNyw",
+          "name": {
+            "translate": "Spear",
+            "original": "Spear"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Spectral Reflection": {
+      "_id": "Uw2iVgbbeyn3mOjt",
+      "name": {
+        "translate": "Спектральне Відображення",
+        "original": "Spectral Reflection"
+      },
+      "description": {
+        "translate": "<p>Відображення в дзеркалі тонко викривляється і спотворюється, його вираз набуває тривожної зловісної усмішки.</p>",
+        "original": "<p>The reflection in the mirror subtly twists and distorts, its expression taking on an unnerving sneer of malice.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[religion|dc:23|name:Exorcise Spirit] (навчений) щоб вигнати духа, або @Check[thievery|dc:23|name:Cover the Mirror|traits:action:disable-a-device] (навчений) щоб швидко накрити дзеркало</p>",
+        "original": "<p>@Check[religion|dc:23|name:Exorcise Spirit] (trained) to exorcise the spirit, or @Check[thievery|dc:23|name:Cover the Mirror|traits:action:disable-a-device] (trained) to quickly cover the mirror</p>"
+      },
+      "reset": {
+        "translate": "<p>Привид відновлюється через 1 хвилину, проявляючись у будь-якому дзеркалі в межах його зони впливу (див. Особливості нижче).</p>",
+        "original": "<p>The haunt re-forms after 1 minute, manifesting in any mirror within its infused area (see Special below).</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "hEtVGo9EpKcXlhPI": {
+          "_id": "hEtVGo9EpKcXlhPI",
+          "name": {
+            "translate": "Спектральне Проколювання",
+            "original": "Spectral Impale"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Жива істота наближається на відстань 15 футів від дзеркала, і дзеркало освітлене тьмяним або яскравішим світлом.</p>\n<hr />\n<p><strong>Ефект</strong> Тіньові шипи пронизують тіло відображеної істоти, коли привид робить удар тіньовими шипами.</p>",
+            "original": "<p><strong>Trigger</strong> A living creature approaches within 15 feet of the mirror, and the mirror is lit with dim or brighter light.</p>\n<hr />\n<p><strong>Effect</strong> Shadowy barbs impale the body of the reflected creature as the haunt makes a shadow barbs Strike.</p>"
+          }
+        },
+        "wdA0nAhiSTY7znrs": {
+          "_id": "wdA0nAhiSTY7znrs",
+          "name": {
+            "translate": "Тіньові Шипи",
+            "original": "Shadow Barbs"
+          }
+        },
+        "17gJOHIRtWXfYMKa": {
+          "_id": "17gJOHIRtWXfYMKa",
+          "name": {
+            "translate": "Висмоктування Життєвої Сили",
+            "original": "Sap Vitality"
+          },
+          "description": {
+            "translate": "<p>Істота, уражена тіньовими шипами відображення, має зробити рятівний кидок @Check[fortitude|dc:22], оскільки привид намагається витягти частину її життєвої сутності в дзеркало. Ціль отримує @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаження 1} при провалі рятівного кидка або @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаження 2} при критичному провалі.</p>",
+            "original": "<p>A creature hit by the reflection's shadow barbs must attempt a @Check[fortitude|dc:22] save as the haunt tries to draw a portion of its vital essence into the mirror. The target is @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1} on a failed saving throw, or @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2} on a critical failure.</p>"
+          }
+        },
+        "V7tWWuB9NSEsMEae": {
+          "_id": "V7tWWuB9NSEsMEae",
+          "name": {
+            "translate": "Special",
+            "original": "Special"
+          },
+          "description": {
+            "translate": "<p>Спектральні відображення часто пронизують цілі будівлі, проявляючись у будь-якому достатньо великому дзеркалі. Наведені приклади Хіт Поінтів і Твердісті представляють типове дзеркало, посилене привидом; на ваш розсуд, привид може з’являтися в дзеркальних поверхнях, які важче зруйнувати. Знищення прояву через шкоду руйнує поверхню, не дозволяючи привиду використовувати її знову. Якщо цей привид з’являється в зоні з багатьма дзеркалами, розгляньте можливість подвоїти або потроїти досвід для гравців за типову просту небезпеку.</p>",
+            "original": "<p>Spectral reflections often infuse entire buildings, manifesting in any sufficiently large mirror. The example Hit Points and Hardness given represent a typical mirror reinforced by the haunt; at your discretion, the haunt might appear in reflective surfaces that are harder to destroy. Defeating a manifestation through damage destroys the surface, preventing the haunt from using it again. If this haunt appears in an area with many mirrors, consider giving PCs double or even triple the XP for a typical simple hazard.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-5",
+          "rarity-common",
+          "type-hazard",
+          "hazard-haunt"
+        ]
+      }
+    },
+    "Spinning Blade Pillar": {
+      "_id": "HnPd9Vqh5NHKEdRq",
+      "name": {
+        "translate": "Обертальний Колон Лез",
+        "original": "Spinning Blade Pillar"
+      },
+      "description": {
+        "translate": "<p>Металевий стовп з трьома гострими обертальними лезами прихований у підлозі, з’єднаний з тригерними плитками в до восьми плитках підлоги і прихованою панеллю керування в межах 30 футів.</p>",
+        "original": "<p>A metal pole with three razor-sharp spinning blades is hidden in the floor, connected to trigger plates in up to eight floor tiles and a hidden control panel within 30 feet.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:21|name:Disable Pillar|traits:action:disable-a-device] (навчений) двічі на стовпі, або @Check[thievery|dc:19|name:Disable Trap (Control Panel)|traits:action:disable-a-device] (експерт) один раз на панелі керування деактивує всю пастку. Знищення панелі керування запобігає відключенню пастки через панель і автоматичному відключенню.</p>",
+        "original": "<p>@Check[thievery|dc:21|name:Disable Pillar|traits:action:disable-a-device] (trained) twice on the pillar, or @Check[thievery|dc:19|name:Disable Trap (Control Panel)|traits:action:disable-a-device] (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically.</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка деактивується і скидається через 1 хвилину.</p>",
+        "original": "<p>The trap deactivates and resets after 1 minute.</p>"
+      },
+      "routine": {
+        "translate": "<p>(3 дії) Пастка використовує першу дію, щоб зробити удар обертальним лезом по кожній суміжній істоті, другу дію, щоб рухатися прямо в випадковому напрямку (кидайте [[/gmr 1d4 #Direction]], щоб визначити напрямок), і третю дію, щоб зробити удар обертальним лезом по кожній суміжній істоті. Ця пастка не отримує штрафу за множинні атаки.</p>",
+        "original": "<p>(3 actions) The trap uses its first action to make a spinning blade Strike against each adjacent creature, its second action to move straight in a random direction (roll [[/gmr 1d4 #Direction]] to determine the direction), and its third to make a spinning blade Strike against each adjacent creature. This trap doesn't take a multiple attack penalty.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений) або @Check[perception|dc:26|traits:action:seek] (експерт) щоб помітити панель керування</p>",
+        "original": "<p>(trained) or @Check[perception|dc:26|traits:action:seek] (expert) to notice the control panel</p>"
+      },
+      "hp": {
+        "translate": "Твердість панелі: 5, ХП панелі: 20 (BT 10)",
+        "original": "Panel Hardness: 5, Panel HP: 20 (BT 10)"
+      },
+      "items": {
+        "F0I1pLJQm1AQtXPH": {
+          "_id": "F0I1pLJQm1AQtXPH",
+          "name": {
+            "translate": "Піднімаючийся Колон",
+            "original": "Rising Pillar"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота ступає на одну з плиток підлоги з пасткою</p>\n<hr />\n<p><strong>Ефект</strong> Пастка вискакує на перетині сітки і робить удар обертальним лезом по одній суміжній істоті (якщо така є), потім кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> A creature steps on one of the trapped floor tiles</p>\n<hr />\n<p><strong>Effect</strong> The trap pops up in a grid intersection and makes a spinning blade Strike against one adjacent creature (if any), then rolls initiative.</p>"
+          }
+        },
+        "6wV9i41Jd4HThaAi": {
+          "_id": "6wV9i41Jd4HThaAi",
+          "name": {
+            "translate": "Speed",
+            "original": "Speed"
+          },
+          "description": {
+            "translate": "<p>10 футів</p>",
+            "original": "<p>10 feet</p>"
+          }
+        },
+        "vS5xxWVCLY1BNE4O": {
+          "_id": "vS5xxWVCLY1BNE4O",
+          "name": {
+            "translate": "Обертальне Лезо",
+            "original": "Spinning Blade"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Sportlebore": {
+      "_id": "1egK7HFAFdHxMS9N",
+      "name": {
+        "translate": "Sportlebore",
+        "original": "Sportlebore"
+      },
+      "description": {
+        "translate": "<p>Спортлебор ховається серед їжі на тарілці або в пакеті сухпайка.</p>",
+        "original": "<p>A sportlebore hides amid the victuals on a plate of food or within a pack of trail rations.</p>"
+      },
+      "disable": {
+        "translate": "<p>Істота, що помічає спортлебора, може автоматично видалити його з їжі як дію Взаємодії.</p>",
+        "original": "<p>A creature that notices the sportlebore can remove it from the food it is hidden within automatically as an Interact action.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "items": {
+        "WleycA2DC7Pz8RYR": {
+          "_id": "WleycA2DC7Pz8RYR",
+          "name": {
+            "translate": "Мімік Їжі",
+            "original": "Mimic Food"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота їсть їжу, в якій ховається спортлебор</p>\n<hr />\n<p><strong>Ефект</strong> Спортлебор швидко розмножується в шлунку господаря, заражаючи його спортлеборською інфестацією</p>",
+            "original": "<p><strong>Trigger</strong> A creature eats food the sportlebore is hidden within</p>\n<hr />\n<p><strong>Effect</strong> The sportlebore rapidly multiplies in the host's stomach, exposing the host to sportlebore infestation</p>"
+          }
+        },
+        "nCcx1LK7XrbDnVXI": {
+          "_id": "nCcx1LK7XrbDnVXI",
+          "name": {
+            "translate": "Інфестація Спортлебора",
+            "original": "Sportlebore Infestation"
+          },
+          "description": {
+            "translate": "<p><strong>Рятівний Кидок</strong> @Check[fortitude|dc:22|basic]</p>\n<p><strong>Стадія 1</strong> носій без симптомів (1 день)</p>\n<p><strong>Стадія 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблення 1} (1 година)</p>\n<p><strong>Стадія 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблення 2} (1 година)</p>\n<p><strong>Стадія 4</strong> @Damage[4d6[bludgeoning]] шкоди (рятівний кидок @Check[fortitude|dc:25|basic]) коли господар болісно вивергає рій спортлеборів і повертається до стадії 1</p>",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:22|basic]</p>\n<p><strong>Stage 1</strong> carrier with no ill effect (1 day)</p>\n<p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 hour)</p>\n<p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 hour)</p>\n<p><strong>Stage 4</strong> @Damage[4d6[bludgeoning]] damage (@Check[fortitude|dc:25|basic] save) as the host painfully vomits out a sportlebore swarm and returns to stage 1</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-common",
+          "type-hazard",
+          "hazard-animal"
+        ]
+      }
+    },
+    "Steam Vents": {
+      "_id": "OSPYSuckHhHl4Cr9",
+      "name": {
+        "translate": "Парові Виходи",
+        "original": "Steam Vents"
+      },
+      "description": {
+        "translate": "<p>Великі трубопроводи під тиском, з’єднані з тросом, налаштовані на випуск парового вибуху на порушників.</p>",
+        "original": "<p>Large pressurized pipes connected to a trip wire are rigged to release a blast of steam on trespassers.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:22|name:Disconnect the trip wire|traits:mechanical,trap,hazard]{Крадіжка (навчений)} щоб від’єднати трос або @Check[crafting|dc:24|name:Reduce the pressure|traits:mechanical,trap,hazard]{Ремесло (експерт)} щоб обережно знизити тиск і запобігти вибуху</p>",
+        "original": "<p>@Check[thievery|dc:22|name:Disconnect the trip wire|traits:mechanical,trap,hazard]{Thievery (trained)} to disconnect the trip wire or a @Check[crafting|dc:24|name:Reduce the pressure|traits:mechanical,trap,hazard]{Crafting (expert)} to carefully reduce the pressure and prevent the blast</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "SvqJNCRH2eI1jZk1": {
+          "_id": "SvqJNCRH2eI1jZk1",
+          "name": {
+            "translate": "Парова Вибух",
+            "original": "Steam Blast"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Натягнутий дріт тягнуть або перерізають, зазвичай коли істота проходить крізь квадрат із дротом</p>\n<hr />\n<p><strong>Ефект</strong> Із труб виривається пара, завдаючи всім істотам у межах 15 футів @Damage[3d6[bludgeoning],3d6[fire]]{3d6 дробильної шкоди та 3d6 шкоди вогнем} (@Check[reflex|dc:24|basic|name:Avoid the erupting steam|traits:mechanical,trap,hazard]). Істоти, що критично провалили спаскидок, падають @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{навзнак}.</p>",
+            "original": "<p><strong>Trigger</strong> The trip wire is pulled or severed, typically because a creature walked through the square with the trip wire</p>\n<hr />\n<p><strong>Effect</strong> Steam erupts from the pipes, dealing @Damage[3d6[bludgeoning],3d6[fire]]{3d6 bludgeoning damage and 3d6 fire damage} (@Check[reflex|dc:24|basic|name:Avoid the erupting steam|traits:mechanical,trap,hazard]) to all creatures within 15 feet. Creatures that critically fail their save are knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-uncommon",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Summoning Rune": {
+      "_id": "nO4osrBRnpWKFCMP",
+      "name": {
+        "translate": "Руна Виклику",
+        "original": "Summoning Rune"
+      },
+      "description": {
+        "translate": "<p>Хмара невидимих магічних сенсорів у радіусі 10 футів оточує невидиму стіну або підлогову руну розміром з істоту, яку викликають.</p>",
+        "original": "<p>A cloud of invisible magical sensors in a 10-foot radius surrounds an invisible wall or floor rune the size of the creature to be summoned.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[acrobatics|dc:15|name:Approach Rune] щоб підійти, не спрацювавши пастку, а потім @Check[thievery|dc:17|name:Erase Rune|traits:action:disable-a-device] (навчений) щоб стерти руну, або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розсіювання Магії} (1 рівень; контр DC 15) щоб нейтралізувати руну</p>",
+        "original": "<p>@Check[acrobatics|dc:15|name:Approach Rune] to approach without triggering the trap followed by @Check[thievery|dc:17|name:Erase Rune|traits:action:disable-a-device] (trained) to erase the rune, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (1st rank; counteract DC 15) to counteract the rune</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка скидається щодня на світанку.</p>",
+        "original": "<p>The trap resets each day at dawn.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(навчений)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "1M9OasbKWAPME9IC": {
+          "_id": "1M9OasbKWAPME9IC",
+          "name": {
+            "translate": "Виклик Монстра",
+            "original": "Summon Monster"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота входить у хмару магічних сенсорів</p>\n<hr />\n<p><strong>Ефект</strong> Ця пастка викликає конкретну істоту 1-го рівня, визначену під час створення пастки. Істота кидає ініціативу і залишається протягом [[/br 2d6 #rounds]]{2d6 раундів}, після чого закляття закінчується і істота зникає. Істота також зникає, якщо хтось відключить пастку до закінчення тривалості. Викликана істота може використовувати 3 дії кожного раунду і може використовувати реакції, на відміну від більшості викликаних істот.</p>",
+            "original": "<p><strong>Trigger</strong> A creature enters the cloud of magical sensors</p>\n<hr />\n<p><strong>Effect</strong> This trap summons a specific 1st-level creature, determined when the trap is created. The creature rolls initiative and remains for [[/br 2d6 #rounds]]{2d6 rounds}, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Telekinetic Swarm Trap": {
+      "_id": "AM3YY2Zfe2ChJHd7",
+      "name": {
+        "translate": "Пастка Телекінетичного Рою",
+        "original": "Telekinetic Swarm Trap"
+      },
+      "description": {
+        "translate": "<p>Три непомітні прикраси, наповнені телекінетичною магією, тягнуть об’єкти і частини самої кімнати в обертові хмари уламків, які атакують усіх істот у кімнаті.</p>",
+        "original": "<p>Three innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack all creatures in the room.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:27|name:Take Apart Cloud|traits:action:disable-a-device] (експерт) щоб розібрати телекінетичну хмару, @Check[thievery|dc:32|name:Disable Telekinetic Decoration|traits:action:disable-a-device] (майстер) щоб відключити кожну телекінетичну прикрасу, або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розсіювання Магії} (6 рівень; контр DC 30) щоб нейтралізувати кожну телекінетичну прикрасу</p>",
+        "original": "<p>@Check[thievery|dc:27|name:Take Apart Cloud|traits:action:disable-a-device] (expert) to take apart a telekinetic cloud, @Check[thievery|dc:32|name:Disable Telekinetic Decoration|traits:action:disable-a-device] (master) to disable each telekinetic decoration, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (6th rank; counteract DC 30) to counteract each telekinetic decoration</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка деактивується і скидається через 10 хвилин після того, як у неї немає цільових істот (бо істоти або відійшли занадто далеко, або загинули).</p>",
+        "original": "<p>The trap deactivates and resets 10 minutes after it has no target creatures (because the creatures either moved too far away or died).</p>"
+      },
+      "routine": {
+        "translate": "<p>(9 дій) Кожна прикраса використовує 3 дії пастки кожного ходу, і пастка втрачає 3 дії за кожну відключену прикрасу. Прикраса використовує першу дію, щоб перемістити свою хмару об’єктів до 200 футів, другу дію, щоб зробити удари об’єктами, і третю дію, щоб додати більше об’єктів у хмару, збільшуючи шкоду на 1d12 (до максимуму 4d12+10). Якщо хмара прикраси вже має максимальну шкоду, вона нічого не робить третьою дією.</p>\n<p>Якщо хмара прикраси знищена, прикраса замість цього витрачає першу дію, щоб створити нову хмару об’єктів у кімнаті (з початковим значенням шкоди), а потім другу і третю дії, щоб рухати хмару і атакувати.</p>",
+        "original": "<p>(9 actions) Each decoration uses 3 of the trap's actions each turn, and the trap loses 3 actions each turn for every decoration that is disabled. A decoration uses its first action to move its cloud of objects up to 200 feet, its second action to make the objects Strike, and its third action to add more objects to the cloud, increasing its damage by 1d12 (to a maximum of 4d12+10). If a decoration's cloud is already at maximum damage, it does nothing with its third action.</p>\n<p>If a decoration's cloud has been destroyed, the decoration instead spends its first action to create a new cloud of objects inside the room (using the starting damage value) and then its second and third actions to have the cloud move and attack.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "hp": {
+        "translate": "на кожну телекінетичну хмару",
+        "original": "per telekinetic cloud"
+      },
+      "items": {
+        "SvVSBExFgbjDrBvW": {
+          "_id": "SvVSBExFgbjDrBvW",
+          "name": {
+            "translate": "Agitate",
+            "original": "Agitate"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота перебуває в кімнаті принаймні 6 секунд.</p>\n<hr />\n<p><strong>Ефект</strong> Кожна телекінетична прикраса створює хмару об’єктів у кімнаті (усього три хмари), і пастка кидає ініціативу. Істоти в кімнаті під час спрацювання пастки стають її цілями, незалежно від того, чи покидають вони кімнату або чи пізніше заходять інші істоти. Кожна прикраса намагається націлитися на різну істоту, якщо це можливо. Цільова істота, що віддаляється від пастки на 1 милю або більше, перестає бути ціллю, після чого прикраса призначає нову ціль.</p>",
+            "original": "<p><strong>Trigger</strong> A creature stays in the room for at least 6 seconds.</p>\n<hr />\n<p><strong>Effect</strong> Each telekinetic decoration constructs a cloud of objects in the room (three clouds total) and the trap rolls initiative. The creatures in the room when the trap is triggered become the trap's targets, regardless of whether they leave the room or other creatures later enter the room. Each decoration targets a different creature if possible. A target creature that moves at least 1 mile from the trap ceases being a target, at which point the decoration designates a new target.</p>"
+          }
+        },
+        "aJouqXgwCGFTWYHD": {
+          "_id": "aJouqXgwCGFTWYHD",
+          "name": {
+            "translate": "Objects",
+            "original": "Objects"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-12",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Titanic Flytrap": {
+      "_id": "6In2S3lDnxNgZ2np",
+      "name": {
+        "translate": "Титанічна Мухоловка",
+        "original": "Titanic Flytrap"
+      },
+      "description": {
+        "translate": "<p>На поверхні титанічна мухоловка виглядає як ділянка більш звичайної рослини мухоловки, але під каламутною водою ховається набагато більший набір щелеп, що досягають 10 футів у ширину, укріплених дерев'яними гілками і вкритих паралітичними волосками.</p>",
+        "original": "<p>On the surface, a titanic flytrap appears to be a patch of the more common flytrap plant, but beneath murky waters it hides a far larger set of jaws, reaching 10 feet across, reinforced with woody branches and lined with paralytic hairs.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:22|name:Mislead the Flytrap's Senses] (натренований) для введення в оману відчуття ваги та тиску мухоловки</p>",
+        "original": "<p>@Check[survival|dc:22|name:Mislead the Flytrap's Senses] (trained) to mislead the flytrap's sense of weight and pressure</p>"
+      },
+      "reset": {
+        "translate": "<p>1 година (або довше після великої трапези)</p>",
+        "original": "<p>1 hour (or longer, after a large meal)</p>"
+      },
+      "stealth": {
+        "translate": "<p>(натренований)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "f9aVsy30iGDJTtb4": {
+          "_id": "f9aVsy30iGDJTtb4",
+          "name": {
+            "translate": "Різко захлопнутися",
+            "original": "Snap Shut"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Маленька або середня істота рухається в клітинку, що знаходиться в межах досяжності прихованих щелеп мухоловки</p>\n<hr />\n<p><strong>Ефект</strong> Щелепи мухоловки різко захлопуються, завдаючи удару щелепами по істоті, що викликала тригер.</p>",
+            "original": "<p><strong>Trigger</strong> A Small or Medium creature moves into a square that is within reach of the flytrap's hidden jaws</p>\n<hr />\n<p><strong>Effect</strong> The flytrap's jaws snap shut, making a jaws Strike against the triggering creature.</p>"
+          }
+        },
+        "Yw05wWhZB9fLdatc": {
+          "_id": "Yw05wWhZB9fLdatc",
+          "name": {
+            "translate": "Jaws",
+            "original": "Jaws"
+          }
+        },
+        "eauYGISAGprcOwH4": {
+          "_id": "eauYGISAGprcOwH4",
+          "name": {
+            "translate": "Devour",
+            "original": "Devour"
+          },
+          "description": {
+            "translate": "<p>Ціль захоплена щелепами мухоловки, отримуючи стан @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Схоплений} до тих пір, поки вона не [[/act escape dc=21]]{Втече}. Крім того, вона піддається дії токсину титанічної мухоловки від сотень дрібних волосків, що вкривають внутрішню частину листя. Якщо удар щелеп мухоловки був критичним успіхом, ціль отримує –2 обставинний штраф до спаскидків проти цієї отрути. Наприкінці кожного свого ходу, поки ціль залишається схопленою, вона отримує @Damage[3d6[acid]] пошкоджень.</p>",
+            "original": "<p>The target is trapped by the flytrap's jaws, gaining the @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} condition until it [[/act escape dc=21]]{Escapes}. Additionally, it is exposed to the titanic flytrap toxin from the hundreds of tiny hairs that line the inside of its leaves. If the flytrap's jaws Strike was a critical success, the target takes a –2 circumstance penalty to its saving throws against this poison. At the end of each of the target's turns that it remains grabbed, the target takes @Damage[3d6[acid]] damage.</p>"
+          }
+        },
+        "qBQpsAk64L9c0sJ2": {
+          "_id": "qBQpsAk64L9c0sJ2",
+          "name": {
+            "translate": "Токсин титанічної мухоловки",
+            "original": "Titanic Flytrap Toxin"
+          },
+          "description": {
+            "translate": "<p><strong>Спаскидок</strong> @Check[fortitude|dc:21]</p>\n<p><strong>Максимальна тривалість</strong> 4 раунди</p>\n<p><strong>Стадія 1</strong> @Damage[2d6[poison]] пошкоджень і @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Оніміння 1} (1 раунд)</p>\n<p><strong>Стадія 2</strong> @Damage[3d6[poison]] пошкоджень і @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Оніміння 2} (1 раунд)</p>\n<p><strong>Стадія 3</strong> @Damage[4d6[poison]] пошкоджень і @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Параліч} (1 раунд)</p>",
+            "original": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:21]</p>\n<p><strong>Maximum Duration</strong> 4 rounds</p>\n<p><strong>Stage 1</strong> @Damage[2d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[3d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[4d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} (1 round)</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Treacherous Scree": {
+      "_id": "gFt2nzQrVgXM9tmJ",
+      "name": {
+        "translate": "Підступний осип",
+        "original": "Treacherous Scree"
+      },
+      "description": {
+        "translate": "<p>Опора на цьому похилому ґрунті здається стабільною на перший погляд, але дрібні камінці, що його вкривають, слабо ущільнені і схильні до ковзання.</p>",
+        "original": "<p>The footing on this sloped ground appears to be stable at first glance, but the tiny rocks that cover it are loosely packed and prone to slipping.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:20|name:Navigate Safe Path] (натренований) для прокладання безпечного шляху</p>",
+        "original": "<p>@Check[survival|dc:20|name:Navigate Safe Path] (trained) to navigate a safe path</p>"
+      },
+      "stealth": {
+        "translate": "<p>(натренований)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "DE7tTstJaGz9oAi4": {
+          "_id": "DE7tTstJaGz9oAi4",
+          "name": {
+            "translate": "Rockslide",
+            "original": "Rockslide"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота ступає на нестійкий ґрунт.</p>\n<hr />\n<p><strong>Ефект</strong> Камені котяться і ковзають під її ногами. Істота, що викликала тригер, повинна зробити спаскидок @Check[reflex|dc:21|traits:damaging-effect], оскільки вона падає на камені, які завдають @Damage[(2d10+13)[bludgeoning]] пошкоджень.</p>\n<hr />\n<p><strong>Критичний успіх</strong> Істота не отримує пошкоджень.</p>\n<p><strong>Успіх</strong> Істота отримує половину пошкоджень і падає навзнак на своєму місці.</p>\n<p><strong>Провал</strong> Істота отримує повні пошкодження, падає навзнак на своєму місці і котиться до підніжжя схилу.</p>\n<p><strong>Критичний провал</strong> Як провал, але подвоєні пошкодження.</p>",
+            "original": "<p><strong>Trigger</strong> A creature steps on the unstable ground.</p>\n<hr />\n<p><strong>Effect</strong> Rocks tumble and slip beneath its feet. The triggering creature must attempt a @Check[reflex|dc:21|traits:damaging-effect] save as they tumble against the rocks, which deal @Damage[(2d10+13)[bludgeoning]] damage.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature takes no damage.</p>\n<p><strong>Success</strong> The creature takes half damage and falls prone in its space.</p>\n<p><strong>Failure</strong> The creature takes full damage, falls prone in its space, and tumbles down to the bottom of the slope.</p>\n<p><strong>Critical Failure</strong> As failure, but double damage.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Vorpal Executioner": {
+      "_id": "J4YChuob7MIPT5Mq",
+      "name": {
+        "translate": "Ворпал-каратель",
+        "original": "Vorpal Executioner"
+      },
+      "description": {
+        "translate": "<p>Злобно гострий пильний диск опускається і рухається по жолобках складного шляху по всій кімнаті, намагаючись обезголовити всіх, хто в ній знаходиться.</p>",
+        "original": "<p>A wickedly sharp saw blade descends and travels along grooves in a complex path throughout the room, attempting to decapitate everyone within.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:41|name:Jam Saw Blade|traits:action:disable-a-device] (експерт) на чотирьох різних перехрестях, щоб застрягти всі можливі шляхи пильного диска, не даючи йому пройти кімнатою</p>",
+        "original": "<p>@Check[thievery|dc:41|name:Jam Saw Blade|traits:action:disable-a-device] (expert) at four different junctions to jam all the saw blade's possible paths, preventing it from traveling through the room</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка скидається протягом раунду і може бути активована знову через 1 раунд.</p>",
+        "original": "<p>The trap resets over the course of the round and can be triggered again 1 round later.</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт)</p>",
+        "original": "<p>(expert)</p>"
+      },
+      "hp": {
+        "translate": "за перехрестя",
+        "original": "per junction"
+      },
+      "items": {
+        "4QF1yNgj2FX7rO4C": {
+          "_id": "4QF1yNgj2FX7rO4C",
+          "name": {
+            "translate": "Повне обезголовлення",
+            "original": "Total Decapitation"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота намагається вийти з кімнати.</p>\n<hr />\n<p><strong>Ефект</strong> Пильний диск рухається по своєму шляху, завдаючи по одному удару кожній істоті в кімнаті, крутячись і змінюючи висоту для максимальної ймовірності обезголовлення цілей.</p>",
+            "original": "<p><strong>Trigger</strong> A creature attempts to exit the room.</p>\n<hr />\n<p><strong>Effect</strong> The saw blade travels along its path, making one Strike against each creature in the room, twisting and varying its height for a maximum chance of beheading its targets.</p>"
+          }
+        },
+        "T0k2Rnyz49qG1Gkv": {
+          "_id": "T0k2Rnyz49qG1Gkv",
+          "name": {
+            "translate": "Пильний диск",
+            "original": "Saw Blade"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>No multiple attack penalty</p>"
+          }
+        },
+        "mPVesRXUMN4Ws9IR": {
+          "_id": "mPVesRXUMN4Ws9IR",
+          "name": {
+            "translate": "Decapitation",
+            "original": "Decapitation"
+          },
+          "description": {
+            "translate": "<p>При критичному влучанні ціль повинна успішно пройти спаскидок @Check[fortitude|dc:39|traits:damaging-effect] або бути обезголовленою, миттєво помираючи, якщо не може вижити без голови.</p>",
+            "original": "<p>On a critical hit, a target must succeed at a @Check[fortitude|dc:39|traits:damaging-effect] save or be decapitated, dying instantly unless it can survive without a head.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-19",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Web Lurker Deadfall": {
+      "_id": "0dg9YrjsDi6Ap3jF",
+      "name": {
+        "translate": "Павутинний засідник",
+        "original": "Web Lurker Deadfall"
+      },
+      "description": {
+        "translate": "<p>Павутинна спускова нитка випускає пучок валунів, які падають на всі цілі в межах 10-футового квадрата.</p>",
+        "original": "<p>A web tripwire lets loose a bundle of boulders that fall on all targets within a 10-foot square.</p>"
+      },
+      "disable": {
+        "translate": "<p>Виживання (натренований) або Крадіжка (експерт) DC 20 для перестановки павутини.</p>",
+        "original": "<p>Survival (trained) or Thievery (expert) DC 20 to rearrange the webbing.</p>"
+      },
+      "stealth": {
+        "translate": "<p>@Check[stealth|dc:23]</p>",
+        "original": "<p>@Check[stealth|dc:23]</p>"
+      },
+      "items": {
+        "j3QvHDCU1gvOInG4": {
+          "_id": "j3QvHDCU1gvOInG4",
+          "name": {
+            "translate": "Deadfall",
+            "original": "Deadfall"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота ступає в клітинку з павутинною спусковою ниткою.</p>\n<hr />\n<p><strong>Ефект</strong> Всі істоти в 10-футовому квадраті пастки отримують @Damage[2d6[bludgeoning]] пошкоджень (спаскидок @Check[reflex|dc:20|basic]).</p>",
+            "original": "<p><strong>Trigger</strong> A creature steps into the square with the web tripwire.</p>\n<hr />\n<p><strong>Effect</strong> All creatures in the trap's 10-foot square take @Damage[2d6[bludgeoning]] damage (@Check[reflex|dc:20|basic] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-3",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Web Lurker Noose": {
+      "_id": "Or0jjL8xS3GyiMq0",
+      "name": {
+        "translate": "Павутинна петля",
+        "original": "Web Lurker Noose"
+      },
+      "description": {
+        "translate": "<p>Непомітна павутина на рівні горла ловить істоту, що проходить крізь неї.</p>",
+        "original": "<p>Discreet webbing at throat level snags a creature that walks into it.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:18|name:Rearrange the Webbing|traits:mechanical,trap] (натренований) або @Check[thievery|dc:18|name:Rearrange the Webbing|traits:mechanical,trap] (експерт) для перестановки павутини.</p>",
+        "original": "<p>@Check[survival|dc:18|name:Rearrange the Webbing|traits:mechanical,trap] (trained) or @Check[thievery|dc:18|name:Rearrange the Webbing|traits:mechanical,trap] (expert) to rearrange the webbing.</p>"
+      },
+      "items": {
+        "LZTjCUaLv54zwB8W": {
+          "_id": "LZTjCUaLv54zwB8W",
+          "name": {
+            "translate": "Павутинна петля",
+            "original": "Web Noose"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота ступає в клітинку з павутинною спусковою ниткою.</p>\n<hr />\n<p><strong>Ефект</strong> Павутинна петля завдає удар петлею по істоті, що викликала тригер.</p>",
+            "original": "<p><strong>Trigger</strong> A creature steps into the square with the web tripwire.</p>\n<hr />\n<p><strong>Effect</strong> The web lurker noose makes a noose Strike against the triggering creature.</p>"
+          }
+        },
+        "VNaaW87S24zzxXZh": {
+          "_id": "VNaaW87S24zzxXZh",
+          "name": {
+            "translate": "Noose",
+            "original": "Noose"
+          },
+          "description": {
+            "translate": "<p>При успішному ударі ціль отримує стан @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Схоплений} і піднімається з землі ([[/act escape dc=22]]).</p>\n<p>Ціль отримує @Damage[1d6[bludgeoning]] пошкоджень наприкінці кожного свого ходу, поки вона затримана в петлі.</p>",
+            "original": "<p>On a successful strike, the target is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} and pulled off the ground ([[/act escape dc=22]]).</p>\n<p>The target takes @Damage[1d6[bludgeoning]] damage at the end of each of its turns as long as it's caught in the noose.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-hazard",
+          "hazard-mechanical"
+        ]
+      }
+    },
+    "Wheel Of Misery": {
+      "_id": "H2GX04CQXLPQHT8h",
+      "name": {
+        "translate": "Колесо Страждань",
+        "original": "Wheel Of Misery"
+      },
+      "description": {
+        "translate": "<p>Витончене колесо, вмонтоване в стіну і розділене на шість сегментів з кольоровими рунами на кожному, керується магічним сенсором, який виявляє будь-яку істоту в межах 100 футів перед ним.</p>",
+        "original": "<p>An ornate wheel set into a wall-divided into six segments with colored runes on each-is controlled by a magical sensor that detects any creature within 100 feet in front of it.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[thievery|dc:26|name:Stop Wheel from Spinning|traits:action:disable-a-device] (експерт) на колесі, щоб зупинити його обертання, @Check[thievery|dc:22|name:Erase Rune|traits:action:disable-a-device] (майстер) для стирання кожної руни або @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Розвіювання Магії} (4-й ранг; DC 22 для протидії) для нейтралізації кожної руни</p>",
+        "original": "<p>@Check[thievery|dc:26|name:Stop Wheel from Spinning|traits:action:disable-a-device] (expert) on the wheel to stop it from spinning, @Check[thievery|dc:22|name:Erase Rune|traits:action:disable-a-device] (master) to erase each rune, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th rank; counteract DC 22) to counteract each rune</p>"
+      },
+      "reset": {
+        "translate": "<p>Пастка деактивується і скидається, якщо протягом 1 хвилини жодна істота не рухається в межах дії сенсора.</p>",
+        "original": "<p>The trap deactivates and resets if 1 minute passes without any creature moving within range of its sensor.</p>"
+      },
+      "routine": {
+        "translate": "<p>(2 дії) На своїй ініціативі пастка використовує першу дію, щоб обернутися, а потім зупиняється. Киньте 1d6, щоб визначити, який сегмент буде найвищим, коли колесо зупиниться. Колесо використовує другу дію, щоб відтворити закляття, вказане для цього сегмента (3-й ранг, DC 24, модифікатор атаки закляття +14). Ціль закляття розташована в центрі або інакше включає найближчу істоту в зоні. За потреби це збільшує дальність закляття до 100 футів. Будь-яке закляття, яке накладає ця пастка, є арканним.</p>\n<p><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{Сон}</p>\n<p><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.DCQHaLrYXMI37dvW]{Параліч}</p>\n<p><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{Блискавка} (лінія 100 футів)</p>\n<p><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.VosLNn2M8S7JH67D]{Сліпота}</p>\n<p><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.thAHF1zxNplLCJPO]{Корозійний вибух}</p>\n<p><strong>6</strong> @UUID[Compendium.pf2e.spells-srd.Item.J7Y7tl0bbdz7TcCc]{Ослаблення}</p>",
+        "original": "<p>(2 actions) On its initiative, the trap uses its first action to spin, then stops. Roll 1d6 to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (3rd rank, DC 24, spell attack modifier +14). This spell's target is centered on or otherwise includes the nearest creature in the area. This increases the spell's range to 100 feet if necessary. Any spell cast by this trap is arcane.</p>\n<p><strong>1</strong> @UUID[Compendium.pf2e.spells-srd.Item.o4lRVTwSxnOOn5vl]{Sleep}</p>\n<p><strong>2</strong> @UUID[Compendium.pf2e.spells-srd.Item.DCQHaLrYXMI37dvW]{Paralyze}</p>\n<p><strong>3</strong> @UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{Lightning Bolt} (100-foot line)</p>\n<p><strong>4</strong> @UUID[Compendium.pf2e.spells-srd.Item.VosLNn2M8S7JH67D]{Blindness}</p>\n<p><strong>5</strong> @UUID[Compendium.pf2e.spells-srd.Item.thAHF1zxNplLCJPO]{Caustic Blast}</p>\n<p><strong>6</strong> @UUID[Compendium.pf2e.spells-srd.Item.J7Y7tl0bbdz7TcCc]{Enfeeble}</p>"
+      },
+      "stealth": {
+        "translate": "<p>(експерт) для виявлення магічного сенсора; помітити колесо має DC 0</p>",
+        "original": "<p>(expert) to detect the magical sensor; noticing the wheel has a DC of 0</p>"
+      },
+      "items": {
+        "ZS4b3rYv9jOgbMzm": {
+          "_id": "ZS4b3rYv9jOgbMzm",
+          "name": {
+            "translate": "Обертання колеса",
+            "original": "Wheel Spin"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота входить у зону виявлення сенсора.</p>\n<hr />\n<p><strong>Ефект</strong> Колесо починає обертатися і кидає ініціативу.</p>",
+            "original": "<p><strong>Trigger</strong> A creature enters the sensor's detection area.</p>\n<hr />\n<p><strong>Effect</strong> The wheel begins to spin and rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Yellow Mold": {
+      "_id": "A93flWUsot3FmC7t",
+      "name": {
+        "translate": "Жовта цвіль",
+        "original": "Yellow Mold"
+      },
+      "description": {
+        "translate": "<p>Отруйні спори цвілі атакують найближчих істот.</p>",
+        "original": "<p>Poisonous mold spores assault nearby creatures.</p>"
+      },
+      "disable": {
+        "translate": "<p>@Check[survival|dc:26|name:Remove the Mold] (експерт) для видалення цвілі без активації спор</p>",
+        "original": "<p>@Check[survival|dc:26|name:Remove the Mold] (expert) to remove the mold without triggering the spores</p>"
+      },
+      "stealth": {
+        "translate": "<p>(натренований)</p>",
+        "original": "<p>(trained)</p>"
+      },
+      "items": {
+        "eTpo3PPNbe4sFYhD": {
+          "_id": "eTpo3PPNbe4sFYhD",
+          "name": {
+            "translate": "Вибух спор",
+            "original": "Spore Explosion"
+          },
+          "description": {
+            "translate": "<p><strong>Тригер</strong> Істота входить у простір цвілі або завдає їй пошкоджень. Цвіль не може використати цю реакцію, якщо знаходиться під прямим сонячним світлом або якщо пошкодження були вогняними.</p>\n<hr />\n<p><strong>Ефект</strong> Істота, що викликала тригер, і всі істоти в межах @Template[emanation|distance:10]{10 футів} піддаються впливу спор жовтої цвілі.</p>",
+            "original": "<p><strong>Trigger</strong> A creature moves into the mold's space or damages the mold. The mold can't use this reaction if it's in direct sunlight or if the damage was fire damage.</p>\n<hr />\n<p><strong>Effect</strong> The triggering creature and all creatures within @Template[emanation|distance:10]{10 feet} are exposed to yellow mold spores.</p>"
+          }
+        },
+        "tyAeSBnHmP9Nuh2k": {
+          "_id": "tyAeSBnHmP9Nuh2k",
+          "name": {
+            "translate": "Спори жовтої цвілі",
+            "original": "Yellow Mold Spores"
+          },
+          "description": {
+            "translate": "<p>Будь-який стан виснаження від спор зберігається після закінчення дії отрути.</p>\n<p><strong>Спаскидок</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p><strong>Максимальна тривалість</strong> 6 раундів</p>\n<p><strong>Стадія 1</strong> @Damage[1d8[poison]] пошкоджень і @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаження 1} (1 раунд)</p>\n<p><strong>Стадія 2</strong> @Damage[2d8[poison]] пошкоджень і @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаження 2} (1 раунд)</p>\n<p><strong>Стадія 3</strong> @Damage[3d8[poison]] пошкоджень і @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаження 3} (1 раунд)</p>",
+            "original": "<p>Any drained condition from the spores persists after the poison's duration ends.</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:26]</p>\n<hr />\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[2d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[3d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 3} (1 round)</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "hazard-animal",
+    "hazard-clockwork",
+    "hazard-electricity",
+    "hazard-environmental",
+    "hazard-fire",
+    "hazard-haunt",
+    "hazard-magical",
+    "hazard-mechanical",
+    "level-0",
+    "level-1",
+    "level-10",
+    "level-11",
+    "level-12",
+    "level-13",
+    "level-14",
+    "level-15",
+    "level-16",
+    "level-17",
+    "level-18",
+    "level-19",
+    "level-2",
+    "level-21",
+    "level-23",
+    "level-3",
+    "level-4",
+    "level-5",
+    "level-6",
+    "level-7",
+    "level-8",
+    "level-9",
+    "rarity-common",
+    "rarity-rare",
+    "rarity-uncommon",
+    "type-hazard"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.hazards",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Actor",
+    "fileMode": "updated-existing",
+    "processedAt": "2026-05-18T11:21:02.793Z",
+    "documents": 53,
+    "existingEntriesUpdated": 53,
+    "missingEntriesAdded": 0,
+    "missingFieldsAdded": 164,
+    "wrappedStrings": 416,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 1,
+    "missingOriginals": 6,
+    "suspectedTranslatedOriginals": 35
+  }
+}

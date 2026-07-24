@@ -1,0 +1,764 @@
+{
+  "entries": {
+    "Advanced Weaponry (CC)": {
+      "_id": "4mkzupImKqVs2JkW",
+      "name": {
+        "translate": "Розвинена зброя (CC)",
+        "original": "Advanced Weaponry (CC)"
+      },
+      "description": {
+        "translate": "<p>Атака вашого ейдолона розвивається.</p>\n<p>Виберіть одну з початкових рукопашних атак вашого ейдолона без зброї. Вона отримує одну з наступних рис, обрану при отриманні цієї здатності: роззброєння, захват, нелетальна, штовхання, підніжка або універсальна дробляча, колюча чи рубляча.</p>",
+        "original": "<p>Your eidolon's attack evolves.</p>\n<p>Choose one of your eidolon's starting melee unarmed attacks. It gains one of the following traits, chosen when you gain the feat: disarm, grapple, nonlethal, shove, trip, or versatile bludgeoning, piercing, or slashing.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Alacritous Action (CC)": {
+      "_id": "RBvfnbDcvNDqAMgP",
+      "name": {
+        "translate": "Швидка дія (CC)",
+        "original": "Alacritous Action (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон рухається швидше. Він отримує бонус статусу +10 футів до своєї Швидкості.</p>",
+        "original": "<p>Your eidolon moves more quickly. It gains a +10-foot status bonus to its Speed.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Amphibious Form (CC)": {
+      "_id": "Ryed1oD5pMqREk0j",
+      "name": {
+        "translate": "Амфібійна форма (CC)",
+        "original": "Amphibious Form (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон пристосовується до життя на суші та під водою. Він отримує рису амфібії, що дозволяє йому дихати у воді та повітрі, а також уникати звичайного штрафу -2 за нанесення дроблячих і рублячих рукопашних ударів під водою. Він отримує швидкість плавання, рівну його швидкості на суші або 25 футів, залежно від того, що менше; або, якщо він зазвичай водний, отримує швидкість пересування по суші, рівну його швидкості плавання або 25 футів, залежно від того, що менше.</p>",
+        "original": "<p>Your eidolon adapts to life on land and underwater. It gains the amphibious trait, allowing it to breathe in water and air and to avoid the normal -2 penalty for making bludgeoning and slashing unarmed Strikes underwater. It gains a swim Speed equal to its land Speed or 25 feet, whichever is less; or if it is normally aquatic, it gains a land Speed equal to its swim Speed or 25 feet, whichever is less.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Bloodletting Claws (CC)": {
+      "_id": "OqWpydcRNgVlmm2k",
+      "name": {
+        "translate": "Кровоточиві кігті (CC)",
+        "original": "Bloodletting Claws (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон завдає кровоточивих ран при влучному ударі. Якщо ваш ейдолон завдає критичного удару рукопашною атакою, що завдає рублячого або колючого ушкодження, ціль отримує 1d6 постійної кровотечі. Ваш ейдолон отримує бонус предмета до цього ушкодження кровотечею, рівний бонусу предмета до кидків атаки цієї рукопашної атаки. Це ефект спеціалізації критичного удару.</p>",
+        "original": "<p>Your eidolon inflicts bleeding wounds on a telling blow. If your eidolon critically hits with a melee unarmed Strike that deals slashing or piercing damage, its target takes 1d6 persistent bleed damage. Your eidolon gains an item bonus to this bleed damage equal to the unarmed attack's item bonus to attack rolls. This is a critical specialization effect.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Blood Frenzy (CC)": {
+      "_id": "iYt3zEgqDnVhnHVf",
+      "name": {
+        "translate": "Кровожерливий скажений напад (CC)",
+        "original": "Blood Frenzy (CC)"
+      },
+      "description": {
+        "translate": "<p><strong>Вимоги</strong> Остання дія вашого ейдолона завдала кровотечі живій істоті.</p>\n<hr />\n<p>Ваш ейдолон впадає в скаженство. Він отримує переваги @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Boost Eidolon} і тимчасові ХП, рівні вашому рівню, але отримує штраф -2 до КЗ. Він не може добровільно припинити скаженство або почати інше, поки перебуває в ньому.</p>\n<p>Скаженство триває 1 хвилину, після чого ваш ейдолон стає @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} на 1 хвилину і не може почати нове скаженство протягом 1 хвилини.</p>",
+        "original": "<p><strong>Requirements</strong> Your eidolon's last action dealt bleed damage to a living creature.</p>\n<hr />\n<p>Your eidolon flies into a frenzy. It gains the benefits of @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Boost Eidolon} and gains temporary HP equal to your level, but takes a -2 penalty to AC. It can't voluntarily end the frenzy or start another frenzy while in the frenzy.</p>\n<p>The frenzy lasts for 1 minute, after which your eidolon is @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} for 1 minute and can't start another frenzy for 1 minute.</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Кровоточиві кігті",
+            "original": "Bloodletting Claws"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Burrowing Form (CC)": {
+      "_id": "CaZ36nx2kGFRr0ER",
+      "name": {
+        "translate": "Форма риття (CC)",
+        "original": "Burrowing Form (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон може рити в пухкому ґрунті. Ваш ейдолон отримує швидкість риття 15 футів.</p>",
+        "original": "<p>Your eidolon can burrow through loose dirt. Your eidolon gains a burrow Speed of 15 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Constricting Hold (CC)": {
+      "_id": "mz0Y50ZaV7hysmmJ",
+      "name": {
+        "translate": "Стискаючий захват (CC)",
+        "original": "Constricting Hold (CC)"
+      },
+      "description": {
+        "translate": "<p><strong>Вимоги</strong> Ваш ейдолон має істоту @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} або @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<p>Ваш ейдолон стискає істоту, завдаючи [[/r @actor.level+@actor.abilities.str.mod #bludgeoning]]{bludgeoning damage} рівно вашому рівню ейдолона плюс модифікатор Сили, з базовою вдачею на Стримування проти вашого КД заклинання.</p>",
+        "original": "<p><strong>Requirements</strong> Your eidolon has a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<p>Your eidolon constricts the creature, dealing [[/r @actor.level+@actor.abilities.str.mod #bludgeoning]]{bludgeoning damage} equal to your eidolon's level plus its Strength modifier, with a basic Fortitude save against your spell DC.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Defend Summoner (CC)": {
+      "_id": "Ln8r5xj2kAs81uu1",
+      "name": {
+        "translate": "Захист закликувача (CC)",
+        "original": "Defend Summoner (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон блокує атаки проти вас. Після використання цієї дії вашим ейдолоном ви отримуєте бонус обставин +2 до КЗ до початку вашого наступного ходу. Цей бонус застосовується лише, коли ви перебуваєте в межах досяжності вашого ейдолона (у більшості випадків це означає, що ваш ейдолон суміжний з вами або знаходиться у вашому просторі).</p>",
+        "original": "<p>Your eidolon blocks attacks against you. After your eidolon uses this action, you gain a +2 circumstance bonus to AC until the beginning of your next turn. This bonus applies only while you're within your eidolon's reach (in most cases, this means your eidolon is adjacent to you or in your space).</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Dual Energy Heart (CC)": {
+      "_id": "prfy7faUtWFNeIXH",
+      "name": {
+        "translate": "Серце подвійної енергії (CC)",
+        "original": "Dual Energy Heart (CC)"
+      },
+      "description": {
+        "translate": "<p>У вашому ейдолоні живе друга енергія. Виберіть додатковий тип енергетичного ушкодження. Ваша рукопашна атака, що завдає енергетичного ушкодження, отримує універсальну рису для другого типу енергетичного ушкодження, а ваш ейдолон отримує опір до другого типу енергетичного ушкодження, рівний половині вашого рівня.</p>",
+        "original": "<p>A second energy dwells in your eidolon. Choose an additional energy damage type. Your unarmed attack that deals energy damage gains the versatile trait for the second energy damage type, and your eidolon gains resistance to the second type of energy damage equal to half your level.</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Серце енергії",
+            "original": "Energy Heart"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Eidolon's Opportunity (CC)": {
+      "_id": "DzQ1melMWQPbbcyu",
+      "name": {
+        "translate": "Можливість ейдолона (CC)",
+        "original": "Eidolon's Opportunity (CC)"
+      },
+      "description": {
+        "translate": "<p><strong>Тригер</strong> Істота в межах досяжності вашого ейдолона виконує дію маніпуляції або руху, робить дистанційну атаку або залишає клітинку під час руху.</p>\n<hr />\n<p>Ваш ейдолон робить рукопашну атаку по істоті, що викликала тригер. Якщо атака є критичним влучанням і тригером була дія маніпуляції, ваш ейдолон порушує цю дію. Ця атака не враховується до штрафу за множинні атаки, і штраф за множинні атаки не застосовується до цієї атаки.</p>",
+        "original": "<p><strong>Trigger</strong> A creature within your eidolon's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<hr />\n<p>Your eidolon makes a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, your eidolon disrupts that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Eidolon's Wrath (CC)": {
+      "_id": "OGTIinVaETSz7kdW",
+      "name": {
+        "translate": "Гнів ейдолона (CC)",
+        "original": "Eidolon's Wrath (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон отримує фокусне заклинання <em>@Compendium[pf2e.spells-srd.kuZnUNrhXHRYQ2eM]{Eidolon's Wrath}</em>, яке він кастує замість вас. Ви визначаєте тип ушкодження при отриманні цієї здатності: кислота, холод, електрика, вогонь, негатив, позитив або звуковий. Якщо ваш ейдолон є небесним, демонічним або монітором з відмінною від істинно нейтральної орієнтацією, ви можете обрати тип ушкодження відповідно до його орієнтації.</p>\n<p>Збільшує кількість фокусних очок у вашому пулі на 1. Як зазвичай, ваш ейдолон ділить ваші фокусні очки.</p>",
+        "original": "<p>Your eidolon gains the <em>@Compendium[pf2e.spells-srd.kuZnUNrhXHRYQ2eM]{Eidolon's Wrath}</em> focus spell, which it casts, instead of you. You determine the damage type when you gain the feat: acid, cold, electricity, fire, negative, positive, or sonic. If your eidolon is a celestial, fiend, or monitor with an alignment other than true neutral, you can choose a damage type in its alignment.</p>\n<p>Increase the number of Focus Points in your focus pool by 1. As normal, your eidolon shares your Focus Points.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Energy Heart (CC)": {
+      "_id": "val0CdVJxuHkpgFG",
+      "name": {
+        "translate": "Серце енергії (CC)",
+        "original": "Energy Heart (CC)"
+      },
+      "description": {
+        "translate": "<p>Серце вашого ейдолона б’ється енергією.</p>\n<p>Виберіть тип енергетичного ушкодження, окрім сили. Одна з його рукопашних атак змінює тип ушкодження на обраний, і він отримує опір до цього типу, рівний половині вашого рівня (мінімум 1).</p>",
+        "original": "<p>Your eidolon's heart beats with energy.</p>\n<p>Choose an energy damage type other than force. One of its unarmed attacks changes its damage type to the chosen type, and it gains resistance to that type equal to half your level (minimum 1).</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Energy Resistance (CC)": {
+      "_id": "wOtKDptwbz9hU9ZR",
+      "name": {
+        "translate": "Опір енергії (CC)",
+        "original": "Energy Resistance (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон має посилений опір. Його опір від Серця енергії та Серця подвійної енергії збільшується до вашого рівня.</p>",
+        "original": "<p>Your eidolon has stronger resistance. Its resistance from Energy Heart and Dual Energy Heart increase to your level.</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Серце енергії",
+            "original": "Energy Heart"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Ever-Vigilant Senses (CC)": {
+      "_id": "eF3CKuQwqXJXIQPL",
+      "name": {
+        "translate": "Пильні відчуття (CC)",
+        "original": "Ever-Vigilant Senses (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон має покращені відчуття. Він отримує бонус обставин +2 до Сприйняття і не може бути оточений, крім як істотами вищого рівня за нього.</p>\n<p>Він бачить @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} істот і предметів; вони виглядають прозорими і є @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed}.</p>\n<p>Коли ваш ейдолон рухається в межах 30 футів від ілюзії, яку можна розпізнати, ГМ робить таємну перевірку, щоб розпізнати її, навіть якщо ваш ейдолон не витрачав дію на Взаємодію.</p>",
+        "original": "<p>Your eidolon has enhanced senses. It gains a +2 circumstance bonus to Perception, and can't be flanked except by creatures that are higher level than it.</p>\n<p>It can see @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} creatures and objects; they appear translucent and are @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed}.</p>\n<p>When your eidolon moves within 30 feet of an illusion that can be disbelieved, the GM rolls a secret check to disbelieve it, even if your eidolon didn't spend an action to Interact.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-16",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Expanded Senses (CC)": {
+      "_id": "Rd1ESvt7UHwFUD6r",
+      "name": {
+        "translate": "Розширені відчуття (CC)",
+        "original": "Expanded Senses (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон розвиває гостріші відчуття.</p>\n<p>Ваш ейдолон отримує слабке світлове бачення і темнове бачення, а також нюх як неточне відчуття з дальністю 30 футів.</p>",
+        "original": "<p>Your eidolon evolves more acute senses.</p>\n<p>Your eidolon gains low-light vision and darkvision, as well as scent as an imprecise sense with a range of 30 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Glider Form (CC)": {
+      "_id": "ezmJ2kq6N647wd13",
+      "name": {
+        "translate": "Форма планера (CC)",
+        "original": "Glider Form (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон розвиває крила, плавуче тіло або інший засіб контролю спуску.</p>\n<p>Він повільно ковзає до землі, опускаючись на 5 футів і рухаючись вперед до 25 футів по повітрю.</p>\n<p>Поки він витрачає принаймні 1 дію на ковзання кожен раунд і ще не досяг землі, він залишається в повітрі в кінці вашого ходу.</p>",
+        "original": "<p>Your eidolon evolves wings, a buoyant body, or some other means to control descent.</p>\n<p>It glides slowly toward the ground, 5 feet down and up to 25 feet forward through the air.</p>\n<p>As long as it spends at least 1 action gliding each round and has not yet reached the ground, it remains in the air at the end of your turn.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Grasping Limbs (CC)": {
+      "_id": "sbzX5d0kDO9IXinm",
+      "name": {
+        "translate": "Хапальні кінцівки (CC)",
+        "original": "Grasping Limbs (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон хапає ворогів. Виберіть одну з рукопашних атак ейдолона з рисою захвату. Вона отримує дію @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Grab} для цієї атаки.</p>",
+        "original": "<p>Your eidolon grabs enemies. Choose one of the eidolon's unarmed attacks with the grapple trait. It gains the @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Grab} action on that unarmed attack.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-12",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Hulking Size (CC)": {
+      "_id": "Ls6CaGfZZAlmY8F9",
+      "name": {
+        "translate": "Величезний розмір (CC)",
+        "original": "Hulking Size (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон значно зростає. Він стає Великим замість свого попереднього розміру, а його досяжність збільшується до 10 футів. Це не змінює інших його характеристик.</p>",
+        "original": "<p>Your eidolon grows substantially. Your eidolon becomes Large, instead of its previous size, and its reach increases to 10 feet. This doesn't change any of its other statistics.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Magical Adept (CC)": {
+      "_id": "en0ikSriHVja8kGM",
+      "name": {
+        "translate": "Магічний адепт (CC)",
+        "original": "Magical Adept (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон отримує більше магії. Виберіть одне заклинання 2-го рівня і одне заклинання 1-го рівня з традиції вашого ейдолона. Ваш ейдолон може кастувати їх по одному разу на день як вроджені заклинання. На кожному парному рівні після отримання цієї здатності ваш ейдолон може замінити одне з цих вроджених заклинань на нове вроджене заклинання, рівень якого на 2 або більше нижчий за ваш найвищий слот заклинань.</p>",
+        "original": "<p>Your eidolon gains more magic. Choose one 2nd-level spell and one 1st-level spell of your eidolon's tradition. Your eidolon can cast them each once per day as innate spells. At every even level after you take this feat, your eidolon can swap one of these innate spells for a new innate spell that's 2 or more levels lower than your highest-level spell slot.</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Магічний підмайстер",
+            "original": "Magical Understudy"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Magical Master (CC)": {
+      "_id": "yCSsQaTFINIbr9Gh",
+      "name": {
+        "translate": "Магічний майстер (CC)",
+        "original": "Magical Master (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон отримує низку заклинань нижчих рівнів. Виберіть вроджене заклинання з традиції вашого ейдолона для кожного рівня заклинань від 1 до 7, для яких ваш ейдолон наразі не має вродженого заклинання від Магічного адепта. Ваш ейдолон може кастувати кожне з них по одному разу на день як вроджені заклинання.</p>\n<p>Ви можете замінювати ці заклинання на кожному парному рівні, але ваш ейдолон ніколи не може знати більше одного заклинання кожного рівня від 1 до 7</p>",
+        "original": "<p>Your eidolon gains a bevy of lower-level spells. Choose an innate spell of your eidolon's tradition of each of the spell levels from 1 to 7 in which your eidolon doesn't currently have an innate spell from Magical Adept. Your eidolon can cast each once per day as innate spells.</p>\n<p>You can swap these spells at every even level, but your eidolon can never know more than one spell of each spell level 1 through 7</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Магічний адепт",
+            "original": "Magical Adept"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-18",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Magical Understudy (CC)": {
+      "_id": "V4rqSvDeIlZCdbVQ",
+      "name": {
+        "translate": "Магічний підмайстер (CC)",
+        "original": "Magical Understudy (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон розвивається, щоб кастувати заклинання. Він отримує дію Кастувати заклинання і вивчає два кантіпри зі своєї традиції, які може кастувати як вроджені заклинання.</p>",
+        "original": "<p>Your eidolon evolves to cast spells. It gains the Cast a Spell activity and learns two cantrips of its tradition, which it can cast as innate spells.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Miniaturize (CC)": {
+      "_id": "Zn7DZ9xfADjtOwst",
+      "name": {
+        "translate": "Мініатюризація (CC)",
+        "original": "Miniaturize (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон може ще більше зменшуватися. При використанні Зменшення розміру ваш ейдолон може зменшитися до Крихітного розміру</p>",
+        "original": "<p>Your eidolon can shrink even further. When using Shrink Down, your eidolon can reduce its size to Tiny</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Зменшення розміру",
+            "original": "Shrink Down"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Phase Out (CC)": {
+      "_id": "m50Xh9RRYj2NxnX2",
+      "name": {
+        "translate": "Фазове зникнення (CC)",
+        "original": "Phase Out (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон частково виходить з реальності, отримуючи опір до всіх ушкоджень (окрім сили та негативу) рівний половині вашого рівня. Він не є ефірним, але не може використовувати удари або дії, що вимагають повністю фізичної форми, такі як @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove} або @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip}.</p>\n<p>Ваш ейдолон може повернутися до своєї нормальної форми за одну дію, яка має рису концентрації.</p>",
+        "original": "<p>Your eidolon phases out of reality slightly, gaining resistance to all damage (except force and negative) equal to half your level. It's not incorporeal, but it can't use Strikes or actions that require a fully physical form, such as @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}, or @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip}.</p>\n<p>Your eidolon can return to its normal form with a single action, which has the concentrate trait.</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "ваш ейдолон є фантомом",
+            "original": "your eidolon is a phantom"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-6",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Pushing Attack (CC)": {
+      "_id": "X4XOW6G0Z22QniKa",
+      "name": {
+        "translate": "Атака штовханням (CC)",
+        "original": "Pushing Attack (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон має атаку, що відштовхує ворогів. Виберіть одну з рукопашних атак ейдолона з рисою штовхання. Вона отримує дію @Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Push} для цієї атаки.</p>",
+        "original": "<p>Your eidolon has an attack that pushes away enemies. Choose one of the eidolon's unarmed attacks with the shove trait. It gains the @Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Push} action for that attack.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Ranged Combatant (CC)": {
+      "_id": "eh6Kd7ozEyeRgd3l",
+      "name": {
+        "translate": "Дальній боєць (CC)",
+        "original": "Ranged Combatant (CC)"
+      },
+      "description": {
+        "translate": "<p>Шипи, вогняні струмені та святі вибухи — це лише деякі способи, якими ваш ейдолон може вражати здалеку. Він отримує дистанційну рукопашну атаку з дальністю 30 футів, що завдає 1d4 ушкодження і має магічні та рушійні риси.</p>\n<p>При виборі цієї здатності виберіть тип ушкодження: кислота, дробляче, холод, електрика, вогонь, порожнеча, колюче, життєва сила або рубляче. Якщо ваш ейдолон є небесним, демонічним або монітором з орієнтацією, відмінною від істинно нейтральної, ви можете обрати тип ушкодження відповідно до його орієнтації.</p>",
+        "original": "<p>Spines, flame jets, and holy blasts are just some of the ways your eidolon might strike from a distance. It gains a ranged unarmed attack with a range increment of 30 feet that deals 1d4 damage and has the magical and propulsive traits.</p>\n<p>When you select this feat, choose a damage type: acid, bludgeoning, cold, electricity, fire, void, piercing, vitality, or slashing. If your eidolon is a celestial, fiend, or monitor with an alignment other than true neutral, you can choose a damage type in its alignment.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Resilient Shell (CC)": {
+      "_id": "00eOhkScQi1K5GZk",
+      "name": {
+        "translate": "Міцна оболонка (CC)",
+        "original": "Resilient Shell (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон стійкий до атак. Він отримує опір до фізичних ушкоджень, рівний модифікатору Конституції.</p>",
+        "original": "<p>Your eidolon is resilient against attacks. It gains resistance to physical damage equal to its Constitution modifier.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-14",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Shrink Down (CC)": {
+      "_id": "rhWFwue5eYVr5Omr",
+      "name": {
+        "translate": "Зменшення розміру (CC)",
+        "original": "Shrink Down (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон може зменшуватися, щоб поміститися в тісні простори. Ваш ейдолон зменшується в розмірі, мінімум до Малого розміру. Він може знову використати цю дію, перебуваючи зменшеним, щоб повернутися до свого нормального розміру.</p>",
+        "original": "<p>Your eidolon can shrink to fit into small spaces. Your eidolon reduces in size, to a minimum of size Small. It can use this action again while shrunk to return to its normal size.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Spell-Repelling Form (CC)": {
+      "_id": "wifAadJvu5dKvMVm",
+      "name": {
+        "translate": "Форма, що відштовхує заклинання (CC)",
+        "original": "Spell-Repelling Form (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон розвивається, щоб захищатися від небезпеки, яку становлять заклинання. Він отримує бонус статусу +1 до всіх спаскидок проти магії.</p>",
+        "original": "<p>Your eidolon evolves to protect itself from the danger posed by spells. It gains a +1 status bonus to all saving throws against magic.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-14",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Steed Form (CC)": {
+      "_id": "Bf1jBWTdKVppsLBC",
+      "name": {
+        "translate": "Форма скакуна (CC)",
+        "original": "Steed Form (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон змінюється, щоб бути особливо ефективним як ваш вершник. Поки ви їдете на ньому, ви отримуєте повну кількість дій кожен раунд замість зменшення їх до 2. Це застосовується лише коли ви їдете на вашому ейдолоні, а не коли хтось інший. Ваш ейдолон все ще повинен бути принаймні на один розмір більшим за вас, щоб на ньому їздити. Оскільки ви рухаєтеся разом, рухи вашого ейдолона під час вашого верхового катання отримують рису тандему.</p>",
+        "original": "<p>Your eidolon changes to make it particularly effective as your mount. While you ride it, you get your full number of actions each round instead of reducing them to 2. This applies only when you ride your eidolon, not when anyone else does. Your eidolon still must be at least one size category larger than you to ride it. Since you work together to move, your eidolon's move actions while you're mounted gain the tandem trait.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-2",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Summoner Dedication Adjustment (CC)": {
+      "_id": "BRad9X7kjcTcj1mf",
+      "name": {
+        "translate": "Корекція присвяти закликувача (CC)",
+        "original": "Summoner Dedication Adjustment (CC)"
+      },
+      "description": {
+        "translate": "<p>Ця особливість коригує характеристики ейдолона, щоб вони були правильними для гравців, які використовують присвяту закликувача. Вона обмежує всі характеристики до 16, поки ейдолон не досягне 5 рівня.</p>",
+        "original": "<p>This feature will adjust the eidolon's stats to be correct for players using the summoner dedication It caps all stats at 16 until the eidolon is level 5.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-classfeature"
+        ]
+      }
+    },
+    "Towering Size (CC)": {
+      "_id": "VUaI1q3MqoJqo5o5",
+      "name": {
+        "translate": "Величезний розмір (CC)",
+        "original": "Towering Size (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон стає ще більшим. Він стає Величезним замість Великого, а досяжність усіх його атак збільшується до 15 футів.</p>",
+        "original": "<p>Your eidolon becomes even bigger. It becomes Huge, instead of Large, and the reach on all its attacks increases to 15 feet.</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Величезний розмір",
+            "original": "Hulking Size"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-12",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Trample (CC)": {
+      "_id": "VzVKCWACGqnKaVbv",
+      "name": {
+        "translate": "Топтання (CC)",
+        "original": "Trample (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон робить крок до подвійної своєї Швидкості і може проходити через простори істот принаймні на один розмір менших, топчучи кожну істоту, простір якої він входить. Він може спробувати топтати ту саму істоту лише один раз за одне топтання.</p>\n<p>Він завдає дроблячого ушкодження, рівного ушкодженню його вторинної атаки проти цих істот, які можуть зробити базову спаскидку Рефлексу проти вашого КД заклинання.</p>",
+        "original": "<p>Your eidolon Strides up to double its Speed and can move through the spaces of creatures at least one size smaller, Trampling each creature whose space it enters. It can attempt to Trample the same creature only once in a single Trample.</p>\n<p>It deals bludgeoning damage equal to the damage of its secondary attack against these creatures, which can attempt a basic Reflex save against your spell DC.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-16",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Vibration Sense (CC)": {
+      "_id": "4iJgmh1XmMGdzSF8",
+      "name": {
+        "translate": "Відчуття вібрації (CC)",
+        "original": "Vibration Sense (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон отримує @Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]{Tremorsense} як неточне відчуття з дальністю 30 футів. Якщо він водний, він отримує @Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]{Wavesense} як неточне відчуття з дальністю 30 футів замість цього. Якщо амфібійний, він отримує обидва.</p>",
+        "original": "<p>Your eidolon gains @Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]{Tremorsense} as an imprecise sense with a range of 30 feet. If aquatic, it gains @Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]{Wavesense} as an imprecise sense with a range of 30 feet instead. If amphibious, it gains both.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    },
+    "Weighty Impact (CC)": {
+      "_id": "TtoKz5zWdEtjydlk",
+      "name": {
+        "translate": "Важкий удар (CC)",
+        "original": "Weighty Impact (CC)"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон збиває ворогів з ніг. Виберіть одну з рукопашних атак ейдолона з рисою підніжки. Вона отримує дію @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Knockdown} для цієї атаки.</p>",
+        "original": "<p>Your eidolon knocks enemies down. Choose one of the eidolon's unarmed attacks with the trip trait. It gains the @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Knockdown} action for that attack.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-10",
+          "rarity-common",
+          "type-feat",
+          "feat-class"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "feat-class",
+    "feat-classfeature",
+    "level-1",
+    "level-10",
+    "level-12",
+    "level-14",
+    "level-16",
+    "level-18",
+    "level-2",
+    "level-4",
+    "level-6",
+    "level-8",
+    "rarity-common",
+    "type-feat"
+  ]
+}

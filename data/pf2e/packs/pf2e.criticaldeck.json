@@ -1,0 +1,1276 @@
+{
+  "entries": {
+    "Critical Fumble Deck #1": {
+      "_id": "0tG5q8JkCaG1EY5s",
+      "pages": {
+        "97Rw9jJrOJa7NM0s": {
+          "_id": "97Rw9jJrOJa7NM0s",
+          "name": "Колода критичних промахів №1",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Так і задумано</h1><blockquote><p>Тебе переміщують на 10 футів у випадковому напрямку (визначає ГМ). Це переміщення викликає реакції.</p></blockquote><p><code>Ближній бій</code></p><h1>Неправильно оцінив відстань</h1><blockquote><p>До кінця твого наступного ходу всі штрафи за дальність подвоюються.</p></blockquote><p><code>Дальній бій</code></p><h1>Не в слабке місце</h1><blockquote><p>Ти отримуєш @Damage[1d6[bleed]] і не можеш використовувати цю атаку до кінця свого наступного ходу.</p></blockquote><p><code>Беззбройний</code></p><h1>Як це сталося?</h1><blockquote><p>Ти викликаєш туман із ефектом @UUID[Compendium.pf2e.spells-srd.Item.GKpEcy9WId6NJvtx]{Смердючої хмари}, центрованої на куті твого простору (визначає ГМ).</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #10": {
+      "_id": "wga13mR4vo73tbTY",
+      "pages": {
+        "RwmPxeyYxpqhNpKj": {
+          "_id": "RwmPxeyYxpqhNpKj",
+          "name": "Колода критичних промахів №10",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Виведений з рівноваги</h1><blockquote><p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 обставинний штраф до кидків атаки} до кінця свого наступного ходу.</p></blockquote><p><code>Ближній бій</code></p><h1>Вогонь по своїх</h1><blockquote><p>Ви влучили в союзника, найближчого до цілі.</p></blockquote><p><code>Дальній бій</code></p><h1>Щось зламалося</h1><blockquote><p>Ви отримуєте @Damage[1d4[bludgeoning]] шкоди і не можете використовувати цю атаку, поки не вилікуєтеся.</p></blockquote><p><code>Беззбройний</code></p><h1>Виснаження сили</h1><blockquote><p>Ви втрачаєте одне підготовлене закляття або слот заклять (визначається випадково ГМ).</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #11": {
+      "_id": "kjUiMaSmcOQXxoeo",
+      "pages": {
+        "DbGY1HRle0RP8yQZ": {
+          "_id": "DbGY1HRle0RP8yQZ",
+          "name": "Колода Критичних Промахів #11",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Поскользнувся</h1><blockquote><p>Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{на живіт}.</p></blockquote><p><code>Ближній бій</code></p><h1>Відбій</h1><blockquote><p>Ви влучаєте в себе замість цілі.</p></blockquote><p><code>Дальній бій</code></p><h1>Пошкоджене его</h1><blockquote><p>Ви не можете атакувати іншу істоту, поки ціль не буде виведена з ладу або до кінця вашого наступного ходу.</p></blockquote><p><code>Беззбройний</code></p><h1>Кровотеча з носа</h1><blockquote><p>Ви отримуєте @Localize[PF2E.PersistentDamage.Bleed1.success].</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #12": {
+      "_id": "txOOwTfhpIJj4LU1",
+      "pages": {
+        "GHS4SvuvWoDaWa0x": {
+          "_id": "GHS4SvuvWoDaWa0x",
+          "name": "Колода критичних промахів №12",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Другі думки</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{нудите 3}</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Змішай це</h1>\n<blockquote>\n<p>Ви не можете робити дальні атаки до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Задирка</h1>\n<blockquote>\n<p>Якщо ви атакували кігтем або кулаком, ви не можете використовувати цю атаку до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Магічний вакуум</h1>\n<blockquote>\n<p>Всі позитивні ефекти заклять, що впливають на вас, припиняються негайно.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #13": {
+      "_id": "vFXt9SSkNst7qD6v",
+      "pages": {
+        "O54GgNHACD44rViW": {
+          "_id": "O54GgNHACD44rViW",
+          "name": "Колода критичних промахів №13",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Кульгаві пальці</h1>\n<blockquote>\n<p>Ви роняєте зброю, якою робили атаку.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Порваний тягар</h1>\n<blockquote>\n<p>Якщо атака була зброєю з групи лука, тятива рветься, і для її ремонту потрібно 3 дії взаємодії.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Порваний м’яз</h1>\n<blockquote>\n<p>Поки не вилікуєтесь, ви @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{ослаблені 1}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Магічна втома</h1>\n<blockquote>\n<p>Ви не можете кастувати заклинання до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #14": {
+      "_id": "VfijeX07Jy9QPYPb",
+      "pages": {
+        "hRnoJuHZgvnm0y4Y": {
+          "_id": "hRnoJuHZgvnm0y4Y",
+          "name": "Колода критичних промахів #14",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Зазубрина</h1><blockquote><p>Ваша зброя отримує @Damage[1d6] шкоди, ігноруючи твердість.</p></blockquote><p><code>Ближній бій</code></p><h1>Порізані пальці</h1><blockquote><p>Ви отримуєте @Damage[1d4[bleed]].</p></blockquote><p><code>Дальній бій</code></p><h1>Вдар об стіну</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p></blockquote><p><code>Беззбройний</code></p><h1>Електричний відкат</h1><blockquote><p>Ви отримуєте @Damage[2d6[electricity]] шкоди.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #15": {
+      "_id": "xsBlA35rvfHSzJe4",
+      "pages": {
+        "1twrhbUvK9iTGLkw": {
+          "_id": "1twrhbUvK9iTGLkw",
+          "name": "Колода критичних промахів №15",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Зламана зброя</h1><blockquote><p>Поточні очки життя вашої зброї зменшуються до порогу зламу. Якщо зброя вже @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{зламана}, вона отримує @Damage[3d6] шкоди, ігноруючи твердість.</p></blockquote><p><code>Ближній бій</code></p><h1>Мої селезінкові частини!</h1><blockquote><p>Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{пораненим 1} або ваш рівень поранення збільшується на 1.</p></blockquote><p><code>Дальній бій</code></p><h1>Розчарування</h1><blockquote><p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 обставинний штраф до кидків атаки} до кінця свого наступного ходу.</p></blockquote><p><code>Беззбройний</code></p><h1>Звірячий розлом</h1><blockquote><p>Ваше закляття стає закляттям @UUID[Compendium.pf2e.spells-srd.Item.4YnON9JHYqtLzccu]{Призову тварину} того ж рангу. Тварина атакує вас.</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #16": {
+      "_id": "GUtWJynPuVmatqNF",
+      "pages": {
+        "1Xh3F6JINcq67Avv": {
+          "_id": "1Xh3F6JINcq67Avv",
+          "name": "Колода критичних промахів №16",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Кинути</h1><blockquote><p>Ви випускаєте зброю, якою завдали атаки. Вона падає за [[/r 1d6*5]] футів від вас у випадковому напрямку [[/r 1d8]].</p></blockquote><p><code>Ближній бій</code></p><h1>Ривок головою</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Огоромлені 2}</p></blockquote><p><code>Дальній бій</code></p><h1>Перерозтягнення</h1><blockquote><p>Ви викликаєте реакції, ніби використали дію руху.</p></blockquote><p><code>Беззбройний</code></p><h1>Віддзеркалення</h1><blockquote><p>Заклинання вражає вас замість цілі.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #17": {
+      "_id": "tHmyeunsbv4TZAbw",
+      "pages": {
+        "vFjWSlbJ9kWr7dhQ": {
+          "_id": "vFjWSlbJ9kWr7dhQ",
+          "name": "Колода критичних промахів №17",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Розтягнутий м’яз</h1><blockquote><p>Поки не вилікуєтесь, ви @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{ослаблені 2}.</p></blockquote><p><code>Ближній бій</code></p><h1>Незграбна атака</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{непідготовлені} до кінця вашого наступного ходу.</p></blockquote><p><code>Дальній бій</code></p><h1>Вкусив язика!</h1><blockquote><p>Ви отримуєте @Localize[PF2E.PersistentDamage.Bleed1.success].</p></blockquote><p><code>Беззбройний</code></p><h1>Спонтанне займання</h1><blockquote><p>Ви отримуєте @Damage[2d6[fire]] шкоди.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #18": {
+      "_id": "Toz2ZIpy7N4pDmyi",
+      "pages": {
+        "rZHd27zct5D3dN6w": {
+          "_id": "rZHd27zct5D3dN6w",
+          "name": "Колода критичних промахів #18",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Перерозтягнення</h1>\n<blockquote>\n<p>Ви викликаєте реакції, ніби використали дію руху.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Болить спина</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Розлад шлунку</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Огоромлені 2}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Критичний відкат</h1>\n<blockquote>\n<p>Ви критично влучаєте собі замість цілі.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #19": {
+      "_id": "IrUeMJoKEYUSJKs1",
+      "pages": {
+        "qJgQ0vw4mcqDyYVT": {
+          "_id": "qJgQ0vw4mcqDyYVT",
+          "name": "Колода критичних промахів #19",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Незграбна атака</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Під ефектом: Неуважний до кінця вашого наступного ходу}.</p></blockquote><p><code>Ближній бій</code></p><h1>Вистрілив собі в око</h1><blockquote><p>Ви критично влучаєте собі замість цілі.</p></blockquote><p><code>Дальній бій</code></p><h1>Втомлива атака</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p></blockquote><p><code>Беззбройний</code></p><h1>Кислотний відкат</h1><blockquote><p>Ви отримуєте @Damage[2d6[acid]] шкоди.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #2": {
+      "_id": "Wn47ZhXINo7jz8JZ",
+      "pages": {
+        "jvnfW76s6YjUo71n": {
+          "_id": "jvnfW76s6YjUo71n",
+          "name": "Колода критичних промахів #2",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Неправильний Кінець</h1><blockquote><p>Якщо ви використовуєте рубаючу зброю, ви отримуєте @Damage[1d6[slashing]] пошкодження та 1 постійне кровотеча.</p></blockquote><p><code>Ближній Бій</code></p><h1>Фантомний Вітер</h1><blockquote><p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.wVGSlZEGxsg1s8AZ]{-2 обставинний штраф до дальніх атак} до кінця вашого наступного ходу.</p></blockquote><p><code>Дальній Бій</code></p><h1>Переосмислення</h1><blockquote><p>Ваша ціль отримує @UUID[Compendium.pf2e.other-effects.Item.QGTMOcJ1Dq5bk0GG]{+2 обставинний бонус до КЗ} проти атак, які ви робите проти неї, до кінця вашого наступного ходу.</p></blockquote><p><code>Беззбройний</code></p><h1>Вимкнення Сили</h1><blockquote><p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 2}</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #20": {
+      "_id": "gWa7wGUfUvYoIK8z",
+      "pages": {
+        "CRAeRs5IsNZ6UvY1": {
+          "_id": "CRAeRs5IsNZ6UvY1",
+          "name": "Колода Критичних Промахів #20",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Цей меч Важкий</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p></blockquote><p><code>Ближній Бій</code></p><h1>Помилковий Приціл</h1><blockquote><p>Перекотіть кидок атаки, націлюючись на істоту, найближчу до цілі (крім вас).</p></blockquote><p><code>Дальній Бій</code></p><h1>Незграбна Атака</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Ефект: Незахищені до кінця вашого наступного ходу}.</p></blockquote><p><code>Беззбройний</code></p><h1>Кровоточиві Очі</h1><blockquote><p>Ви отримуєте @Damage[1d6[bleed]].</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #21": {
+      "_id": "I5omhoK6rqfCZiUZ",
+      "pages": {
+        "RMK1WoNdESOAfpUW": {
+          "_id": "RMK1WoNdESOAfpUW",
+          "name": "Колода критичних промахів #21",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Відмахування</h1><blockquote><p>Ви завдаєте нормальної шкоди собі замість цілі.</p></blockquote><p><code>Ближній бій</code></p><h1>Відкритий</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Під ефектом: Неуважний до кінця вашого наступного ходу}.</p></blockquote><p><code>Дальній бій</code></p><h1>Спіткнувся</h1><blockquote><p>Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p></blockquote><p><code>Беззбройний</code></p><h1>Заплутаний у спорядженні</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Обтяжені}, доки не витратите 2 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Дії взаємодії}, щоб звільнитися.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #22": {
+      "_id": "Ps9VYxI2zJPG6PEV",
+      "pages": {
+        "ChyeVeGrXiP83SMI": {
+          "_id": "ChyeVeGrXiP83SMI",
+          "name": "Колода критичних промахів #22",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Відкритий</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{Під ефектом: Неуважний до кінця вашого наступного ходу}.</p></blockquote><p><code>Ближній бій</code></p><h1>Тріщина</h1><blockquote><p>Використовувана вами дальня зброя (не боєприпаси) отримує @Damage[ 1d6] шкоди, ігноруючи твердість.</p></blockquote><p><code>Дальній бій</code></p><h1>Кулак зустрічає обличчя</h1><blockquote><p>Ви критично влучаєте собі цією атакою.</p></blockquote><p><code>Беззбройний</code></p><h1>Розрив дистанції</h1><blockquote><p>Ви телепортуєтесь у найближче місце поруч із ціллю вашого заклинання.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #23": {
+      "_id": "gLXD4uNnLLtLoeck",
+      "pages": {
+        "Z6uHNA2pcuTdNc4L": {
+          "_id": "Z6uHNA2pcuTdNc4L",
+          "name": "Колода Критичних Промахів #23",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Напруження</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбні 2}.</p>\n</blockquote>\n<p><code>Ближній Бій</code></p>\n<h1>Ой!</h1>\n<blockquote>\n<p>Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p>\n</blockquote>\n<p><code>Дальній Бій</code></p>\n<h1>Вийшли з Позиції</h1>\n<blockquote>\n<p>Ви не можете використовувати цю атаку до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Відтік Розуму</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 1}.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #24": {
+      "_id": "AXZZ59kX1JNpIjKo",
+      "pages": {
+        "TLsZved7H5lQtKWl": {
+          "_id": "TLsZved7H5lQtKWl",
+          "name": "Колода критичних промахів №24",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Занадто багато речей!</h1><blockquote><p>Ти заплутався у своєму спорядженні і стаєш @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Обтяженим}, доки не витратиш 2 дії Взаємодії, щоб звільнитися.</p></blockquote><p><code>Ближній бій</code></p><h1>Розтягнення</h1><blockquote><p>До зцілення ти @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбний 2}.</p></blockquote><p><code>Дальній бій</code></p><h1>Кровоточивий кулак</h1><blockquote><p>Ти отримуєш @Damage[1d6[bleed]].</p></blockquote><p><code>Беззбройний</code></p><h1>Запаморочення</h1><blockquote><p>Ти @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 2}.</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #25": {
+      "_id": "UheptedVuKxVHSQY",
+      "pages": {
+        "XX7shh3pqdG5v6Lm": {
+          "_id": "XX7shh3pqdG5v6Lm",
+          "name": "Колода критичних промахів #25",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Обертальний замах</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Огоромлені 2}.</p></blockquote><p><code>Ближній бій</code></p><h1>Подряпина</h1><blockquote><p>Ви отримуєте @Localize[PF2E.PersistentDamage.Bleed1.success].</p></blockquote><p><code>Дальній бій</code></p><h1>Заплутаний</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Обтяжені}, доки не витратите 2 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Дії взаємодії}, щоб звільнитися.</p></blockquote><p><code>Беззбройний</code></p><h1>Учнівський рух</h1><blockquote><p>Перекотіть кидок атаки, цілуючись у істоту, найближчу до цілі (крім вас).</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #26": {
+      "_id": "3vz4m5O9oyhVGe7t",
+      "pages": {
+        "KAnlflMVazFiPclF": {
+          "_id": "KAnlflMVazFiPclF",
+          "name": "Колода критичних промахів №26",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Я ж казав, що гостре!</h1><blockquote><p>Ти отримуєш @Damage[1d6[bleed]].</p></blockquote><p><code>Ближній бій</code></p><h1>Незграбний</h1><blockquote><p>Ти роняєш зброю, якою користувався.</p></blockquote><p><code>Дальній бій</code></p><h1>Перестань бити себе</h1><blockquote><p>Ти влучаєш у себе замість цілі.</p></blockquote><p><code>Беззбройний</code></p><h1>Не я, дурню!</h1><blockquote><p>Ти влучаєш у союзника, найближчого до цілі.</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #27": {
+      "_id": "K2U6PVeYrvNagqti",
+      "pages": {
+        "bZJiyaGJWhgfmrqF": {
+          "_id": "bZJiyaGJWhgfmrqF",
+          "name": "Колода критичних промахів #27",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Укол шпилькою</h1>\n<blockquote>\n<p>Ви отримуєте @Localize[PF2E.PersistentDamage.Bleed1.success].</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Розсипаний боєприпас</h1>\n<blockquote>\n<p>Боєприпаси зі зброї, якою ви користуєтеся, висипаються з контейнера на землю. Ви можете витратити 1 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Дію взаємодії}, щоб підняти один боєприпас, що висипався.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Лише смак</h1>\n<blockquote>\n<p>Ви влучаєте в союзника поруч із вами або ціллю.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Втомливе заклинання</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #28": {
+      "_id": "IvDJkDpe3JxMHaj1",
+      "pages": {
+        "TQtz26fCkZNSwPf2": {
+          "_id": "TQtz26fCkZNSwPf2",
+          "name": "Колода критичних промахів #28",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Розбивання броні</h1>\n<blockquote>\n<p>Ви завдаєте нормальної шкоди своїй броні, застосовуючи твердість.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Втрачений захват</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнені 2} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Побитий</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.c6cwOc4Zri6QiqsR]{-2 обставинний штраф до перевірок і спаскидок}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Несподіваний вибух</h1>\n<blockquote>\n<p>Ваше заклинання вражає всі цілі в радіусі 30 футів від вас. Ви імунні до цього ефекту.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #29": {
+      "_id": "wcqXFhggTcAutBk6",
+      "pages": {
+        "wVneA33rSDvAtNPZ": {
+          "_id": "wVneA33rSDvAtNPZ",
+          "name": "Колода критичних промахів №29",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Переведи подих</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{сповільнені 2} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Неправильна зброя</h1>\n<blockquote>\n<p>Якщо ви зробили кидкову атаку, замість цього ви кидаєте предмет зі свого спорядження (визначається випадково ГМ).</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Занадто близько</h1>\n<blockquote>\n<p>Ця атака надає і викликає @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Утримання} або @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Захват} як реакцію ворога.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Ви зробили їх сильнішими</h1>\n<blockquote>\n<p>Ціль отримує @UUID[Compendium.pf2e.other-effects.Item.lTwF7aCtQ6napqYu]{+2 статусний бонус до кидків атаки} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #3": {
+      "_id": "qD4ybNUceFacSJGu",
+      "pages": {
+        "jCcFyy09k0lf4wEl": {
+          "_id": "jCcFyy09k0lf4wEl",
+          "name": "Колода критичних промахів №3",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Поганий падіння</h1><blockquote><p>Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{на живіт} і сповільнені @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{1} до кінця вашого наступного ходу.</p></blockquote><p><code>Ближній бій</code></p><h1>Удар зі вивихом</h1><blockquote><p>Поки не вилікуєтесь, ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.NU5wAbJLZO6T86eB]{-10 футів обставинного штрафу до швидкості пересування по землі} і @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбні 1}.</p></blockquote><p><code>Дальній бій</code></p><h1>Поганий заїк</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбні 1} і @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{ослаблені 2}.</p></blockquote><p><code>Беззбройний</code></p><h1>Вибуховий череп</h1><blockquote><p>Ви повинні зробити спаскований кидок @Check[fortitude]. Якщо вдасться, ви отримуєте @Damage[3d6[mental]] шкоди. <strong>Якщо ні, ваша голова вибухає, і ви помираєте.</strong></p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #30": {
+      "_id": "RZAYqAHzFxnbD01e",
+      "pages": {
+        "d0OhvD2MJiKwDp6d": {
+          "_id": "d0OhvD2MJiKwDp6d",
+          "name": "Колода критичних промахів #30",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Смертельна помилка в розрахунках</h1>\n<blockquote>\n<p>Ви критично влучаєте собі цією атакою.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Віддача, як у мула</h1>\n<blockquote>\n<p>Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Не можу знайти відкриття</h1>\n<blockquote>\n<p>Ви не можете використовувати цю атаку до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Порожній хід</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 1}.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #31": {
+      "_id": "yBE9e9l5KW7SdHZH",
+      "pages": {
+        "AHnMn8nDzBU8XiDZ": {
+          "_id": "AHnMn8nDzBU8XiDZ",
+          "name": "Колода критичних промахів №31",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Застряг</h1>\n<blockquote>\n<p>Ваша зброя застрягла в найближчій поверхні або предметі. Щоб звільнити її, ви повинні пройти перевірку @Check[athletics|dc:20|name:Unlodge Weapon], виконану як @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{взаємодія}.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Лікоть лучника</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви отримуєте -2 обставинний штраф до дальніх атак.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Виведений з рівноваги</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{сповільнені 2} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Щит заклять</h1>\n<blockquote>\n<p>Ціль отримує @UUID[Compendium.pf2e.other-effects.Item.PaS2kwv4vueI4PC7]{+2 статусний бонус до спаскидків проти заклять на 1 хвилину}.</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #32": {
+      "_id": "DeZIaLR9okv231ek",
+      "pages": {
+        "z1dQl3xXyLg6xakc": {
+          "_id": "z1dQl3xXyLg6xakc",
+          "name": "Колода критичних промахів №32",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Зігнутий</h1>\n<blockquote>\n<p>Поточні очки життя твоєї зброї зменшуються до порогу зламу. Якщо вона вже зламана, зброя отримує [[/r 3d6]] шкоди, ігноруючи твердість.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Подвійний промах</h1>\n<blockquote>\n<p>Якщо ця атака використовує боєприпаси, ти витрачаєш удвічі більше боєприпасів на цю атаку.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Зловив твою атаку</h1>\n<blockquote>\n<p>Ця атака надає і викликає @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Падіння} або @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Штовхання} як реакцію ворога.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Залишився в розгубленості</h1>\n<blockquote>\n<p>Ти @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшений 1}.</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #33": {
+      "_id": "jLnyeFUJ76ZZieVJ",
+      "pages": {
+        "qsF4BXJlET5zW5n6": {
+          "_id": "qsF4BXJlET5zW5n6",
+          "name": "Колода Критичних Промахів #33",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Смішний Кістяк</h1>\n<blockquote>\n<p>Ви випускаєте один предмет, який тримаєте (випадково визначається ГМ).</p>\n</blockquote>\n<p><code>Ближній Бій</code></p>\n<h1>Не мій Поні!</h1>\n<blockquote>\n<p>Ви влучаєте в найближчого тваринного компаньйона, сідло або фамільяра.</p>\n</blockquote>\n<p><code>Дальній Бій</code></p>\n<h1>Поганий Удар Головою</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Оніміння 1}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Блок Кастера</h1>\n<blockquote>\n<p>Ви не можете знову кастувати це заклинання на будь-якому рівні, поки не відпочинете і не зробите щоденні приготування.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #34": {
+      "_id": "QbnfMqilzwyzk0bf",
+      "pages": {
+        "MAjmNAKgJd4UqEfQ": {
+          "_id": "MAjmNAKgJd4UqEfQ",
+          "name": "Колода критичних промахів #34",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Заплутування зброї</h1>\n<blockquote>\n<p>Ви не можете використовувати цю зброю для атаки до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Неймовірний промах</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшені 1}.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Синець кістки</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Поранення 1} або ваш рівень поранення збільшується на 1.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Ви зробили їх більшими</h1>\n<blockquote>\n<p>Ціль збільшується в розмірі, з ефектом 2-го рівня заклинання @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Збільшення}. @UUID[Compendium.pf2e.spell-effects.Item.sPCWrhUHqlbGhYSD]{Ефект заклинання: Збільшення}</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #35": {
+      "_id": "WGBL7l5DatQnszg7",
+      "pages": {
+        "k7BzBti00xCRMnZq": {
+          "_id": "k7BzBti00xCRMnZq",
+          "name": "Колода критичних промахів #35",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Бонк!</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшені 2}.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Вистрілив собі в ногу</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбні 2} і отримуєте @UUID[Compendium.pf2e.other-effects.Item.RcMZr0wSjrir1AnS]{-5-футовий обставинний штраф до швидкості пересування}.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Перевтома</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Побічний ефект</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Огоромлені 1}. Ви також @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 2} до вилікування.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #36": {
+      "_id": "NNfsKAHcKvTuyha4",
+      "pages": {
+        "e9OAyablRyqsYAaP": {
+          "_id": "e9OAyablRyqsYAaP",
+          "name": "Колода критичних промахів #36",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Вибачте!</h1>\n<blockquote>\n<p>Ви влучаєте в союзника поруч із вами або союзника поруч із ціллю.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Втрачена ціль</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 обставинний штраф до кидків атаки} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Розтягнення</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбні 2}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Ослаблення</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.BjkhK1nFUw3vNKg2]{-2 обставинний штраф до кидків заклинань і складності заклинань} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #37": {
+      "_id": "QCHhZd0F0DmvVxYP",
+      "pages": {
+        "26fg43UMXWHaV5Ee": {
+          "_id": "26fg43UMXWHaV5Ee",
+          "name": "Колода критичних промахів #37",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Краще дати</h1>\n<blockquote>\n<p>Ви влучаєте собі замість цілі.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Проблема зі зброєю</h1>\n<blockquote>\n<p>Якщо атака використовувала метальну зброю, щось у зброї виходить з ладу, і вам потрібно витратити 2 @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Дії взаємодії}, щоб полагодити її.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Чхання</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнені 1} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Поспішне заклинання</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 1} до вилікування.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #38": {
+      "_id": "kjoBsS79JcjUUPnr",
+      "pages": {
+        "qFcMTp2HirNwCf5g": {
+          "_id": "qFcMTp2HirNwCf5g",
+          "name": "Колода критичних промахів №38",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Прозвучав власний дзвінок</h1>\n<blockquote>\n<p>Поки не вилікуєтесь, ви @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{оглухли}.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Опущена охорона</h1>\n<blockquote>\n<p>Ви провокуєте реакції, ніби використали дію руху.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Люте промахування</h1>\n<blockquote>\n<p>Ви критично влучили в союзника в межах досяжності (визначається випадково ГМ).</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Магія зникла</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 обставинний штраф до кидків атаки, поки не зробите критичний удар}.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #39": {
+      "_id": "642qVWBhXlYwOhED",
+      "pages": {
+        "klRXj66DUAy1d1V5": {
+          "_id": "klRXj66DUAy1d1V5",
+          "name": "Колода критичних промахів №39",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>На прийомі</h1>\n<blockquote>\n<p>Ти завдаєш шкоди собі замість цілі.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>На лінії вогню</h1>\n<blockquote>\n<p>Ти критично влучаєш у найближчого союзника.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Голова, зустрічай стіну</h1>\n<blockquote>\n<p>Ти @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшений 1}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Чуєш мене тепер?</h1>\n<blockquote>\n<p>До зцілення ти @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Оглухлий}.</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #4": {
+      "_id": "DpY6k60UrpvKgjx2",
+      "pages": {
+        "dXEWEkV4N8QgAodD": {
+          "_id": "dXEWEkV4N8QgAodD",
+          "name": "Колода критичних промахів №4",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Почекай, що?</h1>\n<blockquote>\n<p>Ти @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Сплутаний}</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Не бий мене!</h1>\n<blockquote>\n<p>До кінця твого наступного ходу, кожного разу, коли ти промахуєшся дальньою атакою по ворогу, що стоїть поруч з будь-яким із твоїх союзників, ти влучаєш у одного з цих сусідніх союзників замість нього (визначається випадково ГМ).</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Затиснутий нерв</h1>\n<blockquote>\n<p>До зцілення ти отримуєш @UUID[Compendium.pf2e.other-effects.Item.NU5wAbJLZO6T86eB]{-10-футовий обставинний штраф до швидкості пересування} і стаєш @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбним 1}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Психічне послизнення</h1>\n<blockquote>\n<p>Ти @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{Під контролем} цілі до кінця твого наступного ходу.</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #40": {
+      "_id": "qD8KoshDJsayGbCB",
+      "pages": {
+        "5UIGH23EhwTfoNSM": {
+          "_id": "5UIGH23EhwTfoNSM",
+          "name": "Колода критичних промахів №40",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Повзуча нерішучість</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.y1GwyXv7iOf8DhBg]{непідготовлені до кінця вашого наступного ходу}.</p></blockquote><p><code>Ближній бій</code></p><h1>Невпевненість</h1><blockquote><p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 обставинний штраф до кидків атаки, поки не зробите критичний удар}.</p></blockquote><p><code>Дальній бій</code></p><h1>Гучний рев</h1><blockquote><p>Поки не вилікуєтесь, ви @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{оглухли}.</p></blockquote><p><code>Беззбройний</code></p><h1>Помилка!</h1><blockquote><p>Ви завдаєте звичайної шкоди собі замість цілі.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #41": {
+      "_id": "mcniWnifXwXkZocv",
+      "pages": {
+        "C0t1CYEnkINf6jhr": {
+          "_id": "C0t1CYEnkINf6jhr",
+          "name": "Колода критичних промахів №41",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Все або нічого</h1><blockquote><p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 обставинний штраф до кидків атаки, поки не зробите критичний удар}.</p></blockquote><p><code>Ближній бій</code></p><h1>Біля вуха</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.W2OF7VeLHqc7p3DO]{оглухли до кінця вашого наступного ходу}.</p></blockquote><p><code>Дальній бій</code></p><h1>Шпильки і голки</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{нудите 3}.</p></blockquote><p><code>Беззбройний</code></p><h1>Чому я?</h1><blockquote><p>Ви провокуєте реакції, ніби використали дію руху.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #42": {
+      "_id": "YRY6c3WdBEuKiOCv",
+      "pages": {
+        "WBUwp076Zb1XZceP": {
+          "_id": "WBUwp076Zb1XZceP",
+          "name": "Колода Критичних Промахів #42",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Задишка</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p>\n</blockquote>\n<p><code>Ближній Бій</code></p>\n<h1>Погане Положення</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.UZabiyynJWuUblMk]{-2 обставинний штраф до кидків атаки цією зброєю} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Дальній Бій</code></p>\n<h1>Він вкусив ваш Кулак</h1>\n<blockquote>\n<p>Ціль завдає вам пошкодження щелепами.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Поганий Обмін</h1>\n<blockquote>\n<p>Ви влучили, але втрачаєте підготовлене заклинання або слот заклинань найвищого доступного рівня (ви обираєте заклинання).</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #43": {
+      "_id": "TYTNFtVvFqFBM8oy",
+      "pages": {
+        "CvQ1EVSIxYPukyF5": {
+          "_id": "CvQ1EVSIxYPukyF5",
+          "name": "Колода критичних промахів #43",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Удар щитом</h1><blockquote><p>Ви завдаєте нормальної шкоди своєму щиту, застосовуючи твердість.</p></blockquote><p><code>Ближній бій</code></p><h1>Все, що маєш</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}.</p></blockquote><p><code>Дальній бій</code></p><h1>Жорсткий супротивник</h1><blockquote><p>Ви отримуєте @Damage[2d6[piercing]] шкоди або @Damage[2d6[slashing]] шкоди (за рішенням ведучого).</p></blockquote><p><code>Беззбройний</code></p><h1>Ви зробили їх міцнішими</h1><blockquote><p>Ціль отримує @UUID[Compendium.pf2e.other-effects.Item.WqgtMWgM9nUjwQiI]{Стійкість 5 до всієї шкоди} до початку свого наступного ходу.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #44": {
+      "_id": "2PtjynRwj4bBm4rZ",
+      "pages": {
+        "dg5t9bt48deLA8IH": {
+          "_id": "dg5t9bt48deLA8IH",
+          "name": "Колода критичних промахів №44",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Віддай</h1><blockquote><p>Якщо не пройдеш @Check[reflex], твоя ціль заволодіває твоєю зброєю.</p></blockquote><p><code>Ближній бій</code></p><h1>Зламано</h1><blockquote><p>Поточні очки життя твоєї зброї зменшуються до порогу зламу. Якщо вона вже @UUID[Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3]{Зламана}, зброя отримує @Damage[3d6] шкоди, ігноруючи твердість.</p></blockquote><p><code>Дальній бій</code></p><h1>Розбий підлогу</h1><blockquote><p>Ти піднімаєш хмару пилу, стаючи @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Осліпленим} до кінця твого наступного ходу.</p></blockquote><p><code>Беззбройний</code></p><h1>Ти зробив їх швидшими</h1><blockquote><p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Поспішна} на 2 раунди.</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #45": {
+      "_id": "e08YEjoNa60xrAYS",
+      "pages": {
+        "jE2DwXGkwsJABkA1": {
+          "_id": "jE2DwXGkwsJABkA1",
+          "name": "Колода Критичних Промахів #45",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Це Погано</h1><blockquote><p>Ви отримуєте @Damage[1d10[bleed]].</p></blockquote><p><code>Ближній Бій</code></p><h1>Які Шанси?</h1><blockquote><p>Якщо це атака метальною зброєю і ціль може тримати зброю, ціль хапає зброю в повітрі і використовує її.</p></blockquote><p><code>Дальній Бій</code></p><h1>Вихор Соромu</h1><blockquote><p>Ви влучаєте в усіх істот поруч із вами, крім цілі.</p></blockquote><p><code>Беззбройний</code></p><h1>Переплутані Компоненти</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнені 2} до кінця вашого наступного ходу.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #46": {
+      "_id": "8D8NPBNMxQftBmyd",
+      "pages": {
+        "uxrtM7Zg7HSzLogm": {
+          "_id": "uxrtM7Zg7HSzLogm",
+          "name": "Колода критичних промахів №46",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Порізав руку</h1><blockquote><p>Ти отримуєш @Damage[1d8[bleed]].</p></blockquote><p><code>Ближній бій</code></p><h1>Ой!</h1><blockquote><p>Ти влучаєш у себе замість цілі.</p></blockquote><p><code>Дальній бій</code></p><h1>Врослий ніготь</h1><blockquote><p>Ти отримуєш @UUID[Compendium.pf2e.other-effects.Item.fqk0ESqJACXqz21k]{-1 обставинний штраф до кидків атаки, доки не зробиш критичне влучання}.</p></blockquote><p><code>Беззбройний</code></p><h1>Клатто Верата Краватка</h1><blockquote><p>Ти критично влучаєш у найближчого союзника.</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #47": {
+      "_id": "HERWPcFlzK2FTPLJ",
+      "pages": {
+        "GM8KhEJHweIyOXpQ": {
+          "_id": "GM8KhEJHweIyOXpQ",
+          "name": "Колода критичних промахів #47",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Параліч рішення</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнені 1} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Порваний сухожилок</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбні 2}.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Пекучий провал</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.i5WccD9u62QPRZI8]{-2 обставинний штраф до кидків атаки цим прийомом}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Проклятий</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Приречені 1}.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #48": {
+      "_id": "Zx67JiRVzstgEa32",
+      "pages": {
+        "hbbqXuMIjP1O5ivM": {
+          "_id": "hbbqXuMIjP1O5ivM",
+          "name": "Колода Критичних Промахів #48",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Катастрофічний Провал</h1>\n<blockquote>\n<p>Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Без свідомості} до того, як прокинетесь або до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній Бій</code></p>\n<h1>Переворот</h1>\n<blockquote>\n<p>Якщо атака була з метальною зброєю, зброя летить у випадковому напрямку (визначається ГМ) на тричі більшу відстань свого інтервалу дальності.</p>\n</blockquote>\n<p><code>Дальній Бій</code></p>\n<h1>Не підбирай це</h1>\n<blockquote>\n<p>Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Пораненим 1} або ваш рівень поранення збільшується на 1.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Магічний Удар</h1>\n<blockquote>\n<p>Ви автоматично провалюєте (але не критично) наступну перевірку порятунку.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #49": {
+      "_id": "TbXmAqEzgW1nZV2r",
+      "pages": {
+        "QeRwmIUgBtzxElzk": {
+          "_id": "QeRwmIUgBtzxElzk",
+          "name": "Колода критичних промахів #49",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Гострий кінець туди</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Поранення 1} або ваш рівень поранення збільшується на 1.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Тунельне бачення</h1>\n<blockquote>\n<p>Протягом 3 раундів ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.IUvO6CatanKAgmNr]{+1 обставинний бонус до кидків атаки}, але ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Неуважні}.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Головою вперед!</h1>\n<blockquote>\n<p>Ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Без свідомості} доки не прокинетеся або до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Дика магія</h1>\n<blockquote>\n<p>Киньте двічі на таблиці @UUID[Compendium.pf2e.rollable-tables.RollTable.uYDzWM5ji52r4mSD]{Палиці див}. Ви є ціллю цих ефектів.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #5": {
+      "_id": "EP333dUdoJ8xdkzq",
+      "pages": {
+        "LXVN3PrglHFeUUQI": {
+          "_id": "LXVN3PrglHFeUUQI",
+          "name": "Колода критичних промахів №5",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Поганий хват</h1>\n<blockquote>\n<p>Ти отримуєш @UUID[Compendium.pf2e.other-effects.Item.UZabiyynJWuUblMk]{-2 обставинний штраф до кидків атаки цією зброєю} до кінця твого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Га?</h1>\n<blockquote>\n<p>Ти @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Сплутаний}</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Напруження очей</h1>\n<blockquote>\n<p>Ти @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Засліплений} до кінця твого наступного ходу.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Відрив</h1>\n<blockquote>\n<p>Ти маєш пройти @Check[will] спасбросок або бути кинутий на [[/r 1d6*5]] футів у повітря (або у випадковому напрямку, визначеному ГМ, якщо ти літаєш).</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #50": {
+      "_id": "QuhotSkof0ao2kJo",
+      "pages": {
+        "0UfzLjrNTkWSDZKb": {
+          "_id": "0UfzLjrNTkWSDZKb",
+          "name": "Колода критичних промахів #50",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Зламаний держак</h1><blockquote><p>Поточні очки життя вашої зброї зменшуються до порогу зламу. Якщо зброя вже зламана, вона отримує @Damage[3d6] шкоди, ігноруючи твердість. Якщо ваша зброя з досяжністю, вона втрачає досяжність.</p></blockquote><p><code>Ближній бій</code></p><h1>Всі пальці</h1><blockquote><p>Поки не вилікуєтеся, ви @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбні 1}.</p></blockquote><p><code>Дальній бій</code></p><h1>Промах</h1><blockquote><p>Ви влучаєте собі замість цілі.</p></blockquote><p><code>Беззбройний</code></p><h1>Виснажлива магія</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснажені 1}.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #51": {
+      "_id": "mwz1Ukw9laGyRocF",
+      "pages": {
+        "HJNQmrXcBXqxpU8d": {
+          "_id": "HJNQmrXcBXqxpU8d",
+          "name": "Колода критичних промахів №51",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Туман війни</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.uwYGEeqvt8pwjhXa]{осліплені до кінця вашого наступного ходу}.</p></blockquote><p><code>Ближній бій</code></p><h1>Влучання в яблучко</h1><blockquote><p>Ваша атака рикошетом влучає вам біля ока. Ви @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{осліплені} до кінця вашого наступного ходу.</p></blockquote><p><code>Дальній бій</code></p><h1>Зажати палець</h1><blockquote><p>Ви влучили по цілі мінімально можливою шкодою. Ви отримуєте звичайну шкоду від атаки.</p></blockquote><p><code>Беззбройний</code></p><h1>Все, чого варто боятися</h1><blockquote><p>Ви @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{налякані 3}.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #52": {
+      "_id": "dvL063pJYJpCMsA6",
+      "pages": {
+        "R9KUWluXi5sFMfii": {
+          "_id": "R9KUWluXi5sFMfii",
+          "name": "Колода Критичних Промахів #52",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Ціль на Очі</h1><blockquote><p>Ви @UUID[Compendium.pf2e.other-effects.Item.uwYGEeqvt8pwjhXa]{Ефект: Засліплені до кінця вашого наступного ходу}.</p></blockquote><p><code>Ближній Бій</code></p><h1>Щипок Пальця</h1><blockquote><p>Ви отримуєте @Damage[1d6[bleed]].</p></blockquote><p><code>Дальній Бій</code></p><h1>Вітри Змін</h1><blockquote><p>Ви не можете атакувати ту ж ціль знову до кінця вашого наступного ходу.</p></blockquote><p><code>Беззбройний</code></p><h1>Тепер я бачу тебе...</h1><blockquote><p>Ваша ціль стає @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Невидимою} до кінця свого наступного ходу або поки не зробить ворожу дію.</p></blockquote><p><code>Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #53": {
+      "_id": "6X9N5ieXqWitEVKw",
+      "pages": {
+        "nAQt4JAeqobILZOF": {
+          "_id": "nAQt4JAeqobILZOF",
+          "name": "Колода критичних промахів №53",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Пант</h1><blockquote><p>Твоя зброя летить [[/r 1d4*5]] футів у випадковому напрямку [[/r 1d8#1 equals North, going clockwise]] (визначає ГМ).</p></blockquote><p><code>Ближній бій</code></p><h1>Багато крові</h1><blockquote><p>Ти @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 3}.</p></blockquote><p><code>Дальній бій</code></p><h1>Намірений рух</h1><blockquote><p>Тебе переміщують на 10 футів у випадковому напрямку [[/r 1d8#1 equals North, going clockwise]] (визначає ГМ). Це переміщення викликає реакції.</p></blockquote><p><code>Беззбройний</code></p><h1>Воно так блищить!</h1><blockquote><p>Ти @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Осліплений} до кінця твого наступного ходу.</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #6": {
+      "_id": "4MkOtc3bBYsBGF97",
+      "pages": {
+        "q3wbDpopfALf7tJr": {
+          "_id": "q3wbDpopfALf7tJr",
+          "name": "Колода критичних промахів №6",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Їж землю</h1>\n<blockquote>\n<p>Ти падаєш @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навколішки} і стаєш @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Осліпленим} до кінця твого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Перебільшення</h1>\n<blockquote>\n<p>Прикриття дає @UUID[Compendium.pf2e.other-effects.Item.pbKvPM4cnmGTkDiZ]{+4 обставинний бонус до КЗ проти твоїх дальніх атак} на 1 хвилину.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Це смачно жахливо!</h1>\n<blockquote>\n<p>Якщо це була атака щелепами (або подібна), ти @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 3}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Дивна передача</h1>\n<blockquote>\n<p>Втрачаєш одне підготовлене закляття або слот закляття, визначене випадково ГМ. Твоя ціль може накласти це закляття у свій наступний хід, навіть якщо не може накладати закляття, використовуючи твій рівень, модифікатор атаки закляттям і DC закляття.</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #7": {
+      "_id": "99BxUbTtFlyPWkq5",
+      "pages": {
+        "zW0b5OCcFi5TPYp5": {
+          "_id": "zW0b5OCcFi5TPYp5",
+          "name": "Колода критичних промахів №7",
+          "text": {
+            "content": "<section class=\"fumble-deck\"><h1>Вібрація</h1><blockquote><p>Якщо ти використовуєш дроблячу зброю, ти роняєш її і стаєш @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослабленим 2} до зцілення.</p></blockquote><p><code>Ближній бій</code></p><h1>Віддача</h1><blockquote><p>Тебе відштовхують на 5 футів назад, і ти падаєш @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навколішки}.</p></blockquote><p><code>Дальній бій</code></p><h1>Проколена стопа</h1><blockquote><p>Ти отримуєш @Damage[1d4[bleed]]. Поки діє цей ефект, ти маєш @UUID[Compendium.pf2e.other-effects.Item.NU5wAbJLZO6T86eB]{-10-футовий обставинний штраф до швидкості пересування}.</p></blockquote><p><code>Беззбройний</code></p><h1>Психічний відкат</h1><blockquote><p>До зцілення ти @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 3}.</p></blockquote><p><code>Закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #8": {
+      "_id": "LY6T2YgrSoI79BDR",
+      "pages": {
+        "pdKVSF828hMb0ruS": {
+          "_id": "pdKVSF828hMb0ruS",
+          "name": "Колода критичних промахів #8",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Хто це був?</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнені 1} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Подвійне бачення</h1>\n<blockquote>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Засліплені} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Зламаний зуб</h1>\n<blockquote>\n<p>Поки не вилікуєтеся, ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.Ck0MQP9og75AWix7]{-2 обставинний штраф до кидків атаки}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Фрагментована магія</h1>\n<blockquote>\n<p>Ваша ціль отримує ефект заклинання @UUID[Compendium.pf2e.spells-srd.Item.j8vIoIEWElvpwkcI]{Дзеркальне відображення}.</p>\n</blockquote>\n<p><code>Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Fumble Deck #9": {
+      "_id": "0BESWYMP9vEbG3cr",
+      "pages": {
+        "IKTn2I00FjQ8CFT5": {
+          "_id": "IKTn2I00FjQ8CFT5",
+          "name": "Колода критичних промахів №9",
+          "text": {
+            "content": "<section class=\"fumble-deck\">\n<h1>Атака Темряви</h1>\n<blockquote>\n<p>Твої вороги @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Приховані} від тебе до кінця твого наступного ходу.</p>\n</blockquote>\n<p><code>Ближній бій</code></p>\n<h1>Наступного разу прицілюйся уважніше</h1>\n<blockquote>\n<p>До кінця твого наступного ходу твої атаки вимагають додаткової дії.</p>\n</blockquote>\n<p><code>Дальній бій</code></p>\n<h1>Жорстоке зіткнення</h1>\n<blockquote>\n<p>Спробуй зробити @Check[fortitude] спаскидок. Якщо вдасться, ти @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Оглушений 1}. Якщо ні — @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Оглушений 2}.</p>\n</blockquote>\n<p><code>Беззбройний</code></p>\n<h1>Передача сили</h1>\n<blockquote>\n<p>Найвищий рівень корисного закляття, що діє на тебе, передається твоїй цілі.</p>\n</blockquote>\n<p><code>Закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #1": {
+      "_id": "e9imRGVLbIWYVUXf",
+      "pages": {
+        "r9iBZ8NsIFSvgStR": {
+          "_id": "r9iBZ8NsIFSvgStR",
+          "name": "Колода Критичних Ударів #1",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Хрускіт</h1><blockquote><p><strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 3}.</p></blockquote><p><code>Дроблячий</code></p><h1>Проникаючий Удар Передпліччя</h1><blockquote><p><strong>Ефект Криту:</strong> Ціль випускає одну зі зброї, яку тримає (випадково визначається ГМ).</p></blockquote><p><code>Проникаючий</code></p><h1>Відкриття Здивування</h1><blockquote><p><strong>Ефект Криту:</strong> Ви отримуєте 1 дію, яку можете використати до кінця свого ходу для атаки по цілі.</p></blockquote><p><code>Рубаючий</code></p><h1>Алергічна Реакція</h1><blockquote><p>Ціль отримує @Damage[1d8[poison]] пошкодження.</p></blockquote><p><code>Бомба або Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #10": {
+      "_id": "lXew3cZFdIYM3NJs",
+      "pages": {
+        "jON5ZXJSqO78xFNT": {
+          "_id": "jON5ZXJSqO78xFNT",
+          "name": "Колода критичних влучань №10",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Я бачу зірки</h1><blockquote><p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{осліплена} до вилікування.</p></blockquote><p><code>Дроблячий</code></p><h1>Дірочка</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Ціль отримує @Localize[PF2E.PersistentDamage.Bleed1.success], який не можна вилікувати, поки ціль не буде вилікувана.</p></blockquote><p><code>Проникаючий</code></p><h1>Випотрошення</h1><blockquote><p>Потрійна шкода.</p></blockquote><p><code>Ріжучий</code></p><h1>Провідник</h1><blockquote><p>Ціль отримує -2 статусний штраф до КЗ і спасувань проти ваших бомб або заклять до кінця вашого наступного ходу.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #11": {
+      "_id": "vCvtsUB6C6PEdvog",
+      "pages": {
+        "URrgkZ8uRkzt2Zhf": {
+          "_id": "URrgkZ8uRkzt2Zhf",
+          "name": "Колода критичних влучань №11",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Зламаний ніс</h1><blockquote><p>Ціль отримує @Damage[1d4[bleed]].</p></blockquote><p><code>Дроблячий</code></p><h1>Два в ряд</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Нанесіть звичайну шкоду додатковій цілі, що стоїть поруч із початковою ціллю.</p></blockquote><p><code>Проникаючий</code></p><h1>Удар зброєю</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Нанесіть звичайну шкоду одній зі зброї цілі (застосовуючи твердість як зазвичай).</p></blockquote><p><code>Ріжучий</code></p><h1>Пошкодження нервів</h1><blockquote><p>Звичайна шкода. Ціль @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{сповільнена 1} до вилікування.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #12": {
+      "_id": "A0gsgMjgDpkOXtYp",
+      "pages": {
+        "Yw5SzkTazJSsn3db": {
+          "_id": "Yw5SzkTazJSsn3db",
+          "name": "Колода критичних влучань №12",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Розчавлений палець ноги</h1><blockquote><p>Звичайна шкода. Ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 2} і має @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10-футовий статусний штраф до швидкості пересування}. Обидва ефекти тривають до зцілення.</p></blockquote><p><code>Дроблячий</code></p><h1>Жало</h1><blockquote><p>Звичайна шкода. Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 3}.</p></blockquote><p><code>Проникаючий</code></p><h1>Відсутні пальці</h1><blockquote><p>Звичайна шкода. <strong>Ефект криту:</strong> Ціль втрачає [[/r 1d4#Lost Fingers]] пальців на одній руці і стає @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбною 1} до накладення закляття @UUID[Compendium.pf2e.spells-srd.Item.2Vkd1IxylPceUAAF]{Відновлення} або подібного ефекту.</p></blockquote><p><code>Ріжучий</code></p><h1>Дивна слизь</h1><blockquote><p>Звичайна шкода, і ціль @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Прикута}, використовуючи твій класовий DC як DC для втечі.</p></blockquote><p><code>Бомба або закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #13": {
+      "_id": "Y4J49n6WFOEXwaf2",
+      "pages": {
+        "kQHLnBkfwg7mgZAD": {
+          "_id": "kQHLnBkfwg7mgZAD",
+          "name": "Колода Критичних Ударів #13",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Розбиваючий Удар</h1><blockquote><p>Ціль падає @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p></blockquote><p><code>Дроблячий</code></p><h1>Проникаючий</h1><blockquote><p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнена 1} до кінця свого наступного ходу.</p></blockquote><p><code>Проникаючий</code></p><h1>Розріз Горла</h1><blockquote><p>Звичайне пошкодження. <strong>Ефект Криту:</strong> Ціль отримує @Damage[1d8[bleed]]. Ціль не може говорити, кастувати заклинання з вербальним компонентом або дихати, поки під дією цього кровотечі.</p></blockquote><p><code>Рубаючий</code></p><h1>Висмоктування Життя</h1><blockquote><p>Якщо це заклинання, ціль стає @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Приреченою 1} і ви відновлюєте [[/r 1d8]] Очок Життя.</p></blockquote><p><code>Бомба або Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #14": {
+      "_id": "JfnvVoWqEHN1ymd5",
+      "pages": {
+        "ftmugY4kI4X2OHtJ": {
+          "_id": "ftmugY4kI4X2OHtJ",
+          "name": "Колода критичних влучань #14",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Розбитий кулак</h1>\n<blockquote>\n<p>Нормальна шкода. Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 2} і @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблена 2}, і не може використовувати одну зі своїх рук (вибирає ведучий).</p>\n</blockquote>\n<p><code>Дробляча</code></p>\n<h1>Прямо в вухо</h1>\n<blockquote>\n<p>Нормальна шкода. Ціль @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Глуха} до вилікування.</p>\n</blockquote>\n<p><code>Колюча</code></p>\n<h1>Відійди</h1>\n<blockquote>\n<p>Відштовхує ціль на 5 футів.</p>\n</blockquote>\n<p><code>Ріжуча</code></p>\n<h1>Вампіричний відкат</h1>\n<blockquote>\n<p>Нормальна шкода. Ви відновлюєте очки життя, рівні половині завданої шкоди.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #15": {
+      "_id": "FHnfWQKntBkZJk6G",
+      "pages": {
+        "8catEKrHLlFFcnKK": {
+          "_id": "8catEKrHLlFFcnKK",
+          "name": "Колода критичних влучань №15",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Онімлюючий удар</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 1} на 1 хвилину і має пройти @Check[reflex] або випадково впустить один предмет, який тримає.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Рана в грудях</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлена}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Удар зверху</h1>\n<blockquote>\n<p><strong>Ефект криту:</strong> 1d8 постійної кровотечі.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Відштовхування</h1>\n<blockquote>\n<p>Відштовхни ціль до 10 футів.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #16": {
+      "_id": "wemXkXGY7sl0tUQR",
+      "pages": {
+        "Lqeke3pTNSHcyAlS": {
+          "_id": "Lqeke3pTNSHcyAlS",
+          "name": "Колода критичних ударів №16",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Два за ціною одного</h1>\n<blockquote>\n<p><strong>Ефект критичного удару:</strong> Нанесіть звичайну шкоду одній цілі, що прилягає до оригінальної цілі.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Прикований лікоть</h1>\n<blockquote>\n<p>Як ефект спеціалізації критичного удару луком, і ціль не може використовувати одну зі своїх рук, поки не звільниться. Якщо ви використовуєте зброю ближнього бою, ви повинні її кинути, щоб отримати цей ефект.</p>\n</blockquote>\n<p><code>Колючий</code></p>\n<h1>Перерізані ремені</h1>\n<blockquote>\n<p><strong>Ефект критичного удару:</strong> Штраф до перевірки броні цілі подвоюється до ремонту броні (СК 15).</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Удар електричним струмом</h1>\n<blockquote>\n<p>Якщо це закляття або бомба електрики, ціль отримує подвійну шкоду, а на початку свого наступного ходу — звичайну шкоду. Будь-яка інша бомба або закляття завдають подвійну шкоду.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #17": {
+      "_id": "EaNgK8fG3Fur9uzp",
+      "pages": {
+        "Clcu2H0uVyozvbI1": {
+          "_id": "Clcu2H0uVyozvbI1",
+          "name": "Колода критичних влучань №17",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>І залишайся на землі</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект криту:</strong> Ціль збивається з ніг @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навколішки} і @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшена 2}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Вентиляція</h1>\n<blockquote>\n<p>Потрійна шкода.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Відштовхування</h1>\n<blockquote>\n<p>Відштовхни ціль до 10 футів.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Заморожений</h1>\n<blockquote>\n<p>Якщо це холодна бомба або закляття, ціль отримує потрійну шкоду і @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнена 2} на 1 раунд. Будь-яка інша бомба або закляття завдають подвійну шкоду.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #18": {
+      "_id": "2CCPMTk5DlZslpOp",
+      "pages": {
+        "7shwLAHvCpn9nNyP": {
+          "_id": "7shwLAHvCpn9nNyP",
+          "name": "Колода критичних влучань №18",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Збентежений</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Сплутана} на 1 раунд.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Обережний удар</h1>\n<blockquote>\n<p><strong>Ефект криту:</strong> Отримуєш +2 обставинний бонус до КЗ до кінця твого наступного ходу.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Перерізаний сухожилок</h1>\n<blockquote>\n<p><strong>Ефект криту:</strong> До зцілення ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 1} і має @UUID[Compendium.pf2e.other-effects.Item.HTwG0F0LDu5ihBUm]{-5-футовий статусний штраф до швидкості пересування}.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Вибух енергії</h1>\n<blockquote>\n<p>Потрійна шкода.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #19": {
+      "_id": "klZe3T5N3T79oQvN",
+      "pages": {
+        "ymqdYEJyGiqAOijp": {
+          "_id": "ymqdYEJyGiqAOijp",
+          "name": "Колода критичних влучань №19",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>На добраніч</h1><blockquote><p>Звичайна шкода. <strong>Критичний ефект:</strong> Ціль падає @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Непритомною} й не може прокинутися до кінця свого наступного ходу.</p></blockquote><p><code>Дробляча</code></p><h1>Болісний прокол</h1><blockquote><p>Ціль отримує стан @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшений 1}.</p></blockquote><p><code>Колота</code></p><h1>Це залишить слід!</h1><blockquote><p>Звичайна шкода. <strong>Критичний ефект:</strong> Ціль отримує @Damage[2d6[bleed]] тривалої шкоди кровотечею.</p></blockquote><p><code>Рубаюча</code></p><h1>Спустошливий удар</h1><blockquote><p>Потрійна шкода. Ціль отримує стан @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшений 1}.</p></blockquote><p><code>Бомба або закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #2": {
+      "_id": "rLNl2PdawSadogJd",
+      "pages": {
+        "Y3etmaTpdsMT3kKp": {
+          "_id": "Y3etmaTpdsMT3kKp",
+          "name": "Колода критичних влучань №2",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Де я?</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{приголомшена 2}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Несподіваний прорив</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ви отримуєте 1 дію, яку можете використати до кінця свого ходу для атаки по цілі.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Відсутнє вухо</h1>\n<blockquote>\n<p>Звичайна шкода. Ціль отримує -2 обставинний штраф до Перцепції і перевірок на основі Харизми, крім Залякування, до вилікування.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Хмарність розуму</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{приголомшена 2} до вилікування.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #20": {
+      "_id": "nSU4nBU3fBTvb2k3",
+      "pages": {
+        "jU2mfBSZkV0Ek5gE": {
+          "_id": "jU2mfBSZkV0Ek5gE",
+          "name": "Колода критичних влучань №20",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Збита голова</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{приголомшена 1}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Проникаючий в нирку</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{нудить 2}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Пальцевий</h1>\n<blockquote>\n<p>Звичайна шкода. Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбна 1} і не може використовувати одну зі своїх рук (вибирає ГМ).</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Опік очей</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{осліплена} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #21": {
+      "_id": "8OoQs1TeJBW5UVby",
+      "pages": {
+        "14krStxw1Eirik24": {
+          "_id": "14krStxw1Eirik24",
+          "name": "Колода критичних влучань №21",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Колапс легені</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект криту:</strong> До зцілення ціль @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблена 2} і @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлена}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Ніколи не збирайся</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшена 2}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Розрив черевної порожнини</h1>\n<blockquote>\n<p>Потрійна шкода. Ціль @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлена}.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Транспозиція</h1>\n<blockquote>\n<p>Якщо це атака закляттям, ти і ціль міняєтеся місцями. Це ефект телепортації.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #22": {
+      "_id": "wHwwHq9RcOUvwFeB",
+      "pages": {
+        "jy3B3GW2BfOzG0AZ": {
+          "_id": "jy3B3GW2BfOzG0AZ",
+          "name": "Колода критичних ударів №22",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Кістковий дробар</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект критичного удару:</strong> Ціль або має @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбність 2} і отримує @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10 футів штрафу до швидкості пересування по землі}, або має @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбність 2} і не може використовувати одну зі своїх рук (на ваш вибір). Обидва ефекти тривають до лікування.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Проколене легке</h1>\n<blockquote>\n<p><strong>Ефект критичного удару:</strong> Ціль задихається, поки не отримає магічне лікування.</p>\n</blockquote>\n<p><code>Колючий</code></p>\n<h1>Біль і простота</h1>\n<blockquote>\n<p>Потрійна шкода.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Гіпнотичний зв’язок</h1>\n<blockquote>\n<p>Якщо це закляття, ціль отримує звичайну шкоду і перебуває під вашим @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{контролем} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #23": {
+      "_id": "pzk8lcb4ykgtn97D",
+      "pages": {
+        "KAsdzGsp84DphbcZ": {
+          "_id": "KAsdzGsp84DphbcZ",
+          "name": "Колода критичних влучань №23",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Приголомшливий удар</h1><blockquote><p>Потрійна шкода.</p></blockquote><p><code>Дроблячий</code></p><h1>Порізана артерія</h1><blockquote><p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Ціль отримує @Damage[2d6[bleed]].</p></blockquote><p><code>Проникаючий</code></p><h1>Піклуйся про ініціали</h1><blockquote><p>Звичайна шкода. Ціль так принижена, що не може нічого робити, окрім як атакувати вас. Наприкінці кожного свого ходу вона може спробувати @Check[will], щоб припинити цей ефект.</p></blockquote><p><code>Ріжучий</code></p><h1>Відволікання</h1><blockquote><p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{непідготовлена} до кінця свого наступного ходу.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #24": {
+      "_id": "kvQc6aNvJaBH6rEC",
+      "pages": {
+        "8Qpc1cbM8YliNeWt": {
+          "_id": "8Qpc1cbM8YliNeWt",
+          "name": "Колода критичних влучань №24",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Розірвана селезінка</h1><blockquote><p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Ціль отримує @Localize[PF2E.PersistentDamage.Bleed1.success], який не можна вилікувати, поки ціль не отримає магічне лікування.</p></blockquote><p><code>Дроблячий</code></p><h1>Порваний м’яз</h1><blockquote><p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбна 3} і @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{ослаблена 3}.</p></blockquote><p><code>Проникаючий</code></p><h1>Прийми удар</h1><blockquote><p>Потрійна шкода. Ви роняєте зброю.</p></blockquote><p><code>Ріжучий</code></p><h1>Смішний нерв</h1><blockquote><p>Ціль сміється неконтрольовано до кінця свого наступного ходу. Під час сміху вона @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{сповільнена 1} і не може використовувати реакції.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #25": {
+      "_id": "cY3fpFYpmsUK9kKb",
+      "pages": {
+        "OhyEcqPV8lo4hCwQ": {
+          "_id": "OhyEcqPV8lo4hCwQ",
+          "name": "Колода Критичних Ударів #25",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Виведений з Рівноваги</h1>\n<blockquote>\n<p>Звичайне пошкодження. Ціль виконує реакції, ніби щойно використала дію руху. Також вона @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Незахищена} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Відколоте Кісткове</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 1} до лікування.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Рубай і Ріж</h1>\n<blockquote>\n<p>Потрійне пошкодження. Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Незахищена} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Ефект Зменшення</h1>\n<blockquote>\n<p>Звичайне пошкодження. Ціль зменшується в розмірі, ніби під дією заклинання @UUID[Compendium.pf2e.spells-srd.Item.PjhUmyKnq6K5uDby]{Зменшення} до кінця свого наступного ходу. @UUID[Compendium.pf2e.spell-effects.Item.LXf1Cqi1zyo4DaLv]{Ефект Заклинання: Зменшення}</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #26": {
+      "_id": "unEu0FFXZfTtvF2b",
+      "pages": {
+        "tn6geVSwpDWKhMFC": {
+          "_id": "tn6geVSwpDWKhMFC",
+          "name": "Колода критичних влучань №26",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Розчавлені кишки</h1><blockquote><p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{поранена 2} і @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{ослаблена 2} поки не вилікується.</p></blockquote><p><code>Дроблячий</code></p><h1>Зафіксований у кістці</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Ціль отримує @Damage[1d6[bleed]].</p></blockquote><p><code>Проникаючий</code></p><h1>Перерізаний хребет</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Ціль повинна успішно пройти @Check[fortitude] або буде @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{паралізована} до вилікування.</p></blockquote><p><code>Ріжучий</code></p><h1>Психічний переповнення</h1><blockquote><p>Ціль отримує @Damage[1d8[mental]] шкоди.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #27": {
+      "_id": "BgI1SePPP5QW9wSQ",
+      "pages": {
+        "cAf08LJb1eMwAUR9": {
+          "_id": "cAf08LJb1eMwAUR9",
+          "name": "Колода критичних влучань №27",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Розчавлена трахея</h1><blockquote><p><strong>Ефект криту:</strong> Ціль задихається, доки не отримає магічне зцілення. Вона не може говорити, поки задихається.</p></blockquote><p><code>Дроблячий</code></p><h1>Пронизаний лікоть</h1><blockquote><p>Ціль роняє один предмет, який тримає (визначається випадково ГМ).</p></blockquote><p><code>Проникаючий</code></p><h1>Довгий розріз</h1><blockquote><p>Звичайна шкода. <strong>Ефект криту:</strong> Ціль отримує @Damage[1d4[bleed]]. DC перевірки, щоб зняти цю кровотечу, на 5 вищий за звичайний.</p></blockquote><p><code>Ріжучий</code></p><h1>Вразливість</h1><blockquote><p>Ціль отримує слабкість 5 до будь-яких типів шкоди від бомби або закляття на 1 хвилину.</p></blockquote><p><code>Бомба або закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #28": {
+      "_id": "eVEZLDyvu2tqiYZn",
+      "pages": {
+        "VWlXcYzq9XEBOA3u": {
+          "_id": "VWlXcYzq9XEBOA3u",
+          "name": "Колода Критичних Ударів #28",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Роздавлювання Черепа</h1><blockquote><p><strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 3} до лікування.</p></blockquote><p><code>Дроблячий</code></p><h1>Рана Руки</h1><blockquote><p><strong>Ефект Криту:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 2} і не може використовувати одну зі своїх рук (випадково визначається ГМ).</p></blockquote><p><code>Проникаючий</code></p><h1>Широкий Удар</h1><blockquote><p>Ціль отримує @Damage[1d4[bleed]].</p></blockquote><p><code>Рубаючий</code></p><h1>Тривале Пошкодження</h1><blockquote><p>Ціль отримує @Damage[1d6[persistent]] пошкодження того ж типу, що й пошкодження бомби або заклинання.</p></blockquote><p><code>Бомба або Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #29": {
+      "_id": "1urnmEt4sn4ATDRL",
+      "pages": {
+        "YrNP8Havb1BQ6akO": {
+          "_id": "YrNP8Havb1BQ6akO",
+          "name": "Колода критичних влучань №29",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Вдавлений череп</h1>\n<blockquote>\n<p>Потрійна шкода. <strong>Ефект криту:</strong> Ціль має пройти @Check[fortitude] або померти.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Перебільшена реакція</h1>\n<blockquote>\n<p>Звичайна шкода. Ціль викликає реакції, ніби щойно використала дію руху. Також вона @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Незахищена} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Паперова порізка</h1>\n<blockquote>\n<p>Ціль отримує @UUID[Compendium.pf2e.other-effects.Item.5gX3PZztMecmWxX9]{-2 обставинний штраф до кидків атаки} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Ненатуральний відбір</h1>\n<blockquote>\n<p>Потрійна шкода абераціям, небожителям, демонам і моніторам. Подвійна шкода всім іншим істотам.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #3": {
+      "_id": "qOmgdhhShYp4vlfi",
+      "pages": {
+        "XW36TQZYvQ9S7T4v": {
+          "_id": "XW36TQZYvQ9S7T4v",
+          "name": "Колода критичних влучань №3",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Несподіваний прорив</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ви отримуєте 1 дію, яку можете використати до кінця свого ходу для атаки по цілі.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Проникаючий язик</h1>\n<blockquote>\n<p>Ціль повинна успішно пройти @Check[flat|dc:5], щоб використовувати заклинання з вербальною складовою до вилікування.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Від брови до підборіддя</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ціль отримує -2 статусний штраф до Перцепції і кидків дальньої атаки до вилікування.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Перевантаження нюху</h1>\n<blockquote>\n<p>Ціль втрачає нюх і будь-які здібності або інші ольфакторні відчуття до вилікування.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #30": {
+      "_id": "y4EgjWn5MDIQC7JR",
+      "pages": {
+        "bLrBNA83wIHBP2Y0": {
+          "_id": "bLrBNA83wIHBP2Y0",
+          "name": "Колода критичних ударів №30",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>До твоїх думок</h1>\n<blockquote>\n<p><strong>Ефект критичного удару:</strong> Ціль має @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 2} до лікування.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Прорізаний наскрізь</h1>\n<blockquote>\n<p>Потрійна шкода.</p>\n</blockquote>\n<p><code>Колючий</code></p>\n<h1>Відкритий наскрізь</h1>\n<blockquote>\n<p>Ціль має @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Вразливість} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Гнів скарбошукача</h1>\n<blockquote>\n<p>Потрійна шкода драконам. Подвійна шкода всім іншим істотам.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #31": {
+      "_id": "x4850Hq18S9qYGed",
+      "pages": {
+        "DlZqvNFlAdXu740m": {
+          "_id": "DlZqvNFlAdXu740m",
+          "name": "Колода критичних ударів №31",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Оніміння від удару</h1>\n<blockquote>\n<p>Ціль має @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Оніміння 1}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Прокол щоки</h1>\n<blockquote>\n<p>Ціль має пройти перевірку @Check[flat|dc:5] для кастування заклять із вербальною складовою до лікування.</p>\n</blockquote>\n<p><code>Колючий</code></p>\n<h1>Через очі</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект критичного удару:</strong> Ціль сліпа @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{до лікування}.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Сповільнення</h1>\n<blockquote>\n<p>Ціль має @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнення 2} на 1 раунд.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #32": {
+      "_id": "ivko8YN075ThpNsb",
+      "pages": {
+        "tUgtvtXyPyK1XHIt": {
+          "_id": "tUgtvtXyPyK1XHIt",
+          "name": "Колода Критичних Ударів #32",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Влучання в Голову!</h1>\n<blockquote>\n<p>Потрійне пошкодження. Ціль падає @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Удар в Голову</h1>\n<blockquote>\n<p>Потрійне пошкодження. <strong>Ефект Криту:</strong> Ціль повинна пройти перевірку @Check[fortitude] або померти.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Від ударів до Паху</h1>\n<blockquote>\n<p>Потрійне пошкодження. <strong>Ефект Криту:</strong> Ціль повинна пройти перевірку @Check[fortitude] або померти.</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Приречена!</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнена 1} на 1 раунд і також @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Приречена 1}.</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #33": {
+      "_id": "XhX99wCRrwB1JFnl",
+      "pages": {
+        "61SADGhFPc7Ra59P": {
+          "_id": "61SADGhFPc7Ra59P",
+          "name": "Колода Критичних Ударів #33",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Зламані Ребра</h1><blockquote><p>Звичайне пошкодження. <strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнена 1} до лікування.</p></blockquote><p><code>Дроблячий Удар</code></p><h1>Перелом Хребта</h1><blockquote><p>Звичайне пошкодження. <strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 3}.</p></blockquote><p><code>Проникаючий</code></p><h1>Розріз Нервів</h1><blockquote><p><strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнена 2} на 1 раунд.</p></blockquote><p><code>Рубаючий</code></p><h1>Сильний Вибух</h1><blockquote><p>Бомба або заклинання завдає додаткове @Damage[1d8[force]] пошкодження.</p></blockquote><p><code>Бомба або Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #34": {
+      "_id": "OvQYM50fG50aOHfR",
+      "pages": {
+        "UnOv3yIG2BFWBvOo": {
+          "_id": "UnOv3yIG2BFWBvOo",
+          "name": "Колода критичних влучань #34",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Приголомшливий удар</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Приголомшена 2}.</p></blockquote><p><code>Дробляча</code></p><h1>Удар у серце</h1><blockquote><p>Потрійна шкода. <strong>Ефект критичного влучання:</strong> Ціль отримує @Damage[1d4[bleed]].</p></blockquote><p><code>Колюча</code></p><h1>Удар по нозі</h1><blockquote><p>Ціль збивають з ніг @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p></blockquote><p><code>Ріжуча</code></p><h1>Жахливий показ</h1><blockquote><p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Злякана 3}.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #35": {
+      "_id": "1xTQ3C9aySvCCPXw",
+      "pages": {
+        "uYcfVZMr3ykQgRXN": {
+          "_id": "uYcfVZMr3ykQgRXN",
+          "name": "Колода критичних влучань №35",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Грімовий удар</h1>\n<blockquote>\n<p><strong>Ефект криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Оглухла} до зцілення.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Прикований на місці</h1>\n<blockquote>\n<p>Як ефект критичної спеціалізації лука. Якщо це зброя ближнього бою, ти повинен кинути зброю, щоб отримати цей ефект. Якщо ця атака вже має цей ефект, перевірка Атлетики, щоб звільнитися, має DC 20 замість DC 10.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Обезголовлення</h1>\n<blockquote>\n<p>Потрійна шкода. <strong>Ефект криту:</strong> Ціль має пройти @Check[fortitude] або померти.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Повернене закляття</h1>\n<blockquote>\n<p>Якщо це атака закляттям, закляття або слот закляття не витрачаються.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #36": {
+      "_id": "dCiYhvB488kKvpO0",
+      "pages": {
+        "qJaP33VzLsKefpSc": {
+          "_id": "qJaP33VzLsKefpSc",
+          "name": "Колода Критичних Ударів #36",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Удар по Вухах</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Глуха} до лікування.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Ловець Списів</h1>\n<blockquote>\n<p>Потрійне пошкодження, якщо атака була дальньою або метальною. Подвійне пошкодження для всіх інших атак.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Розріз Губ</h1>\n<blockquote>\n<p>Ціль повинна пройти перевірку @Check[flat|dc:5], щоб кастувати заклинання з вербальним компонентом до лікування.</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Заклик Дикої Природи</h1>\n<blockquote>\n<p>Потрійне пошкодження тваринам, звірам і феям. Подвійне пошкодження всім іншим істотам.</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #37": {
+      "_id": "Rkv1BGGapMuMyMHs",
+      "pages": {
+        "UQ3MU5ltnZlq1Ljs": {
+          "_id": "UQ3MU5ltnZlq1Ljs",
+          "name": "Колода критичних влучань #37",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Контузія</h1><blockquote><p>Нормальна шкода. Ціль @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Спантеличена} на 1 хвилину і @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 2} до вилікування.</p></blockquote><p><code>Дробляча</code></p><h1>Інфекція</h1><blockquote><p>Ціль має пройти перевірку @Check[fortitude] або захворіти на гарячку бруду (Pathfinder Bestiary 258).</p></blockquote><p><code>Колюча</code></p><h1>Здирання шкіри</h1><blockquote><p>Нормальна шкода. Ціль @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблена 3} до вилікування.</p></blockquote><p><code>Ріжуча</code></p><h1>Корозійна</h1><blockquote><p>Якщо це кислотна бомба або заклинання, ціль отримує потрійну шкоду і @Damage[1d6[persistent,acid]]. Будь-яка інша бомба або заклинання завдають подвоєної шкоди.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #38": {
+      "_id": "lAPaa4MtkDZy6nZN",
+      "pages": {
+        "hfnqwRiA1F8yFxO2": {
+          "_id": "hfnqwRiA1F8yFxO2",
+          "name": "Колода критичних влучань №38",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Вм’ятина на броні</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Нанесіть таку ж кількість шкоди броні цілі, ігноруючи твердість цієї броні.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Пов’язка на око для вас</h1>\n<blockquote>\n<p>Потрійна шкода. <strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{осліплена} до вилікування.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Удар плоским лезом</h1>\n<blockquote>\n<p>Потрійна шкода. Ви можете завдати дроблячої шкоди замість ріжучої.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Магічне світіння</h1>\n<blockquote>\n<p>Ціль світиться 1 хвилину з ефектом заклинання @UUID[Compendium.pf2e.spells-srd.Item.HRb2doyaLtaoCfi3]{Фейрійське полум’я}.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #39": {
+      "_id": "SQAqU3m7BXHm8TGC",
+      "pages": {
+        "znDpd5Z0k6bq6WCr": {
+          "_id": "znDpd5Z0k6bq6WCr",
+          "name": "Колода критичних влучань #39",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Удар, що розбиває душу</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Приречена 1} і @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Оніміння 1} доти, доки вона приречена.</p>\n</blockquote>\n<p><code>Дробляча</code></p>\n<h1>Відштовхування</h1>\n<blockquote>\n<p>Ціль відштовхується на 10 футів.</p>\n</blockquote>\n<p><code>Колюча</code></p>\n<h1>Пошкодження броні</h1>\n<blockquote>\n<p>Броня цілі також отримує шкоду (застосовуючи твердість броні зазвичай).</p>\n</blockquote>\n<p><code>Ріжуча</code></p>\n<h1>Виснажливий удар</h1>\n<blockquote>\n<p>Ціль втрачає одне випадково вибране підготовлене заклинання або слот заклинань, за рішенням ведучого.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #4": {
+      "_id": "bzIzGjyNUc52lhCS",
+      "pages": {
+        "RksHFLAckI3WzZjx": {
+          "_id": "RksHFLAckI3WzZjx",
+          "name": "Колода Критичних Ударів #4",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Тріщини Ребра</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлена}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Імпульс</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.HLBhINtyRcHk6d7h]{+2 обставинний бонус до кидків атаки} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Кривавий</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 1}.</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Оніміння</h1>\n<blockquote>\n<p>Звичайне пошкодження. Ціль @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Оніміння 2}.</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #40": {
+      "_id": "7RcrHguk3riysqgZ",
+      "pages": {
+        "KAlZA2xLfbcGEm4E": {
+          "_id": "KAlZA2xLfbcGEm4E",
+          "name": "Колода критичних влучань №40",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Без дихання</h1><blockquote><p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлена}.</p></blockquote><p><code>Дроблячий</code></p><h1>Обертання</h1><blockquote><p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Незахищена} до кінця свого наступного ходу.</p></blockquote><p><code>Проникаючий</code></p><h1>Порізана рука</h1><blockquote><p>Звичайна шкода. До зцілення ціль @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблена 1}, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 1} і не може використовувати одну зі своїх рук (визначається випадково ГМ).</p></blockquote><p><code>Ріжучий</code></p><h1>Займання</h1><blockquote><p>Якщо це вогняна бомба або закляття, ціль отримує потрійну шкоду і @Damage[1d6[persistent,fire]]. Будь-яка інша бомба або закляття завдають подвійну шкоду.</p></blockquote><p><code>Бомба або закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #41": {
+      "_id": "nI9pM4SeM39SRVaR",
+      "pages": {
+        "Okqxk51eZT2JWJnw": {
+          "_id": "Okqxk51eZT2JWJnw",
+          "name": "Колода критичних влучань №41",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Зламана нога</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ціль отримує @UUID[Compendium.pf2e.other-effects.Item.0r8MznJe5UugViee]{-15 футів обставинного штрафу до швидкості пересування по землі} до вилікування.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Косий удар</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{приголомшена 3}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Прохід крізь</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Зробіть додаткову атаку по ворогу, що стоїть поруч із початковою ціллю, використовуючи той самий модифікатор атаки, що й для початкової атаки.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Максимальний ефект</h1>\n<blockquote>\n<p>Не кидайте кубики для шкоди. Ви завдаєте максимальну можливу шкоду критичного влучання цією атакою.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #42": {
+      "_id": "f1JjbSLpmPw5McIb",
+      "pages": {
+        "ZNh4PvHcmQEOa65W": {
+          "_id": "ZNh4PvHcmQEOa65W",
+          "name": "Колода Критичних Ударів #42",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Удар Щитом</h1>\n<blockquote>\n<p><strong>Ефект Криту:</strong> Ціль повинна пройти перевірку @Check[reflex] або впустить щит, який тримає.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Проникаюча Рана</h1>\n<blockquote>\n<p>Атака ігнорує всі опори.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>М’язова Рана</h1>\n<blockquote>\n<p><strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблена 2} до лікування.</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Інтенсивний Удар</h1>\n<blockquote>\n<p>Атака ігнорує всі опори.</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #43": {
+      "_id": "EpWswZucGxXiLNyP",
+      "pages": {
+        "MuU2oRlPMEGf5SKT": {
+          "_id": "MuU2oRlPMEGf5SKT",
+          "name": "Колода критичних влучань №43",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Мої зуби!</h1><blockquote><p>Ціль має пройти @Check[flat|dc:5], щоб накладати закляття з вербальною складовою до зцілення.</p></blockquote><p><code>Дроблячий</code></p><h1>Фонтан крові</h1><blockquote><p>Ціль отримує @Damage[1d6[bleed]].</p></blockquote><p><code>Проникаючий</code></p><h1>Жахливий поріз</h1><blockquote><p>Потрійна шкода.</p></blockquote><p><code>Ріжучий</code></p><h1>Нестерпний</h1><blockquote><p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хворий 3}.</p></blockquote><p><code>Бомба або закляття</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #44": {
+      "_id": "v7aUL4DIk7lkw1EO",
+      "pages": {
+        "aAQ9VezKVsEVvSZP": {
+          "_id": "aAQ9VezKVsEVvSZP",
+          "name": "Колода критичних влучань №44",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Відштовхування</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Ціль відштовхується на [[/r 1d4*5#feet]] футів.</p></blockquote><p><code>Дроблячий</code></p><h1>Глибокий біль</h1><blockquote><p><strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{втомлена}.</p></blockquote><p><code>Проникаючий</code></p><h1>Розріз живота</h1><blockquote><p>Ціль отримує @Damage[1d4[bleed]] і будь-яка істота, яку вона проковтнула цілком, негайно звільняється.</p></blockquote><p><code>Ріжучий</code></p><h1>Інтенсивний сплеск</h1><blockquote><p>Ціль отримує звичайну шкоду, а всі істоти поруч із ціллю отримують половину шкоди того ж типу.</p></blockquote><p><code>Бомба або заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #45": {
+      "_id": "dP4Zy3ILcjWRx6ZO",
+      "pages": {
+        "EkWqEdr5GVmYQOKx": {
+          "_id": "EkWqEdr5GVmYQOKx",
+          "name": "Колода Критичних Ударів #45",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Низький Удар</h1>\n<blockquote>\n<p><strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 2} і @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Сповільнена 1}, поки залишається хворою.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Кульгавий</h1>\n<blockquote>\n<p><strong>Ефект Криту:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 2} і отримує @UUID[Compendium.pf2e.other-effects.Item.ScZGg91ri19H4IIc]{-10 футів обставинного штрафу до всіх Швидкостей}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Поганий Парир</h1>\n<blockquote>\n<p><strong>Ефект Криту:</strong> Ціль повинна пройти перевірку @Check[reflex] або впустить одну зі зброї, яку тримає (визначається випадково ГМ).</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Планарний Розлом</h1>\n<blockquote>\n<p>Якщо це заклинання, ціль отримує звичайне пошкодження і повинна пройти перевірку @Check[will] або бути відправленою на випадковий план (визначається ГМ).</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #46": {
+      "_id": "wCsoyffDxSWQ2c8o",
+      "pages": {
+        "vbCWhbKx24g0Q40U": {
+          "_id": "vbCWhbKx24g0Q40U",
+          "name": "Колода критичних влучань №46",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Забите гомілкове</h1>\n<blockquote>\n<p><strong>Ефект критичного удару:</strong> Поки не вилікується, ціль має @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбність 1} і отримує @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10 футів штрафу до швидкості пересування по землі}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Ідеальний удар</h1>\n<blockquote>\n<p>Потрійна шкода.</p>\n</blockquote>\n<p><code>Колючий</code></p>\n<h1>Виснажливий розріз</h1>\n<blockquote>\n<p><strong>Ефект критичного удару:</strong> Ціль має @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втома}.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Легкий вибух</h1>\n<blockquote>\n<p>Ціль сліпа @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{до кінця свого наступного ходу}.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #47": {
+      "_id": "cPORMYYrqMaPfjnx",
+      "pages": {
+        "RYUmc3RaviKhGkaI": {
+          "_id": "RYUmc3RaviKhGkaI",
+          "name": "Колода Критичних Ударів #47",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Перелом Спини</h1><blockquote><p><strong>Ефект Криту:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбна 2} і @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблена 2}.</p></blockquote><p><code>Дроблячий</code></p><h1>Глибока Рана</h1><blockquote><p><strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Хвора 3}.</p></blockquote><p><code>Проникаючий</code></p><h1>Розріз Брови</h1><blockquote><p>Звичайне пошкодження. <strong>Ефект Криту:</strong> Ціль отримує @Damage[1d4[bleed]]. Поки кровотеча триває, усі істоти для цілі @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Приховані}.</p></blockquote><p><code>Рубаючий</code></p><h1>Містичне Перешкоджання</h1><blockquote><p>Ціль не може активувати магічні предмети, кастувати заклинання або використовувати Швидку Алхімію до кінця свого наступного ходу.</p></blockquote><p><code>Бомба або Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #48": {
+      "_id": "bZF7zf43UBxS188h",
+      "pages": {
+        "EAYQXMZmvqXhDVKX": {
+          "_id": "EAYQXMZmvqXhDVKX",
+          "name": "Колода Критичних Ударів #48",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Землетрус</h1>\n<blockquote>\n<p>Звичайне пошкодження. <strong>Ефект Криту:</strong> Ціль і кожен ворог поруч з нею повинні пройти перевірку @Check[reflex], щоб не впасти @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Вразливе Місце</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Незахищена} до лікування.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Розруб Щита</h1>\n<blockquote>\n<p>Завдайте звичайного пошкодження щиту цілі (застосовуйте твердість як зазвичай).</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Дикий Викид</h1>\n<blockquote>\n<p>Звичайне пошкодження, а потім ще звичайне пошкодження випадкового типу енергії (кидайте [[/r 1d4#1-acid; 2-cold; 3-fire; 4-electricity]]{1d4; 1-кислота; 2-холод; 3-вогонь; 4-електрика}).</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #49": {
+      "_id": "YcQEfWxkmpMWXUz4",
+      "pages": {
+        "XTAKgmqj1ZFepfHx": {
+          "_id": "XTAKgmqj1ZFepfHx",
+          "name": "Колода Критичних Ударів #49",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Сильний Удар</h1>\n<blockquote>\n<p>Потрійне пошкодження.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Наполеглива Рана</h1>\n<blockquote>\n<p>Звичайне пошкодження. <strong>Ефект Криту:</strong> Ціль не може вилікувати це пошкодження, поки не відпочине принаймні 8 годин.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Парируючий Удар</h1>\n<blockquote>\n<p><strong>Ефект Криту:</strong> Отримайте @UUID[Compendium.pf2e.other-effects.Item.QGTMOcJ1Dq5bk0GG]{+2 обставинний бонус до КЗ} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Фазований</h1>\n<blockquote>\n<p>Ціль стає ефірною (Pathfinder Bestiary 346) до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #5": {
+      "_id": "vXPWnWa7B1qsrOMa",
+      "pages": {
+        "pLB1M1oHTnFnzSCR": {
+          "_id": "pLB1M1oHTnFnzSCR",
+          "name": "Колода критичних влучань №5",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Слабкий парирувальний удар</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ціль роняє одну зі зброї, якою володіє, визначену ГМ.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Рана на плечі</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбна 1} і @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{ослаблена 2}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Пошкодження сухожилля</h1>\n<blockquote>\n<p>Звичайна шкода. <strong>Ефект критичного влучання:</strong> Ціль падає @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{на живіт}. Ціль також @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбна 2} до вилікування.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Відрізаний від магії</h1>\n<blockquote>\n<p>Звичайна шкода. Ціль не може кастувати заклинання або активувати магічні предмети протягом [[/r 1d4#rounds]]{1d4 раундів}.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #50": {
+      "_id": "QR3e1uCNURvxDzbV",
+      "pages": {
+        "WheD4j70ekVgpFb7": {
+          "_id": "WheD4j70ekVgpFb7",
+          "name": "Колода критичних влучань #50",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Втомливий удар</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлена}.</p>\n</blockquote>\n<p><code>Дробляча</code></p>\n<h1>Рана ноги</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ціль отримує @UUID[Compendium.pf2e.other-effects.Item.HTwG0F0LDu5ihBUm]{-5-футовий статусний штраф до швидкості пересування} до вилікування.</p>\n</blockquote>\n<p><code>Колюча</code></p>\n<h1>Обертання</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Неуважна} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Ріжуча</code></p>\n<h1>Часовий вир</h1>\n<blockquote>\n<p>Якщо це заклинання, нормальна шкода, і ціль зникає та з’являється знову через [[/r 1d4#rounds]]{1d4 раундів}. Ціль не може виконувати дії, а тривалість ефектів не зменшується, поки її немає.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #51": {
+      "_id": "DYaq4QSRuyhp4DQL",
+      "pages": {
+        "SVt7DN4eRBljHvWX": {
+          "_id": "SVt7DN4eRBljHvWX",
+          "name": "Колода критичних влучань №51",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Розчавлення стопи</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Незахищена} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Перемішування органів</h1>\n<blockquote>\n<p>Потрійна шкода. <strong>Ефект криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлена}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Розрив крила</h1>\n<blockquote>\n<p>Ціль втрачає будь-яку швидкість польоту до зцілення.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Сила енергії</h1>\n<blockquote>\n<p>Якщо бомба або закляття завдає кислотної, холодної, електричної, вогняної або звукової шкоди, вона завдає потрійну шкоду. Будь-яка інша бомба або закляття завдають подвійну шкоду.</p>\n</blockquote>\n<p><code>Бомба або закляття</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #52": {
+      "_id": "LI8WRDVWPbwr6pcG",
+      "pages": {
+        "E06pVpFdVXuRKgLT": {
+          "_id": "E06pVpFdVXuRKgLT",
+          "name": "Колода критичних влучань #52",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Вимкнення світла</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Осліплена} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Дробляча</code></p>\n<h1>Рана біцепса</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослаблена 1} до вилікування.</p>\n</blockquote>\n<p><code>Колюча</code></p>\n<h1>Збентежливий показ</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Неуважна} до кінця свого наступного ходу.</p>\n</blockquote>\n<p><code>Ріжуча</code></p>\n<h1>Гучний вибух</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Глуха} до вилікування.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #53": {
+      "_id": "XmpWko9I3NDN6rjJ",
+      "pages": {
+        "4YX173FiGFHEW0YY": {
+          "_id": "4YX173FiGFHEW0YY",
+          "name": "Колода Критичних Ударів #53",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Круговий Удар</h1><blockquote><p><strong>Ефект Криту:</strong> Зробіть додаткову атаку по ворогу, що стоїть поруч із початковою ціллю, використовуючи той самий модифікатор атаки, що й для початкової атаки.</p></blockquote><p><code>Дроблячий</code></p><h1>Рвані Рани</h1><blockquote><p>Ціль отримує @Damage[1d6[bleed]].</p></blockquote><p><code>Проникаючий</code></p><h1>Відкладена Рана</h1><blockquote><p>Звичайне пошкодження. <strong>Ефект Криту:</strong> Ціль отримує таку ж кількість пошкоджень в кінці своїх наступних двох ходів.</p></blockquote><p><code>Рубаючий</code></p><h1>Контузійний Вибух</h1><blockquote><p>Ціль відкидається на відстань до 10 футів і падає @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p></blockquote><p><code>Бомба або Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #6": {
+      "_id": "maXudTqcDiAj86Ym",
+      "pages": {
+        "yy6uVnmPsQNaxks9": {
+          "_id": "yy6uVnmPsQNaxks9",
+          "name": "Колода критичних влучань №6",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Тріщина коліна</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбна 2} і отримує @UUID[Compendium.pf2e.other-effects.Item.HTwG0F0LDu5ihBUm]{-5 футів штрафу до швидкості пересування по землі}.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Удар по литці</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{незграбна 1} і отримує @UUID[Compendium.pf2e.other-effects.Item.zDV1wo2ytNTbyTB0]{-10 футів штрафу до швидкості пересування по землі}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Потворна рана</h1>\n<blockquote>\n<p>Ціль отримує -2 обставинний штраф до перевірок усіх навичок на основі Харизми, крім Залякування.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Тепер ти мене бачиш...</h1>\n<blockquote>\n<p>Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{невидимим} до кінця вашого наступного ходу або поки не використаєте ворожу дію.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #7": {
+      "_id": "pjR0QGXE58oWS8uU",
+      "pages": {
+        "d0sh4NZCQ5cKu4ae": {
+          "_id": "d0sh4NZCQ5cKu4ae",
+          "name": "Колода критичних влучань №7",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Дзвонар</h1>\n<blockquote>\n<p><strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{нудить 2} і @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{приголомшена 2} поки не перестане нудити.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Проткнутий</h1>\n<blockquote>\n<p>Потрійна шкода. <strong>Ефект критичного влучання:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{сповільнена 1} на 1 раунд.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Імпульс</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.HLBhINtyRcHk6d7h]{+2 обставинний бонус до кидків атаки} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Ріжучий</code></p>\n<h1>Окаміння</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{окам’яніла} на 10 хвилин.</p>\n</blockquote>\n<p><code>Бомба або заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #8": {
+      "_id": "iZYZTEtihsVkbRKR",
+      "pages": {
+        "OSj1vOhjm71h9Km6": {
+          "_id": "OSj1vOhjm71h9Km6",
+          "name": "Колода Критичних Ударів #8",
+          "text": {
+            "content": "<section class=\"critical-deck\"><h1>Розкриття</h1><blockquote><p><strong>Ефект Криту:</strong> Ціль отримує @Damage[1d6[bleed]].</p></blockquote><p><code>Дроблячий</code></p><h1>Відкидання</h1><blockquote><p><strong>Ефект Криту:</strong> Ціль @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Незахищена} до кінця свого наступного ходу.</p></blockquote><p><code>Проникаючий</code></p><h1>Розбиття Щелепи</h1><blockquote><p><strong>Ефект Криту:</strong> Поки не вилікується, ціль @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Поранена 1} і не може говорити, їсти, пити або атакувати щелепами.</p></blockquote><p><code>Рубаючий</code></p><h1>Захисний Амулет</h1><blockquote><p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.sq8lhVfn0pl5WJ4t]{+2 статусний бонус до КЗ і всіх перевірок порятунку} до кінця вашого наступного ходу.</p></blockquote><p><code>Бомба або Заклинання</code></p></section>"
+          }
+        }
+      }
+    },
+    "Critical Hit Deck #9": {
+      "_id": "gdYlgrtfGK8mAoXK",
+      "pages": {
+        "aJziqJXJbAHFMnJi": {
+          "_id": "aJziqJXJbAHFMnJi",
+          "name": "Колода Критичних Ударів #9",
+          "text": {
+            "content": "<section class=\"critical-deck\">\n<h1>Імпульс</h1>\n<blockquote>\n<p>Ви отримуєте @UUID[Compendium.pf2e.other-effects.Item.HLBhINtyRcHk6d7h]{+2 обставинний бонус до кидків атаки} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Дроблячий</code></p>\n<h1>Віддача</h1>\n<blockquote>\n<p>Ціль падає @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак}.</p>\n</blockquote>\n<p><code>Проникаючий</code></p>\n<h1>Заплутаний</h1>\n<blockquote>\n<p><strong>Ефект Криту:</strong> Ви можете спробувати @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Захопити} ціль як вільну дію. Це використовує той самий штраф за множинні атаки, що й ваша атака, і не враховується до вашого штрафу за множинні атаки.</p>\n</blockquote>\n<p><code>Рубаючий</code></p>\n<h1>Кольорові Вогні</h1>\n<blockquote>\n<p>Ціль @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Засліплена} до кінця вашого наступного ходу.</p>\n</blockquote>\n<p><code>Бомба або Заклинання</code></p>\n</section>"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "entries": {
+    "10th-Level Consumables Items": {
+      "_id": "AIBvZzHidUXxZfEF",
+      "name": "Витратні матеріали 10-го рівня",
+      "description": "<p>Таблиця витратних предметів 10-го рівня</p>"
+    },
+    "10th-Level Permanent Items": {
+      "_id": "W0qudblot2Z9Vu86",
+      "name": "Постійні предмети 10-го рівня",
+      "description": "<p>Таблиця постійних предметів 10-го рівня</p>"
+    },
+    "11th-Level Consumables Items": {
+      "_id": "Ca7vD8PZtMPqVuHu",
+      "name": "Витратні матеріали 11-го рівня",
+      "description": "<p>Таблиця витратних предметів 11-го рівня</p>"
+    },
+    "11th-Level Permanent Items": {
+      "_id": "ood552HB1onSdJFS",
+      "name": "Постійні предмети 11-го рівня",
+      "description": "<p>Таблиця постійних предметів 11-го рівня</p>"
+    },
+    "12th-Level Consumables Items": {
+      "_id": "5HHqLskEnfjxpkCO",
+      "name": "Витратні матеріали 12-го рівня",
+      "description": "<p>Таблиця витратних предметів 12-го рівня</p>"
+    },
+    "12th-Level Permanent Items": {
+      "_id": "uzkmxRIn4CtzfP47",
+      "name": "Постійні предмети 12-го рівня",
+      "description": "<p>Таблиця постійних предметів 12-го рівня</p>"
+    },
+    "13th-Level Consumables Items": {
+      "_id": "awfTQvkm7NrRjRaQ",
+      "name": "Витратні матеріали 13-го рівня",
+      "description": "<p>Таблиця витратних предметів 13-го рівня</p>"
+    },
+    "13th-Level Permanent Items": {
+      "_id": "eo7kjM8xv6KD5h5q",
+      "name": "Постійні предмети 13-го рівня",
+      "description": "<p>Таблиця постійних предметів 13-го рівня</p>"
+    },
+    "14th-Level Consumables Items": {
+      "_id": "Vhuuy0vFJV5tYldR",
+      "name": "Витратні матеріали 14-го рівня",
+      "description": "<p>Таблиця витратних предметів 14-го рівня</p>"
+    },
+    "14th-Level Permanent Items": {
+      "_id": "cBpFoBUNSApkvP6L",
+      "name": "Постійні предмети 14-го рівня",
+      "description": "<p>Таблиця постійних предметів 14-го рівня</p>"
+    },
+    "15th-Level Consumables Items": {
+      "_id": "Af7beeFZhtvDAZaM",
+      "name": "Витратні матеріали 15-го рівня",
+      "description": "<p>Таблиця витратних предметів 15-го рівня</p>"
+    },
+    "15th-Level Permanent Items": {
+      "_id": "X2QkgnYrda4mV5v3",
+      "name": "Постійні предмети 15-го рівня",
+      "description": "<p>Таблиця постійних предметів 15-го рівня</p>"
+    },
+    "16th-Level Consumables Items": {
+      "_id": "aomFSKgGl52z7tdX",
+      "name": "Витратні матеріали 16-го рівня",
+      "description": "<p>Таблиця витратних предметів 16-го рівня</p>"
+    },
+    "16th-Level Permanent Items": {
+      "_id": "J7XfeVrfUj72IkRY",
+      "name": "Постійні предмети 16-го рівня",
+      "description": "<p>Таблиця постійних предметів 16-го рівня</p>"
+    },
+    "17th-Level Consumables Items": {
+      "_id": "YyQkwd1PksU1Lno4",
+      "name": "Витратні матеріали 17-го рівня",
+      "description": "<p>Таблиця витратних предметів 17-го рівня</p>"
+    },
+    "17th-Level Permanent Items": {
+      "_id": "0jlGmwn6YGqsfG1q",
+      "name": "Постійні предмети 17-го рівня",
+      "description": "<p>Таблиця постійних предметів 17-го рівня</p>"
+    },
+    "18th-Level Consumables": {
+      "_id": "PSs31Xj5RfszMbAe",
+      "name": "Витратні матеріали 18-го рівня",
+      "description": "<p>Таблиця витратних предметів 18-го рівня</p>"
+    },
+    "18th-Level Permanent Items": {
+      "_id": "6FmhLLYH94xhucIs",
+      "name": "Постійні предмети 18-го рівня",
+      "description": "<p>Таблиця постійних предметів 18-го рівня</p>"
+    },
+    "19th-Level Consumables Items": {
+      "_id": "pH85KVl31VBdENuy",
+      "name": "Витратні матеріали 19-го рівня",
+      "description": "<p>Таблиця витратних предметів 19-го рівня</p>"
+    },
+    "19th-Level Permanent Items": {
+      "_id": "gkdB45QC0u1WeiRA",
+      "name": "Постійні предмети 19-го рівня",
+      "description": "<p>Таблиця постійних предметів 19-го рівня</p>"
+    },
+    "1st-Level Consumables": {
+      "_id": "tlX5PLwar8b1tmiQ",
+      "name": "Витратні матеріали 1-го рівня",
+      "description": "<p>Таблиця витратних предметів 1-го рівня</p>"
+    },
+    "1st-Level Permanent Items": {
+      "_id": "JyDn13oc0MdLjpyw",
+      "name": "Постійні предмети 1-го рівня",
+      "description": "<p>Таблиця постійних предметів 1-го рівня</p>"
+    },
+    "20th-Level Consumable Items": {
+      "_id": "nusyoQjLs0ZxifRd",
+      "name": "Витратні предмети 20-го рівня",
+      "description": "<p>Таблиця витратних предметів 20-го рівня</p>"
+    },
+    "20th-Level Permanent Items": {
+      "_id": "NOkobOGi0nqsboHI",
+      "name": "Постійні предмети 20-го рівня",
+      "description": "<p>Таблиця постійних предметів 20-го рівня</p>"
+    },
+    "2nd-Level Consumables": {
+      "_id": "g30jZWCJEiK1RlIa",
+      "name": "Витратні матеріали 2-го рівня",
+      "description": "<p>Таблиця витратних предметів 2-го рівня</p>"
+    },
+    "2nd-Level Permanent Items": {
+      "_id": "q6hhGYSee35XxKE8",
+      "name": "Постійні предмети 2-го рівня",
+      "description": "<p>Таблиця постійних предметів 2-го рівня</p>"
+    },
+    "3rd-Level Consumables": {
+      "_id": "mDPLoPYwuPo3o0Wj",
+      "name": "Витратні матеріали 3-го рівня",
+      "description": "<p>Таблиця витратних предметів 3-го рівня</p>"
+    },
+    "3rd-Level Permanent Items": {
+      "_id": "Ow2zoRUSX0s7JjMo",
+      "name": "Постійні предмети 3-го рівня",
+      "description": "<p>Таблиця постійних предметів 3-го рівня</p>"
+    },
+    "4th-Level Consumables Items": {
+      "_id": "0WpkRFm8SyfwVCP6",
+      "name": "Витратні матеріали 4-го рівня",
+      "description": "Таблиця витратних матеріалів 4-го рівня"
+    },
+    "4th-Level Permanent Items": {
+      "_id": "k0Al2PJni2NTtdIY",
+      "name": "Постійні предмети 4-го рівня",
+      "description": "Таблиця постійних елементів 4-го рівня"
+    },
+    "5th-Level Consumables Items": {
+      "_id": "zRyuNslbOzN9oW5u",
+      "name": "Витратні матеріали 5-го рівня",
+      "description": "<p>Таблиця витратних предметів 5-го рівня</p>"
+    },
+    "5th-Level Permanent Items": {
+      "_id": "k5bG37570BbflxR2",
+      "name": "Постійні предмети 5-го рівня",
+      "description": "<p>Таблиця постійних предметів 5-го рівня</p>"
+    },
+    "6th-Level Consumables Items": {
+      "_id": "A68C9O0vtWbFXbfS",
+      "name": "Витратні матеріали 6-го рівня",
+      "description": "<p>Таблиця витратних предметів 6-го рівня</p>"
+    },
+    "6th-Level Permanent Items": {
+      "_id": "9xol7FdCfaU585WR",
+      "name": "Постійні предмети 6-го рівня",
+      "description": "<p>Таблиця постійних предметів 6-го рівня</p>"
+    },
+    "7th-Level Consumables Items": {
+      "_id": "E9ZNupg1p4yLpfrd",
+      "name": "Витратні матеріали 7-го рівня",
+      "description": "<p>Таблиця витратних предметів 7-го рівня</p>"
+    },
+    "7th-Level Permanent Items": {
+      "_id": "r8F8mI2BZU6nOMQB",
+      "name": "Постійні предмети 7-го рівня",
+      "description": "<p>Таблиця постійних предметів 7-го рівня</p>"
+    },
+    "8th-Level Consumables Items": {
+      "_id": "UmJGUUgN9TQtFQDI",
+      "name": "Витратні матеріали 8-го рівня",
+      "description": "<p>Таблиця витратних предметів 8-го рівня</p>"
+    },
+    "8th-Level Permanent Items": {
+      "_id": "QoEkRoteKJwHHVRd",
+      "name": "Постійні предмети 8-го рівня",
+      "description": "<p>Таблиця постійних предметів 8-го рівня</p>"
+    },
+    "9th-Level Consumables Items": {
+      "_id": "XAJFTpuo8qrcW30P",
+      "name": "Витратні матеріали 9-го рівня",
+      "description": "<p>Таблиця витратних предметів 9-го рівня</p>"
+    },
+    "9th-Level Permanent Items": {
+      "_id": "AJOYeeeF3E8UC7KF",
+      "name": "Постійні предмети 9-го рівня",
+      "description": "<p>Таблиця постійних предметів 9-го рівня</p>"
+    },
+    "Critical Fumble Deck": {
+      "_id": "WzMGWMIrrPvSp75D",
+      "name": "Колода критичного фамбла",
+      "description": "Стіл для карт критичних помилок"
+    },
+    "Critical Hit Deck": {
+      "_id": "FTEpsIWWVrDj0jNG",
+      "name": "Колода критичних ударів",
+      "description": "Таблиця для карт критичних ударів"
+    },
+    "Deck of Illusions Cards": {
+      "_id": "KiYzBNYqlBwcI11v",
+      "name": "Колода карт ілюзій",
+      "description": "Потенційні ілюзії, випадково взяті з колоди. Картка знищується під час використання."
+    },
+    "Deck of Many Things": {
+      "_id": "mA13pL1Ypo1pYkK6",
+      "name": "Колода багатьох речей",
+      "description": "Ці 22 карти з важкого пергаменту, які зазвичай зберігаються в коробці або мішечку, містять зображення або гліфи, що зображують символи магічної сили. Дивлячись на карту без активації, вона показує обличчя карти, але не має магічного ефекту. Коли колода лежить зображенням донизу, карти розташовуються у випадковому порядку. Якщо ви подивіться на верхню карту кілька разів, ви можете помітити, що вона змінилася. Будь-яка карта, вилучена з колоди, зникає через кілька секунд і знову з’являється в колоді."
+    },
+    "Deities, Faiths and Philosophies": {
+      "_id": "6g0mTIIgpzSmVDCM",
+      "name": "Божества, віри та філософії",
+      "description": "Таблиця божеств, вірувань і філософій"
+    },
+    "Family Size": {
+      "_id": "P2bvfTgVx3CGm10x",
+      "name": "Розмір сім'ї",
+      "description": "Таблиця розміру сім'ї"
+    },
+    "Forest Dangers": {
+      "_id": "i1ZBuuhd2vd54pZ5",
+      "name": "Лісові небезпеки"
+    },
+    "Greater Art Object": {
+      "_id": "qmxGfxkMp9vCOtNQ",
+      "name": "Великий арт-об'єкт",
+      "description": "Таблиця великих предметів мистецтва"
+    },
+    "Greater Precious Stones": {
+      "_id": "teZCrF2SOghusarb",
+      "name": "Великі дорогоцінні камені",
+      "description": "Таблиця великих дорогоцінних каменів"
+    },
+    "Greater Semiprecious Stones": {
+      "_id": "P3HzJtS2iUUWMedJ",
+      "name": "Великі напівкоштовні камені",
+      "description": "Таблиця великих напівдорогоцінних каменів"
+    },
+    "Hero Point Deck": {
+      "_id": "zgZoI7h0XjjJrrNK",
+      "name": "Колода очок героя",
+      "description": "<p>Таблиця карт Геройських Очок</p>"
+    },
+    "Hills Dangers": {
+      "_id": "DjtzGwrLAVA5DVvv",
+      "name": "Пагорби Небезпеки"
+    },
+    "Lesser Art Object": {
+      "_id": "zyXbnTnUGs7tWR5j",
+      "name": "Малий арт-об'єкт",
+      "description": "Таблиця менших предметів мистецтва"
+    },
+    "Lesser Precious Stones": {
+      "_id": "ZCYAQplm6zORj6eN",
+      "name": "Малокоштовне каміння",
+      "description": "Таблиця дрібних дорогоцінних каменів"
+    },
+    "Lesser Semiprecious Stones": {
+      "_id": "ucTtWBPXViITI8wr",
+      "name": "Мале напівдорогоцінне каміння",
+      "description": "Таблиця дрібних напівкоштовних каменів"
+    },
+    "Major Art Object": {
+      "_id": "hTBTUf9dmhDkpIo8",
+      "name": "Головний арт-об'єкт",
+      "description": "<p>Таблиця значних витворів мистецтва</p>"
+    },
+    "Minor Art Object": {
+      "_id": "ME37cisDz8J2m0H7",
+      "name": "Малий предмет мистецтва",
+      "description": "Таблиця незначних предметів мистецтва"
+    },
+    "Moderate Art Object": {
+      "_id": "bCD07W38YjbnyVoZ",
+      "name": "Помірний арт-об'єкт",
+      "description": "Таблиця помірних арт-об’єктів"
+    },
+    "Moderate Precious Stones": {
+      "_id": "wCXPh3nft3qWuxro",
+      "name": "Помірне дорогоцінне каміння",
+      "description": "Таблиця помірних дорогоцінних каменів"
+    },
+    "Moderate Semiprecious Stones": {
+      "_id": "mCzuipepJAJcuY0H",
+      "name": "Помірні напівкоштовні камені",
+      "description": "Таблиця помірних напівкоштовних каменів"
+    },
+    "Plains Dangers": {
+      "_id": "2ZMeCSbtg4C5bpM2",
+      "name": "Рівнинні небезпеки"
+    },
+    "Random Encounter Type": {
+      "_id": "GrUVRdGf65c7Yp9T",
+      "name": "Тип випадкової зустрічі",
+      "description": "Таблиця типів випадкових зустрічей"
+    },
+    "Random Terrain Feature": {
+      "_id": "jb6Jztoua103tAHL",
+      "name": "Функція випадкового ландшафту",
+      "description": "Таблиця для випадкової функції рельєфу"
+    },
+    "Random Terrain Type": {
+      "_id": "0JtfURwAEbgfkhss",
+      "name": "Випадковий тип місцевості",
+      "description": "Таблиця для випадкових типів рельєфу"
+    },
+    "Rod of Wonder": {
+      "_id": "uYDzWM5ji52r4mSD",
+      "name": "Жезл Чуда",
+      "description": "<p>Цей химерний жезл дивний і непередбачуваний. Щоразу під час активації він випадково створює один із різноманітних ефектів.</p>"
+    },
+    "Warpwaves": {
+      "_id": "yRZwPolTnRdnz42V",
+      "name": "Деформаційні хвилі",
+      "description": "<p>Багато протеїв здатні піддавати ворогів дезорієнтуючим змінам сприйняття часу й простору, створюючи в довкіллі брижі нестабільної реальності, які називають хвилями викривлення.</p>\n<p>Коли істота провалює спаскидок і зазнає впливу хвилі викривлення, киньте 1d8 і звіртеся з таблицею нижче, щоб визначити конкретний ефект для цієї істоти.</p>\n<p>Якщо не вказано інше, ефект хвилі викривлення триває [[/gmr 1d4 #rounds]]{1d4 раунди}, а новий ефект хвилі викривлення скасовує будь-який попередній ефект хвилі викривлення, що вже впливає на істоту.</p>"
+    },
+    "Waterways Dangers": {
+      "_id": "NtmXZKVA7uL7rdQc",
+      "name": "Небезпека водних шляхів"
+    },
+    "Wellspring Surges": {
+      "_id": "N0pDFNCffTe2Du39",
+      "name": "Джерело Сплесків"
+    }
+  }
+}

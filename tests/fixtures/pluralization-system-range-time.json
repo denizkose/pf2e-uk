@@ -1,0 +1,84 @@
+[
+  {
+    "fn": "translateSystemRangeAndTime",
+    "args": [
+      {
+        "system": {
+          "range": {
+            "value": "30 feet"
+          },
+          "time": {
+            "value": "2 actions"
+          },
+          "duration": {
+            "value": "up to 1 minute"
+          }
+        }
+      }
+    ],
+    "output": {
+      "system": {
+        "range": {
+          "value": "30 футів"
+        },
+        "time": {
+          "value": "2 дії"
+        },
+        "duration": {
+          "value": "до 1 хвилини"
+        }
+      }
+    },
+    "note": "typical PF2E spell system block"
+  },
+  {
+    "fn": "translateSystemRangeAndTime",
+    "args": [
+      {
+        "range": {
+          "value": "60 feet"
+        },
+        "time": {
+          "value": "1 reaction"
+        }
+      }
+    ],
+    "output": {
+      "range": {
+        "value": "60 футів"
+      },
+      "time": {
+        "value": "1 реакція"
+      }
+    },
+    "note": "top-level (non-system) range/time shape"
+  },
+  {
+    "fn": "translateSystemRangeAndTime",
+    "args": [
+      {
+        "system": {
+          "range": {
+            "value": 30
+          }
+        }
+      }
+    ],
+    "output": {
+      "system": {
+        "range": {
+          "value": 30
+        }
+      }
+    },
+    "note": "non-string leaf left untouched"
+  },
+  {
+    "fn": "translateSystemRangeAndTime",
+    "args": [
+      "not an object"
+    ],
+    "output": "not an object",
+    "note": "non-object input returned as-is"
+  }
+]

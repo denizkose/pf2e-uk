@@ -1,0 +1,734 @@
+{
+  "convertActorEmbeddedItem": [
+    {
+      "fn": "convertActorEmbeddedItem",
+      "args": [
+        {
+          "_id": "item-lore-1",
+          "name": "Society Lore",
+          "type": "lore",
+          "system": {
+            "mod": {
+              "value": 5
+            },
+            "proficient": {
+              "value": 1
+            }
+          }
+        },
+        {
+          "name": "Знання про Товариство"
+        },
+        "__UNDEFINED__",
+        {}
+      ],
+      "output": {
+        "_id": "item-lore-1",
+        "name": "Знання про Товариство",
+        "type": "lore",
+        "system": {
+          "mod": {
+            "value": 5
+          },
+          "proficient": {
+            "value": 1
+          },
+          "slug": "society-lore"
+        }
+      },
+      "note": "type=lore, direct-translation path"
+    },
+    {
+      "fn": "convertActorEmbeddedItem",
+      "args": [
+        {
+          "_id": "item-weapon-1",
+          "name": "Longsword",
+          "type": "weapon",
+          "system": {
+            "description": {
+              "value": "<p>A blade of versatile design.</p>",
+              "gm": ""
+            },
+            "rules": [],
+            "range": {
+              "value": null
+            },
+            "slug": null
+          }
+        },
+        {
+          "name": "Довгий меч",
+          "description": "<p>Клинок універсального дизайну.</p>"
+        },
+        "__UNDEFINED__",
+        {}
+      ],
+      "output": {
+        "_id": "item-weapon-1",
+        "name": "Довгий меч",
+        "type": "weapon",
+        "system": {
+          "description": {
+            "value": "<p>Клинок універсального дизайну.</p>",
+            "gm": ""
+          },
+          "rules": [],
+          "range": {
+            "value": null
+          },
+          "slug": "longsword"
+        }
+      },
+      "note": "type=weapon, no compendium match under Node -> direct-translation fallback"
+    },
+    {
+      "fn": "convertActorEmbeddedItem",
+      "args": [
+        {
+          "_id": "item-scroll-1",
+          "name": "Scroll of Fireball",
+          "type": "consumable",
+          "system": {
+            "category": "scroll",
+            "description": {
+              "value": "<p>A scroll.</p>",
+              "gm": ""
+            },
+            "spell": {
+              "name": "Fireball",
+              "uuid": null
+            }
+          }
+        },
+        {
+          "name": "Сувій Вогняної кулі",
+          "description": "<p>Сувій.</p>"
+        },
+        "__UNDEFINED__",
+        {}
+      ],
+      "output": {
+        "_id": "item-scroll-1",
+        "name": "Сувій Вогняної кулі",
+        "type": "consumable",
+        "system": {
+          "category": "scroll",
+          "description": {
+            "value": "<p>Сувій.</p>",
+            "gm": ""
+          },
+          "spell": {
+            "name": "Fireball",
+            "uuid": null
+          },
+          "rules": "__UNDEFINED__",
+          "slug": "scroll-of-fireball"
+        }
+      },
+      "note": "type=consumable/category=scroll: under Node, findIndexByName/findIndexByUuid always miss (no game.packs), so the spell-scroll-specific branch in convertEmbeddedSpellConsumable never fires and this degrades to the same direct-translation fallback as a plain item - the real scroll+spell-translation branch is live-verification-only"
+    },
+    {
+      "fn": "convertActorEmbeddedItem",
+      "args": [
+        {
+          "_id": "item-weapon-2",
+          "name": "Dagger",
+          "type": "weapon",
+          "system": {
+            "description": {
+              "value": "<p>A small blade.</p>",
+              "gm": ""
+            },
+            "rules": [],
+            "range": {
+              "value": null
+            },
+            "slug": null
+          }
+        },
+        "__UNDEFINED__",
+        "__UNDEFINED__",
+        {}
+      ],
+      "output": {
+        "_id": "item-weapon-2",
+        "name": "Dagger",
+        "type": "weapon",
+        "system": {
+          "description": {
+            "value": "<p>A small blade.</p>",
+            "gm": ""
+          },
+          "rules": [],
+          "range": {
+            "value": null
+          },
+          "slug": "dagger"
+        }
+      },
+      "note": "no translation entry at all -> name/description stay original"
+    }
+  ],
+  "convertActorEmbeddedItems": [
+    {
+      "fn": "convertActorEmbeddedItems",
+      "args": [
+        [
+          {
+            "_id": "item-lore-1",
+            "name": "Society Lore",
+            "type": "lore",
+            "system": {
+              "mod": {
+                "value": 5
+              },
+              "proficient": {
+                "value": 1
+              }
+            }
+          },
+          {
+            "_id": "item-weapon-1",
+            "name": "Longsword",
+            "type": "weapon",
+            "system": {
+              "description": {
+                "value": "<p>A blade of versatile design.</p>",
+                "gm": ""
+              },
+              "rules": [],
+              "range": {
+                "value": null
+              },
+              "slug": null
+            }
+          },
+          {
+            "_id": "item-weapon-2",
+            "name": "Dagger",
+            "type": "weapon",
+            "system": {
+              "description": {
+                "value": "<p>A small blade.</p>",
+                "gm": ""
+              },
+              "rules": [],
+              "range": {
+                "value": null
+              },
+              "slug": null
+            }
+          }
+        ],
+        {
+          "item-lore-1": {
+            "name": "Знання про Товариство"
+          },
+          "item-weapon-1": {
+            "name": "Довгий меч",
+            "description": "<p>Клинок універсального дизайну.</p>"
+          }
+        },
+        "__UNDEFINED__",
+        {}
+      ],
+      "output": [
+        {
+          "_id": "item-lore-1",
+          "name": "Знання про Товариство",
+          "type": "lore",
+          "system": {
+            "mod": {
+              "value": 5
+            },
+            "proficient": {
+              "value": 1
+            },
+            "slug": "society-lore"
+          }
+        },
+        {
+          "_id": "item-weapon-1",
+          "name": "Довгий меч",
+          "type": "weapon",
+          "system": {
+            "description": {
+              "value": "<p>Клинок універсального дизайну.</p>",
+              "gm": ""
+            },
+            "rules": [],
+            "range": {
+              "value": null
+            },
+            "slug": "longsword"
+          }
+        },
+        {
+          "_id": "item-weapon-2",
+          "name": "Dagger",
+          "type": "weapon",
+          "system": {
+            "description": {
+              "value": "<p>A small blade.</p>",
+              "gm": ""
+            },
+            "rules": [],
+            "range": {
+              "value": null
+            },
+            "slug": "dagger"
+          }
+        }
+      ],
+      "note": "translation as a plain object map keyed by _id"
+    },
+    {
+      "fn": "convertActorEmbeddedItems",
+      "args": [
+        [
+          {
+            "_id": "item-lore-1",
+            "name": "Society Lore",
+            "type": "lore",
+            "system": {
+              "mod": {
+                "value": 5
+              },
+              "proficient": {
+                "value": 1
+              }
+            }
+          },
+          {
+            "_id": "item-weapon-1",
+            "name": "Longsword",
+            "type": "weapon",
+            "system": {
+              "description": {
+                "value": "<p>A blade of versatile design.</p>",
+                "gm": ""
+              },
+              "rules": [],
+              "range": {
+                "value": null
+              },
+              "slug": null
+            }
+          }
+        ],
+        [
+          {
+            "_id": "item-lore-1",
+            "name": "Знання про Товариство"
+          },
+          {
+            "_id": "item-weapon-1",
+            "name": "Довгий меч",
+            "description": "<p>Клинок.</p>"
+          }
+        ],
+        "__UNDEFINED__",
+        {}
+      ],
+      "output": [
+        {
+          "_id": "item-lore-1",
+          "name": "Знання про Товариство",
+          "type": "lore",
+          "system": {
+            "mod": {
+              "value": 5
+            },
+            "proficient": {
+              "value": 1
+            },
+            "slug": "society-lore"
+          }
+        },
+        {
+          "_id": "item-weapon-1",
+          "name": "Довгий меч",
+          "type": "weapon",
+          "system": {
+            "description": {
+              "value": "<p>Клинок.</p>",
+              "gm": ""
+            },
+            "rules": [],
+            "range": {
+              "value": null
+            },
+            "slug": "longsword"
+          }
+        }
+      ],
+      "note": "translation as an array of entries (exercises buildTranslationIndex)"
+    }
+  ],
+  "sluggifyItemName": [
+    {
+      "fn": "sluggifyItemName",
+      "args": [
+        {
+          "system": {
+            "slug": "existing-slug"
+          },
+          "name": "Long Sword"
+        }
+      ],
+      "output": "existing-slug",
+      "note": "existing system.slug wins over name"
+    },
+    {
+      "fn": "sluggifyItemName",
+      "args": [
+        {
+          "name": "Long Sword +1"
+        }
+      ],
+      "output": "long-sword-1",
+      "note": "no game.pf2e.sluggify under Node -> regex fallback"
+    },
+    {
+      "fn": "sluggifyItemName",
+      "args": [
+        {
+          "name": "Довгий меч"
+        }
+      ],
+      "output": "довгий-меч",
+      "note": "Cyrillic name: PB.1 fix - fallback now mirrors PF2E sluggify (Unicode-aware), so it produces a real slug instead of an empty string"
+    },
+    {
+      "fn": "sluggifyItemName",
+      "args": [
+        {}
+      ],
+      "output": "",
+      "note": "no name at all -> empty slug"
+    },
+    {
+      "fn": "sluggifyItemName",
+      "args": [
+        null
+      ],
+      "output": "",
+      "note": "null item -> empty slug"
+    }
+  ],
+  "ensureItemSlug": [
+    {
+      "fn": "ensureItemSlug",
+      "args": [
+        {
+          "name": "Sword"
+        },
+        "sword"
+      ],
+      "output": {
+        "name": "Sword",
+        "system": {
+          "slug": "sword"
+        }
+      },
+      "note": "sets system.slug on a clone"
+    },
+    {
+      "fn": "ensureItemSlug",
+      "args": [
+        {
+          "name": "Sword"
+        },
+        ""
+      ],
+      "output": {
+        "name": "Sword"
+      },
+      "note": "falsy slug -> item returned unchanged, no system key added"
+    },
+    {
+      "fn": "ensureItemSlug",
+      "args": [
+        {
+          "name": "Sword"
+        },
+        null
+      ],
+      "output": {
+        "name": "Sword"
+      },
+      "note": "null slug -> item returned unchanged"
+    }
+  ],
+  "buildTextPatch": [
+    {
+      "fn": "buildTextPatch",
+      "args": [
+        {
+          "name": "Old Name",
+          "system": {
+            "description": {
+              "value": "Old desc"
+            }
+          }
+        },
+        {
+          "name": "New Name",
+          "system": {
+            "description": {
+              "value": "New desc"
+            }
+          }
+        }
+      ],
+      "output": {
+        "name": "New Name",
+        "system": {
+          "description": {
+            "value": "New desc"
+          }
+        }
+      },
+      "note": "name + description both differ -> full patch"
+    },
+    {
+      "fn": "buildTextPatch",
+      "args": [
+        {
+          "name": "Same",
+          "system": {
+            "description": {
+              "value": "Same desc"
+            }
+          }
+        },
+        {
+          "name": "Same",
+          "system": {
+            "description": {
+              "value": "Same desc"
+            }
+          }
+        }
+      ],
+      "output": null,
+      "note": "nothing differs -> null"
+    },
+    {
+      "fn": "buildTextPatch",
+      "args": [
+        {
+          "name": "Old Name",
+          "system": {
+            "description": {
+              "value": "Old desc"
+            }
+          }
+        },
+        {
+          "name": "New Name",
+          "system": {
+            "description": {
+              "value": "New desc"
+            }
+          }
+        },
+        {
+          "updateName": false
+        }
+      ],
+      "output": {
+        "system": {
+          "description": {
+            "value": "New desc"
+          }
+        }
+      },
+      "note": "updateName:false -> name omitted from patch even though it differs"
+    },
+    {
+      "fn": "buildTextPatch",
+      "args": [
+        {
+          "name": "X",
+          "system": {
+            "description": {
+              "value": "d",
+              "gm": "old gm"
+            }
+          }
+        },
+        {
+          "name": "X",
+          "system": {
+            "description": {
+              "value": "d",
+              "gm": "new gm"
+            }
+          }
+        },
+        {
+          "updateGmDescription": true
+        }
+      ],
+      "output": {
+        "system": {
+          "description": {
+            "gm": "new gm"
+          }
+        }
+      },
+      "note": "updateGmDescription:true -> gm diff included"
+    }
+  ],
+  "convertJournalPages": [
+    {
+      "fn": "convertJournalPages",
+      "args": [
+        [
+          {
+            "name": "Page One",
+            "_id": "p1",
+            "text": {
+              "content": "Hello"
+            }
+          },
+          {
+            "name": "Page Two",
+            "_id": "p2",
+            "text": {
+              "content": "World"
+            }
+          }
+        ],
+        {
+          "Page One": {
+            "name": "Сторінка Один",
+            "text": {
+              "content": "Привіт"
+            }
+          },
+          "p2": {
+            "name": "Сторінка Два",
+            "content": "Світ"
+          }
+        },
+        {}
+      ],
+      "output": [
+        {
+          "name": "Сторінка Один",
+          "_id": "p1",
+          "text": {
+            "content": "Привіт"
+          }
+        },
+        {
+          "name": "Сторінка Два",
+          "_id": "p2",
+          "text": {
+            "content": "Світ"
+          }
+        }
+      ],
+      "note": "translation keyed by name for page one, by _id for page two; content field via .text.content and via .content fallback"
+    },
+    {
+      "fn": "convertJournalPages",
+      "args": [
+        [
+          {
+            "name": "Page One",
+            "_id": "p1",
+            "text": {
+              "content": "Hello"
+            }
+          },
+          {
+            "name": "Page Two",
+            "_id": "p2",
+            "text": {
+              "content": "World"
+            }
+          }
+        ],
+        "__UNDEFINED__",
+        {}
+      ],
+      "output": [
+        {
+          "name": "Page One",
+          "_id": "p1",
+          "text": {
+            "content": "Hello"
+          }
+        },
+        {
+          "name": "Page Two",
+          "_id": "p2",
+          "text": {
+            "content": "World"
+          }
+        }
+      ],
+      "note": "no translation -> data returned unchanged"
+    },
+    {
+      "fn": "convertJournalPages",
+      "args": [
+        null,
+        {
+          "p1": {
+            "name": "x"
+          }
+        },
+        {}
+      ],
+      "output": null,
+      "note": "data not an array -> returned unchanged"
+    },
+    {
+      "fn": "convertJournalPages",
+      "args": [
+        [
+          {
+            "name": "Page One",
+            "_id": "p1",
+            "text": {
+              "content": "Hello"
+            }
+          },
+          {
+            "name": "Page Two",
+            "_id": "p2",
+            "text": {
+              "content": "World"
+            }
+          }
+        ],
+        {
+          "Page One": null
+        },
+        {}
+      ],
+      "output": [
+        {
+          "name": "Page One",
+          "_id": "p1",
+          "text": {
+            "content": "Hello"
+          }
+        },
+        {
+          "name": "Page Two",
+          "_id": "p2",
+          "text": {
+            "content": "World"
+          }
+        }
+      ],
+      "note": "translation entry present but falsy (null) -> that page returned unchanged"
+    }
+  ]
+}

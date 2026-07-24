@@ -1,0 +1,27 @@
+{
+  "purpose": "ROADMAP P1.1 characterization fixtures for scripts/utils.js, captured by running the real code.",
+  "source": "scripts/utils.js",
+  "capturedByScript": "tests/capture-fixtures.mjs",
+  "nodeVersion": "v24.16.0",
+  "gitHeadAtCapture": "7f4ad53e449778d114c53b2d343b7b5bb52c6184",
+  "stubbedGlobals": [],
+  "stubbedGlobalsNote": "scripts/utils.js imports and every captured function here runs cleanly under plain Node with NO Foundry global (`game`, `foundry`, `document`, `ui`, `Hooks`, `Babele`) present at all - verified. No stub was installed. Functions that branch on one of these globals take their real, already-coded 'absent' fallback branch under Node; that fallback IS what got captured. The alternate 'global present' branch is real Foundry/Babele runtime behavior and is NOT captured here (see liveVerificationOnly) - faking those globals would mean inventing Foundry/Babele's own behavior, which this project's rules forbid.",
+  "undefinedSentinel": "__UNDEFINED__",
+  "undefinedSentinelNote": "JSON has no `undefined`. Any captured `output` (or nested value inside it) that is a real JS `undefined` is written as the literal string \"__UNDEFINED__\" instead of being silently dropped, because for at least one seam (convertRulesData) the distinction between an explicit undefined-valued key and an absent key is itself part of the pinned behavior.",
+  "liveVerificationOnly": [
+    "safeParseUuid - wraps foundry.utils.parseUuid, absent under Node -> always undefined; real parsing needs live Foundry",
+    "findIndexByUuid / findIndexByUUID - needs a real game.packs compendium collection + index",
+    "findIndexByName - needs a real game.packs collection to iterate",
+    "getCompendiumDataFromUUID - needs safeParseUuid + a real compendium collection/index",
+    "mappedCompendiumFor / translatedCompendiumFor - needs game.babele",
+    "findBabeleEntry - needs a real Babele translated/mapped compendium + mapping",
+    "mapWithBabeleMapping - needs a real Babele mapping object with a working .map()",
+    "getFallbackLocalizeText - wraps foundry.utils.getProperty(game.i18n._fallback, key), both absent under Node",
+    "registerPf2eBabeleHelpers / registerIdentityExtractorSafe / registerTranslationMatchStrategySafe - needs a real game.babele instance",
+    "getModuleSetting / debugLog - needs game.settings; under Node always returns the caller's fallback (no branch to pin beyond that)",
+    "extractOriginalFromExistingDetails DOM branch - needs a real `document` (Foundry/Electron); only the regex fallback branch is captured",
+    "mergeFoundryObject / clone Foundry-global-present branch - needs real foundry.utils.mergeObject / foundry.utils.deepClone",
+    "convertItemFromCompendium (internal) and the found-translation branch of convertItemFromCompendium/convertEmbeddedSpellConsumable - needs a real compendium + Babele mapping to ever return a non-undefined result",
+    "notifyItemConversionError - needs globalThis.ui.notifications (Foundry UI); the catch-path that calls it is not exercised by these fixtures (see report re: a possible double-throw bug in this function)"
+  ]
+}

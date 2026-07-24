@@ -1,0 +1,274 @@
+{
+  "entries": {
+    "Angel Eidolon": {
+      "_id": "mKWiBb4xmnwVhmh7",
+      "name": {
+        "translate": "Ангельський Ейдолон",
+        "original": "Angel Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це небесний вісник, член ангельського війська з унікальним зв’язком з вами, що дозволяє йому нести особливе послання до смертного світу поруч із вами. Більшість ангельських ейдолонів мають приблизно людську форму, з пір'яними крилами, світними очима, ореолами або подібними ангельськими рисами. Однак деякі набувають форми менших ангельських слуг, як-от крилатий шолом кассійського ангела. Ви двоє призначені для важливої ролі в планах небесних сфер. Хоча це справжній ангел, зв’язок вашого ангельського ейдолона з вами як смертним заважає йому виконувати ритуал ангельського вісника, навіть якщо він якось його вивчить.</p>\n<p><strong>Традиція</strong> божественна</p>\n<p><strong>Риси</strong> ангел, небесний, ейдолон</p>\n<p><strong>Схильність</strong> має бути доброю, зазвичай нейтрально доброю</p>\n<p><strong>Рідна Площина</strong> Нірвана (якщо НД), Елізіум (якщо ХД), або Небеса (якщо ЛД)</p>\n<p><strong>Розмір</strong> Середній або Малий</p>\n<p><strong>Рекомендовані атаки</strong> кулак (дроблячий), крило (дроблячий), беззбройні атаки, сформовані як зброя</p>\n<p><strong>Ангельський Помститель</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Ангельський Посланець</strong> Сила 12, Ловкість 18, Витривалість 12, Інтелект 10, Мудрість 12, Харизма 14; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Дипломатія, Релігія</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> Небесна</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.WyN2qQ2AP4cOMNxF]{hallowed strikes}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.6uCSkTAltByUK2Pb]{traveler's aura}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.QDtXuIshSTUBcxff]{angelic mercy}</p>",
+        "original": "<p>Your eidolon is a celestial messenger, a member of the angelic host with a unique link to you, allowing them to carry a special message to the mortal world at your side. Most angel eidolons are roughly humanoid in form, with feathered wings, glowing eyes, halos, or similar angelic features. However, some take the form of smaller angelic servitors like the winged helmet cassisian angel instead. The two of you are destined for an important role in the plans of the celestial realms. Though a true angel, your angel eidolon's link to you as a mortal prevents them from casting the angelic messenger ritual, even if they somehow learn it.</p>\n<p><strong>Tradition</strong> divine</p>\n<p><strong>Traits</strong> angel, celestial, eidolon</p>\n<p><strong>Alignment</strong> must be good, usually neutral good</p>\n<p><strong>Home Plane</strong> Nirvana (if NG), Elysium (if CG), or Heaven (if LG)</p>\n<p><strong>Size</strong> Medium or Small</p>\n<p><strong>Suggested Attacks</strong> fist (bludgeoning), wing (bludgeoning), unarmed attacks shaped like a weapon</p>\n<p><strong>Angelic Avenger</strong> Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)</p>\n<p><strong>Angelic Emissary</strong> Str 12, Dex 18, Con 12, Int 10, Wis 12, Cha 14; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Diplomacy, Religion</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> Celestial</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.WyN2qQ2AP4cOMNxF]{hallowed strikes}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.6uCSkTAltByUK2Pb]{traveler's aura}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.QDtXuIshSTUBcxff]{angelic mercy}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-angel"
+        ]
+      }
+    },
+    "Anger Phantom Eidolon": {
+      "_id": "o3wSjAaxYUmdbDvB",
+      "name": {
+        "translate": "Ейдолон Фантом Гніву",
+        "original": "Anger Phantom Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це загублена душа, прив’язана до смертного світу невмирущим гнівом або гірким образою. Більшість фантомних ейдолонів — це гуманоїди з ефірним або ектоплазматичним виглядом, хоча деякі набувають значно дивніших форм. Ваш зв’язок з ейдолоном запобігає його підданню корупції та нежиті. Разом вам доведеться вирішити, чи працювати з ейдолоном, щоб контролювати його гнів, чи спрямувати його лють у силу.</p>\n<p><strong>Традиція</strong> окультна</p>\n<p><strong>Риси</strong> ейдолон, ефірний, фантом</p>\n<p><strong>Рідна Площина</strong> Ефірна Площина</p>\n<p><strong>Розмір</strong> Середній або Малий</p>\n<p><strong>Рекомендовані атаки</strong> кулак (дроблячий), щупальце (дроблячий), беззбройні атаки, сформовані як зброя</p>\n<p><strong>Божевільний Берсерк</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 8, Мудрість 10, Харизма 12; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Розлючений Вбивця</strong> Сила 14, Ловкість 18, Витривалість 16, Інтелект 10, Мудрість 8, Харизма 12; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Залякування, Окультизм</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> одна загальнолюдська мова, якою ейдолон розмовляв за життя</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.CBJrHjIETQsh3OG6]{furious ftrike}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.MzqIc3XmAUQVdSFO]{seething frenzy}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.MET0PzSNfpxi0D3E]{anger aura}</p>",
+        "original": "<p>Your eidolon is a lost soul, bound to the mortal world by undying anger or a bitter grudge. Most phantom eidolons are humanoids with a spectral or ectoplasmic appearance, though some take far stranger forms. Your link with your eidolon prevents it from succumbing to corruption and undeath. Together, you will need to decide whether to work with your eidolon to control its anger, or channel its wrath into power.</p>\n<p><strong>Tradition</strong> occult</p>\n<p><strong>Traits</strong> eidolon, ethereal, phantom</p>\n<p><strong>Home Plane</strong> Ethereal Plane</p>\n<p><strong>Size</strong> Medium or Small</p>\n<p><strong>Suggested Attacks</strong> fist (bludgeoning), tendril (bludgeoning), unarmed attacks shaped like a weapon</p>\n<p><strong>Wrathful Berserker</strong> Str 18, Dex 14, Con 16, Int 8, Wis 10, Cha 12; +2 AC (+3 Dex cap)</p>\n<p><strong>Enraged Assassin</strong> Str 14, Dex 18, Con 16, Int 10, Wis 8, Cha 12; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Intimidation, Occultism</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> one common mortal language the eidolon spoke in life</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.CBJrHjIETQsh3OG6]{furious ftrike}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.MzqIc3XmAUQVdSFO]{seething frenzy}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.MET0PzSNfpxi0D3E]{anger aura}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    },
+    "Beast Eidolon": {
+      "_id": "5IvhL9PsniwiVhEZ",
+      "name": {
+        "translate": "Ейдолон Звіра",
+        "original": "Beast Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це вияв життєвої сили природи у вигляді могутнього магічного звіра, який часто має тваринні риси, можливо, навіть кілька від різних видів. Ви могли навчитися способу зв’язку з життєвою силою світу через певну філософію або практику, наприклад, вірування богозвонів Саркоріса, або сформувати зв’язок самостійно. У будь-якому разі ваш зв’язок з ейдолоном дозволяє вам обом зростати в силі та впливі, щоб захищати ваш дім від тих, хто хоче його знищити.</p><p><strong>Традиція</strong> первісна</p><p><strong>Риси</strong> звір, ейдолон</p><p><strong>Рідна Площина</strong> Матеріальна Площина</p><p><strong>Розмір</strong> Середній</p><p><strong>Рекомендовані атаки</strong> кіготь (різальний), щелепи (колючий), ікла (колючий), копито (дроблячий), ріг (колючий)</p><p><strong>Жорстокий Звір</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +2 КЗ (+3 ліміт Ловкості)</p><p><strong>Швидкий Звір</strong> Сила 14, Ловкість 18, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +1 КЗ (+4 ліміт Ловкості)</p><p><strong>Навички</strong> Залякування, Природа</p><p><strong>Відчуття</strong> зір у сутінках</p><p><strong>Мова</strong> Сильванська</p><p><strong>Швидкість</strong> 25 футів</p><p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.lonj7zEZdJD2pbai]{beast's charge}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.Gn750G9nNM3GiI5k]{primal roar}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.coBen1GA1czeBTOs]{whirlwind maul}</p>",
+        "original": "<p>Your eidolon is a manifestation of the life force of nature in the form of a powerful magical beast that often has animal features, possibly even several from different species. You might have learned the way to connect with the world's life force via a specific philosophy or practice, such as the beliefs of the god callers of Sarkoris, or formed a bond on your own. Regardless, your link to your eidolon allows you both to grow in power and influence to keep your home safe from those who would despoil it.</p><p><strong>Tradition</strong> primal</p><p><strong>Traits</strong> beast, eidolon</p><p><strong>Home Plane</strong> Material Plane</p><p><strong>Size</strong> Medium</p><p><strong>Suggested Attacks</strong> claw (slashing), jaws (piercing), fangs (piercing), hoof (bludgeoning), horn (piercing)</p><p><strong>Brutal Beast</strong> Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)</p><p><strong>Fleet Beast</strong> Str 14, Dex 18, Con 16, Int 8, Wis 12, Cha 10; +1 AC (+4 Dex cap)</p><p><strong>Skills</strong> Intimidation, Nature</p><p><strong>Senses</strong> low-light vision</p><p><strong>Language</strong> Sylvan</p><p><strong>Speed</strong> 25 feet</p><p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.lonj7zEZdJD2pbai]{beast's charge}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.Gn750G9nNM3GiI5k]{primal roar}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.coBen1GA1czeBTOs]{whirlwind maul}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    },
+    "Construct Eidolon": {
+      "_id": "dnQUp0Vhg3XdZFtP",
+      "name": {
+        "translate": "Ейдолон Конструкта",
+        "original": "Construct Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це ментальна конструкція, заснована на астральній думкоформі, якій надано фізичну присутність і життя через зв’язок з вами, а його форма обмежена лише вашою уявою. Зовнішність і фізична форма вашого ейдолона варіюються залежно від вашого спільного бачення його створення — від механізмів до набитих ляльок і всього між ними, і не рідкість, що ця зовнішність значно змінюється, коли ваш конструкт набуває еволюцій. Оскільки він походить від астральної сутності, ваш конструкт — це не бездумний слуга, а повноцінна розумна істота зі своїми ідеями, цілями та навіть емоціями. Ці сутності надзвичайно різноманітні; багато ейдолонів-конструктів виникають із потужного симбіотичного зв’язку з астральними мешканцями, а не менше з них походять із забутих спогадів стародавніх імперій і ремісничих творів, що пливуть Срібним Морем Астральної Площини.</p>\n<p><strong>Традиція</strong> арканна</p>\n<p><strong>Риси</strong> астральний, конструкт, ейдолон</p>\n<p><strong>Рідна Площина</strong> Астральна Площина</p>\n<p><strong>Розмір</strong> Середній</p>\n<p><strong>Рекомендовані атаки</strong> кулак (дроблячий)</p>\n<p><strong>Воїн Конструкт</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 12, Мудрість 10, Харизма 8; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Розвідник Конструкт</strong> Сила 14, Ловкість 18, Витривалість 16, Інтелект 12, Мудрість 10, Харизма 8; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Аркана, Ремесло</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> одна загальнолюдська мова</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.tBhCZN3SwlxQirL1]{construct heart}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.AaVyAec0r17ocz42]{reconfigured evolution}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.f5t6k3hwRSXqGto1]{ultimate reconfiguration}</p>",
+        "original": "<p>Your eidolon is a mental construct based on an astral thoughtform and given physical presence and life by its connection to you, its shape limited only by your imagination. Your eidolon's appearance and physical form vary based on your shared vision for its construction, from clockworks to stuffed dolls and everything between, and it's not uncommon for that appearance to change greatly as your construct gains evolutions. Because it arises from an astral entity, your construct is no mindless servitor, but a fully thinking being with its own ideas, goals, and even emotions. These entities are extremely diverse; while many construct eidolons come from a powerful symbiotic connection with astral denizens, just as many arise from the forgotten memories of ancient empires and craftworks drifting across the Silver Sea of the Astral Plane.</p>\n<p><strong>Tradition</strong> arcane</p>\n<p><strong>Traits</strong> astral, construct, eidolon</p>\n<p><strong>Home Plane</strong> Astral Plane</p>\n<p><strong>Size</strong> Medium</p>\n<p><strong>Suggested Attacks</strong> fist (bludgeoning)</p>\n<p><strong>Warrior Construct</strong> Str 18, Dex 14, Con 16, Int 12, Wis 10, Cha 8; +2 AC (+3 Dex cap)</p>\n<p><strong>Scout Construct</strong> Str 14, Dex 18, Con 16, Int 12, Wis 10, Cha 8; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Arcana, Crafting</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> one common mortal language</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.tBhCZN3SwlxQirL1]{construct heart}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.AaVyAec0r17ocz42]{reconfigured evolution}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.f5t6k3hwRSXqGto1]{ultimate reconfiguration}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-astral"
+        ]
+      }
+    },
+    "Demon Eidolon": {
+      "_id": "P5GSucPtackfg6Qt",
+      "name": {
+        "translate": "Демонічний Ейдолон",
+        "original": "Demon Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — демон, народжений із смертного гріха, що згустився серед хаосу та зла Безодні, використовуючи свій зв’язок з вами, щоб поширювати хаос поруч із вами. Оберіть пов’язаний гріх для вашого демона. Демонічні ейдолони мають зовнішність таку ж різноманітну, як і безмежна Безодня. Хоча демони за своєю природою недовірливі, ваш демонічний ейдолон досяг з вами угоди і зазвичай її дотримується, хоча це не означає, що він не працює над тим, щоб заглибити ваше життя у свій пов’язаний гріх. Хоча це справжній демон, зв’язок вашого демонічного ейдолона з вами як смертним заважає йому виконувати ритуал безоденного пакту, навіть якщо він якось його вивчить.</p>\n<p><strong>Традиція</strong> божественна</p>\n<p><strong>Риси</strong> демон, ейдолон, підступник</p>\n<p><strong>Схильність</strong> має бути хаотично злою</p>\n<p><strong>Рідна Площина</strong> Безодня</p>\n<p><strong>Розмір</strong> Середній або Малий</p>\n<p><strong>Рекомендовані атаки</strong> кіготь (різальний), щелепи (колючий), ріг (колючий), хвіст (дроблячий), щупальце (дроблячий), крило (дроблячий)</p>\n<p><strong>Руйнівник Демон</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 10, Мудрість 8, Харизма 12; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Спокусник Демон</strong> Сила 12, Ловкість 18, Витривалість 12, Інтелект 10, Мудрість 10, Харизма 16; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Залякування, Релігія</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> Безоденна</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.o3P8heIfNr1z53Ay]{demonic strikes}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.cnYMvDxCRY4NvUmJ]{visions of sin}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.C0zzz9wVwfmGtfIQ]{blasphemous decree}</p>",
+        "original": "<p>Your eidolon is a demon, born of mortal sin congealed amid the chaos and evil of the Abyss, using its link to you to spread chaos at your side. Choose an associated sin for your demon. Demon eidolons have appearances as varied as the infinite Abyss. While demons are inherently untrustworthy, your demon eidolon has reached an accord with you and generally keeps it, though that doesn't mean your eidolon isn't actively working to bring your life deeper into its associated sin. Though a true demon, your demon eidolon's link to you as a mortal prevents them from casting the abyssal pact ritual, even if they somehow learn it.</p>\n<p><strong>Tradition</strong> divine</p>\n<p><strong>Traits</strong> demon, eidolon, fiend</p>\n<p><strong>Alignment</strong> must be chaotic evil</p>\n<p><strong>Home Plane</strong> The Abyss</p>\n<p><strong>Size</strong> Medium or Small</p>\n<p><strong>Suggested Attacks</strong> claw (slashing), jaws (piercing), horn (piercing), tail (bludgeoning), tentacle (bludgeoning), wing (bludgeoning)</p>\n<p><strong>Wrecker Demon</strong> Str 18, Dex 14, Con 16, Int 10, Wis 8, Cha 12; +2 AC (+3 Dex cap)</p>\n<p><strong>Tempter Demon</strong> Str 12, Dex 18, Con 12, Int 10, Wis 10, Cha 16; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Intimidation, Religion</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> Abyssal</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.o3P8heIfNr1z53Ay]{demonic strikes}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.cnYMvDxCRY4NvUmJ]{visions of sin}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.C0zzz9wVwfmGtfIQ]{blasphemous decree}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-demon"
+        ]
+      }
+    },
+    "Devotion Phantom Eidolon": {
+      "_id": "1YJoaMhZPvLGvj1J",
+      "name": {
+        "translate": "Ейдолон Фантом Відданості",
+        "original": "Devotion Phantom Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це загублена душа, яка не може покинути смертний світ через сильне почуття обов’язку, невмирущу відданість або потребу виконати важливе завдання. Більшість фантомних ейдолонів — гуманоїди з ефірним або ектоплазматичним виглядом, хоча деякі набувають значно дивніших форм. Ваш зв’язок з ейдолоном запобігає його підданню корупції та нежиті, і разом ви зростатимете в силі та виконаєте відданість вашого фантома.</p>\n<p><strong>Традиція</strong> окультна</p>\n<p><strong>Риси</strong> ейдолон, ефірний, фантом</p>\n<p><strong>Рідна Площина</strong> Ефірна Площина</p>\n<p><strong>Розмір</strong> Середній або Малий</p>\n<p><strong>Рекомендовані атаки</strong> кулак (дроблячий), щупальце (дроблячий), беззбройні атаки, сформовані як зброя</p>\n<p><strong>Непохитний Охоронець</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 10, Мудрість 10, Харизма 10; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Швидкий Захисник</strong> Сила 14, Ловкість 18, Витривалість 16, Інтелект 10, Мудрість 10, Харизма 10; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Медицина, Окультизм</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> одна загальнолюдська мова, якою ейдолон розмовляв за життя</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.V5bcYgKbJTHdOBHI]{dutiful retaliation}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.N47g9LDkOdZZdgup]{steadfast devotion}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.oOBWRXPtYIXWp5Sm]{devotion aura}</p>",
+        "original": "<p>Your eidolon is a lost soul, unable to escape the mortal world due to a strong sense of duty, an undying devotion, or a need to complete an important task. Most phantom eidolons are humanoid with a spectral or ectoplasmic appearance, though some take far stranger forms. Your link with your eidolon prevents them from succumbing to corruption and undeath, and together, you will grow in strength and fulfill your phantom's devotion.</p>\n<p><strong>Tradition</strong> occult</p>\n<p><strong>Traits</strong> eidolon, ethereal, phantom</p>\n<p><strong>Home Plane</strong> Ethereal Plane</p>\n<p><strong>Size</strong> Medium or Small</p>\n<p><strong>Suggested Attacks</strong> fist (bludgeoning), tendril (bludgeoning), unarmed attacks shaped like a weapon</p>\n<p><strong>Stalwart Guardian</strong> Str 18, Dex 14, Con 16, Int 10, Wis 10, Cha 10; +2 AC (+3 Dex cap)</p>\n<p><strong>Swift Protector</strong> Str 14, Dex 18, Con 16, Int 10, Wis 10, Cha 10; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Medicine, Occultism</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> one common mortal language the eidolon spoke in life</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.V5bcYgKbJTHdOBHI]{dutiful retaliation}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.N47g9LDkOdZZdgup]{steadfast devotion}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.oOBWRXPtYIXWp5Sm]{devotion aura}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    },
+    "Dragon Eidolon": {
+      "_id": "XDxYBQ6TRCJzoKbf",
+      "name": {
+        "translate": "Драконячий Ейдолон",
+        "original": "Dragon Eidolon"
+      },
+      "description": {
+        "translate": "<p>Оскільки дракони мають сильний зв’язок з магією, їхні розуми часто залишають відлуння, що плаває в Астральній Площині. Така сутність надзвичайно потужна, але не може самостійно взаємодіяти з зовнішнім світом. Драконячі ейдолони проявляються у могутніх, лускатих формах, які вони мали за життя; більшість набуває форми справжніх драконів (хоч і менших), але деякі проявляються як дракони або інші драконічні істоти. Ви встановили зв’язок із таким драконячим ейдолоном і разом прагнете стати такими ж могутніми, як древній вирм.</p>\n<p><strong>Традиція</strong> арканна</p>\n<p><strong>Риси</strong> астральний, дракон, ейдолон, і ще один (див. Дихальний Зброя нижче)</p>\n<p><strong>Рідна Площина</strong> Астральна Площина</p>\n<p><strong>Розмір</strong> Середній</p>\n<p><strong>Рекомендовані атаки</strong> кіготь (різальний), щелепи (колючий), ріг (колючий), хвіст (дроблячий), крило (дроблячий)</p>\n<p><strong>Нахабний Дракон</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 10, Мудрість 10, Харизма 10; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Хитрий Дракон</strong> Сила 12, Ловкість 18, Витривалість 12, Інтелект 14, Мудрість 10, Харизма 12; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Аркана, Залякування</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> Драконяча</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.I8fG26JJS29ZYwfZ]{breath weapon}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.oSjJ726kv8wvk1Rb]{draconic frenzy}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.P7qw5V2ylPwCWMPB]{wyrm's breath}</p>",
+        "original": "<p>Because dragons have a strong connection to magic, their minds can often leave an echo floating in the Astral Plane. Such an entity is extremely powerful but unable to interact with the outside world on its own. Dragon eidolons manifest in the powerful, scaled forms they had in life; most take the form of true dragons (albeit smaller), but some manifest as drakes or other draconic beings. You have forged a connection with such a dragon eidolon and together, you seek to grow as powerful as an ancient wyrm.</p>\n<p><strong>Tradition</strong> arcane</p>\n<p><strong>Traits</strong> astral, dragon, eidolon, and one more (see Breath Weapon below)</p>\n<p><strong>Home Plane</strong> Astral Plane</p>\n<p><strong>Size</strong> Medium</p>\n<p><strong>Suggested Attacks</strong> claw (slashing), jaws (piercing), horn (piercing), tail (bludgeoning), wing (bludgeoning)</p>\n<p><strong>Marauding Dragon</strong> Str 18, Dex 14, Con 16, Int 10, Wis 10, Cha 10; +2 AC (+3 Dex cap)</p>\n<p><strong>Cunning Dragon</strong> Str 12, Dex 18, Con 12, Int 14, Wis 10, Cha 12; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Arcana, Intimidation</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> Draconic</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.I8fG26JJS29ZYwfZ]{breath weapon}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.oSjJ726kv8wvk1Rb]{draconic frenzy}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.P7qw5V2ylPwCWMPB]{wyrm's breath}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-astral"
+        ]
+      }
+    },
+    "Elemental Eidolon": {
+      "_id": "Int1LFtquj8MTIFp",
+      "name": {
+        "translate": "Елементальний Ейдолон",
+        "original": "Elemental Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це первісний шматок елементальної матерії, наповнений розумом, силою та ідентичністю, але не здатний проявити власну справжню форму без життєвої сили, яку ви надаєте через ваш зв’язок. Більшість елементалів у природному середовищі вже мають різні форми — від приблизно людських до тваринних або простих мас їхнього елементу. Оскільки ваша життєва сила надає ейдолону інстинкти, необхідні для прийняття фізичної форми, їхній вигляд варіюється залежно від сили їхнього власного самовідчуття та вашого попереднього досвіду з елементалями.</p>\n<p>Елементальні ейдолони зазвичай досягають свого незвичайного стану — потужного, але безформного — внаслідок масштабних подій або катаклізмів, таких як війна за запечатування доброзичливих Володарів Елементалів або їхнє недавнє розпечатування. Чи мають елементальні ейдолони спогади про попереднє життя, чи є новим розумом, сформованим із залишкової сутності могутнього слуги Володарів Елементалів, варіюється від ейдолона до ейдолона. Разом ви можете вирушити в подорож, щоб зрозуміти таємниче минуле вашого ейдолона, або залишити минуле позаду і створити нову долю.</p>\n<p><strong>Традиція</strong> первісна</p>\n<p><strong>Риси</strong> ейдолон, елементальний, і ще один (див. Елементальне Ядро нижче)</p>\n<p><strong>Рідна Площина</strong>: елементальна площина, що відповідає їхньому Елементальному Ядру</p>\n<p><strong>Розмір</strong> Середній</p>\n<p><strong>Рекомендовані атаки</strong> гілка (дроблячий), кулак (дроблячий), шип (колючий), щупальце (дроблячий), хвиля (дроблячий)</p>\n<p><strong>Адаптивний Елементаль</strong> Сила +1, Ловкість +4, Витривалість +3, Інтелект +0, Мудрість +1, Харизма +0; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Первісний Елементаль</strong> Сила +4, Ловкість +2, Витривалість +3, Інтелект –1, Мудрість +1, Харизма +0; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Природа, Виживання</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> Сусуран (повітряний елементаль), Петрані (земляний елементаль), Пірік (вогняний елементаль), Талікан (металевий елементаль), Талассік (водний елементаль) або Муан (деревний елементаль),</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.I8ZJ99qzuGDEDbII]{elemental core}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.9P5AFhhbU1I2sOEN]{elemental burst}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.rF67DRcO2oJKJt5t]{elemental maelstrom}</p>",
+        "original": "<p>Your eidolon is a primal chunk of elemental matter infused with sapience, power, and identity, but unable to manifest a true form of their own without the life force you provide via your connection. Most elementals in their natural environment already have different sorts of forms, from vaguely humanoid, to animalistic, to simple masses of their component element. As your life force provides your eidolon the instincts necessary to adopt a physical form, their appearance varies based on the strength of their own self image and your prior exposure to elementals.</p>\n<p>Elemental eidolons tend to reach their unusual state— powerful but formless—as the result of large scale events or cataclysms, such as the war to seal the benevolent Elemental Lords or their recent unsealing. Whether elemental eidolons possess any memories of a previous life or are a new sapience formed from left‑over essence of a mighty servant of the Elemental Lords brought low varies from eidolon to eidolon. Together, you might undertake a journey to understand your eidolon's mysterious past or leave the past behind and forge a new destiny of your own.</p>\n<p><strong>Tradition</strong> primal</p>\n<p><strong>Traits</strong> eidolon, elemental, and one more (see Elemental Core, below)</p>\n<p><strong>Home Plane</strong>: elemental plane matching their Elemental Core</p>\n<p><strong>Size</strong> Medium</p>\n<p><strong>Suggested Attacks</strong> branch (bludgeoning), fist (bludgeoning), spike (piercing), tendril (bludgeoning), wave (bludgeoning)</p>\n<p><strong>Adaptable Elemental</strong> Str +1, Dex +4, Con +3, Int +0, Wis +1, Cha +0; +1 AC (+4 Dex cap)</p>\n<p><strong>Primordial Elemental</strong> Str +4, Dex +2, Con +3, Int –1, Wis +1, Cha +0; +2 AC (+3 Dex cap)</p>\n<p><strong>Skills</strong> Nature, Survival</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong>s Sussuran (air elemental), Petran (earth elemental), Pyric (fire elemental), Talican (metal elemental), Thalassic (water elemental), or Muan (wood elemental),</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.I8ZJ99qzuGDEDbII]{elemental core}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.9P5AFhhbU1I2sOEN]{elemental burst}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.rF67DRcO2oJKJt5t]{elemental maelstrom}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    },
+    "Fey Eidolon": {
+      "_id": "zjIVbS6nGX6BS2UD",
+      "name": {
+        "translate": "Фейський Ейдолон",
+        "original": "Fey Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це фей, примхлива істота загадкового Першого Світу. Багато фей виглядають схожими на смертних гуманоїдів з незвичайними рисами, такими як загострені вуха, крила або тіла, складені з природних елементів, але повний спектр фей безмежний, і багато інших виглядають цілком нелюдськими. Феї з Першого Світу ніколи справді не вмирають, натомість формуючи нову істоту. Фейські ейдолони зазвичай виникають, коли закликатель допомагає стабілізувати складну реформацію. Це означає, що ваш фейський ейдолон, ймовірно, жив іншим життям безпосередньо перед зустріччю з вами і може пам’ятати фрагменти своїх старих спогадів. Разом вам, можливо, доведеться розплутати спогад із минулого життя вашого ейдолона серед фей.</p>\n<p><strong>Традиція</strong> первісна (але див. Заклинання Дару Фея нижче)</p>\n<p><strong>Риси</strong> ейдолон, фей</p>\n<p><strong>Рідна Площина</strong> Перший Світ</p>\n<p><strong>Розмір</strong> Малий або Середній</p>\n<p><strong>Рекомендовані атаки</strong> кулак (дроблячий), крило (дроблячий), атаки, сформовані як зброя</p>\n<p><strong>Розвідник Фей</strong> Сила 14, Ловкість 18, Витривалість 14, Інтелект 10, Мудрість 10, Харизма 12; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Плут Фей</strong> Сила 12, Ловкість 18, Витривалість 12, Інтелект 12, Мудрість 8, Харизма 16; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Обман, Природа</p>\n<p><strong>Відчуття</strong> зір у сутінках</p>\n<p><strong>Мова</strong> Сильванська</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові фейські @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.uqwHH20BKk3WcjbW]{fey gift spells}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.pn0rELSmLV6G5FUu]{fey mischief}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.VZQ3CcjOZFG57R0O]{fey chicanery}</p>",
+        "original": "<p>Your eidolon is a fey, a capricious being of the mysterious First World. Many fey appear similar to mortal humanoids with unusual features such as pointed ears, wings, or bodies composed of natural elements, but the full variety of fey is endless, and many others appear completely inhuman. Fey from the First World never truly die, instead forming a new creature. Fey eidolons usually come about when a summoner helps stabilize a difficult reformation. This means your fey eidolon likely lived a different life just before meeting you and might remember fragments of its old memories. Together, you might have to unravel a memory from your eidolon's past life among the fey.</p>\n<p><strong>Tradition</strong> primal (but see Fey Gift Spells below)</p>\n<p><strong>Traits</strong> eidolon, fey</p>\n<p><strong>Home Plane</strong> First World</p>\n<p><strong>Size</strong> Small or Medium</p>\n<p><strong>Suggested Attacks</strong> fist (bludgeoning), wing (bludgeoning), attacks shaped like a weapon</p>\n<p><strong>Skirmisher Fey</strong> Str 14, Dex 18, Con 14, Int 10, Wis 10, Cha 12; +1 AC (+4 Dex cap)</p>\n<p><strong>Trickster Fey</strong> Str 12, Dex 18, Con 12, Int 12, Wis 8, Cha 16; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Deception, Nature</p>\n<p><strong>Senses</strong> low-light vision</p>\n<p><strong>Language</strong> Sylvan</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial fey @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.uqwHH20BKk3WcjbW]{fey gift spells}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.pn0rELSmLV6G5FUu]{fey mischief}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.VZQ3CcjOZFG57R0O]{fey chicanery}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    },
+    "Plant Eidolon": {
+      "_id": "7a1ei105k24XkJG0",
+      "name": {
+        "translate": "Ейдолон Рослини",
+        "original": "Plant Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це розумна рослина, сформована з тих самих безтілесних фрагментів життєвої енергії природи, що й леші. Ейдолони рослин зазвичай допитливі та адаптивні, з темпераментом, що базується на частинах смертної культури, до яких вони відчувають спорідненість. Незважаючи на спільне походження, ейдолони рослин не завжди виглядають як леші. Їхні форми дуже різноманітні і можуть нагадувати майже будь-яку рослинну істоту, що існує. Деякі навіть схожі на настільки дивні рослинні створіння, що їх неможливо ідентифікувати.</p>\n<p><strong>Традиція</strong> первісна</p>\n<p><strong>Риси</strong> ейдолон, рослина</p>\n<p><strong>Рідна Площина</strong> Матеріальна Площина</p>\n<p><strong>Розмір</strong> Середній</p>\n<p><strong>Рекомендовані атаки</strong> лоза (дроблячий), гілка (дроблячий), корінь (дроблячий)</p>\n<p><strong>Охоронна Рослина</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Повзуча Рослина</strong> Сила 12, Ловкість 18, Витривалість 16, Інтелект 8, Мудрість 14, Харизма 10; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Природа, Виживання</p>\n<p><strong>Відчуття</strong> зір у сутінках</p>\n<p><strong>Мова</strong> Сильванська</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.iunzITJGz0QUudUk]{tendril strike}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.sSfOct37bkinwW5E]{growing vines}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.kpcL3Iz1KJnmEKwC]{field of roots}</p>",
+        "original": "<p>Your eidolon is an intelligent plant, formed from the same disembodied fragments of nature's life energy that become leshys. Plant eidolons tend to be curious and adaptable, with temperaments based on the parts of mortal culture they feel affinity toward. Despite coming from the same source, plant eidolons don't always look like leshys. Plant eidolons have forms that vary greatly and can look like almost any kind of plant creature in existence. Some even resemble plant creatures so strange they are impossible to identify.</p>\n<p><strong>Tradition</strong> primal</p>\n<p><strong>Traits</strong> eidolon, plant</p>\n<p><strong>Home Plane</strong> Material Plane</p>\n<p><strong>Size</strong> Medium</p>\n<p><strong>Suggested Attacks</strong> vine (bludgeoning), branch (bludgeoning), root (bludgeoning)</p>\n<p><strong>Guardian Plant</strong> Str 18, Dex 14, Con 16, Int 8, Wis 12, Cha 10; +2 AC (+3 Dex cap)</p>\n<p><strong>Creeping Plant</strong> Str 12, Dex 18, Con 16, Int 8, Wis 14, Cha 10; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Nature, Survival</p>\n<p><strong>Senses</strong> low-light vision</p>\n<p><strong>Language</strong> Sylvan</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.iunzITJGz0QUudUk]{tendril strike}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.sSfOct37bkinwW5E]{growing vines}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.kpcL3Iz1KJnmEKwC]{field of roots}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    },
+    "Psychopomp Eidolon": {
+      "_id": "fvGz8fdP3iW8IBda",
+      "name": {
+        "translate": "Ейдолон Психопомпа",
+        "original": "Psychopomp Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — психопомп, істота, чий священний обов’язок — проводжати душі в потойбіччя та підтримувати суди мертвих. Психопомпні ейдолони мають різноманітний вигляд, але оскільки вони часто контактують зі смертними, їхня форма зазвичай включає вишукану маску. Ви і ваш психопомпний ейдолон поділяєте важливу спільну долю, чи то пов’язану безпосередньо з вашою власною душею, чи з місією, що якимось чином захищатиме душі інших.</p>\n<p><strong>Традиція</strong> божественна</p>\n<p><strong>Риси</strong> ейдолон, наглядач, психопомп</p>\n<p><strong>Схильність</strong> має бути істинно нейтральною</p>\n<p><strong>Рідна Площина</strong> Кістяний Двір</p>\n<p><strong>Розмір</strong> Середній</p>\n<p><strong>Рекомендовані атаки</strong> дзьоб (колючий), кіготь (різальний), кулак (дроблячий), щелепи (колючий), беззбройні атаки, сформовані як зброя</p>\n<p><strong>Охоронець Душі</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 10, Мудрість 12, Харизма 8; +2 КЗ (+3 ліміт Ловкості)</p>\n<p><strong>Писар Мертвих</strong> Сила 12, Ловкість 18, Витривалість 12, Інтелект 14, Мудрість 12, Харизма 10; +1 КЗ (+4 ліміт Ловкості)</p>\n<p><strong>Навички</strong> Залякування, Релігія</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> Реквіанська</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.gyI9aHjkO84BQ3tR]{spirit touch}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.qFYR3I9XcjBZckUf]{hidden watcher}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.rFuzSio2a1VOd2Ch]{spirit taker}</p>",
+        "original": "<p>Your eidolon is a psychopomp, a creature whose sworn duty is to usher souls safely to the afterlife and maintain the courts of the dead. Psychopomp eidolons have a variety of appearances, but since they often traffic with mortals, their form typically includes an elaborate mask. You and your psychopomp eidolon share an important fate together, whether it relates directly to your own soul or to a mission that will somehow protect the souls of others.</p>\n<p><strong>Tradition</strong> divine</p>\n<p><strong>Traits</strong> eidolon, monitor, psychopomp</p>\n<p><strong>Alignment</strong> must be true neutral</p>\n<p><strong>Home Plane</strong> The Boneyard</p>\n<p><strong>Size</strong> Medium</p>\n<p><strong>Suggested Attacks</strong> beak (piercing), claw (slashing), fist (bludgeoning), jaws (piercing), unarmed attacks shaped like a weapon</p>\n<p><strong>Soul Guardian</strong> Str 18, Dex 14, Con 16, Int 10, Wis 12, Cha 8; +2 AC (+3 Dex cap)</p>\n<p><strong>Scribe of the Dead</strong> Str 12, Dex 18, Con 12, Int 14, Wis 12, Cha 10; +1 AC (+4 Dex cap)</p>\n<p><strong>Skills</strong> Intimidation, Religion</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> Requian</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.gyI9aHjkO84BQ3tR]{spirit touch}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.qFYR3I9XcjBZckUf]{hidden watcher}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.rFuzSio2a1VOd2Ch]{spirit taker}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    },
+    "Swarm Eidolon": {
+      "_id": "i2m9Ce1UkNNc0ok9",
+      "name": {
+        "translate": "Ейдолон Рою",
+        "original": "Swarm Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це колектив первісної енергії та духів природи, зібраних у єдину фрагментарну істоту. Ця сукупність природної енергії не має форми чи ідентичності, поки не зв’яжеться з закликачем. Ви надаєте цим духам мету, зв’язуючись із ними і проводячи їх у фізичний світ. Коли вони проявляються, ці духи природи набувають простої форми, приймаючи вигляд багатьох крихітних тварин. Кожна з цих тварин — це одна й та сама істота, позначена вашим сигілом закликувача. Акт проявлення в цій формі рою тимчасово зв’язує духів в одне ціле, роблячи ейдолона єдиною істотою — одним розумом і особистістю, що говорить багатьма голосами, і багатьма тілами, що діють з єдиною метою.</p><p><strong>Традиція</strong> первісна</p><p><strong>Риси</strong> тварина, ейдолон, рій</p><p><strong>Рідна Площина</strong> Всесвіт</p><p><strong>Розмір</strong> Середній (конденсований) і Великий (розсіяний)</p><p><strong>Рекомендовані атаки</strong> дзьоби (колючий), кігті (різальний), щелепи (колючий), кігті (різальний)</p><p><strong>Нахабний Рій</strong> <em>Сила</em> +4, <em>Ловкість</em> +2, <em>Витривалість</em> +3, <em>Інтелект</em> +0, <em>Мудрість</em> +0, <em>Харизма</em> +0; +2 КЗ (+3 ліміт Ловкості)</p><p><strong>Підступний Рій</strong> <em>Сила</em> +2, <em>Ловкість</em> +4, <em>Витривалість</em> +3, <em>Інтелект</em> +0, <em>Мудрість</em> +1, <em>Харизма</em> –1; +1 КЗ (+4 ліміт Ловкості)</p><p><strong>Навички</strong> Природа, Виживання</p><p><strong>Відчуття</strong> зір у сутінках</p><p><strong>Мови</strong> Загальна</p><p><strong>Швидкість</strong> 25 футів</p><p><strong>Здібності ейдолона</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.SloT1T6tJDuET8UW]{swarm form}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.WYoxzf3Q3f4OYdT1]{sudden shift}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.PHoTgTkGdcYhFpla]{sickening swarm}</p>",
+        "original": "<p>Your eidolon is a collective of primal energy and nature spirits, gathered into a single fragmentary being. This collection of natural energy has neither form nor identity until bonded with a summoner. You give these spirits purpose, connecting with them and drawing them through to the physical realm. When manifesting, these nature spirits don a simple form, adopting the guise of many Tiny animals. Each of these animals is the same creature and is marked with your summoner's sigil. The act of manifesting in this swarm form temporarily binds the spirits together into one being, making the eidolon a single entity—one mind and personality speaking with a multitude of voices, and a multitude of bodies acting in concert with a singular purpose.</p><p><strong>Tradition</strong> primal</p><p><strong>Traits</strong> animal, eidolon, swarm</p><p><strong>Home Plane</strong> the Universe</p><p><strong>Size</strong> Medium (condensed) and Large (dispersed)</p><p><strong>Suggested Attacks</strong> beaks (piercing), claws (slashing), jaws (piercing), talons (slashing)</p><p><strong>Brazen Swarm</strong> <em>Str</em> +4, <em>Dex</em> +2, <em>Con</em> +3, <em>Int</em> +0, <em>Wis</em> +0, <em>Cha</em> +0; +2 AC (+3 Dex cap)</p><p><strong>Slinking Swarm</strong> <em>Str</em> +2, <em>Dex</em> +4, <em>Con</em> +3, <em>Int</em> +0, <em>Wis</em> +1, <em>Cha</em> –1; +1 AC (+4 Dex cap)</p><p><strong>Skills</strong> Nature, Survival</p><p><strong>Senses</strong> low-light vision</p><p><strong>Languages</strong> Common</p><p><strong>Speed</strong> 25 feet</p><p><strong>Eidolon Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.SloT1T6tJDuET8UW]{swarm form}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.WYoxzf3Q3f4OYdT1]{sudden shift}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.PHoTgTkGdcYhFpla]{sickening swarm}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-animal"
+        ]
+      }
+    },
+    "Undead Eidolon": {
+      "_id": "UjTUvPAdzj3Ybg8s",
+      "name": {
+        "translate": "Ейдолон Нежиті",
+        "original": "Undead Eidolon"
+      },
+      "description": {
+        "translate": "<p>Ваш ейдолон — це дух нежиті, витягнутий з Ефірної Площини або Площини Негативної Енергії, втілений і пов’язаний з вашою життєвою силою незвичайним, потенційно антагоністичним способом, який навіть інші закликачі не можуть цілком зрозуміти. Ейдолони нежиті набувають майже будь-якої уявної форми, оскільки їхні тіла проявляються через зв’язок з вами. Їхня остаточна форма може бути впливана сумішшю відлунь і спогадів про їхнє старе життя до того, як вони стали нежиттю, причиною смерті, їхніми зустрічами в потойбіччі та частинами вашої власної сутності. Разом ви і ваш ейдолон повинні дослідити таємниці життя, смерті та нежиті, щоб зрозуміти, що означає ваш зв’язок для ваших майбутніх доль.</p>\n<p><strong>Традиція</strong> божественна</p>\n<p><strong>Риси</strong> ейдолон, нежить</p>\n<p><strong>Рідна Площина</strong> Ефірна Площина або Площина Негативної Енергії</p>\n<p><strong>Розмір</strong> Середній або Малий</p>\n<p><strong>Рекомендовані атаки</strong> кіготь (різальний), кулак (дроблячий), щелепи (колючий)</p>\n<p><strong>Нежить-Брут</strong> Сила 18, Ловкість 14, Витривалість 16, Інтелект 8, Мудрість 10, Харизма 12</p>\n<p><strong>Нежить-Відлюдник</strong> Сила 14, Ловкість 18, Витривалість 16, Інтелект 8, Мудрість 12, Харизма 10</p>\n<p><strong>Навички</strong> Залякування, Релігія</p>\n<p><strong>Відчуття</strong> темновидіння</p>\n<p><strong>Мова</strong> Некрильська</p>\n<p><strong>Швидкість</strong> 25 футів</p>\n<p><strong>Здібності</strong> Початкові @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.CdQUkt9tPINNqSok]{negative essence}; Симбіоз @UUID[Compendium.pf2e-animal-companions.AC-Features.oxpHUtYre2CTaE4t]{drain life}; Трансцендентність @UUID[Compendium.pf2e-animal-companions.AC-Features.ISKjzLSNysEr7Kit]{rejuvenation}</p>",
+        "original": "<p>Your eidolon is an undead spirit pulled from the Ethereal Plane or Negative Energy Plane, embodied, and bound to your life force in an unusual, potentially antithetical way that even other summoners can't quite understand. Undead eidolons take about every imaginable shape and form, as their bodies manifest from their connection to you. Their ultimate form can be influenced by an amalgamation of the echoes and memories of their old life before becoming undead, their cause of death, their encounters in the afterlife, and portions of your own essences. Together, you and your eidolon need to explore the mysteries of life, death, and undeath to understand what your bond means for both of your futures.</p>\n<p><strong>Tradition</strong> divine</p>\n<p><strong>Traits</strong> eidolon, undead</p>\n<p><strong>Home Plane</strong> Ethereal Plane or Negative Energy Plane</p>\n<p><strong>Size</strong> Medium or Small</p>\n<p><strong>Suggested Attacks</strong> claw (slashing), fist (bludgeoning), jaws (piercing)</p>\n<p><strong>Undead Brute</strong> Str 18, Dex 14, Con 16, Int 8, Wis 10, Cha 12</p>\n<p><strong>Undead Stalker</strong> Str 14, Dex 18, Con 16, Int 8, Wis 12, Cha 10</p>\n<p><strong>Skills</strong> Intimidation, Religion</p>\n<p><strong>Senses</strong> darkvision</p>\n<p><strong>Language</strong> Necril</p>\n<p><strong>Speed</strong> 25 feet</p>\n<p><strong>Abilities</strong> Initial @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.CdQUkt9tPINNqSok]{negative essence}; Symbiosis @UUID[Compendium.pf2e-animal-companions.AC-Features.oxpHUtYre2CTaE4t]{drain life}; Transcendence @UUID[Compendium.pf2e-animal-companions.AC-Features.ISKjzLSNysEr7Kit]{rejuvenation}</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-ancestry",
+          "ancestry-eidolon"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "ancestry-angel",
+    "ancestry-animal",
+    "ancestry-astral",
+    "ancestry-demon",
+    "ancestry-eidolon",
+    "level-unknown",
+    "rarity-common",
+    "type-ancestry"
+  ]
+}

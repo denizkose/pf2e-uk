@@ -1,0 +1,66 @@
+{
+  "id": "pf2e-uk",
+  "title": "Translation: Ukrainian [PF2e]",
+  "description": "Неофіційний переклад PF2e для Foundry VTT українською мовою.",
+  "authors": [
+    {
+      "name": "Uliss",
+      "discord": "nikolas_ts",
+      "url": "https://discord.gg/wKxhCrdZyc",
+      "flags": {}
+    }
+  ],
+  "version": "0.3.0",
+  "url": "https://github.com/NikolasTS/pf2e-uk",
+  "manifest": "https://github.com/NikolasTS/pf2e-uk/releases/latest/download/module.json",
+  "download": "https://github.com/NikolasTS/pf2e-uk/releases/download/v0.3.0/pf2e-uk-0.3.0.zip",
+  "bugs": "https://github.com/NikolasTS/pf2e-uk/issues",
+  "changelog": "https://github.com/NikolasTS/pf2e-uk/blob/main/CHANGELOG.md",
+  "compatibility": {
+    "minimum": 14,
+    "verified": 14.360
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "verified": "8.2.0"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "type": "module"
+      }
+    ],
+    "recommends": [
+      {
+        "id": "lang-uk",
+        "manifest": "https://raw.githubusercontent.com/GMonlineua/foundryvtt-uk/main/module.json",
+        "type": "module",
+        "reason": "Українська локалізація інтерфейсу Foundry VTT",
+        "compatibility": {}
+      }
+    ]
+  },
+  "styles": [
+    "./css/uk.css"
+  ],
+  "languages": [
+    { "lang": "uk", "name": "Українська", "path": "data/pf2e/lang/uk.json" },
+    { "lang": "uk", "name": "Українська", "path": "data/pf2e/lang/re-uk.json" },
+    { "lang": "uk", "name": "Українська", "path": "data/pf2e/lang/action-uk.json" },
+    { "lang": "uk", "name": "Українська", "path": "data/pf2e/lang/kingmaker-uk.json" },
+    { "lang": "uk", "name": "Українська", "path": "lang/uk.json" },
+    { "lang": "en", "name": "English", "path": "lang/en.json" },
+    { "lang": "uk", "name": "Українська", "path": "data/modules/pf2e-animal-companions/pf2e-animal-companions.json" }
+  ],
+  "esmodules": [
+    "scripts/init.js"
+  ]
+}

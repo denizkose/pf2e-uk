@@ -1,0 +1,246 @@
+{
+  "parseCompendiumUuid": [
+    {
+      "fn": "parseCompendiumUuid",
+      "args": [
+        "Compendium.pf2e.equipment-srd.Item.abc123XYZ"
+      ],
+      "output": {
+        "packId": "pf2e.equipment-srd",
+        "packageId": "pf2e",
+        "packName": "equipment-srd",
+        "documentType": "Item",
+        "documentId": "abc123XYZ",
+        "docId": "abc123XYZ"
+      },
+      "note": "well-formed compendium UUID"
+    },
+    {
+      "fn": "parseCompendiumUuid",
+      "args": [
+        "Compendium.pf2e-uk.spells-srd.Item.AAAA1111"
+      ],
+      "output": {
+        "packId": "pf2e-uk.spells-srd",
+        "packageId": "pf2e-uk",
+        "packName": "spells-srd",
+        "documentType": "Item",
+        "documentId": "AAAA1111",
+        "docId": "AAAA1111"
+      },
+      "note": "well-formed, this module's own pack id"
+    },
+    {
+      "fn": "parseCompendiumUuid",
+      "args": [
+        "Compendium.pf2e.Item.abc123"
+      ],
+      "output": null,
+      "note": "malformed - missing pack segment -> null"
+    },
+    {
+      "fn": "parseCompendiumUuid",
+      "args": [
+        "NotCompendium.pf2e.equipment-srd.Item.abc123"
+      ],
+      "output": null,
+      "note": "wrong prefix -> null"
+    },
+    {
+      "fn": "parseCompendiumUuid",
+      "args": [
+        ""
+      ],
+      "output": null,
+      "note": "empty string -> null"
+    },
+    {
+      "fn": "parseCompendiumUuid",
+      "args": [
+        null
+      ],
+      "output": null,
+      "note": "null ref -> null (regex runs against \"\")"
+    },
+    {
+      "fn": "parseCompendiumUuid",
+      "args": [
+        "__UNDEFINED__"
+      ],
+      "output": null,
+      "note": "undefined ref (omitted) -> null"
+    }
+  ],
+  "getCompendiumSourceRef": [
+    {
+      "fn": "getCompendiumSourceRef",
+      "args": [
+        {
+          "_stats": {
+            "compendiumSource": "Compendium.pf2e.spells-srd.Item.ABC"
+          }
+        }
+      ],
+      "output": "Compendium.pf2e.spells-srd.Item.ABC",
+      "note": "_stats.compendiumSource wins"
+    },
+    {
+      "fn": "getCompendiumSourceRef",
+      "args": [
+        {
+          "flags": {
+            "pf2e": {
+              "compendiumSource": "Compendium.pf2e.equipment-srd.Item.DEF"
+            }
+          }
+        }
+      ],
+      "output": "Compendium.pf2e.equipment-srd.Item.DEF",
+      "note": "flags.pf2e.compendiumSource, no _stats"
+    },
+    {
+      "fn": "getCompendiumSourceRef",
+      "args": [
+        {
+          "flags": {
+            "core": {
+              "sourceId": "Compendium.pf2e.actions.Item.GHI"
+            }
+          }
+        }
+      ],
+      "output": "Compendium.pf2e.actions.Item.GHI",
+      "note": "flags.core.sourceId, last fallback"
+    },
+    {
+      "fn": "getCompendiumSourceRef",
+      "args": [
+        {
+          "_stats": {
+            "compendiumSource": null
+          },
+          "flags": {
+            "pf2e": {
+              "compendiumSource": "Compendium.pf2e.equipment-srd.Item.DEF"
+            }
+          }
+        }
+      ],
+      "output": "Compendium.pf2e.equipment-srd.Item.DEF",
+      "note": "explicit null _stats value is skipped (??), falls through to flags.pf2e"
+    },
+    {
+      "fn": "getCompendiumSourceRef",
+      "args": [
+        {}
+      ],
+      "output": null,
+      "note": "no source anywhere -> null"
+    },
+    {
+      "fn": "getCompendiumSourceRef",
+      "args": [
+        null
+      ],
+      "output": null,
+      "note": "null document -> null"
+    }
+  ],
+  "stripOriginalUuidLabels": [
+    {
+      "fn": "stripOriginalUuidLabels",
+      "args": [
+        "@UUID[Compendium.pf2e.spells-srd.Item.ABC]{Fireball}"
+      ],
+      "output": "@UUID[Compendium.pf2e.spells-srd.Item.ABC]{Fireball}",
+      "note": "no `foundry.utils.parseUuid` under Node -> safeParseUuid always undefined -> label is NEVER dropped, even when it would match originalName in a live world"
+    },
+    {
+      "fn": "stripOriginalUuidLabels",
+      "args": [
+        "@UUID[Compendium.pf2e.spells-srd.Item.ABC]"
+      ],
+      "output": "@UUID[Compendium.pf2e.spells-srd.Item.ABC]",
+      "note": "no label present -> unchanged"
+    },
+    {
+      "fn": "stripOriginalUuidLabels",
+      "args": [
+        "@UUID[Compendium.pf2e.spells-srd.Item.ABC#Section]{Fireball}"
+      ],
+      "output": "@UUID[Compendium.pf2e.spells-srd.Item.ABC#Section]{Fireball}",
+      "note": "#section suffix preserved"
+    },
+    {
+      "fn": "stripOriginalUuidLabels",
+      "args": [
+        "See @UUID[Compendium.pf2e.spells-srd.Item.ABC]{Fireball} and @UUID[Compendium.pf2e.spells-srd.Item.DEF]{Ray of Frost}."
+      ],
+      "output": "See @UUID[Compendium.pf2e.spells-srd.Item.ABC]{Fireball} and @UUID[Compendium.pf2e.spells-srd.Item.DEF]{Ray of Frost}.",
+      "note": "multiple links in one string"
+    },
+    {
+      "fn": "stripOriginalUuidLabels",
+      "args": [
+        null
+      ],
+      "output": null,
+      "note": "non-string input -> returned unchanged"
+    },
+    {
+      "fn": "stripOriginalUuidLabels",
+      "args": [
+        42
+      ],
+      "output": 42,
+      "note": "non-string input -> returned unchanged"
+    }
+  ],
+  "extractAllLocalizeKeys": [
+    {
+      "fn": "extractAllLocalizeKeys",
+      "args": [
+        "@Localize[PF2E.SomeKey]"
+      ],
+      "output": [
+        "PF2E.SomeKey"
+      ],
+      "note": "single key"
+    },
+    {
+      "fn": "extractAllLocalizeKeys",
+      "args": [
+        "no localize here"
+      ],
+      "output": [],
+      "note": "no match -> []"
+    },
+    {
+      "fn": "extractAllLocalizeKeys",
+      "args": [
+        "@Localize[A.B] and @Localize[C.D]"
+      ],
+      "output": [
+        "A.B",
+        "C.D"
+      ],
+      "note": "two keys"
+    },
+    {
+      "fn": "extractAllLocalizeKeys",
+      "args": [
+        null
+      ],
+      "output": [],
+      "note": "non-string -> []"
+    },
+    {
+      "fn": "extractAllLocalizeKeys",
+      "args": [
+        42
+      ],
+      "output": [],
+      "note": "non-string -> []"
+    }
+  ]
+}

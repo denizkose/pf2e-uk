@@ -1,0 +1,675 @@
+{
+  "mergeData": [
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "a": 1,
+          "b": 2
+        },
+        {
+          "b": 9
+        }
+      ],
+      "output": {
+        "a": 1,
+        "b": 9
+      },
+      "note": "shallow merge over matching keys"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "a": 1
+        },
+        "__UNDEFINED__"
+      ],
+      "output": {
+        "a": 1
+      },
+      "note": "nil translation -> returns data untouched"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        "__UNDEFINED__",
+        {
+          "a": 1
+        }
+      ],
+      "output": {
+        "a": 1
+      },
+      "note": "nil data -> returns translation"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "flag": true
+        },
+        {
+          "flag": false
+        }
+      ],
+      "output": {
+        "flag": false
+      },
+      "note": "falsy-but-present translation (false) replaces data"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "flag": true
+        },
+        {
+          "flag": null
+        }
+      ],
+      "output": {
+        "flag": true
+      },
+      "note": "nil (null) translation leaf -> data preserved"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "count": 5
+        },
+        {
+          "count": 0
+        }
+      ],
+      "output": {
+        "count": 0
+      },
+      "note": "falsy-but-present translation (0) replaces data"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "label": "x"
+        },
+        {
+          "label": ""
+        }
+      ],
+      "output": {
+        "label": ""
+      },
+      "note": "falsy-but-present translation (\"\") replaces data"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          9,
+          null,
+          "__UNDEFINED__"
+        ]
+      ],
+      "output": [
+        9,
+        2,
+        3
+      ],
+      "note": "array by index; nil translation entries keep data"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        [
+          1,
+          2
+        ],
+        [
+          9,
+          8,
+          7
+        ]
+      ],
+      "output": [
+        9,
+        8
+      ],
+      "note": "translation array longer than data -> truncated to data length"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        [
+          1,
+          2,
+          3
+        ],
+        {
+          "0": 9
+        }
+      ],
+      "output": [
+        1,
+        2,
+        3
+      ],
+      "note": "translation is object, not array -> whole array returned unchanged"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "a": {
+            "b": 1,
+            "c": 2
+          }
+        },
+        {
+          "a": {
+            "b": 9
+          }
+        }
+      ],
+      "output": {
+        "a": {
+          "b": 9,
+          "c": 2
+        }
+      },
+      "note": "nested object merge, only provided leaf replaced"
+    },
+    {
+      "fn": "mergeData",
+      "args": [
+        {
+          "a": [
+            1,
+            2
+          ]
+        },
+        {
+          "a": {
+            "0": 99
+          }
+        }
+      ],
+      "output": {
+        "a": [
+          1,
+          2
+        ]
+      },
+      "note": "nested array leaf with object-shaped translation -> array unchanged"
+    }
+  ],
+  "mergePatch": [
+    {
+      "fn": "mergePatch",
+      "args": [
+        {
+          "a": 1,
+          "b": {
+            "c": 2
+          }
+        },
+        {
+          "b": {
+            "c": 3,
+            "d": 4
+          }
+        }
+      ],
+      "output": {
+        "a": 1,
+        "b": {
+          "c": 3,
+          "d": 4
+        }
+      },
+      "note": "deep merge, patch key added"
+    },
+    {
+      "fn": "mergePatch",
+      "args": [
+        {
+          "a": 1
+        },
+        "__UNDEFINED__"
+      ],
+      "output": {
+        "a": 1
+      },
+      "note": "nil patch -> base returned untouched"
+    },
+    {
+      "fn": "mergePatch",
+      "args": [
+        null,
+        {
+          "x": 1
+        }
+      ],
+      "output": {
+        "x": 1
+      },
+      "note": "non-object base -> patch fully replaces (base discarded)"
+    },
+    {
+      "fn": "mergePatch",
+      "args": [
+        5,
+        {
+          "x": 1
+        }
+      ],
+      "output": {
+        "x": 1
+      },
+      "note": "primitive base -> patch fully replaces"
+    },
+    {
+      "fn": "mergePatch",
+      "args": [
+        {
+          "a": 1
+        },
+        5
+      ],
+      "output": 5,
+      "note": "primitive patch -> patch value returned as-is"
+    },
+    {
+      "fn": "mergePatch",
+      "args": [
+        {},
+        {}
+      ],
+      "output": {},
+      "note": "both empty -> empty object"
+    }
+  ],
+  "deepGet": [
+    {
+      "fn": "deepGet",
+      "args": [
+        {
+          "a": {
+            "b": {
+              "c": 42
+            }
+          }
+        },
+        "a.b.c"
+      ],
+      "output": 42,
+      "note": "nested path hit"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        {
+          "a": 1
+        },
+        "a.b.c"
+      ],
+      "output": "__UNDEFINED__",
+      "note": "path walks through a non-object -> undefined -> default fallback"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        {
+          "a": 1
+        },
+        "a.b.c",
+        "fallback!"
+      ],
+      "output": "fallback!",
+      "note": "missing path with explicit fallback"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        null,
+        "a.b",
+        "fb"
+      ],
+      "output": "fb",
+      "note": "null root object -> fallback"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        {
+          "a": 1
+        },
+        ""
+      ],
+      "output": {
+        "a": 1
+      },
+      "note": "empty path -> returns the object itself"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        null,
+        "",
+        "fb"
+      ],
+      "output": "fb",
+      "note": "empty path with null root -> fallback"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        {
+          "list": [
+            10,
+            20,
+            30
+          ]
+        },
+        "list.1"
+      ],
+      "output": 20,
+      "note": "dot-path CAN read array elements"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        {
+          "flag": false
+        },
+        "flag",
+        "default"
+      ],
+      "output": false,
+      "note": "falsy-but-present leaf (false) is returned, not the fallback"
+    },
+    {
+      "fn": "deepGet",
+      "args": [
+        {
+          "count": 0
+        },
+        "count",
+        "default"
+      ],
+      "output": 0,
+      "note": "falsy-but-present leaf (0) is returned, not the fallback"
+    }
+  ],
+  "deepSet": [
+    {
+      "fn": "deepSet",
+      "args": [
+        {},
+        "a.b.c",
+        1
+      ],
+      "output": {
+        "a": {
+          "b": {
+            "c": 1
+          }
+        }
+      },
+      "note": "creates intermediate objects"
+    },
+    {
+      "fn": "deepSet",
+      "args": [
+        {
+          "a": {
+            "b": 5
+          }
+        },
+        "a.b.c",
+        1
+      ],
+      "output": {
+        "a": {
+          "b": {
+            "c": 1
+          }
+        }
+      },
+      "note": "overwrites a primitive intermediate with an object, losing the old value 5"
+    },
+    {
+      "fn": "deepSet",
+      "args": [
+        {},
+        "",
+        "unused"
+      ],
+      "output": {},
+      "note": "empty path -> no-op, target returned unchanged"
+    },
+    {
+      "fn": "deepSet",
+      "args": [
+        {},
+        "a..b",
+        1
+      ],
+      "output": {
+        "a": {
+          "b": 1
+        }
+      },
+      "note": "empty path segments are silently dropped (a..b behaves like a.b)"
+    },
+    {
+      "fn": "deepSet",
+      "args": [
+        {},
+        "items.0.name",
+        "X"
+      ],
+      "output": {
+        "items": {
+          "0": {
+            "name": "X"
+          }
+        }
+      },
+      "note": "numeric-looking path segment creates a plain object key \"0\", NOT a real array"
+    }
+  ],
+  "mergeFoundryObject": [
+    {
+      "fn": "mergeFoundryObject",
+      "args": [
+        {
+          "a": 1,
+          "b": {
+            "c": 2
+          }
+        },
+        {
+          "b": {
+            "c": 9,
+            "d": 8
+          }
+        }
+      ],
+      "output": {
+        "a": 1,
+        "b": {
+          "c": 9,
+          "d": 8
+        }
+      },
+      "note": "no `foundry.utils.mergeObject` global under Node -> falls back to mergePatch semantics"
+    },
+    {
+      "fn": "mergeFoundryObject",
+      "args": [
+        "__UNDEFINED__",
+        {
+          "x": 1
+        }
+      ],
+      "output": {
+        "x": 1
+      },
+      "note": "nil base -> {} ?? patch fallback path"
+    },
+    {
+      "fn": "mergeFoundryObject",
+      "args": [
+        null,
+        null
+      ],
+      "output": {},
+      "note": "both nil -> {}"
+    }
+  ],
+  "clone": [
+    {
+      "fn": "clone",
+      "args": [
+        {
+          "a": [
+            1,
+            {
+              "b": 2
+            }
+          ],
+          "c": "text"
+        }
+      ],
+      "output": {
+        "a": [
+          1,
+          {
+            "b": 2
+          }
+        ],
+        "c": "text"
+      },
+      "note": "no `foundry.utils.deepClone` global -> falls back to structuredClone"
+    },
+    {
+      "fn": "clone",
+      "args": [
+        null
+      ],
+      "output": null,
+      "note": "clone of null"
+    },
+    {
+      "fn": "clone",
+      "args": [
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "output": [
+        1,
+        2,
+        3
+      ],
+      "note": "clone of a top-level array"
+    }
+  ],
+  "isObject": [
+    {
+      "fn": "isObject",
+      "args": [
+        {}
+      ],
+      "output": true,
+      "note": "plain object -> true"
+    },
+    {
+      "fn": "isObject",
+      "args": [
+        []
+      ],
+      "output": false,
+      "note": "array -> false (arrays explicitly excluded)"
+    },
+    {
+      "fn": "isObject",
+      "args": [
+        null
+      ],
+      "output": false,
+      "note": "null -> false"
+    },
+    {
+      "fn": "isObject",
+      "args": [
+        "x"
+      ],
+      "output": false,
+      "note": "string -> false"
+    }
+  ],
+  "isNil": [
+    {
+      "fn": "isNil",
+      "args": [
+        null
+      ],
+      "output": true,
+      "note": "null -> true"
+    },
+    {
+      "fn": "isNil",
+      "args": [],
+      "output": true,
+      "note": "undefined (omitted arg) -> true"
+    },
+    {
+      "fn": "isNil",
+      "args": [
+        0
+      ],
+      "output": false,
+      "note": "falsy but not nil -> false"
+    },
+    {
+      "fn": "isNil",
+      "args": [
+        ""
+      ],
+      "output": false,
+      "note": "falsy but not nil -> false"
+    }
+  ],
+  "convertRulesDataNilLeaves": [
+    {
+      "fn": "convertRulesData",
+      "args": [
+        {
+          "a": null,
+          "b": "__UNDEFINED__",
+          "c": "x"
+        },
+        {
+          "a": "A",
+          "b": "B",
+          "c": "C"
+        }
+      ],
+      "output": {
+        "a": null,
+        "c": "C"
+      },
+      "note": "data===null short-circuits BEFORE checking translation (leaf a stays null, translation \"A\" ignored); data===undefined also short-circuits and additionally gets FILTERED OUT of the result object (key b is absent)"
+    }
+  ]
+}

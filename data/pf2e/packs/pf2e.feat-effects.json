@@ -1,0 +1,1172 @@
+{
+  "entries": {
+    "Effect: Aberrant Blood Magic": {
+      "_id": "UQ7vZgmfK0VSFS8A",
+      "name": "Ефект: аберрантна магія крові",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.3qqvnC2U8W26yae7]{Родовід: Аберантний}</p>\n<p>Або одна ціль отримує статусний штраф –1 до спаскидків Волі на 1 раунд, або ви отримуєте статусний бонус +2 до спаскидків Волі на 1 раунд.</p>"
+    },
+    "Effect: Accept Echo": {
+      "_id": "2ca1ZuqQ7VkunAh3",
+      "name": "Ефект: Прийняти Ехо",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.VAcxOCFQLb3Bap7K]{Прийняти відлуння}</p>\n<p>Ви отримуєте статусний бонус +4 до всіх спаскидків проти ефектів одержимості. Ви стаєте відповідно навченим володінню зброєю та експертом у навичці, які обрали за допомогою Відлуння полеглого.</p>\n<p>На 7-му рівні ви стаєте майстром обраної навички, на 13-му — експертом у володінні обраною зброєю, а на 15-му — легендою обраної навички.</p>"
+    },
+    "Effect: Accursed Clay Fist": {
+      "_id": "bvk5rwYSoTtz8QGf",
+      "name": "Ефект: Проклятий глиняний кулак",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.tMsAj0H0B9XZQjtH]{Проклятий глиняний кулак}</p>\n<p>Ви отримуєте статусний штраф –2 до спаскидків проти ефектів прокляття на 1 годину.</p>"
+    },
+    "Effect: Aldori Parry": {
+      "_id": "aEuDaQY1GnrrnDRA",
+      "name": "Ефект: Альдорі Паррі",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.NZgjqVV2HYzLCvvA]{Парирування Алдорі}</p>\n<p>Ви отримуєте обставинний бонус +2 до КЗ.</p>"
+    },
+    "Effect: Anadi Venom": {
+      "_id": "gN1LbKYQgi8Fx98V",
+      "name": "Ефект: Анаді Веном",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.8aIe57gXJ94mPpW4]{Отрута анаді}</p>\n<p>Ваш Удар іклами завдає 1d6 шкоди отрутою. На 12-му рівні ця шкода отрутою збільшується до 2d6.</p>"
+    },
+    "Effect: Angelic Blood Magic": {
+      "_id": "s1tulrmW6teTFjVd",
+      "name": "Ефект: магія ангельської крові",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.vhW3glAaEfq2DKrw]{Родовід: Ангельський}</p>\n<p>Ангельська аура захищає вас або одну ціль, надаючи статусний бонус +1 до спаскидків на 1 раунд.</p>"
+    },
+    "Effect: Anoint Ally": {
+      "_id": "nnF7RSVlC6swbSw8",
+      "name": "Ефект: помазати союзника",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.bRftzbFvSF1pilIo]{Помазати союзника}.</p>"
+    },
+    "Effect: Arcane Propulsion": {
+      "_id": "EVRcdGt4awWPgXla",
+      "name": "Ефект: таємничий рух",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.YgytD4HGjWNFwiev]{Арканний рушій}</p>\n<p>Ви отримуєте Швидкість польоту, що дорівнює вашій Швидкості.</p>"
+    },
+    "Effect: Armor Tampered With (Critical Success)": {
+      "_id": "rzcpTJU9MvW1x1gz",
+      "name": "Ефект: пошкодження броні (критичний успіх)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.SheifYobjKqyK3Fv]{Втручання}</p>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Захоплені зненацька}, а ваші Швидкості отримують штраф –10 футів.</p>"
+    },
+    "Effect: Armor Tampered With (Success)": {
+      "_id": "IfRkgjyh0JzGalIy",
+      "name": "Ефект: пошкодження броні (успіх)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.SheifYobjKqyK3Fv]{Втручання}</p>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Захоплені зненацька}, а ваші Швидкості отримують штраф –10 футів.</p>"
+    },
+    "Effect: Assisting Shot": {
+      "_id": "zcJii1XyOne9EvMr",
+      "name": "Ефект: Допоміжний удар",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.UiQbjeqBUFjUtgUR]{Допоміжний постріл}</p>\n<p>Ви отримуєте обставинний бонус до свого кидка атаки.</p>"
+    },
+    "Effect: Augment Senses": {
+      "_id": "JwDCoBIwyhOFnDGZ",
+      "name": "Ефект: посилення почуттів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Y5ompgSd1JGSHt0C]{Посилити чуття}</p>\n<p>Вас не можна взяти у фланг.</p>"
+    },
+    "Effect: Aura of Despair": {
+      "_id": "MNkIxAishE22TqL3",
+      "name": "Ефект: Аура відчаю",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.wjnfdh6WzN7HbmeE]{Аура відчаю}</p>\n<p>Вороги в межах 15 футів від вас отримують обставинний штраф –1 до спаскидків проти страху.</p>"
+    },
+    "Effect: Aura of Faith": {
+      "_id": "VOOShYoB4gTopZtg",
+      "name": "Ефект: Аура віри",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.7sFhBYoz5GSBFNbY]{Аура віри}</p>\n<p>Ваші Удари отримують святу ознаку.</p>"
+    },
+    "Effect: Aura of Life": {
+      "_id": "FPuICuxBLiDaEbDX",
+      "name": "Ефект: Аура життя",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.YawVDUc9uzREIAnO]{Аура життя}</p>\n<p>Ви отримуєте опір 5 шкоді порожнечею та статусний бонус +1 до спаскидків проти ефектів порожнечі.</p>"
+    },
+    "Effect: Aura of Preservation": {
+      "_id": "18FHJoazfEmgNkfk",
+      "name": "Ефект: Аура збереження",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.z7kwVNaCB4oJs3Fe]{Аура рішучості}</p>\n<p>Ваші союзники в межах 15 футів отримують статусний бонус +1 до спаскидків Стійкості та Волі проти ефектів аберацій.</p>"
+    },
+    "Effect: Aura of Righteousness": {
+      "_id": "L0hDj8vFk1IWh01L",
+      "name": "Ефект: Аура праведності",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.erCOcFZJPT2O3gwC]{Аура праведності}</p>\n<p>Ви отримуєте опір 5 нечестивим ефектам.</p>"
+    },
+    "Effect: Avenge in Glory": {
+      "_id": "JQUoBlZKT5N5zO5k",
+      "name": "Ефект: Помста у славі",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.gKDRnsBPBdhJB0FI]{Помститися у славі}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють вашому рівню. Доки у вас є ці тимчасові ОЗ, ви отримуєте обставинний бонус +1 до кидків атаки та шкоди.</p>"
+    },
+    "Effect: Azarketi Purification": {
+      "_id": "8rDbWcWmQL0N5FFG",
+      "name": "Ефект: Очищення Азаркеті",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.u94fcPT5Oukqzql5]{Очищення азаркеті}</p>\n<p>Ви отримуєте статусний бонус +2 до подальших спаскидків проти отрут, що вже перебувають у вашому тілі.</p>"
+    },
+    "Effect: Battle Medicine Immunity": {
+      "_id": "2XEYQNZTCGpdkyR6",
+      "name": "Ефект: імунітет до бойової медицини",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Бойова медицина}</p>\n<p>Ви тимчасово імунні до Бойової медицини від цієї особи.</p>"
+    },
+    "Effect: Benevolent Spirit Deck": {
+      "_id": "k8gB0eDuAlGRoeQj",
+      "name": "Ефект: Колода доброзичливого духу",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.JoZRbbexF3epeREe]{Колода доброзичливих духів}</p>\n<p>Ви отримуєте статусний бонус +1 до КЗ та опір залежно від вашого знамення харроу.</p>"
+    },
+    "Effect: Blizzard Evasion": {
+      "_id": "JF2xCqL6t4UJZtUi",
+      "name": "Ефект: ухилення від хуртовини",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.a47Npi5XHXo47y49]{Ухилення від хуртовини}</p>\n<p>Ви отримуєте опір 10 до фізичної шкоди та слабкість 10 до силової шкоди. Ви отримуєте Швидкість польоту 40 футів.</p>"
+    },
+    "Effect: Bon Mot": {
+      "_id": "GoSls6SKCFmSoDxT",
+      "name": "Ефект: добре слово",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.0GF2j54roPFIDmXf]{Влучне слівце}</p>\n<p>Ви отримуєте статусний штраф до Сприйняття та спаскидків Волі.</p>"
+    },
+    "Effect: Bone Spikes": {
+      "_id": "ZsO5juyylVoxUkXh",
+      "name": "Ефект: кістяні шипи",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.cy9jqlHz75GTjg7l]{Кістяні шипи}</p>\n<p>Ви можете виконувати беззбройні Удари кістяними шипами, які завдають 1d6 колючої шкоди та мають трейти універсальна Р і розмах.</p>"
+    },
+    "Effect: Bone Swarm": {
+      "_id": "r4kb2zDepFeczMsl",
+      "name": "Ефект: кістковий рій",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.E4MS2wnRQJfyldrT]{Кістяний рій}</p>\n<p>Ви стаєте Величезними, отримуєте трейт рою та Швидкість польоту 40 футів. Ви імунні до станів схоплений, навзнак і обмежений. Ви маєте слабкість 5 до шкоди областю та бризками.</p>"
+    },
+    "Effect: Brightness Seeker": {
+      "_id": "xPg5wzzKNxJy18rU",
+      "name": "Ефект: шукач яскравості",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.mk6rzaAzsBBRGJnh]{Закликати сяйво}</p>\n<p>Ви отримуєте статусний бонус +1 до тригерної перевірки або статусний бонус +2, якщо результатом пророцтва було лихо, але ви все одно продовжили діяти.</p>"
+    },
+    "Effect: Bristle": {
+      "_id": "4Zj71naHbY6O9ggP",
+      "name": "Ефект: щетина",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.1gAehVvstGY885kJ]{Настовбурчитися}</p>\n<p>Ви приймаєте позу, розчепірюючи свої кістяні шипи. Ви отримуєте обставинний бонус +1 до КЗ до початку свого наступного ходу.</p>\n<hr />\n<p><strong>Особливе</strong> Якщо ви маєте реакцію @UUID[Compendium.pf2e.actionspf2e.Item.oAWNluJaMlaGysXA]{Колючі голки} або беззбройну атаку голками, кожна з них отримує обставинний бонус +1 до кидків шкоди до початку вашого наступного ходу.</p>"
+    },
+    "Effect: Calculate Threats": {
+      "_id": "P6druSuWIVoLrXJR",
+      "name": "Ефект: розрахувати загрози",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.Fha8jFmfkOPxAsrZ]{Розрахувати загрози}</p>\n<p>Ви отримуєте обставинний бонус +2 до КЗ та спаскидків Рефлексу до початку свого наступного ходу.</p>"
+    },
+    "Effect: Cat Nap": {
+      "_id": "l3S9i2UWGhSO58YX",
+      "name": "Ефект: котяча дрімота",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.zvtYsz9jk8tPvlpS]{Котячий сон}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють вашому рівню.</p>"
+    },
+    "Effect: Catfolk Dance": {
+      "_id": "5bEnBqVOgdp4gROP",
+      "name": "Ефект: Кетфолк танець",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Iqv8qj7ym63YjexN]{Танець котолюдів}</p>\n<p>Цільова істота отримує обставинний штраф –2 до спаскидків Рефлексу</p>"
+    },
+    "Effect: Cavalier's Banner": {
+      "_id": "xDT10fUWp8UStSZR",
+      "name": "Ефект: кавалерський прапор",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.CAaXGhHDMRM3Pt4J]{Стяг кавалера}</p>\n<p>Ви отримуєте обставинний бонус +1 до спаскидків Волі та КС проти ефектів страху. Якщо ваш стяг знищено або знято, союзники в межах 30 футів стають @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканими 1}.</p>"
+    },
+    "Effect: Ceremony of Protection": {
+      "_id": "9kNbiZPOM2wy60ao",
+      "name": "Ефект: Церемонія Покрови",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.VSINzKESKAw2zA20]{Церемонія захисту}</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ.</p>"
+    },
+    "Effect: Channel the Godmind": {
+      "_id": "7hQnwwsixZmXzdIT",
+      "name": "Ефект: канал Божого розуму",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.DYFOlJlMoDuHjrZx]{Спрямувати богорозум}</p>\n<p>Ви отримуєте точне відчуття руху в межах 60 футів.</p>"
+    },
+    "Effect: Clue In": {
+      "_id": "vhSYlQiAQMLuXqoc",
+      "name": "Ефект: Підказка",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.25WDi1cVUrW92sUj]{Підказати}</p>\n<p>Ви отримуєте обставинний бонус +1 до своєї перевірки. Якщо джерело має експертне володіння слідчого, цей бонус збільшується до +2.</p>"
+    },
+    "Effect: Consume Energy (Augment Strike)": {
+      "_id": "eMsI1lR0SuJBCYjn",
+      "name": "Ефект: споживання енергії (збільшення удару)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.9Jbl71C5C6MnOqxV]{Поглинути енергію}</p>\n<p>Удари обраною зброєю або беззбройною атакою завдають додатково 1d6 шкоди типу, що відповідає поглинутій вами енергії.</p>"
+    },
+    "Effect: Control Tower": {
+      "_id": "mkIamZGtQaSsUWLk",
+      "name": "Ефект: диспетчерська вежа",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.wBL5h0hTmVD4EJLw]{Диспетчерська вежа}</p>\n<p>Ви отримуєте обставинний бонус +2, коли використовуєте дію Пошук, щоб знайти схованих або невиявлених істот у полі спостереження.</p>"
+    },
+    "Effect: Core Cannon": {
+      "_id": "Ljrx4N5XACKSk1Ks",
+      "name": "Ефект: Core Cannon",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.zeyrLJr6b7hPdx4w]{Ядерна гармата}</p>\n<p>Оберіть руну могутності. Ви отримуєте Удар, що завдає 3d8 шкоди вогнем і 3d6 силової шкоди; на 20-му рівні ця шкода збільшується до 4d8 шкоди вогнем і 4d6 силової шкоди. Удар отримує предметний бонус обраної руни, має крок дистанції 120 футів, а за критичного влучання ціль отримує 10 тривалої шкоди вогнем.</p>"
+    },
+    "Effect: Corpse-Killer's Defiance (Lower Level)": {
+      "_id": "ctiTtuRWFjAnWdYQ",
+      "name": "Ефект: Corpse-Killer's Defiance (нижчий рівень)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.fzERYW7BJQoxlvoD]{Непокора вбивці мерців}</p>\n<p>Ви отримуєте статусний бонус +1 до кидків атаки та шкоди проти нежиті.</p>"
+    },
+    "Effect: Corpse-Killer's Defiance": {
+      "_id": "3WzaQKb10AYLdTsQ",
+      "name": "Ефект: непокора вбивці трупів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.fzERYW7BJQoxlvoD]{Непокора вбивці мерців}</p>\n<p>Ви отримуєте статусний бонус +2 до кидків атаки та шкоди проти нежиті.</p>"
+    },
+    "Effect: Creeping Ashes": {
+      "_id": "ybc7tZwByenCzow8",
+      "name": "Ефект: повзучий попіл",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feat-effects.Item.G4L49aMxHqO2yqxi]{Ефект: Прокляття повзучого попелу}</p>\n<p><strong>Помірне прокляття</strong></p>\n<p>Ви та істоти в аурі приховані.</p>\n<p><strong>Сильне прокляття</strong></p>\n<p>Ви та всі істоти отримуєте слабкість до вогню, що дорівнює половині вашого рівня.</p>"
+    },
+    "Effect: Crimson Shroud": {
+      "_id": "6YhbQmOmbmy84W1C",
+      "name": "Ефект: багряна плащаниця",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.M2V1vqAziOkWV30B]{Багряний саван}</p>\n<p>Ви отримуєте швидке зцілення, що дорівнює половині вашого рівня. Ви отримуєте дію @UUID[Compendium.pf2e.actionspf2e.Item.Gu0QsFvWoR9EP5SE]{Закрутити багряний саван}.</p>"
+    },
+    "Effect: Cut from the Air": {
+      "_id": "gWwG7MNAesJgpmRW",
+      "name": "Ефект: вирізаний з повітря",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.6xBu4BewIkOIt9M0]{Збити з повітря}.</p>\n<p>Ви отримуєте обставинний бонус +4 до КЗ проти тригерної атаки.</p>"
+    },
+    "Effect: Daydream Trance": {
+      "_id": "RATDyLyxXN3qmOas",
+      "name": "Ефект: Daydream Trance",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.5LW1k5DUkzbbYuYL]{Транс мрійливості}</p>\n<p>Ви отримуєте штраф –1 до перевірок Сприйняття та кидків ініціативи й статусний бонус +1 до спаскидків Волі. Проти ментальних ефектів цей бонус збільшується до +2. Якщо ви маєте легендарне володіння Окультизмом, бонус проти ментальних ефектів збільшується до +3.</p>"
+    },
+    "Effect: Deadly Poison Weapon": {
+      "_id": "ed9iJxdHuft6bDFF",
+      "name": "Ефект: смертельна отрута",
+      "description": "<p>Застосовується, коли ви наносите отруту, створену за допомогою @UUID[Compendium.pf2e.feats-srd.Item.AYXherMu9gFTyXjp]{Смертельно отруєної зброї}.</p>"
+    },
+    "Effect: Debilitating Strike": {
+      "_id": "yBTASi3FvnReAwHy",
+      "name": "Ефект: виснажливий удар",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.bp0Up04x3dzGK5bB]{Виснажливий удар}</p>\n<p>Ви отримуєте статусний штраф –10 футів до всіх Швидкостей.</p>"
+    },
+    "Effect: Defensive Instincts": {
+      "_id": "pTYTanMHMwSgJ8TN",
+      "name": "Ефект: захисні інстинкти",
+      "description": "<p>@UUID[Compendium.pf2e.feats-srd.Item.RxA1PdgGbijkieJD]{Захисні інстинкти}</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ.</p>"
+    },
+    "Effect: Defensive Recovery": {
+      "_id": "jwxurN6JPQm9wXug",
+      "name": "Ефект: Відновлення захисту",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.d1ktdX1Fk37dG5ms]{Захисне відновлення}</p>\n<p>Ви отримуєте статусний бонус +2 до КЗ та спаскидків.</p>"
+    },
+    "Effect: Deteriorated": {
+      "_id": "94MzLpLykQIWKcA1",
+      "name": "Ефект: погіршився",
+      "description": "<p>Пов’язано з @UUID[Compendium.pf2e.feats-srd.Item.ZR5Buon23cDQ1ryB]{Посвятою зомбі}</p>\n<p>Ви Уповільнені 1.</p>"
+    },
+    "Effect: Devrin's Cunning Stance": {
+      "_id": "jACKRmVfr9ATsmwg",
+      "name": "Ефект: хитра позиція Девріна",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.OqqytsF2RIjB0EPR]{Хитра стійка Девріна}</p>\n<p>Ви отримуєте статусний бонус +1 до перевірок навичок. Коли ви виконуєте Удар по ворогу, застигнутому зненацька, цей ворог не може використовувати реакції до початку свого наступного ходу.</p>"
+    },
+    "Effect: Diabolic Blood Magic (Self)": {
+      "_id": "n1vhmOd7aNiuR3nk",
+      "name": "Ефект: диявольська магія крові (сама)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.o39zQMIdERWtmBSB]{Родовід: Диявольський}</p>\n<p>Ви отримуєте статусний бонус +2 до перевірок Обману на 1 раунд.</p>"
+    },
+    "Effect: Didactic Strike": {
+      "_id": "72THfaqak0F4XnON",
+      "name": "Ефект: Дидактичний страйк",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.6fojN9yBJByTZ1Q9]{Повчальний удар}.</p>\n<p>Ваша перша атака проти позначеної цілі до наступного ходу слідчого завдає цілі додатково 2d6 точної шкоди, якщо влучає.</p>"
+    },
+    "Effect: Discordant Voice": {
+      "_id": "oXG7eX26FmePmwUF",
+      "name": "Ефект: неузгоджений голос",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.8JMOgtB3XG7o6ffW]{Дисонансний голос}, доки на вас діє Надихнути відвагу.</p>"
+    },
+    "Effect: Disruptive Stare": {
+      "_id": "QcReJp7kgURdQCGz",
+      "name": "Ефект: руйнівний погляд"
+    },
+    "Effect: Distant Wandering": {
+      "_id": "ngwcN8u7f7CnqGXp",
+      "name": "Ефект: далеке блукання",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.YFPmD8BHv0XaF55G]{Далекі мандри}</p>\n<p>Ви невидимі й нечутні.</p>\n<p><strong>Пробудження</strong> Ви отримуєте Швидкість польоту та статусний бонус +20 футів до своєї Швидкості</p>\n<p><strong>Пробудження</strong> Ви Пришвидшені, доки перебуваєте у формі духа, і можете використати додаткову дію лише для Пригадування Знань або Пошуку.</p>"
+    },
+    "Effect: Distracting Feint": {
+      "_id": "7hRgBo0fRQBxMK7g",
+      "name": "Ефект: відволікаючий фінт",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.hLYoIjH8gPEVXyWG]{Відволікальний фінт}</p>\n<p>Доки ви застигнуті зненацька через Фінт джерела, ви також отримуєте обставинний штраф –2 до перевірок Сприйняття та спаскидків Рефлексу.</p>"
+    },
+    "Effect: Divine Aegis": {
+      "_id": "K1IgNCf3Hh2EJwQ9",
+      "name": "Ефект: Божественна егіда",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.xoIxiRtBVHV27Rvd]{Божественна егіда}</p>\n<p>Ви отримуєте обставинний бонус +1 до спаскидків проти небожественних магічних ефектів, але також отримуєте обставинний штраф –1 до спаскидків проти божественних ефектів.</p>"
+    },
+    "Effect: Draconic Blood Magic": {
+      "_id": "FNTTeJHiK6iOjrSq",
+      "name": "Ефект: магія драконівської крові",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.ZHabYxSgYK0XbjhM]{Родовід: Драконячий}</p>\n<p>На вас або одній цілі ненадовго виростає драконяча луска, надаючи статусний бонус +1 до КЗ на 1 раунд.</p>"
+    },
+    "Effect: Dragon's Rage Wings": {
+      "_id": "wmBSuZPqiDyUNwXH",
+      "name": "Ефект: крила люті дракона",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.bqZkAFS6eq9TKXMO]{Крила драконячої люті}</p>\n<p>Доки ви в Люті, ви отримуєте Швидкість польоту, що дорівнює вашій наземній Швидкості.</p>"
+    },
+    "Effect: Dread Marshal Stance": {
+      "_id": "KBEJVRrie2JTHWIK",
+      "name": "Ефект: Стойка жахливого маршала",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.R7c4PyTNkZb0yvoT]{Стійка грізного маршала}</p>\n<p>Ви отримуєте статусний бонус +1 до кидків шкоди. Коли маршал або союзник в аурі критично влучає у ворога Ударом, цей ворог стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканим 1}. Якщо маршал володіє зброєю, що має більше ніж одну кістку шкоди (зазвичай завдяки ударній руні), статусний бонус може дорівнювати кількості кісток шкоди зброї замість +1.</p>"
+    },
+    "Effect: Dueling Parry": {
+      "_id": "1nCwQErK6hpkNvfw",
+      "name": "Ефект: дуельне парування",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.n7nQQR940OvFbw7T]{Дуельне парирування}</p>\n<p>Ви отримуєте обставинний бонус +2 до КЗ.</p>"
+    },
+    "Effect: Elemental Assault": {
+      "_id": "XaZdQHF9GvaJINqH",
+      "name": "Ефект: стихійний напад",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.OKSsFlHY5UKc4dKu]{Стихійний напад}</p>\n<p>Ваші Удари завдають додатково 1d6 шкоди зазначеного типу та мають трейт, що відповідає стихії: електрика для повітря, дробляча для землі, вогонь для вогню або холод для води.</p>"
+    },
+    "Effect: Elemental Blood Magic (Self)": {
+      "_id": "3gGBZHcUFsHLJeQH",
+      "name": "Ефект: елементарна магія крові (сама)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.RXRnJcG4XSabZ35a]{Родовід: Стихійний}</p>\n<p>Ви отримуєте статусний бонус +2 до перевірок Залякування.</p>"
+    },
+    "Effect: Elementalist Dedication": {
+      "_id": "O8qithYQCv3e7DUQ",
+      "name": "Ефект: відданість стихіям",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.tx9pkrpmtqe4FnvS]{Посвята стихійника}</p>\n<p>Щодня під час щоденних приготувань ви можете налаштуватися на одну стихію на свій вибір зі своєї стихійної філософії. Ви отримуєте опір, що дорівнює половині вашого рівня (мінімум 1), до шкоди від ефектів із трейтом налаштованої стихії. Це налаштування триває до наступних щоденних приготувань.</p>"
+    },
+    "Effect: Emotional Fervor": {
+      "_id": "JysvElDwGZ5ABQ6x",
+      "name": "Ефект: Емоційний запал",
+      "description": "<p>Ви активуєте свій емоційний запал.</p>"
+    },
+    "Effect: Emotional Surge": {
+      "_id": "dTymNXgTtnjqgYP9",
+      "name": "Ефект: Емоційний сплеск",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.d8DI7wLxtUy99g9K]{Емоційний сплеск}</p>\n<p>Ви отримуєте статусний бонус +2 до кидків атаки та перевірок навичок.</p>"
+    },
+    "Effect: Encroaching Presence": {
+      "_id": "cqgbTZCvqaSvtQdz",
+      "name": "Ефект: посягання на присутність",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.6RAHnACKReBW68Sa]{Вторгнення присутності}</p>\n<p><strong>Легка віддача</strong> Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканими 3}.</p>\n<p><strong>Помірна віддача</strong> Усі істоти стають для вас @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Прихованими}, оскільки їх огортають зорові спотворення, які бачите лише ви.</p>\n<p><strong>Сильна віддача</strong> Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Приреченими 1} та @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Виснаженими 2} до наступних щоденних приготувань.</p>"
+    },
+    "Effect: Enduring Debilitating Strike": {
+      "_id": "PX6WdrpzEdUzKRHx",
+      "name": "Ефект: стійкий виснажливий удар",
+      "description": "<p>Ціль зазнала впливу @UUID[Compendium.pf2e.actionspf2e.Item.bp0Up04x3dzGK5bB]{Виснажливого удару} пройдисвіта, якщо пройдисвіт також має @UUID[Compendium.pf2e.feats-srd.Item.RzfWrOqHL2GcK0rr]{Тривале виснаження}.</p>"
+    },
+    "Effect: Energetic Meltdown": {
+      "_id": "0AD7BiKjT8a6Uh92",
+      "name": "Ефект: енергетичне розплавлення",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.8PjTI21Mif26XWY7]{Енергетичний розпад}</p>\n<p><strong>Легка віддача</strong> Ви отримуєте @Damage[(@actor.level)[untyped]]{шкоду, що дорівнює вашому рівню}, коли енергія пронизує ваше тіло.</p>\n<p><strong>Помірна віддача</strong> Після отримання шкоди ви набуваєте слабкості до типу енергії своєї віддачі до наступних щоденних приготувань. Слабкість дорівнює третині вашого рівня. Ви також втрачаєте імунітет до цього типу енергії, якщо мали його, до наступних щоденних приготувань.</p>\n<p><strong>Сильна віддача</strong> Ви завдаєте @Damage[(@actor.level)d6[untyped]]{1d6 шкоди за кожен рівень} усім істотам у @Template[emanation|distance:30] із базовим спаскидком @Check[fortitude|against:class-spell|basic]. Ви автоматично отримуєте повну шкоду без спаскидка.</p>"
+    },
+    "Effect: Energize Wings": {
+      "_id": "8E5SCmFndGAvgkTw",
+      "name": "Ефект: Енергія крил",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.cmhfYMEM4uzrNIiV]{Наситити крила енергією}</p>\n<p>Ви отримуєте Швидкість польоту 30 футів.</p>"
+    },
+    "Effect: Enforce Oath": {
+      "_id": "LF8xzzFsFJKxejqv",
+      "name": "Ефект: дотримання присяги",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.g0C3tqGjgShoDyif]{Дотримуватися клятви}</p>\n<p>Ви отримуєте статусний бонус +1 до КЗ і спаскидків проти атак та ефектів обраної істоти. Ви також отримуєте статусний бонус +1 до кидків атаки проти обраної істоти.</p>\n<p>Ви також отримуєте статусний штраф –1 до КЗ, кидків атаки та спаскидків проти всіх інших істот, доки не припините Дотримуватися клятви.</p>"
+    },
+    "Effect: Engine of Destruction": {
+      "_id": "nlMZCi8xi9YSvlYR",
+      "name": "Ефект: двигун руйнування",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.GLHh9MWlcINLC6Q0]{Рушій руйнування}</p>\n<p>Ваша конструктивна інновація отримує обставинний бонус +2 до кидків атаки.</p>"
+    },
+    "Effect: Enlightened Presence": {
+      "_id": "XM1AA8z5cHm8sJXM",
+      "name": "Ефект: Просвітлена присутність",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.ROnjdPMvH0vkkWjQ]{Просвітлена присутність}.</p>\n<p>Ви та союзники в межах 15 футів від вас отримуєте статусний бонус +2 до спаскидків Волі проти ментальних ефектів.</p>"
+    },
+    "Effect: Entity's Resurgence": {
+      "_id": "yr5ey5qC8dXH749T",
+      "name": "Ефект: відродження сутності"
+    },
+    "Effect: Eye of the Arclords": {
+      "_id": "5IGz4iheaiUWm5KR",
+      "name": "Ефект: Око Володарів Арклору",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.OtV7esAwza1U6Kwr]{Око арклордів}</p>\n<p>Ви отримуєте темнозір і статусний бонус +2 до перевірок Сприйняття для Пошуку невиявлених і схованих істот, а також до свого КС Сприйняття проти Сховатися та Прокрастися.</p>"
+    },
+    "Effect: Favorable Winds": {
+      "_id": "X1pGyhMKrCTvHB0q",
+      "name": "Ефект: сприятливий вітер",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.OK8Fm7EG8wjoYZBX]{Сприятливі вітри}</p>\n<p>Якщо крок дистанції вашої зброї становить 10 футів або менше, збільште його на 10 футів для цього Удару.</p>"
+    },
+    "Effect: Fey Blood Magic": {
+      "_id": "rJpkKaPRGaH0pLse",
+      "name": "Ефект: Фейська магія крові",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.eW3cfCH7Wpx2vik2]{Родовід: Фейський}</p>\n<p>Ви отримуєте статусний бонус +2 до перевірок Виконавства.</p>"
+    },
+    "Effect: Fiendish Wings": {
+      "_id": "MrdT7LiOZMN8J4GK",
+      "name": "Ефект: диявольські крила",
+      "description": "<p>Ви можете напружитися, щоб витягнути зі спини крила, схожі на кажанячі чи інші диявольські, на вигляд схожі на крила ваших диявольських предків. Після прояву ці крила залишаються протягом 10 хвилин. Ви отримуєте швидкість польоту, що дорівнює вашій наземній швидкості, поки ви розкриваєте крила.</p>"
+    },
+    "Effect: Flamboyant Cruelty": {
+      "_id": "v2HDcrxQF2Dncjbs",
+      "name": "Ефект: яскрава жорстокість",
+      "description": "<p>Надається, коли ви використовуєте @UUID[Compendium.pf2e.feats-srd.Item.SAOtGk9k8veaX3Ww]{Епатажну жорстокість}</p>\n<p>Коли ви виконуєте Удар рукопашною зброєю по ворогу, який має щонайменше два з таких станів — Незграбний, Виснажений, Ослаблений, Зляканий, Нудота та Притуплений, — ви отримуєте обставинний бонус до кидка шкоди, що дорівнює кількості цих станів у ворога.</p>\n<p>Якщо ви влучаєте по такому ворогу, то до кінця свого ходу отримуєте обставинний бонус +1 до перевірок навичок для Прослизнути та виконання дій свого стилю, які надають панаш.</p>"
+    },
+    "Effect: Fleet Tempo": {
+      "_id": "pQ9e5njvIOe5QzFa",
+      "name": "Ефект: темп флоту",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.SVdYJW5JsOMhAYd0]{Стрімкий темп}</p>\n<p>Ви отримуєте статусний бонус +10 футів до всіх Швидкостей.</p>"
+    },
+    "Effect: Formation Training": {
+      "_id": "LVPodfYEWKtK3fUW",
+      "name": "Ефект: Формаційне навчання",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.aoz9dCq2NynyUYEf]{Тренування строю}</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ і спаскидків. Для спаскидків Рефлексу проти ефектів області цей бонус збільшується до +2.</p>"
+    },
+    "Effect: Fortify Shield": {
+      "_id": "ghZFZWUh5Z20vOlR",
+      "name": "Ефект: Зміцнити щит",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.DidzozerKLZ2UYLx]{Зміцнити щит}</p>\n<p>Ви Піднімаєте щит. Додайте рівень свого персонажа до Твердості щита.</p>"
+    },
+    "Effect: Ghost Wrangler": {
+      "_id": "SiegLMJpVOGuoyWJ",
+      "name": "Ефект: Ghost Wrangler",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.00OnDt8UEMwfoYWH]{Приборкувач привидів}</p>\n<p>Ваші кулаки отримують ефект руни властивості дотику до привидів.</p>"
+    },
+    "Effect: Giant's Lunge": {
+      "_id": "N2CSGvtPXloOEPrK",
+      "name": "Ефект: випад гіганта",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.MFqFvuiYDAoADcft]{Випад велетня}</p>\n<p>Уся ваша рукопашна зброя та беззбройні атаки отримують досяжність 10 футів.</p>"
+    },
+    "Effect: Giant's Stature": {
+      "_id": "6VrKQ0PhRXuteusQ",
+      "name": "Ефект: зростання велетня",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.W21jKAcG0GtEtBiK]{Статура велетня}</p>\n<p>Ви стаєте Великими, збільшуєте свою досяжність на 5 футів і отримуєте стан @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбний 1}, доки не припините Лють</p>"
+    },
+    "Effect: Great Tengu Form": {
+      "_id": "BC92TyFzRCWq8fu0",
+      "name": "Ефект: форма Великого Тенгу",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.ABXUfGoeBgCyFasg]{Велика форма тенґу}</p>\n<p>Ви також отримуєте переваги заклять 4-го рангу @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Збільшення} та @UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{Політ}.</p>"
+    },
+    "Effect: Guardian's Deflection": {
+      "_id": "w6X7io56B2HHTOvs",
+      "name": "Ефект: відхилення опікуна",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.JdCRxwgtdQkJ1Ha6]{Відхилення захисника (Воїн)} або @UUID[Compendium.pf2e.feats-srd.Item.YJIzE2RhGRGfbt9j]{Відхилення захисника (Шибайголова)}.</p>\n<p>Ви отримуєте обставинний бонус +2 до КЗ проти тригерної атаки.</p>"
+    },
+    "Effect: Guardian's Embrace": {
+      "_id": "X19XgqqItqZ4tfmq",
+      "name": "Ефект: обійми охоронця",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.fJxIdcg7kWPwlULY]{Обійми захисника}</p>\n<p>Ви отримуєте статусний бонус +2 до КЗ проти фізичних атак і можете використати реакцію, щоб отримати опір 10 до фізичної шкоди від цієї атаки, після чого цей ефект завершується.</p>"
+    },
+    "Effect: Guided by the Stars": {
+      "_id": "raLQ458uiyd3lI2K",
+      "name": "Ефект: Керований зірками",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.s1swBWSqtfrXTJHK]{Ведомий зорями}</p>\n<p>Під час наступної перевірки навички або спаскидка ви кидаєте двічі й використовуєте кращий результат. Якщо зараз ніч і ви бачите зорі, ви отримуєте обставинний бонус +1 до тригерного кидка.</p>"
+    },
+    "Effect: Guided Skill": {
+      "_id": "iaZ6P59YVhdnFIN8",
+      "name": "Ефект: керована майстерність",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.x7EGJYZQuxHbP50X]{Скерована навичка}</p>\n<p>Ви отримуєте статусний бонус +2 до перевірок Акробатики, Окультизму, Скритності або Виживання.</p>"
+    },
+    "Effect: Hag Blood Magic": {
+      "_id": "6fb15XuSV4TNuVAT",
+      "name": "Ефект: магія крові відьми",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.O0uXZRWMNliDbkxU]{Родовід: Відьомський}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють рангу закляття.</p>"
+    },
+    "Effect: Hamstringing Strike": {
+      "_id": "ESnzqtwSgahLcxg2",
+      "name": "Ефект: удар підколінного сухожилля",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.s2GbcUIXG1ZBurSd]{Удар по сухожиллю}</p>\n<p>Ви отримуєте статусний штраф –5 футів до Швидкості. За критичного влучання ви отримуєте статусний штраф –10 футів до Швидкості.</p>"
+    },
+    "Effect: Harrow Omen": {
+      "_id": "rp6hA52dWVwtuu5F",
+      "name": "Ефект: Ознака борони"
+    },
+    "Effect: Harrow the Fiend": {
+      "_id": "MSkspeBsbXm6LQ19",
+      "name": "Ефект: борона-демон",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.EuoCFSHTzi0VOfuf]{Вразити потвору}</p>\n<p>Ви отримуєте статусний бонус +1 до всіх Ударів або кидків атаки закляттям проти потвор.</p>"
+    },
+    "Effect: Harsh Judgement": {
+      "_id": "raoz523QRsj5WjcF",
+      "name": "Ефект: суворий суд",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.37uOb0iaWCfTCvBZ]{Суворий вирок}</p>\n<p>Ви отримуєте обставинний бонус +2 до перевірок Сприйняття, щоб Шукати засудженого ворога, і до перевірок Залякування, щоб Деморалізувати його. Ви отримуєте обставинний штраф –1 до перевірок Сприйняття, щоб Шукати інших істот, і до перевірок Залякування, щоб Деморалізувати когось, крім засудженого ворога.</p>"
+    },
+    "Effect: Heaven's Thunder": {
+      "_id": "L9g3EMCT3imX650b",
+      "name": "Ефект: Небесний Грім",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.qJdbK8vgIqeHU7bu]{Грім небес}</p>\n<p>Ваші беззбройні атаки та будь-яка зброя монаха, якою ви володієте, завдають додаткової шкоди електрикою та звуком; кількість кожного типу шкоди дорівнює кількості кісток шкоди зброї або беззбройної атаки.</p>\n<p>Якщо ви також знаєте закляття ці <em>вибух ці</em>, можете обрати, щоб воно завдавало шкоди електрикою або звуком замість силової шкоди (<em>вибух ці</em> втрачає трейт сили й натомість отримує трейт електрики або звуку).</p>"
+    },
+    "Effect: Heroes' Call": {
+      "_id": "BHnunYPROBG5lxv4",
+      "name": "Ефект: Поклик Героїв",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.7cM7uKRKQDWz5eeu]{Заклик героїв}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють подвоєному вашому рівню.</p>"
+    },
+    "Effect: Heroic Recovery": {
+      "_id": "7ogytOgDmh4h2g5d",
+      "name": "Ефект: героїчне відновлення",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.KR78kinMmAZQHeoa]{Героїчне відновлення}</p>\n<p>Ви отримуєте статусний бонус +5 футів до своєї Швидкості та статусний бонус +1 до кидків атаки й шкоди.</p>"
+    },
+    "Effect: High-Speed Regeneration Speed Boost": {
+      "_id": "tx0S0fnfZ6Q2o80H",
+      "name": "Ефект: прискорення високошвидкісної регенерації",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.xDTjr415ZZM8x2WW]{Швидкісна регенерація}</p>\n<p>Ви отримуєте статусний бонус +10 футів до своєї Швидкості.</p>"
+    },
+    "Effect: Hungry Goblin": {
+      "_id": "4xtHFRGI05SNe9rA",
+      "name": "Ефект: Голодний Гоблін",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.DnfVQGLk3PAl8UWh]{Голодний гоблін}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють половині вашого рівня.</p>"
+    },
+    "Effect: Hybrid Shape (Beastkin)": {
+      "_id": "qIOEe4kUN7FOBifb",
+      "name": "Ефект: Hybrid Shape (Beastkin)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Змінити форму}.</p>\n<p>У гібридній формі ви виглядаєте як поєднання свого походження та притаманної вам тварини. Перебуваючи в гібридній формі, ви отримуєте беззбройний Удар щелепами, що нагадує особливості притаманної вам тварини (ікла кажана, дзьоб орла, жвали оси тощо). Ваші щелепи завдають 1d4 колючої шкоди, мають трейти швидкий, спритний і беззбройний та належать до кулачної групи зброї.</p>"
+    },
+    "Effect: Hydraulic Deflection": {
+      "_id": "IfsglZ7fdegwem0E",
+      "name": "Ефект: Гідравлічне відхилення",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.kqRFoXfErUFEndIs]{Гідравлічне відхилення}</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ.</p>"
+    },
+    "Effect: Imperial Blood Magic": {
+      "_id": "vguxP8ukwVTWWWaA",
+      "name": "Ефект: магія імперської крові",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.ZEtJJ5UOlV5oTWWp]{Родовід: Імперський}</p>\n<p>На свій вибір ви отримуєте статусний бонус +1 до КЗ або статусний бонус +1 до спаскидків.</p>"
+    },
+    "Effect: Improved Poison Weapon": {
+      "_id": "C6H3gF5HTdsIKpOC",
+      "name": "Ефект: покращена отруйна зброя",
+      "description": "<p>Застосовується, коли ви наносите отруту, створену за допомогою @UUID[Compendium.pf2e.feats-srd.Item.9Eufa07qvXG41QmG]{Покращеної отруєної зброї}.</p>"
+    },
+    "Effect: Inspired Stratagem": {
+      "_id": "K0Sv9AHgq245hSLC",
+      "name": "Ефект: Натхненна Стратагема",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.ZXvJGxMJc0HRpcQh]{Натхненна стратегія}</p>\n<p>Ви двічі кидаєте тригерну перевірку й використовуєте кращий із двох результатів.</p>"
+    },
+    "Effect: Inspiring Marshal Stance": {
+      "_id": "kzEPq4aczYb6OD2h",
+      "name": "Ефект: надихаюча позиція маршала",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.bvOsJNeI0ewvQsFa]{Стійка надихаючого маршала}</p>\n<p>Ви отримуєте статусний бонус +1 до кидків атаки та спаскидків проти ментальних ефектів.</p>"
+    },
+    "Effect: Inspiring Resilience": {
+      "_id": "qM4bQfcwZ0EOS2M9",
+      "name": "Ефект: надихаюча стійкість",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.AbsqV1P8OAhChcRl]{Надихаюча стійкість}</p>\n<p>Ви отримуєте обставинний бонус +1 до спаскидка Волі проти тригерного ефекту або обставинний бонус +2, якщо ефект походить від нежиті.</p>"
+    },
+    "Effect: Invigorating Breath": {
+      "_id": "tl94WHJ2Hg0akK2o",
+      "name": "Ефект: підбадьорливе дихання",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.23QgyEYjoslBvkra]{Підбадьорливе дихання}</p>\n<p>Ви отримуєте 20 тимчасових ОЗ. На 15-му рівні ви натомість отримуєте 30 тимчасових ОЗ.</p>"
+    },
+    "Effect: Juvenile Flight": {
+      "_id": "0JrHvdUgJBl631En",
+      "name": "Ефект: втеча неповнолітніх",
+      "description": "<p>Доки ваші крила розгорнуті, ви отримуєте Швидкість польоту, що дорівнює вашій наземній Швидкості.</p>\n<p>Якщо ви маєте @UUID[Compendium.pf2e.feats-srd.Item.UuVz1QY7QXD5cnLu]{Перший політ}, то отримуєте статусний бонус +10 футів до Швидкості польоту від Юнацького польоту. Як зазвичай, оскільки ваша Швидкість польоту походить від наземної Швидкості, цей статусний бонус не накопичується зі статусним бонусом до наземної Швидкості, якщо він у вас є.</p>"
+    },
+    "Effect: Legendary Monster Hunter": {
+      "_id": "LB0PTV5yqMlBmRFj",
+      "name": "Ефект: легендарний мисливець на монстрів",
+      "description": "<p>Надається @UUID[Compendium.pf2e.feats-srd.Item.YTTJqRKH8QZl6al2]{Мисливцем на монстрів}, якщо ви маєте @UUID[Compendium.pf2e.feats-srd.Item.Veyt4x2Kb5YcPGTv]{Легендарного мисливця на монстрів}.</p>\n<p>Ви отримуєте обставинний бонус +2 до наступного кидка атаки проти цієї здобичі.</p>"
+    },
+    "Effect: Legendary Monster Warden": {
+      "_id": "aUpcWqaLBlmpnJgW",
+      "name": "Ефект: легендарний наглядач монстрів",
+      "description": "<p>Надається @UUID[Compendium.pf2e.feats-srd.Item.2yq3l8e2Vzz34yRV]{Охоронцем від монстрів}, якщо ви маєте @UUID[Compendium.pf2e.feats-srd.Item.Veyt4x2Kb5YcPGTv]{Легендарного мисливця на монстрів}.</p>\n<p>Ви отримуєте обставинний бонус +2 до наступного кидка атаки проти цієї здобичі.</p>\n<p>Ви отримуєте обставинний бонус +2 до наступного спаскидка проти цієї істоти та до КЗ проти наступної атаки цієї істоти по вас.</p>"
+    },
+    "Effect: Liberating Step (vs. Aberration)": {
+      "_id": "tAsFXMzNkpj964X4",
+      "name": "Ефект: звільняючий крок (проти аберації)",
+      "description": "<p>Надається Езотеричною клятвою (Визволитель)</p>\n<p>Якщо ви використовуєте Визвольний крок, тригером якого стала зла аберація, ваш союзник отримує обставинний бонус +4 до перевірок, наданих Визвольним кроком, і після цього може двічі виконати Крок.</p>"
+    },
+    "Effect: Liberating Step (vs. Dragon)": {
+      "_id": "iyONT1qgeRgoYHsZ",
+      "name": "Ефект: Звільняючий крок (проти Дракона)",
+      "description": "<p>Надається Клятвою драконоборця (Визволитель)</p>\n<p>Якщо ви використовуєте Визвольний крок, тригером якого став злий дракон, ваш союзник отримує обставинний бонус +4 до перевірок, наданих Визвольним кроком, і після цього може двічі виконати Крок.</p>"
+    },
+    "Effect: Liberating Step (vs. Fiend)": {
+      "_id": "9dCt0asv0kt7DR4q",
+      "name": "Ефект: Звільняючий крок (проти Fiend)",
+      "description": "<p>Надається Клятвою погибелі потвор (Визволитель)</p>\n<p>Якщо ви використовуєте Визвольний крок, тригером якого стала потвора, ваш союзник отримує обставинний бонус +4 до перевірок, наданих Визвольним кроком, і після цього може двічі виконати Крок.</p>"
+    },
+    "Effect: Liberating Step (vs. Undead)": {
+      "_id": "ZnKnOPPq3cG54PlG",
+      "name": "Ефект: визвольний крок (проти нежиті)",
+      "description": "<p>Надається Сяйною клятвою (Визволитель)</p>\n<p>Якщо ви використовуєте Визвольний крок, тригером якого стала нежить, ваш союзник отримує обставинний бонус +4 до перевірок, наданих Визвольним кроком, і після цього може двічі виконати Крок.</p>"
+    },
+    "Effect: Life-Giving Magic": {
+      "_id": "YKJhjkerCW0Jl6HP",
+      "name": "Ефект: життєдайна магія",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.hSzNtRNwrma81Eeq]{Життєдайна магія}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють половині вашого рівня (щонайменше 1) і зберігаються до кінця вашого наступного ходу.</p>"
+    },
+    "Effect: Living for the Applause": {
+      "_id": "YMdRmEcOlM3uU9Em",
+      "name": "Ефект: Жити заради аплодисментів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.CL43gGiErw5FUtFQ]{Жити заради оплесків}</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ.</p>"
+    },
+    "Effect: Maiden's Mending": {
+      "_id": "FIgud5jqZgIjwkRE",
+      "name": "Ефект: дівоче ремонт",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Hmgy0GJKIawAiqHE]{Зцілення Діви}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють половині вашого рівня (щонайменше 1) і зберігаються до кінця вашого наступного ходу.</p>"
+    },
+    "Effect: Marshal's Aura": {
+      "_id": "Ru4BNABCZ0hUbX7S",
+      "name": "Ефект: аура маршала",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.MYzRfNExDYp25rro]{Посвята маршала}</p>\n<p>Ви отримуєте статусний бонус +1 до спаскидків проти страху.</p>"
+    },
+    "Effect: Monster Hunter": {
+      "_id": "W2tWq0gdAcnoz2MO",
+      "name": "Ефект: мисливець на монстрів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.YTTJqRKH8QZl6al2]{Мисливець на монстрів}</p>\n<p>Ви отримуєте обставинний бонус +1 до наступного кидка атаки проти оціненої істоти. Цей бонус збільшується до +2, якщо джерело має Легендарного мисливця на монстрів.</p>"
+    },
+    "Effect: Monster Warden": {
+      "_id": "nlaxROgSSLVHZ1hx",
+      "name": "Ефект: Наглядач монстрів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.2yq3l8e2Vzz34yRV]{Охоронець від монстрів}</p>\n<p>Ви отримуєте обставинний бонус +2 або до КЗ під час наступної атаки оціненої істоти по вас, або до свого наступного спаскидка проти ефекту цієї істоти.</p>"
+    },
+    "Effect: Mountain Stronghold": {
+      "_id": "EfMaI6AnROP4X9lN",
+      "name": "Ефект: Гірська фортеця",
+      "description": "<p>Ви зосереджуєтеся на своєму зв’язку із землею та закликаєте гору блокувати атаки проти вас. Ви отримуєте +2 бонус обставин до КБ до початку вашого наступного ходу.</p>"
+    },
+    "Effect: Mutate Weapon": {
+      "_id": "ITvyvbB234bxceRK",
+      "name": "Ефект: мутація зброї",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.SWNmYaj0OSPhhIqO]{Мутувати зброю}</p>\n<p>Кістка шкоди атаки, отриманої вами від Живої зброї, збільшується на один крок. Крім того, оберіть одне: атака отримує досяжність 10 футів, або ви отримуєте статусний бонус +1 до кидків атаки обраною беззбройною атакою.</p>"
+    },
+    "Effect: Nanite Surge": {
+      "_id": "ErLweSmVAN57QIpp",
+      "name": "Ефект: Nanite Surge",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.JS24EjgLYcHB9E3T]{Сплеск нанітів}.</p>\n<p>Ваші контури світяться, освітлюючи @Template[emanation|distance:10] тьмяним світлом на 1 раунд.</p>"
+    },
+    "Effect: Overwatch Field": {
+      "_id": "AKKHagjg5bL1fMG5",
+      "name": "Ефект: Поле нагляду",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.t03Tc5I4B8RHsyqs]{Посвята спостерігача}</p>\n<p>Ви отримуєте обставинний бонус +2 до кидків ініціативи.</p>"
+    },
+    "Effect: Panache": {
+      "_id": "uBJsxCzNhje8m8jj",
+      "name": "Ефект: Панаш",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.LzYi0OuOoypNb6jd]{Панаш}</p>\n<p>Ви отримуєте панаш.</p>"
+    },
+    "Effect: Perfect Resistance": {
+      "_id": "DyX4E7KDkzRnDxzc",
+      "name": "Ефект: ідеальний опір",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.QN55ToyJIjxgPmhs]{Досконалий опір}</p>\n<p>Після використання закляття ці Учня досконалості опір збільшується до вашого рівня на 1 раунд.</p>"
+    },
+    "Effect: Poison Weapon": {
+      "_id": "SXYcrnGzWCuj8zq7",
+      "name": "Ефект: отруйна зброя",
+      "description": "<p>Застосовується, коли ви наносите отруту, створену за допомогою @UUID[Compendium.pf2e.feats-srd.Item.ALbosSUygdq4T1Yk]{Отруєної зброї}.</p>"
+    },
+    "Effect: Prayer-Touched Weapon": {
+      "_id": "cA6ps8RKE0gysEWr",
+      "name": "Ефект: зброя, торкнута молитви",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.2qR4QAgJVArv63Z2]{Зброя, освячена молитвою}</p>\n<p>Обрана зброя завдає додатково 1d6 життєвої шкоди.</p>"
+    },
+    "Effect: Predictable!": {
+      "_id": "5v0ndPPMfZwhiVZF",
+      "name": "Ефект: передбачуваний!",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.cErltcAC7OVnIyO1]{Передбачувано!}</p>\n<p>Ви отримуєте обставинний бонус до КЗ і свого наступного спаскидка проти цілі. За критичної невдачі ви натомість отримуєте обставинний штраф –1.</p>"
+    },
+    "Effect: Prevailing Position": {
+      "_id": "COsdMolZraFRTdP8",
+      "name": "Ефект: переважна позиція",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Xw7qG0SHepXx24vl]{Панівна позиція}</p>\n<p>Ви отримуєте обставинний бонус +4 до тригерного спаскидка або до КЗ проти тригерної атаки.</p>"
+    },
+    "Effect: Primal Aegis": {
+      "_id": "5PIaLkys5ZqP2BUv",
+      "name": "Ефект: первинна егіда",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.AbjVJIBdNjbQbVnV]{Первісна егіда}</p>\n<p>Ви отримуєте опір кислотній шкоді, холоду, електриці, вогню, життєвій і пустотній шкоді.</p>"
+    },
+    "Effect: Propulsive Leap": {
+      "_id": "RU6D7pNQSBt1zSuK",
+      "name": "Ефект: пропульсивний стрибок",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.q8c0LINVNcJrdK91]{Рушійний стрибок}</p>\n<p>Ви отримуєте Швидкість польоту, що дорівнює вашій Швидкості або 20 футам, залежно від того, що більше.</p>"
+    },
+    "Effect: Protective Spirit Mask": {
+      "_id": "kzSjzK72CQ67wfBH",
+      "name": "Ефект: захисна маска духу",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.nn7DiYYWinsSYrZy]{Захисна маска духа}</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ до початку наступного ходу заклинача.</p>"
+    },
+    "Effect: Psychic Rapport": {
+      "_id": "Dbr5hInQXH904Ca7",
+      "name": "Ефект: психічне спілкування",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.9oKtrUzXixj58hOg]{Психічний зв’язок}</p>\n<p>Ви отримуєте обставинний бонус +1 до перевірок Обману, Дипломатії та Залякування, а також до перевірок Сприйняття для Відчуття мотивів.</p>"
+    },
+    "Effect: Psychopomp Blood Magic (Self)": {
+      "_id": "7BFd8A9HFrmg6vwL",
+      "name": "Ефект: магія крові психопомпи (сама)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.PpzH9tJULk5ksX9w]{Родовід: Психопомп}</p>\n<p>Ви отримуєте статусний бонус +2 до спаскидків Стійкості.</p>"
+    },
+    "Effect: Purifying Breeze": {
+      "_id": "7MQLLkQACZt8cspt",
+      "name": "Ефект: очищаючий бриз",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.k42ntHdg70ZMEKrs]{Очищувальний бриз}</p>\n<p>Ви отримуєте статусний бонус +1 до спаскидків Стійкості.</p>"
+    },
+    "Effect: Push Back the Dead!": {
+      "_id": "OeZ0E1oUKyGPxPy0",
+      "name": "Ефект: відштовхніть мертвих!",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.BtZJJClWCpc31Ven]{Відтіснити мерців!}</p>\n<p>Ви отримуєте обставинний бонус +2 до спаскидків проти ефектів, що походять від нежиті. Ви також отримуєте опір шкоді від Ударів істот-нежиті.</p>"
+    },
+    "Effect: Radiant Circuitry": {
+      "_id": "263Cd5JMj8Lgc9yz",
+      "name": "Ефект: радіаційна схема",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.2XmdYW8OsAvjGDG3]{Сяйні контури}.</p>\n<p>Ви випромінюєте яскраве світло в радіусі 20 футів (і тьмяне світло ще на 20 футів).</p>"
+    },
+    "Effect: Rage": {
+      "_id": "z3uyCMBddrPK5umr",
+      "name": "Ефект: Лють",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Лють}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють вашому рівню плюс модифікатор Статури.</p>\n<p>Ваші рукопашні Удари завдають додаткової шкоди. Ця додаткова шкода зменшується вдвічі, якщо ваша зброя або беззбройна атака має трейт швидкої.</p>\n<p>Коли ви припиняєте Лють, то втрачаєте всі тимчасові ОЗ, що залишилися від Люті, і протягом 1 хвилини не можете знову отримати тимчасові ОЗ від використання дії Лють.</p>"
+    },
+    "Effect: Rampaging Form": {
+      "_id": "DWrsDJte9sez0Ppi",
+      "name": "Ефект: шалена форма",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Zl6vDXJEM7Lbp8JQ]{Шалена форма}</p>\n<p>Ви Змінюєте форму на форму живого льоду на 1 хвилину або доки не повернетеся назад. Ваша бойова форма Величезна й має такі показники:</p><ul><li><p>КЗ = 18 + ваш рівень. Ігноруйте штраф перевірок і зменшення Швидкості від вашої броні.</p></li><li><p>20 тимчасових ОЗ.</p></li><li><p>Сутінковий зір і неточний нюх на 30 футів.</p></li><li><p>Швидкість 30 футів, Швидкість польоту 40 футів, і вам не потрібно дихати</p></li><li><p><strong>Рукопашна</strong> <span class=\"action-glyph\">a</span> щелепи, <strong>Шкода</strong> 2d8 колючої + 1d4 шкоди вогнем.</p></li><li><p>Ваші беззбройні атаки завдають додатково 1d4 шкоди вогнем, а ваші закляття вогню завдають одну додаткову кістку шкоди вогнем (того самого розміру, що й кістка шкоди закляття).</p></li><li><p>Ви можете накладати @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Запалювання} як вроджене закляття; час накладання скорочується з 2 дій до 1.</p></li><li><p>Кожна істота, яка торкається вас або завдає вам шкоди беззбройною атакою чи рукопашною зброєю без досяжності, отримує @Damage[3d6[fire]] шкоди.</p></li><li><p>Модифікатор Атлетики +20, якщо ваш власний модифікатор не вищий.</p></li></ul><p>Кіцуне Крижаних Вітрів:</p><ul><li><p><strong>Рукопашна</strong> <span class=\"action-glyph\">a</span> щелепи, <strong>Шкода</strong> 2d8 колючої + 1d4 шкоди холодом.</p></li><li><p>Ваші беззбройні атаки завдають додатково 1d4 шкоди холодом, а ваші закляття холоду завдають одну додаткову кістку шкоди холодом (того самого розміру, що й кістка шкоди закляття).</p></li><li><p>Ви можете накладати @UUID[Compendium.pf2e.spells-srd.Item.gYjPm7YwGtEa1oxh]{Промінь морозу} як вроджене закляття; час накладання скорочується з 2 дій до 1.</p></li><li><p>Кожна істота, яка торкається вас або завдає вам шкоди беззбройною атакою чи рукопашною зброєю без досяжності, отримує @Damage[3d6[cold]] шкоди.</p></li></ul>"
+    },
+    "Effect: Read Shibboleths": {
+      "_id": "ivGiUp0EC5nWT9Hb",
+      "name": "Ефект: читайте шибболети",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Crd3qMecF9FYHjuH]{Розпізнати умовні слова}</p>\n<p>Ви отримуєте обставинний бонус +1 до перевірок Дипломатії та Обману.</p>"
+    },
+    "Effect: Reanimator Dedication": {
+      "_id": "EQCnu8DGHDDNXch0",
+      "name": "Ефект: присвята реаніматору",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.5Cm2TYHzoO2DbQNM]{Посвята реаніматора}</p>\n<p>На час дії <em>виклику нежиті</em> ви отримуєте статусний бонус +1 до кидків атаки, КЗ, спаскидків і перевірок навичок.</p>"
+    },
+    "Effect: Recall Under Pressure": {
+      "_id": "CW4zphOOpeaLJIWc",
+      "name": "Ефект: відкликання під тиском",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.lH3mlvs1rCyXw6iY]{Пригадування під тиском}</p>\n<p>Піднесення бойового духу надає вам статусний бонус +1 до спаскидків до кінця бойової сутички або статусний бонус +2, якщо витягнута карта належала до масті Книг.</p>"
+    },
+    "Effect: Reckless Abandon (Goblin)": {
+      "_id": "rvyeOU7TQTLnKj03",
+      "name": "Ефект: Безрозсудна відмова (Гоблін)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.fqw1ELaqavuKLHIj]{Безрозсудна відвага}</p>\n<p>Якщо ви отримуєте невдачу або критичну невдачу в спаскидку проти шкідливого ефекту, натомість отримуєте успіх.</p>"
+    },
+    "Effect: Reflexive Shield": {
+      "_id": "pwbFFD6NzDooobKo",
+      "name": "Ефект: рефлексивний щит",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.dHUoQVzDa9Cf4QCG]{Рефлекторний щит}</p>\n<p>Ви додаєте обставинний бонус свого щита до спаскидків Рефлексу.</p>"
+    },
+    "Effect: Renewed Vigor": {
+      "_id": "jlZjUtrfcfIWumSe",
+      "name": "Ефект: Відновлення сил",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.3hhCDWPm021hvicR]{Відновлена міць}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють половині вашого рівня плюс модифікатор Статури. Якщо цього ходу ви виконали дію з трейтом атаки, кількість тимчасових ОЗ збільшується до вашого рівня плюс модифікатор Статури.</p>"
+    },
+    "Effect: Repair Module": {
+      "_id": "DjxZpQ4xJWWvYQqY",
+      "name": "Ефект: ремонтний модуль",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.ZGT7NLpcvREkJsMd]{Модуль ремонту}</p>\n<p>Ви отримуєте швидке зцілення, що дорівнює половині вашого рівня.</p>"
+    },
+    "Effect: Resounding Bravery": {
+      "_id": "NMmsJyeMTawpgLVR",
+      "name": "Ефект: неперевершена хоробрість",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.dTO1ShJovbzrKUY4]{Відлуння хоробрості}</p>\n<p>Ви отримуєте статусний бонус +1 до спаскидків і тимчасові ОЗ, що дорівнюють половині вашого рівня. Якщо ви отримали критичний успіх проти ефекту страху, ці переваги подвоюються.</p>"
+    },
+    "Effect: Safeguard Soul": {
+      "_id": "tlft5vzk66iWCVRq",
+      "name": "Ефект: захистити душу",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.tBg3FZST3nX5TfLf]{Захистити душу}</p>\n<p>Ви отримуєте статусний бонус +2 до спаскидків проти ефектів смерті, одержимості та ефектів, які намагаються змінити або викрасти вашу душу.</p>"
+    },
+    "Effect: Saoc Astrology": {
+      "_id": "6ACbQIpmmemxmoBJ",
+      "name": "Ефект: Saoc Astrology",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.csoGdGuWasEw3boD]{Астрологія Саок}</p>\n<p>Ви отримуєте обставинний бонус або штраф до перевірок навичок.</p>"
+    },
+    "Effect: Scout's Warning": {
+      "_id": "RxDDXK52lwyHXl7v",
+      "name": "Ефект: попередження розвідника",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Tpcq3Lk7qEOZ3LDP]{Попередження розвідника}</p>\n<p>Ви отримуєте обставинний бонус +1 до кидка ініціативи (+2, якщо також отримуєте перевагу від @UUID[Compendium.pf2e.actionspf2e.Item.kV3XM0YJeS2KCSOb]{Розвідки}).</p>"
+    },
+    "Effect: Seedpod": {
+      "_id": "wQDHpOKY3GZqvS2v",
+      "name": "Ефект: Насіннєва стручка",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.dWGa6cFSVrASTEfd]{Насіннєва коробочка}</p>\n<p>Ви отримуєте обставинний штраф –10 футів до Швидкості.</p>"
+    },
+    "Effect: Shadow Sight": {
+      "_id": "3GPh6O3PJxORytAC",
+      "name": "Ефект: Shadow Sight",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.NjPZbQjJJIygS1ru]{Тіньовий зір}</p>\n<p>Ви отримуєте Покращений темнозір.</p>"
+    },
+    "Effect: Share Rage": {
+      "_id": "RoGEt7lrCdfaueB9",
+      "name": "Ефект: поділіться гнівом",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.vayNZR1bTzU1oUa3]{Поділитися люттю}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють вашому рівню плюс модифікатор Статури. Доки ви в Люті, ваші рукопашні Удари завдають 2 додаткової шкоди. Ця додаткова шкода зменшується вдвічі, якщо ваша зброя або беззбройна атака має трейт швидкої.</p>"
+    },
+    "Effect: Shared Avoidance": {
+      "_id": "svVczVV174KfJRDf",
+      "name": "Ефект: Спільне уникнення",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.wIJC00ODLq9WYc1m]{Спільне уникнення}</p>\n<p>Ви отримуєте обставинний бонус +2 до спаскидків проти небезпеки.</p>"
+    },
+    "Effect: Shared Clarity": {
+      "_id": "CUtvkuGSxq1raBIB",
+      "name": "Ефект: спільна ясність",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.ybrx1nsg5J0L8d3j]{Спільна ясність}</p>\n<p>Ви можете перекинути невдалий спаскидок проти ментального ефекту з обставинним бонусом +2.</p>"
+    },
+    "Effect: Shed Tail": {
+      "_id": "OK7zMlYy25JciBp6",
+      "name": "Ефект: скинутий хвіст",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.t3IzY8uSyFj3aGmh]{Відкинути хвіст}</p>\n<p>Ви отримуєте обставинний штраф –2 до перевірок Рівноваги.</p>"
+    },
+    "Effect: Shield Ally": {
+      "_id": "s3Te8waFP3KEb2dN",
+      "name": "Ефект: щит союзника",
+      "description": "<p>Твердість вашого оснащеного щита збільшується на 2.</p>"
+    },
+    "Effect: Smite Good": {
+      "_id": "2MIn8qyPTmz4ZyO1",
+      "name": "Ефект: Smite Good",
+      "description": "<p>Надається Карою добра.</p>\n<p>До початку вашого наступного ходу ваші Удари по цьому ворогу зброєю, у якій перебуває ваш союзник-клинок, завдають додатково 4 духовної шкоди, якщо ціль свята; ця шкода збільшується до 6, якщо ви маєте майстерне володіння цією зброєю.</p>\n<p>Якщо обраний ворог атакує вас до початку вашого наступного ходу, тривалість подовжується до кінця наступного ходу цього ворога. Якщо ворог продовжує атакувати вас кожного ходу, тривалість продовжує подовжуватися.</p>"
+    },
+    "Effect: Sniping Duo Dedication": {
+      "_id": "zQHF2kkhZRAcrQvR",
+      "name": "Ефект: відданість Sniping Duo",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.6PP57Aa5HmSr0qIZ]{Посвята снайперського дуету}.</p>\n<p>Щоразу, коли ви або ваш коригувальник успішно виконуєте Удар по цілі, інший учасник дуету отримує обставинний бонус +1 за кожну кістку шкоди зброї до кидка шкоди свого наступного Удару по цій цілі до кінця свого наступного ходу.</p>"
+    },
+    "Effect: Soaring Flight": {
+      "_id": "ytG5XJmkOnDOTjNN",
+      "name": "Ефект: ширяючий політ",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Tl8yckXeTCHnwrlM]{Стрімкий політ}</p>\n<p>Для цього переміщення ви отримуєте Швидкість польоту 20 футів.</p>"
+    },
+    "Effect: Spin Tale": {
+      "_id": "UzIamWcEJTOjwfoA",
+      "name": "Ефект: Spin Tale",
+      "description": "<p>Ви отримуєте бонус до статусу +1 для кидків атаки та захисних кидків проти лиходія до початку вашого наступного ходу.</p>"
+    },
+    "Effect: Spiral Sworn": {
+      "_id": "2gVP04ZWYbQdX3uS",
+      "name": "Ефект: спіральна присяга",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.ef57tIj30IaPnSgC]{Присяга спіралі}</p>\n<p>Ваші Удари та закляття завдають додаткової шкоди нежиті, істотам, які містять ув’язнену душу, або істотам, що, як ви бачили, створювали чи контролювали нежить. Ви отримуєте статусний бонус до шкоди Ударами проти цих істот, що дорівнює кількості кісток шкоди зброї. Закляття, які ви накладаєте з комірок заклять, отримують статусний бонус до шкоди проти цих істот, що дорівнює рангу закляття; цей бонус застосовується лише до заклять, які завдають шкоди й не мають тривалості.</p>"
+    },
+    "Effect: Starlight Armor": {
+      "_id": "Y96a1OedsU8PVf7z",
+      "name": "Ефект: Зоряна броня",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.jK0hjx4qsRyKnpBd]{Зоряна броня}</p>\n<p>Ви отримуєте опір 7 колючій, дроблячій і рубаючій шкоді. Ви також випромінюєте яскраве світло на 20 футів (і тьмяне світло ще на 20 футів).</p>\n<p>Коли ви досягаєте 17-го рівня, опір збільшується до 10.</p>"
+    },
+    "Effect: Strained Metabolism": {
+      "_id": "lZPbv3nBRWmfbs3z",
+      "name": "Ефект: Напружений метаболізм",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.classfeatures.Item.huDGjojm3hnuA1E8]{Перенапружений метаболізм}</p>\n<p><strong>Легка віддача</strong> Ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Ослабленими 1} та @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбними 1}, доки не з’їсте шматок їжі (зазвичай для цього потрібні 2 дії Взаємодії: одна, щоб дістати їжу, та інша, щоб її з’їсти).</p>\n<p><strong>Помірна віддача</strong> Ви Ослаблені 1, Незграбні 1 та @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Втомлені}, доки не з’їсте повноцінну страву, що потребує щонайменше 10 хвилин.</p>\n<p><strong>Сильна віддача</strong> Через сильну нудоту ви отримуєте @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Нудоту 2}, а також залишаєтеся Ослабленими 1 і Незграбними 1, доки не з’їсте повноцінну страву (для чого ви спершу маєте позбутися Нудоти). Ви залишаєтеся Втомленими, доки не відпочинете повну ніч.</p>"
+    },
+    "Effect: Striking Retribution": {
+      "_id": "EzgW32MCOGov9h5C",
+      "name": "Ефект: вражаюча відплата",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.TGlb3gmSKkJBZt5q]{Разюча відплата}</p>\n<p>Ваш обставинний бонус до шкоди зброєю та беззбройними атаками проти істот із родини алґоллту й тих, хто їм служить, збільшується до +4</p>"
+    },
+    "Effect: Supercharge Prosthetic Eyes": {
+      "_id": "qSKVcw6brzrvfhUM",
+      "name": "Ефект: протези очей Supercharge",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.qV6EuOI3UJYIL6xa]{Об’єднаний накладний паноптикон}</p>\n<p>Ви отримуєте темнозір і сутінковий зір, а також статусний бонус +1 до візуальних перевірок Сприйняття.</p>"
+    },
+    "Effect: Tail Toxin": {
+      "_id": "Q0DKJRnDuuUnLpvn",
+      "name": "Ефект: хвостовий токсин",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.ev8OHpBO3xq3Zt08]{Хвостовий токсин}</p>\n<p>Ви наносите отруту зі свого хвоста на колючу або рубаючу зброю. Якщо ваш наступний Удар цією зброєю до кінця наступного ходу влучає та завдає шкоди, ви завдаєте цілі тривалої шкоди отрутою, що дорівнює вашому рівню.</p>"
+    },
+    "Effect: Tidal Shield": {
+      "_id": "UBC6HbfqbfPQYlMq",
+      "name": "Ефект: Приливний щит",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.bPPcPUZMlJ7m5lYq]{Припливний щит}</p>\n<p>Ви отримуєте обставинний бонус +4 до КЗ.</p>"
+    },
+    "Effect: Tiller's Drive": {
+      "_id": "4alr9e8w9H0RCLwI",
+      "name": "Ефект: Tiller's Drive",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Wo0HNBh6CCgPN3Co]{Погін орача}</p>\n<p>Учасники вашого загону отримують обставинний бонус +5 футів до Швидкості.</p>"
+    },
+    "Effect: Titan's Stature": {
+      "_id": "RcxDIOa68SUGyMun",
+      "name": "Ефект: Зріст Титана"
+    },
+    "Effect: Topple Giants": {
+      "_id": "W8HWQ47YNHWB8kj6",
+      "name": "Ефект: повалення гігантів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.RHEdvEFz3QKiRKlr]{Повалити велетнів}</p>\n<p>Коли союзник у вашому полі спостереження невдало намагається @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Роззброїти}, @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Штовхнути} або @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Повалити} ворога у вашому полі спостереження, ви координуєте зусилля та надаєте обставинний бонус +2 до наступної перевірки Атлетики іншого союзника, який до наступного ходу цілі намагатиметься виконати ту саму дію проти тієї самої цілі.</p>"
+    },
+    "Effect: Towering Presence": {
+      "_id": "XJtlvaqAHseq1yoz",
+      "name": "Ефект: Висока присутність"
+    },
+    "Effect: Treat Wounds Immunity": {
+      "_id": "Lb4q2bBAgxamtix5",
+      "name": "Ефект: Лікування ран Імунітет",
+      "description": "<p>Надається, коли хтось використовує на вас @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Лікувати рани}, роблячи вас тимчасово імунними до Лікування ран на вказану тривалість.</p>"
+    },
+    "Effect: Twin Parry (Parry Trait)": {
+      "_id": "EDpjey6SCdvIYqEc",
+      "name": "Ефект: подвійне парування (риса Паррі)",
+      "description": "<p>Надається @UUID[Compendium.pf2e.feats-srd.Item.Y8LHfkzGyOhPlUou]{Подвійним парируванням}, якщо хоча б одна зброя має трейт парирування.</p>\n<p>Ви отримуєте обставинний бонус +2 до КЗ до початку свого наступного ходу.</p>"
+    },
+    "Effect: Twin Parry": {
+      "_id": "eu2HidLHaGKe4MPn",
+      "name": "Ефект: подвійне парування",
+      "description": "<p>Надається @UUID[Compendium.pf2e.feats-srd.Item.Y8LHfkzGyOhPlUou]{Подвійним парируванням}, якщо жодна зброя не має трейту парирування.</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ до початку свого наступного ходу.</p>"
+    },
+    "Effect: Under Control": {
+      "_id": "cGwFYusGTsJR3x3P",
+      "name": "Ефект: під контролем",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.xSYkYRKlSyLzPrH1]{Невмируща переконаність}</p>"
+    },
+    "Effect: Undying Conviction": {
+      "_id": "e6mv68aarIbQ3tXL",
+      "name": "Ефект: безсмертне переконання",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.xSYkYRKlSyLzPrH1]{Невмируща переконаність}</p>\n<p>Істоти-нежить отримують статусний бонус +2 до спаскидків проти життєвої шкоди та до спаскидків Волі проти ефектів, які зробили б їх підконтрольними.</p>"
+    },
+    "Effect: Unleash Psyche": {
+      "_id": "939OHjW9y8uCmDk3",
+      "name": "Ефект: звільнити психіку",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.7GeguyqyD1TjoC4r]{Вивільнити психіку}</p>\n<p>Коли ви накладаєте закляття, що завдає шкоди, за допомогою свого психічного чаклування, ви отримуєте статусний бонус до його шкоди, що дорівнює подвоєному рангу закляття. Це застосовується лише до початкової шкоди, якої закляття завдає під час накладання, і кожна окрема істота отримує цю шкоду лише раз за закляття, навіть якщо закляття мало б завдати їй шкоди кілька разів.</p>"
+    },
+    "Effect: Ursine Avenger Form": {
+      "_id": "m5xWMaDfV0PiTE6u",
+      "name": "Ефект: Форма Ведмедика-Месника"
+    },
+    "Effect: Victorious Vigor": {
+      "_id": "0pq3MPLH0C9z4tj3",
+      "name": "Ефект: Переможна сила",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.YeVDITJplindA27l]{Переможна міць}</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють модифікатору Статури, до кінця свого наступного ходу.</p>"
+    },
+    "Effect: Vivacious Bravado": {
+      "_id": "T7AJQbfmlA57y625",
+      "name": "Ефект: Жвава бравада",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.2MHzEh1KUQEbhjUf]{Жвавий бравурний вчинок}.</p>\n<p>Ви отримуєте тимчасові ОЗ, що дорівнюють вашому рівню плюс модифікатор Харизми.</p>"
+    },
+    "Effect: Watchful Gaze": {
+      "_id": "a7qiSYdlaIRPe57i",
+      "name": "Ефект: Пильний погляд",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.KKUDZUbX3nDdME4K]{Пильний погляд}</p>\n<p>До початку свого наступного ходу ви отримуєте Всебічний зір. Він дає змогу бачити в усіх напрямках і не дозволяє взяти вас у фланг.</p>"
+    },
+    "Effect: Weapon Tampered With (Critical Success)": {
+      "_id": "o7qm13OmaYOMwgib",
+      "name": "Ефект: підробка зброї (критичний успіх)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.SheifYobjKqyK3Fv]{Втручання}</p>\n<p>Вашу зброю зіпсовано! Ви отримуєте обставинний штраф –2 до кидків атаки та шкоди цією зброєю. Ефект триває, доки ви не використаєте @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Взаємодію}, щоб усунути його.</p>"
+    },
+    "Effect: Weapon Tampered With (Success)": {
+      "_id": "4QWayYR3JSL9bk2T",
+      "name": "Ефект: підробка зброї (успіх)",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.SheifYobjKqyK3Fv]{Втручання}</p>\n<p>Вашу зброю зіпсовано! Ви отримуєте обставинний штраф –2 до кидків атаки та шкоди цією зброєю. Ефект завершується на початку наступного ходу винахідника або коли ви використаєте @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Взаємодію}, щоб усунути його.</p>"
+    },
+    "Effect: Wings of Air": {
+      "_id": "k1J2SaHPwZb2Y6Bp",
+      "name": "Ефект: повітряні крила",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.FUOUyhHufNH4ri7H]{Крила повітря}</p>\n<p>Ви отримуєте Швидкість польоту, що дорівнює вашій наземній Швидкості.</p>"
+    },
+    "Effect: Witch's Charge": {
+      "_id": "ugeStF0Rj8phBPWL",
+      "name": "Ефект: заряд відьми",
+      "description": "<p>Надається, коли ви призначаєте когось своїм @UUID[Compendium.pf2e.feats-srd.Item.52QyoGaysrfBOy5H]{Підопічним відьми}.</p>"
+    },
+    "Effect: You're an Embarrassment": {
+      "_id": "zUvicEXd4OgCZ1cO",
+      "name": "Ефект: Ви збентежені",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.13bMIkqXpKt9pxAm]{Ти — ганьба!}</p>\n<p>Ви перекидаєте тригерний спаскидок Волі з обставинним бонусом +1.</p>"
+    },
+    "Stance: Arcane Cascade": {
+      "_id": "fsjO5oTKttsbpaKl",
+      "name": "Стойка: Аркан Каскад",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.HbejhIywqIufrmVM]{Арканний каскад}</p>\n<p>Ваші рукопашні Удари завдають 1 додаткової силової шкоди. Ця шкода збільшується до 2, якщо ви маєте спеціалізацію зі зброєю, і до 3, якщо маєте покращену спеціалізацію зі зброєю. Кожен Удар, що отримує цю шкоду, набуває арканного трейту й стає магічним.</p>\n<p>Якщо останнім закляттям перед входженням у стійку було закляття, здатне завдавати шкоди, шкода від стійки натомість має один із типів шкоди, яких могло завдавати це закляття (на ваш вибір, якщо закляття могло завдавати кількох типів шкоди).</p>"
+    },
+    "Stance: Buckler Dance": {
+      "_id": "PS17dsXkTdQmOv7w",
+      "name": "Стойка: танець баклер",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.tDWc2LQNl0Op1Auq]{Танець баклера}</p>\n<p>Ваш баклер постійно піднятий, наче ви використали Підняти щит.</p>"
+    },
+    "Stance: Bullet Dancer Stance": {
+      "_id": "6ctQFQfSZ6o1uyyZ",
+      "name": "Стойка: стойка танцюриста",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.actionspf2e.Item.SMF1hTWPHtmlS8Cd]{Стійка танцюриста куль}</p>\n<p>Перебуваючи в цій стійці, ви можете виконувати Удари лише багнетами, укріпленими прикладами, простою вогнепальною зброєю та простою комбінованою зброєю. Ви можете використовувати Шквал ударів із цією зброєю. Інші фіти або здібності монаха, які зазвичай потребують беззбройних атак, ви можете використовувати з багнетами, укріпленими прикладами та рукопашною частиною простої комбінованої зброї, якщо фіт або здібність не потребує одного конкретного Удару. Ви також можете використовувати їх із простою вогнепальною зброєю, атакуючи в межах половини першого кроку дистанції.</p>"
+    },
+    "Stance: Clinging Shadows Stance": {
+      "_id": "uFYvW3kFP9iyNfVX",
+      "name": "Стойка: Стойка тіней",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.spells-srd.Item.uJXs4M6IeixfPBLc]{Стійка чіпких тіней}</p>\n<p>Ви можете виконувати Удари тіньовим захватом. Вони завдають 1d4 пустотної шкоди, належать до кулачної групи та мають трейти швидкий, захват, досяжність і беззбройний.</p>\n<p>Перебуваючи в Стійці чіпких тіней, ви отримуєте обставинний бонус +2 до перевірок Атлетики для Захоплення та до КС спроб істот Вирватися від вас.</p>"
+    },
+    "Stance: Cobra Stance (Cobra Envenom)": {
+      "_id": "2Qpt0CHuOMeL48rN",
+      "name": "Стойка: стойка кобри (отручення кобри)",
+      "description": "<p>Надається @UUID[Compendium.pf2e.feats-srd.Item.AkV4Jyllo6nlK2Sl]{Стійкою кобри}, якщо ви маєте @UUID[Compendium.pf2e.feats-srd.Item.xQuNswWB3eg1UM28]{Отруєння кобри}, яке збільшує обставинний бонус до спаскидків Стійкості та КС Стійкості до +2.</p>\n<p>Єдині Удари, які ви можете виконувати, — беззбройні атаки іклами кобри. Вони завдають 1d4 шкоди отрутою, належать до кулачної групи та мають трейти швидкий, смертоносний d10, спритний, несмертельний, отрута й беззбройний.</p>\n<p>Ви отримуєте обставинний бонус +2 до спаскидків Стійкості та свого КС Стійкості, а також опір отруті, що дорівнює половині вашого рівня.</p>"
+    },
+    "Stance: Cobra Stance": {
+      "_id": "CgxYa0lrLUjS2ZhI",
+      "name": "Стойка: Стойка Кобри",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.AkV4Jyllo6nlK2Sl]{Стійка кобри}</p>\n<p>Єдині Удари, які ви можете виконувати, — беззбройні атаки іклами кобри. Вони завдають 1d4 колючої шкоди, належать до кулачної групи та мають трейти швидкий, смертоносний d10, спритний, беззбройний і отруйний.</p>\n<p>Ви отримуєте обставинний бонус +1 до спаскидків Стійкості та свого КС Стійкості, а також опір отруті, що дорівнює половині вашого рівня.</p>"
+    },
+    "Stance: Crane Stance": {
+      "_id": "nwkYZs6YwXYAJ4ps",
+      "name": "Стойка: стойка журавля",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.bf7NCeKqDClaqhTR]{Журавлина стійка}</p>\n<p>Ви отримуєте обставинний бонус +1 до КЗ, але єдині Удари, які можете виконувати, — атаки крилом журавля. Вони завдають 1d6 дроблячої шкоди, належать до кулачної групи та мають трейти швидкий, спритний, несмертельний і беззбройний.</p>\n<p>Зменште КС Стрибка у висоту та Стрибка в довжину на 5. Коли ви Стрибаєте, можете переміститися додатково на 5 футів по горизонталі або на 2 фути по вертикалі.</p>"
+    },
+    "Stance: Devrin's Cunning Stance": {
+      "_id": "kyrvZfZfzKK1vx9b",
+      "name": "Стойка: хитра позиція Девріна",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.OqqytsF2RIjB0EPR]{Хитра стійка Девріна}</p>\n<p>Ваша аура надає вам і союзникам статусний бонус +1 до перевірок навичок. Коли ви або союзник в аурі виконуєте Удар по ворогу, застигнутому зненацька, цей ворог не може використовувати реакції до початку свого наступного ходу.</p>"
+    },
+    "Stance: Disarming Stance": {
+      "_id": "LxSev4GNKv26DbZw",
+      "name": "Стойка: роззброєна позиція",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.1p5ErCp33nGOzEsk]{Стійка роззброєння}.</p>\n<p>Ви отримуєте обставинний бонус +1 до перевірок Атлетики для Роззброєння та обставинний бонус +2 до свого КС Рефлексу під час захисту від спроб Роззброїти вас.</p>"
+    },
+    "Stance: Disruptive Stance": {
+      "_id": "qBR3kqGCeKp3T2Be",
+      "name": "Стойка: руйнівна позиція",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.OEGhbRgW6wRbccns]{Переривальна стійка}</p>\n<p>Ви можете використовувати Реактивний удар, коли істота у вашій досяжності використовує дію з трейтом концентрації, на додачу до дій із трейтами маніпуляції та руху.</p>\n<p>Крім того, ви перериваєте тригерну дію з трейтом концентрації або маніпуляції, якщо ваш Удар влучає, а не лише за критичного влучання.</p>"
+    },
+    "Stance: Dragon Stance": {
+      "_id": "qUowHpn79Dpt1hVn",
+      "name": "Стойка: Стойка дракона",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.8sy3sHwOHS4ImwvJ]{Стійка дракона}</p>\n<p>Ви можете виконувати атаки хвостом дракона, які завдають 1d10 дроблячої шкоди. Вони належать до кулачної групи та мають трейти зворотний замах, несмертельний і беззбройний.</p>\n<p>Під час Переміщення ви можете ігнорувати першу клітинку складної місцевості.</p>"
+    },
+    "Stance: Dread Marshal Stance": {
+      "_id": "qX62wJzDYtNxDbFv",
+      "name": "Стойка: стойка жахливого маршала",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.R7c4PyTNkZb0yvoT]{Стійка грізного маршала}.</p>\n<p>Аура маршала надає вам і союзникам статусний бонус до кидків шкоди, що дорівнює кількості кісток шкоди зброї в беззбройній атаці або зброї, якою ви володієте та яка має найбільше кісток шкоди зброї. Коли ви або союзник в аурі критично влучаєте Ударом по ворогу, цей ворог стає @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Зляканим 1}.</p>"
+    },
+    "Stance: Dueling Dance": {
+      "_id": "KiuBRoMFxL2Npt51",
+      "name": "Стойка: дуельний танець",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.9VGmE7X4aK2W8YWj]{Дуельний танець (Шибайголова)} або @UUID[Compendium.pf2e.feats-srd.Item.FYz5eQeTox9IDkSd]{Дуельний танець (Воїн)}</p>\n<p>Ви постійно отримуєте переваги Дуельного парирування або Епатажного парирування.</p>"
+    },
+    "Stance: Everstand Stance": {
+      "_id": "GGebXpRPyONZB3eS",
+      "name": "Стойка: Стойка Everstand",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.6GN1zh3RcnZhrzxP]{Незламна стійка}</p>\n<p>Ви тримаєте щит обома руками. Коли ви володієте щитом таким чином, збільште кістку шкоди умбона або шипів щита на один крок і збільште Твердість щита на 2 під час використання реакції Блок щитом.</p>"
+    },
+    "Stance: Fane's Fourberie": {
+      "_id": "GvqB4M8LrHpzYEvl",
+      "name": "Позиція: Обман Фейна",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.80CEAB05TP5ki9iW]{Шахрайство Фейна}</p>\n<p>Оберіть, чи вважати гральні карти у вашому володінні кинджалами або дротиками; до завершення стійки ви можете володіти гральною картою всіма способами, доступними обраній зброї.</p>"
+    },
+    "Stance: Gorilla Stance (Gorilla Pound)": {
+      "_id": "UZKIKLuwpQu47feK",
+      "name": "Стойка: стойка горили (фунт горили)",
+      "description": "<p>Надається @UUID[Compendium.pf2e.feats-srd.Item.DqD7htz8Sd1dh3BT]{Стійкою горили}, якщо ви маєте @UUID[Compendium.pf2e.feats-srd.Item.nRjyyDulHnP5OewA]{Удар горили}, що надає вам Швидкість лазіння 15 футів, доки ви перебуваєте в цій стійці.</p>\n<p>Єдині Удари, які ви можете виконувати, — беззбройні атаки ударом горили. Вони завдають 1d8 дроблячої шкоди, належать до кулачної групи та мають трейти зворотний замах, силовий, захват, несмертельний і беззбройний.</p>\n<p>Ви отримуєте обставинний бонус +2 до перевірок Атлетики для Лазіння, а якщо отримуєте успіх у перевірці Атлетики для Лазіння, натомість отримуєте критичний успіх.</p>"
+    },
+    "Stance: Gorilla Stance": {
+      "_id": "RozqjLocahvQWERr",
+      "name": "Стойка: стойка горили",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.DqD7htz8Sd1dh3BT]{Стійка горили}</p>\n<p>Єдині Удари, які ви можете виконувати, — беззбройні атаки ударом горили. Вони завдають 1d8 дроблячої шкоди, належать до кулачної групи та мають трейти зворотний замах, силовий, захват, несмертельний і беззбройний.</p>\n<p>Ви отримуєте обставинний бонус +2 до перевірок Атлетики для Лазіння, а якщо отримуєте успіх у перевірці Атлетики для Лазіння, натомість отримуєте критичний успіх.</p>"
+    },
+    "Stance: Graceful Poise": {
+      "_id": "mark4VEQoynfYNBF",
+      "name": "Стойка: витончена рівновага",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.rFaUJtB46scuAidY]{Граційна постава}</p>\n<p>Коли ви виконуєте другий Удар Подвійного розтину швидкою зброєю, Подвійний розтин вважається однією атакою під час обчислення вашого штрафу багаторазової атаки.</p>"
+    },
+    "Stance: Impassable Wall Stance": {
+      "_id": "zzC2qZwEKf4Ja3xD",
+      "name": "Стойка: стойка «Непрохідна стіна».",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.YeyOqNFKaeuOTiJr]{Стійка непрохідної стіни}</p>\n<p>Коли ви критично влучаєте Реактивним ударом, тригером якого стала дія руху, ви перериваєте цю дію руху.</p>"
+    },
+    "Stance: Inspiring Marshal Stance": {
+      "_id": "er5tvDNvpbcnlbHQ",
+      "name": "Стойка: надихаюча позиція маршала",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.bvOsJNeI0ewvQsFa]{Стійка надихаючого маршала}.</p>\n<p>Аура маршала надає вам і союзникам статусний бонус +1 до кидків атаки та спаскидків проти ментальних ефектів.</p>"
+    },
+    "Stance: Ironblood Stance": {
+      "_id": "tPKXLtDJ3bzJcXlv",
+      "name": "Стойка: стойка залізної крові",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.x9cYkB8DrUBBwqJd]{Залізнокровна стійка}</p>\n<p>Ви можете виконувати беззбройні атаки залізним розмахом. Вони завдають 1d8 дроблячої шкоди, належать до кулачної групи та мають трейти несмертельний, парирування, розмах і беззбройний.</p>\n<p>Перебуваючи в Залізнокровній стійці, ви отримуєте опір 2 до всієї шкоди. Опір збільшується до 3 на 12-му рівні, до 4 на 16-му рівні та до 5 на 20-му рівні.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.fRlvmul3LbLo2xvR]{Ефект: Парирування}</p>"
+    },
+    "Stance: Jellyfish Stance": {
+      "_id": "pkcr9w5x6bKzl3om",
+      "name": "Стойка: Стойка медузи",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Jwq5o13uZF3ooln1]{Стійка медузи}</p>\n<p>Ви можете виконувати атаки жалючим батогом, що завдають 1d6 рубаючої шкоди. Ці атаки належать до кулачної групи та мають трейти спритний, несмертельний, досяжність і беззбройний.</p>\n<p>Ви отримуєте обставинний бонус +2 до спаскидків Рефлексу та перевірок для Вирватися й Протиснутися.</p>"
+    },
+    "Stance: Lunging Stance": {
+      "_id": "W8CKuADdbODpBh6O",
+      "name": "Стойка: випадова стойка",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.ZghzLmYgeE19GqjP]{Стійка випадів}</p>\n<p>Ви можете використовувати Реактивний удар проти істоти, що перебуває поза вашою досяжністю, але в межах досяжності, яку ви мали б із Випадом. Якщо ви це робите, збільште досяжність цього Удару на 5 футів.</p>"
+    },
+    "Stance: Masquerade of Seasons Stance": {
+      "_id": "6IsZQpwRJQWIzdGx",
+      "name": "Стойка: стойка «Маскарад сезонів»."
+    },
+    "Stance: Mobile Shot Stance": {
+      "_id": "NWOmJ6WJFheaGhho",
+      "name": "Стойка: мобільна стойка для пострілу",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.rByA8NDI6ZtNgBeT]{Стійка рухливого пострілу}</p>\n<p>Ваші дистанційні Удари не провокують Атак можливості або інших реакцій, тригером яких є дистанційна атака.</p>\n<p>Якщо ви маєте @UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Реактивний удар}, можете використовувати його зарядженою дистанційною зброєю, якою володієте. Для цього тригерна істота має перебувати в межах 5 футів від вас.</p>"
+    },
+    "Stance: Monastic Archer Stance": {
+      "_id": "1dxD3xsTzak6GNj5",
+      "name": "Стойка: Стойка чернечого лучника",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.YG2RxXE9SMfwo6wP]{Стійка монастирського лучника}</p>\n<p>Єдині Удари, які ви можете виконувати, — Удари довгими луками, короткими луками або луками з трейтом монаха.</p>\n<p>Ви можете використовувати @UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{Шквал ударів} із цими луками. Інші фіти або здібності монаха, які зазвичай потребують беззбройних атак, ви можете використовувати з цими луками, атакуючи в межах половини першого кроку дистанції (зазвичай 50 футів для довгого лука та 30 футів для короткого), якщо фіт або здібність не потребує одного конкретного Удару.</p>"
+    },
+    "Stance: Mountain Stance": {
+      "_id": "gYpy9XBPScIlY93p",
+      "name": "Стойка: гірська стойка",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.ZL5UU9quCTvcWzfY]{Гірська стійка}</p>\n<p>Єдині Удари, які ви можете виконувати, — беззбройні атаки падаючим каменем. Вони завдають 1d8 дроблячої шкоди, належать до кулачної групи та мають трейти силовий, несмертельний і беззбройний.</p>\n<p>Ви отримуєте предметний бонус +4 до КЗ та обставинний бонус +2 до будь-якого захисту від Штовхання або Повалення. Однак максимальний модифікатор Спритності до вашого КЗ становить +0, тобто ви не додаєте Спритність до КЗ, а всі ваші Швидкості зменшуються на 5 футів. Предметний бонус до КЗ від Гірської стійки накопичується з рунами могутності броні на одязі дослідника, магічною бронею та наручами броні.</p>"
+    },
+    "Stance: Multishot Stance": {
+      "_id": "l4QUaedYofnfXig0",
+      "name": "Стойка: стойка для кількох ударів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.RzhnxgiAopWILCvs]{Стійка багатьох пострілів}.</p>\n<p>Перебуваючи в цій стійці, ваш штраф за Подвійний постріл зменшується до –1 або до –2, якщо ви додаєте додаткову дію, щоб виконати три Удари. Якщо ви залишаєте свою позицію, ця стійка завершується.</p>"
+    },
+    "Stance: Paragon's Guard": {
+      "_id": "6EDoy3OSFZ4L3Vs7",
+      "name": "Стоянка: Охоронець Парагона",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.hPDerDCYmag3s0dP]{Захист взірця}.</p>\n<p>Ваш щит постійно піднятий, наче ви використали дію @UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{Підняти щит}, доки відповідаєте вимогам цієї дії.</p>"
+    },
+    "Stance: Peafowl Stance": {
+      "_id": "vjvcccAwdkOLA1Fc",
+      "name": "Стойка: Стойка павича",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.C3MgEkPNaIhTddbr]{Стійка павича}</p>\n<p>Єдині Удари, які ви можете виконувати, — рукопашні Удари потрібним мечем. Раз на раунд після влучання Ударом мечем монаха ви можете наступною дією виконати Крок як вільну дію.</p>"
+    },
+    "Stance: Powder Punch Stance": {
+      "_id": "kDTiRg9vVOYNnTyr",
+      "name": "Стойка: Стойка порохового удару",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.Ziky4XVV7syXVbUg]{Стійка порохового удару}</p>\n<p>Під час свого першого рукопашного Удару кожного раунду беззбройною атакою, @UUID[Compendium.pf2e.equipment-srd.Item.dgXjUcaoQDAY6ZpO]{Кастетом} або @UUID[Compendium.pf2e.equipment-srd.Item.8eGV6fXbmt2v74uB]{Кастетами з чорним порохом} ви завдаєте додатково 1 шкоди вогнем. Якщо, перебуваючи в цій стійці, ви отримуєте критичний успіх у спробі @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Штовхнути}, ціль відкидається ще на 5 футів.</p>"
+    },
+    "Stance: Rain of Embers Stance": {
+      "_id": "Im5JBInybWFbHEYS",
+      "name": "Стойка: стойка «Дощ вугілля».",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.rbiMK71SvGZGRLJ1]{Стійка дощу жарин}</p>\n<p>Єдині Удари, які ви можете виконувати, — Удари вогняними кігтями. Вони завдають 1d4 шкоди вогнем, належать до кулачної групи та мають трейти швидкий, спритний, вогонь, несмертельний і беззбройний.</p>\n<p>Ви отримуєте статусний бонус +1 до КЗ та опір вогню, що дорівнює половині вашого рівня (щонайменше 1).</p>"
+    },
+    "Stance: Reflective Ripple Stance": {
+      "_id": "QDQwHxNowRwzUx9R",
+      "name": "Стойка: світловідбиваюча стойка",
+      "description": "<p>Ви можете виконувати атаки плинною хвилею, що завдають 1d6 дроблячої шкоди. Вони належать до кулачної групи та мають трейти швидкий, роззброєння, спритний, несмертельний, повалення, беззбройний і вода.</p>\n<p>Перебуваючи в Стійці відбивної хвилі, ви отримуєте обставинний бонус +1 до перевірок Атлетики, щоб @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Роззброїти}, @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Плисти} або @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Повалити}, а також обставинний бонус +2 до свого КС Рефлексу, щоб уникнути Роззброєння та Повалення.</p>"
+    },
+    "Stance: Ricochet Stance": {
+      "_id": "Unfl4QQURWaX2zfd",
+      "name": "Стойка: Стойка рикошет",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.tRHjUCl0xqG97nok]{Стійка рикошету (Воїн)} або @UUID[Compendium.pf2e.feats-srd.Item.RsNvCSrCN7czHC0G]{Стійка рикошету (Пройдисвіт)}</p>\n<p>Перебуваючи в цій стійці, будь-яка метальна зброя, яку ви використовуєте в дистанційному Ударі для завдання дроблячої або рубаючої шкоди, негайно повертається до вашої руки, даючи змогу виконувати нею додаткові Удари.</p>\n<p>Ви маєте перебувати в межах зазначеного кроку дистанції зброї та мати вільну руку, щоб її спіймати. Якщо ви виконуєте дистанційний Удар метальною зброєю поза межами її зазначеного кроку дистанції, вона натомість летить назад до вас на кількість футів, що дорівнює її кроку дистанції, а потім падає на землю.</p>"
+    },
+    "Stance: Rough Terrain Stance": {
+      "_id": "YkiTA74FrUUu5IvI",
+      "name": "Стойка: стойка на нерівній місцевості",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.O0POcPD2aELYTcIK]{Стійка пересіченої місцевості}</p>\n<p>Кожна суміжна з вами клітинка стає складною місцевістю, що відповідає отриманому вами налаштуванню місцевості (на арктичній місцевості утворюється паморозь, у лісі миттєво виростає підлісок тощо). Ви ігноруєте цю складну місцевість.</p>"
+    },
+    "Stance: Shooting Stars Stance": {
+      "_id": "RXbfq6oqzVnW6xOV",
+      "name": "Стойка: Стойка падаючих зірок",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.6cQSPqXoAO6oJl0i]{Стійка летючих зір}</p>\n<p>Ви можете використовувати з сюрикенами фіти або здібності монаха, які зазвичай потребують беззбройних атак.</p>"
+    },
+    "Stance: Six Pillars Stance": {
+      "_id": "P80mwvCAEncR2snK",
+      "name": "Стойка: Стойка шести стовпів",
+      "description": "<p>@UUID[Compendium.pf2e.feats-srd.Item.hT0pVPqFuiEsmRb8]{Стійка шести стовпів}</p>\n<p>Ви отримуєте обставинний бонус +4 до КЗ проти реакцій, тригером яких є використання дій із трейтами концентрації або маніпуляції. Крім того, коли ви, перебуваючи в цій стійці, накладаєте закляття, що потребує однієї або більше дій, ваші беззбройні Удари отримують обставинний бонус +1 до шкоди.</p>"
+    },
+    "Stance: Sky and Heaven Stance": {
+      "_id": "CQfkyJkRHw4IHWhv",
+      "name": "Стойка: Стойка неба і неба",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.UjEeHamC2C8JfgJz]{Стійка неба й небес}</p>\n<p>Єдині Удари, які ви можете виконувати, — беззбройні атаки висхідним розтином. Вони завдають 1d10 рубаючої шкоди, належать до кулачної групи та мають трейти несмертельний, беззбройний і універсальний К.</p>\n<p>Ви отримуєте опір 2 електриці та опір 2 звуковій шкоді. Ці опори збільшуються до 5 на 12-му рівні та до 8 на 18-му рівні.</p>"
+    },
+    "Stance: Stoked Flame Stance": {
+      "_id": "rp1YauUSULuqW8rs",
+      "name": "Стойка: стойка розпаленого полум’я",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feat-effects.Item.rp1YauUSULuqW8rs]{Стійка: Стійка розпаленого полум’я}</p>\n<p>Ви можете виконувати атаки спалахуючою іскрою, що завдають 1d8 рубаючої шкоди. Вони належать до кулачної групи та мають трейти силовий, несмертельний, розмах і беззбройний. Якщо вам доступний ефект критичної спеціалізації спалахуючих іскор, можете натомість обрати альтернативний ефект: якщо ваш критичний Удар завдав шкоди, ціль отримує 1d6 тривалої шкоди вогнем.</p>\n<p>Ви отримуєте статусний бонус +5 футів до своєї Швидкості. Якщо ви маєте Неймовірне пересування, збільште його перевагу до статусного бонусу +15 футів плюс 5 футів за кожні 4 рівні після 3-го.</p><hr /><p><strong>Особливе</strong> Цей фіт отримує на ваш вибір божественний або окультний трейт, за можливості відповідно до традиції ваших заклять ці.</p>"
+    },
+    "Stance: Stumbling Stance": {
+      "_id": "BCyGDKcplkJiSAKJ",
+      "name": "Стойка: Стойка спотикання",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj]{Стійка спотикання}</p>\n<p>Ви отримуєте обставинний бонус +1 до перевірок Обману для @UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Фінту}.</p>\n<p>Єдині Удари, які ви можете виконувати, — беззбройні атаки хитким замахом. Вони завдають 1d8 дроблячої шкоди, належать до кулачної групи та мають трейти швидкий, удар у спину, спритний, несмертельний і беззбройний. Якщо ворог влучає по вас рукопашним Ударом, доки ви в цій стійці, він стає застигнутим зненацька проти наступного Удару хитким замахом, який ви виконаєте по ньому до кінця свого наступного ходу.</p>"
+    },
+    "Stance: Tangled Forest Stance": {
+      "_id": "PMHwCrnh9W4sMu5b",
+      "name": "Стойка: заплутана лісова стойка",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.2tUdsoPEnW9yS8so]{Стійка сплутаного лісу}</p>\n<p>Ви можете виконувати беззбройні атаки хльосткою гілкою. Вони завдають 1d8 рубаючої шкоди, належать до кулачної групи та мають трейти швидкий, спритний, несмертельний і беззбройний.</p>"
+    },
+    "Stance: Tiger Stance": {
+      "_id": "pf9yvKNg6jZLrE30",
+      "name": "Стойка: стойка тигра",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.VCjAlOvjNvFJOsG5]{Стійка тигра}</p>\n<p>Ви можете виконувати атаки тигровими кігтями. Вони завдають 1d8 рубаючої шкоди, належать до кулачної групи та мають трейти швидкий, спритний, несмертельний і беззбройний.</p>\n<p>За критичного успіху атакою тигровими кігтями, якщо ви завдаєте шкоди, ціль отримує 1d4 тривалої шкоди кровотечею.</p>\n<p>Доки ваша Швидкість у Стійці тигра становить щонайменше 20 футів, ви можете Крокувати на 10 футів.</p>"
+    },
+    "Stance: Twinned Defense": {
+      "_id": "3eHMqVx30JGiJqtM",
+      "name": "Стойка: подвійна оборона",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.xjLbabfyQzBNT4y1]{Парний захист (Боєць)} або @UUID[Compendium.pf2e.feats-srd.Item.kTRGAST9J9ZxJZ4A]{Парний захист (Зухвалець)}</p>\n<p>Ви постійно отримуєте переваги дії @UUID[Compendium.pf2e.feats-srd.Item.Y8LHfkzGyOhPlUou]{Парне парирування}.</p>"
+    },
+    "Stance: Whirling Blade Stance": {
+      "_id": "JefXqvhzUeBArkAP",
+      "name": "Стойка: стойка обертового леза",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.IaiEZaA8erufMUCr]{Стійка вихрового клинка}</p>\n<p>Уся монаша зброя ближнього бою з трейтом спритний, якою ви володієте, отримує трейт метальна 10 футів (якщо вона ще не має трейту метальна з більшою дальністю).</p>\n<p>Виконавши метальний Удар такою зброєю, ви можете використати точність кидка, щоб виконувати нею додаткові Удари навіть на відстані. Визначаючи крок дальності та наявність укриття в нової цілі, відраховуйте їх від простору цілі попереднього Удару. Наприкінці вашого ходу метнута зброя летить прямо назад до вас по прямій лінії. Якщо її шлях перекриває тверда перешкода, вона вдаряється об неї та падає на землю.</p>"
+    },
+    "Stance: Whirlwind Stance": {
+      "_id": "q6UokHWSEcEYWmvh",
+      "name": "Стойка: Стойка вихора",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.wZZyasfIqwiJBQAQ]{Стійка вихору}</p>\n<p>Ви отримуєте обставинний бонус +2 до КЗ.</p>"
+    },
+    "Stance: Wild Winds Stance": {
+      "_id": "eeAlh6edygcZIz9c",
+      "name": "Стойка: стойка диких вітрів",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.spells-srd.Item.SkarN4VlNxSJSJNw]{Стійка диких вітрів}</p>\n<p>Ви можете виконувати беззбройні Удари поривом вітру як дистанційні Удари по цілях у межах 30 футів. Вони завдають 1d6 дроблячої шкоди, належать до кулачної групи та мають трейти швидкий, несмертельний, рушійний і беззбройний. Удари поривом вітру ігнорують прихованість та будь-яке укриття.</p>\n<p>Ви отримуєте обставинний бонус +2 до КЗ проти дистанційних атак.</p>"
+    },
+    "Stance: Wolf Stance": {
+      "_id": "b2kWJuCPj1rDMdwz",
+      "name": "Стойка: Стойка вовка",
+      "description": "<p>Джерело ефекту: @UUID[Compendium.pf2e.feats-srd.Item.AN9jY1JVcU20Qdw6]{Стійка вовка}</p>\n<p>Ви можете виконувати беззбройні атаки вовчою щелепою. Вони завдають 1d8 колючої шкоди, належать до кулачної групи та мають трейти швидкий, удар у спину, спритний, несмертельний і беззбройний.</p>\n<p>Якщо в Стійці вовка ви оточуєте ціль із флангу, ваші беззбройні атаки вовчою щелепою також отримують трейт збивання.</p>"
+    }
+  }
+}

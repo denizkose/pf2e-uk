@@ -1,0 +1,103 @@
+{
+  "entries": {
+    "Effect: +1 circumstance bonus to attack rolls for 3 rounds": {
+      "_id": "IUvO6CatanKAgmNr",
+      "name": "Ефект: +1 бонус обставин до кидків атаки протягом 3 раундів",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.TbXmAqEzgW1nZV2r]{Колода критичних помилок №49}</strong></p>\n<p>Обставинний бонус +1 до кидків атак на 3 раунди, але ви Захоплені зненацька.</p>"
+    },
+    "Effect: -1 circumstance penalty to attack rolls until you score a critical hit": {
+      "_id": "fqk0ESqJACXqz21k",
+      "name": "Ефект: -1 штраф за обставини для кидків атаки, доки ви не завдасте критичного удару",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.kjoBsS79JcjUUPnr]{Колода критичних помилок №38}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.qD8KoshDJsayGbCB]{Колода критичних помилок №40}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.mcniWnifXwXkZocv]{Колода критичних помилок №41}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.8D8NPBNMxQftBmyd]{Колода критичних помилок №46}</strong></p>\n<p>Обставинний штраф –1 до кидків атак, доки ви не здійсните критичне влучання</p>"
+    },
+    "Effect: +2 circumstance bonus to attack rolls": {
+      "_id": "HLBhINtyRcHk6d7h",
+      "name": "Ефект: +2 бонус обставин до кидків атаки",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.bzIzGjyNUc52lhCS]{Колода критичних влучань №4}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.pjR0QGXE58oWS8uU]{Колода критичних влучань №7}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.gdYlgrtfGK8mAoXK]{Колода критичних влучань №9}</strong></p>\n<p>Обставинний бонус +2 до кидків атак</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls made with this attack until healed": {
+      "_id": "i5WccD9u62QPRZI8",
+      "name": "Ефект: -2 штрафу за обставини для кидків атаки, зроблених із цією атакою, до зцілення",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.HERWPcFlzK2FTPLJ]{Колода критичних помилок №47}</strong></p>\n<p>Обставинний штраф –2 до кидків атак, виконаних цією атакою, доки вас не зцілять</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls until healed": {
+      "_id": "Ck0MQP9og75AWix7",
+      "name": "Ефект: -2 штрафу за обставини для кидків атаки до зцілення",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.LY6T2YgrSoI79BDR]{Колода критичних помилок №8}</strong></p>\n<p>Обставинний штраф –2 до кидків атак, доки вас не зцілять</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls with this weapon": {
+      "_id": "UZabiyynJWuUblMk",
+      "name": "Ефект: -2 штрафу за обставини для кидків атаки з цією зброєю",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.EP333dUdoJ8xdkzq]{Колода критичних помилок №5}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.YRY6c3WdBEuKiOCv]{Колода критичних помилок №42}</strong></p>\n<p>Обставинний штраф –2 до кидків атак цією зброєю</p>"
+    },
+    "Effect: -2 circumstance penalty to attack rolls": {
+      "_id": "5gX3PZztMecmWxX9",
+      "name": "Ефект: -2 штрафу за обставини для кидків атаки",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.wga13mR4vo73tbTY]{Колода критичних помилок №10}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.xsBlA35rvfHSzJe4]{Колода критичних помилок №15}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.1urnmEt4sn4ATDRL]{Колода критичних влучань №29}</strong></p>\n<p>Обставинний штраф –2 до кидків атак</p>"
+    },
+    "Effect: -2 circumstance penalty to checks and saving throws until healed": {
+      "_id": "c6cwOc4Zri6QiqsR",
+      "name": "Ефект: -2 штрафи за обставини до шаків і захисних кидків, доки не вилікується",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.IvDJkDpe3JxMHaj1]{Колода критичних помилок №28}</strong></p>\n<p>Обставинний штраф –2 до перевірок і спаскидків, доки вас не зцілять</p>"
+    },
+    "Effect: -2 circumstance penalty to ranged attacks": {
+      "_id": "wVGSlZEGxsg1s8AZ",
+      "name": "Ефект: -2 штрафу за обставини для дистанційних атак",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.Wn47ZhXINo7jz8JZ]{Колода критичних помилок №2}</strong></p>\n<p>Обставинний штраф –2 до дистанційних атак</p>"
+    },
+    "Effect: +2 status bonus to attack rolls": {
+      "_id": "lTwF7aCtQ6napqYu",
+      "name": "Ефект: бонус статусу +2 до кидків атаки",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.wcqXFhggTcAutBk6]{Колода критичних помилок №29}</strong></p>\n<p>Статусний бонус +2 до кидків атак</p>"
+    },
+    "Effect: +2 status bonus to saving throws against spells for 1 min": {
+      "_id": "PaS2kwv4vueI4PC7",
+      "name": "Ефект: бонус статусу +2 до рятівних кидків проти заклинань протягом 1 хв",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.yBE9e9l5KW7SdHZH]{Колода критичних помилок №31}</strong></p>\n<p>Статусний бонус +2 до спаскидків проти заклять на 1 хвилину</p>"
+    },
+    "Effect: Adverse Subsist Situation": {
+      "_id": "wHWWHkjDXmJl4Ia6",
+      "name": "Наслідки: несприятлива життєва ситуація",
+      "description": "<p>Надано @UUID[Compendium.pf2e.actionspf2e.Item.49y9Ec4bDii8pcD3]{Прогодуватися}</p>\n<p>Ви отримуєте обставинний штраф –2 до перевірок, щоб Прогодуватися.</p>"
+    },
+    "Effect: Aid": {
+      "_id": "AHMUpMbaVkZ5A1KX",
+      "name": "Ефект: допомога",
+      "description": "<p>Надано @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Допомогти}</p>\n<p>Ви отримуєте обставинний бонус до перевірки, якій допомагають, залежно від результату перевірки Допомоги вашого союзника.</p>"
+    },
+    "Effect: Aquatic Combat": {
+      "_id": "TPbr1kErAAJKBi3V",
+      "name": "Ефект: водний бій",
+      "description": "<p>Див. @UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#aquatic-combat]{Бій у воді}</p>\n<p>Використовуйте ці правила для битв у воді або під водою:</p><ul><li>Ви захоплені зненацька, якщо не маєте Швидкості плавання.</li><li>Ви отримуєте опір 5 кислоті та вогню.</li><li>Ви отримуєте обставинний штраф –2 до кидка атаки дроблячими або рубаючими атаками, що проходять крізь воду.</li><li>Кроки дистанції атак, виконаних істотою під водою або проти цілі під водою, зменшуються вдвічі.</li><li>Під водою ви не можете накладати вогняні закляття або використовувати дії з трейтом вогонь. Як завжди з трейтами, частина ефекту, не пов’язана з вогнем, продовжує діяти. Наприклад, атака <em>палаючою бойовою сокирою</em> усе ще може завдати фізичної шкоди, але не шкоди вогнем.</li></ul><p>@UUID[Compendium.pf2e.other-effects.Item.2u26bmArDPuoCljc]{Ефект: Залишок повітря}</p>"
+    },
+    "Effect: Cover": {
+      "_id": "I9lfZUiCwMiGogVi",
+      "name": "Ефект: Прикриття",
+      "description": "<p>Коли ви перебуваєте за перешкодою, яка може блокувати зброю, захистити вас від вибухів і зробити вас важчим для виявлення, ви знаходитесь за укриттям. Стандартне покриття дає вам +2 бонус обставин до КБ, до рефлекторних порятунків проти ефектів зони та до перевірок непомітності, щоб сховатися, підкрастися чи іншим чином уникнути виявлення. Ви можете збільшити це до більшого укриття, використовуючи основну дію «Укриття», збільшуючи бонус за обставини до +4. Якщо прикриття особливо легке, як правило, коли воно забезпечується істотою, ви маєте менший прикриття, що надає +1 бонус обставин КБ. Істота зі стандартним чи більшим прикриттям може спробувати використати скритність, щоб сховатися, але меншого прикриття недостатньо.</p>"
+    },
+    "Effect: Dazzled until end of your next turn": {
+      "_id": "uwYGEeqvt8pwjhXa",
+      "name": "Ефект: засліплений до кінця вашого наступного ходу",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.mwz1Ukw9laGyRocF]{Колодою критичних помилок №51}, @UUID[Compendium.pf2e.criticaldeck.JournalEntry.dvL063pJYJpCMsA6]{Колодою критичних помилок №52}</strong></p>\n<p>Ви @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Засліплені} до кінця свого наступного ходу.</p>"
+    },
+    "Effect: Deafened until end of your next turn": {
+      "_id": "W2OF7VeLHqc7p3DO",
+      "name": "Ефект: оглушення до кінця вашого наступного ходу",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.mcniWnifXwXkZocv]{Колодою критичних помилок №41}</strong></p>\n<p data-pm-slice=\"1 1 [&quot;section&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;fumble-deck&quot;}},&quot;blockquote&quot;,{&quot;_preserve&quot;:{}}]\">Ви @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Оглухлі} до кінця свого наступного ходу.</p>"
+    },
+    "Effect: Follow The Expert": {
+      "_id": "VCSpuc3Tf3XWMkd3",
+      "name": "Ефект: слідкуйте за експертом"
+    },
+    "Effect: Mounted": {
+      "_id": "9c93NfZpENofiGUp",
+      "name": "Ефект: Навісний",
+      "description": "<p>Див. @UUID[Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.OiRwxbfLNUniLg15#mounted-combat]{Верховий бій}</p>\n<p>Перебуваючи верхи, ви отримуєте обставинний штраф –2 до спаскидків Рефлексу.</p>"
+    },
+    "Effect: Resistance 5 to all damage": {
+      "_id": "WqgtMWgM9nUjwQiI",
+      "name": "Ефект: Стійкість 5 до всіх пошкоджень",
+      "description": "<p><strong>Ефект застосовано @UUID[Compendium.pf2e.criticaldeck.JournalEntry.TYTNFtVvFqFBM8oy]{Колодою критичних помилок №43}</strong></p>\n<p>Опір 5 до всієї шкоди</p>"
+    }
+  }
+}

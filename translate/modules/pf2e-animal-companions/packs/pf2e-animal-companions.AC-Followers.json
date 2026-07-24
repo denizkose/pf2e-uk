@@ -1,0 +1,477 @@
+{
+  "entries": {
+    "Adept": {
+      "_id": "A4lRasm15Gtkhj9G",
+      "name": {
+        "translate": "Адепт",
+        "original": "Adept"
+      },
+      "description": {
+        "translate": "<p>Цей початківець заклинатель із захопленням досліджує таємниці світу, навчаючись кидати руйнівну магію.</p><p><strong>Ближній бій</strong> <span class=\"pf2-icon\">1</span> кинджал (спритний, тонкий, метальний 10 футів, універсальний S), Шкода 1d4 колючої</p><p><strong>Дальній бій</strong> <span class=\"pf2-icon\">1</span> енергетичний вибух (магічний, дальність 60 футів), Шкода 1d6 (див. особливості)</p><p><strong>Сила</strong> +0, <strong>Спритність</strong> +1, <strong>Витривалість</strong> +1, <strong>Інтелект</strong> +3, <strong>Мудрість</strong> +2, <strong>Харизма</strong> +0</p><p><strong>Очки здоров'я</strong> 4</p><p><strong>Броня набору</strong> бонус предмета +1, <strong>Спритність</strong> максимум +4</p><p><strong>Навички</strong> Аркана; один із Навичок Природи, Окультизму або Релігії; будь-які два Навички Знань</p><p><strong>Здібність послідовника</strong> Адепт вивчає @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.78PMICTrQT66y7vk]{Spellshaped Blast}.</p><p><strong>Особливості</strong> Адепт може використовувати свій модифікатор Інтелекту замість модифікатора Спритності при виконанні ударів енергетичним вибухом.</p><p>Адепт обирає два з наступних типів шкоди початківця: кислота, холод, електрика, вогонь, ментальна, отрута або порожнеча. При використанні кількох здібностей — їх енергетичного вибуху, Відбивання Енергії, Енергетичної Хвилі та додаткової шкоди від ударів кинджалом за їх ветерану — адепт обирає один із обраних типів шкоди для здібності, і удар або здібність отримує рису, що відповідає цьому типу шкоди. Адепт може витратити 1 тиждень на експерименти зі своєю магією, щоб змінити один або обидва вибрані типи шкоди.</p><p><strong>Покращення досвідченості</strong> Коли адепт стає досвідченим послідовником:</p><ul><li><p>Збільшує свій модифікатор Інтелекту до +4 і модифікатор Спритності до +2.</p></li><li><p>Підвищує свій ранг майстерності у спаскуваннях Рефлексу та Волі до експерта.</p></li><li><p>Збільшує шкоду удару кинджалом з 1d4 до 2d4. Збільшує шкоду удару енергетичним вибухом з 1d6 до 2d6.</p></li><li><p>Адепт додає Навідування до списку дослідницьких дій, які може виконувати без витрати дослідницької дії.</p></li></ul><p><strong>Покращення ветерана</strong> Коли адепт стає ветераном послідовником:</p><ul><li><p>Збільшує свій модифікатор Спритності до +3, модифікатор Витривалості до +2 і модифікатор Мудрості до +3.</p></li><li><p>Збільшує бонус предмета до КЗ до +2.</p></li><li><p>Підвищує ранг майстерності у Сприйнятті до експерта.</p></li><li><p>Підвищує ранг майстерності в Аркані та Навичках Знань до експерта. Підвищує ранг майстерності в Природі, Окультизмі та Релігії до тренованого, а якщо вони вже були треновані в одній із цих навичок, підвищує ранг майстерності в цій навичці до експерта.</p></li><li><p>Підвищує ранг майстерності в ударах кинджалом та енергетичним вибухом до експерта і дає +1 бонус предмета до кидків атаки цими ударами. Їх удари енергетичним вибухом завдають додатково 2 шкоди. Їх удари кинджалом стають магічними для ігнорування опору, і завдають додатково 3 шкоди, обраної з типів шкоди, які адепт може завдати своїм енергетичним вибухом.</p></li><li><p>Адепт обирає один додатковий тип шкоди, який може завдавати їх енергетичний вибух. Вони можуть обрати один із типів шкоди початківця або один із типів шкоди ветерана: сила, звуковий, дух або життєва сила. Адепт може знати лише один тип шкоди ветерана одночасно.</p></li><li><p>Адепт вивчає @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.4081J9nw5GVQWohC]{Energy Deflection}.</p></li></ul><p><strong>Видатне покращення</strong> Коли адепт стає видатним послідовником:</p><ul><li><p>Збільшує свій модифікатор Сили до +1, модифікатор Витривалості до +3, модифікатор Інтелекту до +5 і модифікатор Мудрості до +4.</p></li><li><p>Збільшує бонус предмета до КЗ до +3.</p></li><li><p>Підвищує ранг майстерності у спаскуваннях Рефлексу та Волі до майстра. Підвищує ранг майстерності у спаскуванні Витривалості до експерта. Дає +1 бонус предмета до всіх спаскувань.</p></li><li><p>Підвищує ранг майстерності у Сприйнятті до експерта.</p></li><li><p>Підвищує ранг майстерності в Аркані та Навичках Знань до майстра.</p></li><li><p>Збільшує бонус предмета до кидків атаки ударами кинджалом та енергетичним вибухом до +2. Збільшує шкоду удару кинджалом з 2d4 до 3d4, а додаткову енергетичну шкоду від ударів кинджалом з 3 до 5. Збільшує шкоду удару енергетичним вибухом з 2d6 до 3d6, а додаткову шкоду від ударів енергетичним вибухом з 2 до 4.</p></li><li><p>Адепт вивчає @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.uJrVhcm0TrNHm5wA]{Energy Wave}.</p></li></ul>",
+        "original": "<p>This novice spellcaster eagerly explores the world's secrets while learning to hurl destructive magic.</p><p><strong>Melee</strong> <span class=\"pf2-icon\">1</span> dagger (agile, finesse, thrown 10 feet, versatile S), Damage 1d4 piercing</p><p><strong>Ranged</strong> <span class=\"pf2-icon\">1</span> energy blast (magical, range 60 feet), Damage 1d6 (see special)</p><p><strong>Str</strong> +0, <strong>Dex</strong> +1, <strong>Con</strong> +1, <strong>Int</strong> +3, <strong>Wis</strong> +2, <strong>Cha</strong> +0</p><p><strong>Hit Points</strong> 4</p><p><strong>Kit Armor</strong> item bonus +1, <strong>Dex</strong> cap +4</p><p><strong>Skill</strong>s Arcana; either Nature, Occultism, or Religion; any two Lore skills</p><p><strong>Follower Ability</strong> The adept learns @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.78PMICTrQT66y7vk]{Spellshaped Blast}.</p><p><strong>Special</strong> An adept can use their Intelligence modifier in place of their Dexterity modifier when making energy blast Strikes.</p><p>An adept selects two of the following novice damage types: acid, cold, electricity, fire, mental, poison, or void. When using several abilities—their energy blast, Energy Deflection, Energy Wave, and dagger Strikes' additional damage from their veteran advancement—the adept chooses one of their selected damage types for the ability to deal, and the Strike or ability gains the trait corresponding to that damage type. An adept can spend 1 week experimenting with their magic to change one or both of their damage type choices.</p><p><strong>Experienced Advancement</strong> When the adept becomes an experienced follower:</p><ul><li><p>Increase their Intelligence modifier to +4 and their Dexterity modifier to +2.</p></li><li><p>Increase their proficiency rank in Reflex and Will saves to expert.</p></li><li><p>Increase their dagger Strike damage from 1d4 to 2d4. Increase their energy blast Strike damage from 1d6 to 2d6.</p></li><li><p>An adept adds Investigate to the list of exploration activities they can perform without spending your exploration activity.</p></li></ul><p><strong>Veteran Advancement</strong> When the adept becomes a veteran follower:</p><ul><li><p>Increase their Dexterity modifier to +3, their Constitution modifier to +2, and their Wisdom modifier to +3.</p></li><li><p>Increase their item bonus to AC to +2.</p></li><li><p>Increase their proficiency rank in Perception to expert.</p></li><li><p>Increase their proficiency rank in Arcana and their Lore skills to expert. Increase their proficiency ranks in Nature, Occultism, and Religion to trained, and if they were already trained in one of those skills, increase their proficiency in that skill to expert.</p></li><li><p>Increase their proficiency rank in their dagger and energy blast Strikes to expert, and give them a +1 item bonus to attack rolls with their Strikes. Their energy blast Strikes deal 2 additional damage. Their dagger Strikes become magical for the purposes of ignoring resistances, and their dagger Strikes deal 3 additional damage, chosen from the damage types the adept can deal with their energy blast.</p></li><li><p>The adept selects one additional damage type that their energy blast can deal. They can select one of the novice damage types, or they can choose one of the veteran damage types: force, sonic, spirit, or vitality. The adept can know only one veteran damage type at a time.</p></li><li><p>The adept learns @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.4081J9nw5GVQWohC]{Energy Deflection}.</p></li></ul><p><strong>Exceptional Advancement</strong> When the adept becomes an exceptional follower:</p><ul><li><p>Increase their Strength modifier to +1, their Constitution modifier to +3, their Intelligence modifier to +5, and their Wisdom modifier to +4.</p></li><li><p>Increase their item bonus to AC to +3.</p></li><li><p>Increase their proficiency rank in Reflex and Will saves to master. Increase their proficiency in Fortitude saves to expert. Give them a +1 item bonus to all saving throws.</p></li><li><p>Increase their proficiency rank in Perception to expert.</p></li><li><p>Increase their proficiency rank in Arcana and their Lore skills to master.</p></li><li><p>Increase their item bonus to attack rolls with their dagger and energy blast Strikes to +2. Increase their dagger Strike damage dice from 2d4 to 3d4, and increase the additional energy damage dealt by their dagger Strikes from 3 to 5. Increase the adept's energy blast Strike damage dice from 2d6 to 3d6, and increase the additional damage deal by their energy blast Strikes from 2 to 4.</p></li><li><p>The adept learns @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.uJrVhcm0TrNHm5wA]{Energy Wave}.</p></li></ul>"
+      },
+      "rules": {
+        "5": {
+          "label": {
+            "translate": "Енергетичний вибух",
+            "original": "Energy Blast"
+          }
+        },
+        "7": {
+          "label": {
+            "translate": "Кинджали та Енергетичний вибух",
+            "original": "Daggers and Energy Blast"
+          }
+        },
+        "8": {
+          "label": {
+            "translate": "Бонус атрибуту до Енергетичного вибуху",
+            "original": "Energy Blast Atrribute Bonus"
+          }
+        },
+        "11": {
+          "label": {
+            "translate": "Тип шкоди Енергетичного вибуху",
+            "original": "Energy Blast Damage Type"
+          }
+        },
+        "22": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "23": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "24": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "30": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Advancements": {
+      "_id": "F2mMCeiaLqyZMtOM",
+      "name": {
+        "translate": "Покращення",
+        "original": "Advancements"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Berserker": {
+      "_id": "UGypwzL2kf2lpvGK",
+      "name": {
+        "translate": "Берсеркер",
+        "original": "Berserker"
+      },
+      "description": {
+        "translate": "<p>Цей необережний боєць може стати жахливим вісником руйнування.</p><p><strong>Ближній бій</strong> <span class=\"pf2-icon\">1</span> фальшион (сильний, розмашистий), <strong>Шкода</strong> 1d10 рублячої</p><p><strong>Сила</strong> +3, <strong>Спритність</strong> +0, <strong>Витривалість</strong> +2, <strong>Інтелект</strong> +0, <strong>Мудрість</strong> +0, <strong>Харизма</strong> +2</p><p><strong>Очки здоров'я</strong> 8</p><p><strong>Броня набору</strong> бонус предмета +3, максимум Спритності +2</p><p><strong>Навички</strong> Атлетика, Залякування, Знання війни</p><p><strong>Здібність послідовника</strong> Коли берсеркер отримує шкоду, він отримує +1 статусний бонус до наступного кидка шкоди до кінця вашого наступного ходу.</p><p><strong>Покращення досвідченості</strong> Коли берсеркер стає досвідченим послідовником:</p><ul><li>Збільшує свій модифікатор Сили до +4 і модифікатор Витривалості до +3.</li><li>Підвищує ранг майстерності у спаскуваннях Витривалості та Волі до експерта.</li><li>Збільшує шкоду удару фальшионом з 1d10 до 2d10.</li><li>Збільшує статусний бонус до кидків шкоди, який берсеркер отримує від своєї здатності послідовника, до +2.</li></ul><p><strong>Покращення ветерана</strong> Коли берсеркер стає ветераном послідовником:</p><ul><li>Збільшує свій модифікатор Витривалості до +4, модифікатор Мудрості до +1 і модифікатор Харизми до +3.</li><li>Збільшує бонус предмета до КЗ до +4.</li><li>Підвищує ранг майстерності у Сприйнятті до експерта.</li><li>Підвищує ранг майстерності в Атлетиці, Залякуванні та Знанні війни до експерта.</li><li>Підвищує ранг майстерності в ударах фальшионом до експерта і дає +1 бонус предмета до кидків атаки ударами фальшионом. Їх удари завдають додатково 3 шкоди і стають магічними для ігнорування опорів.</li><li>Збільшує статусний бонус до кидків шкоди, який берсеркер отримує від своєї здатності послідовника, до +3.</li><li><p>Берсеркер отримує @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.yYN5lYVfJVofjR0k]{Reckless Attack}.</p></li></ul><p><strong>Видатне покращення</strong> Коли берсеркер стає видатним послідовником:</p><ul><li>Збільшує свій модифікатор Сили до +5, модифікатор Спритності до +1, модифікатор Мудрості до +2 і модифікатор Харизми до +4.</li><li>Збільшує бонус предмета до КЗ до +5.</li><li>Підвищує ранг майстерності у спаскуваннях Витривалості та Волі до майстра, а ранг у спаскуванні Рефлексу до експерта. Дає +1 бонус предмета до всіх спаскувань.</li><li>Підвищує ранг майстерності в Атлетиці до майстра.</li><li>Збільшує бонус предмета до кидків атаки ударами фальшионом до +2. Збільшує шкоду удару фальшионом з 2d10 до 3d10 і збільшує додаткову шкоду від ударів фальшионом з 3 до 6.</li><li>Збільшує статусний бонус до кидків шкоди, який берсеркер отримує від своєї дії послідовника, до +4.</li><li><p>Берсеркер отримує реакцію при Директиві. Якщо ця реакція не буде використана до початку вашого наступного ходу, вона втрачається. Берсеркер також отримує реакцію @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.7jjDVIT39HUAnrP6]{Share the Pain}.</p></li></ul>",
+        "original": "<p>This incautious fighter can become a terrifying harbinger of destruction.</p><p><strong>Melee</strong> <span class=\"pf2-icon\">1</span> falchion (forceful, sweep), <strong>Damage</strong> 1d10 slashing</p><p><strong>Str</strong> +3, <strong>Dex</strong> +0, <strong>Con</strong> +2, <strong>Int</strong> +0, <strong>Wis</strong> +0, <strong>Cha</strong> +2</p><p><strong>Hit Points</strong> 8</p><p><strong>Kit Armor</strong> item bonus +3, Dex cap +2</p><p><strong>Skills</strong> Athletics, Intimidation, Warfare Lore</p><p><strong>Follower Ability</strong> When a berserker takes damage, they gain a +1 status bonus to their next damage roll before the end of your next turn.</p><p><strong>Experienced Advancement</strong> When the berserker becomes an experienced follower:</p><ul><li>Increase their Strength modifier to +4 and their Constitution modifier to +3.</li><li>Increase their proficiency rank with Fortitude and Will saves to expert.</li><li>Increase their falchion Strike damage dice from 1d10 to 2d10.</li><li>Increase the status bonus to damage rolls the berserker gains from their follower ability to +2.</li></ul><p><strong>Veteran Advancement</strong> When the berserker becomes a veteran follower:</p><ul><li>Increase their Constitution modifier to +4, their Wisdom modifier to +1, and their Charisma modifier to +3.</li><li>Increase their item bonus to AC to +4.</li><li>Increase their proficiency rank in Perception to expert.</li><li>Increase their proficiency rank in Athletics, Intimidation, and Warfare Lore to expert.</li><li>Increase their proficiency rank in their falchion Strikes to expert, and give them a +1 item bonus to attack rolls with their falchion Strikes. Their Strikes deal 3 additional damage and become magical for the purposes of ignoring resistances.</li><li>Increase the status bonus to damage rolls the berserker gains from their follower ability to +3.</li><li><p>The berserker gains @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.yYN5lYVfJVofjR0k]{Reckless Attack}.</p></li></ul><p><strong>Exceptional Advancement</strong> When the berserker becomes an exceptional follower:</p><ul><li>Increase their Strength modifier to +5, their Dexterity modifier to +1, their Wisdom modifier to +2, and their Charisma modifier to +4.</li><li>Increase their item bonus to AC to +5.</li><li>Increase their proficiency rank in Fortitude saves and Will saves to master, and their proficiency rank in Reflex saves to expert. Give them a +1 item bonus to all saving throws.</li><li>Increase their proficiency rank in Athletics to master.</li><li>Increase their item bonus to attack rolls with their falchion Strikes to +2. Increase their falchion Strike damage dice from 2d10 to 3d10 and increase the additional damage that their falchion Strikes deal from 3 to 6.</li><li>Increase the status bonus to damage rolls the berserker gains from their follower action to +4.</li><li><p>The berserker gains a reaction when Directed. If this reaction isn't spent before the beginning of your next turn, it is lost. The berserker also gains the @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.7jjDVIT39HUAnrP6]{Share the Pain} reaction.</p></li></ul>"
+      },
+      "rules": {
+        "6": {
+          "text": {
+            "translate": "COMP.SpecificRule.Follower.FollowerAbility.Berserker.Note",
+            "original": "COMP.SpecificRule.Follower.FollowerAbility.Berserker.Note"
+          }
+        },
+        "18": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "19": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "28": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Exceptional Advancement": {
+      "_id": "FVB4oQEeV2f1Ga7J",
+      "name": {
+        "translate": "Видатне покращення",
+        "original": "Exceptional Advancement"
+      },
+      "description": {
+        "translate": "<p>Ваш ветеранський послідовник стає видатним послідовником.</p>",
+        "original": "<p>Your veteran follower becomes a exceptional follower.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-14",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Experienced Advancement": {
+      "_id": "Drsjs3tJmr7xVXvl",
+      "name": {
+        "translate": "Покращення досвідченості",
+        "original": "Experienced Advancement"
+      },
+      "description": {
+        "translate": "<p>Ваш початковий послідовник стає досвідченим послідовником.</p>",
+        "original": "<p>Your novice follower becomes an experienced follower.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-4",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Feats": {
+      "_id": "O9u6oRim2SjAHWM2",
+      "name": {
+        "translate": "Здібності",
+        "original": "Feats"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-item"
+        ]
+      }
+    },
+    "Leader of All (Elf)": {
+      "_id": "jv7iHR66k6AKZuZ4",
+      "name": {
+        "translate": "Лідер усіх (Ельф)",
+        "original": "Leader of All (Elf)"
+      },
+      "description": {
+        "translate": "<p>Ви приймаєте будь-кого, хто хоче слідувати за вами у ваших пригодах. Ви можете брати послідовників з будь-якого звичайного походження, а також з незвичайного або рідкісного походження за розсудом ГМ.</p><p>Ваш послідовник отримує риси, розмір, швидкості, мови та інші особливі здібності, зазначені у їх походженні. Наприклад, ельфійські послідовники мають риси ельфа та гуманоїда, швидкість 30 футів, зір у сутінках і типові мови для ельфів.</p><p>Послідовники не використовують очки здоров'я або підвищення і недоліки атрибутів свого походження. Вони також не отримують здібностей, які дозволяють їм виконувати дії поза стандартними, доступними послідовнику, такими як Активація предмета або Кастинг заклинання.</p><hr /><p><em>Примітка:</em> Ця здатність налаштована для ельфійського послідовника. Для інших походжень встановіть відчуття та мови на вкладці деталей, а риси та базову швидкість на вкладці правил. Якщо потрібно, дивіться правило Розмір істоти у <a href=\"https://github.com/foundryvtt/pf2e/wiki/Quickstart-guide-for-rule-elements#creature-size\">швидкому посібнику з елементів правил</a>.</p>",
+        "original": "<p>You accept anyone who would follow you on your adventures. You can take followers from any common ancestry, and from uncommon or rare ancestries at the GM's discretion.</p><p>Your follower gains the traits, size, Speeds, languages, and other special abilities listed in their ancestry. For example, elf followers have the elf and humanoid traits, a 30-foot speed, low-light vision, and the typical languages for elves.</p><p>Followers don't use their ancestry's Hit Points or attribute boosts and flaws. They also don't gain abilities that would allow them to use actions beyond the standard ones available to a follower, such as Activating an Item or Casting a Spell.</p><hr /><p><em>Note:</em> This feat has been set up for an elf follower. For other ancestries set the senses and languages from the details tab, and traits and base speed from the rules tab. If needed, see the Creature Size rule element in the <a href=\"https://github.com/foundryvtt/pf2e/wiki/Quickstart-guide-for-rule-elements#creature-size\">quickstart guide for rule elements</a>.</p>"
+      },
+      "prerequisites": {
+        "0": {
+          "value": {
+            "translate": "Присвята капітана",
+            "original": "Captain Dedication"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-1",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    },
+    "Medic": {
+      "_id": "ZgVoPylxwZuz9B4k",
+      "name": {
+        "translate": "Медик",
+        "original": "Medic"
+      },
+      "description": {
+        "translate": "<p>Цей учень цілителя може оволодіти мистецтвом повертати людей з межі смерті.</p><p><strong>Ближній бій</strong> <span class=\"pf2-icon\">1</span> скальпель (спритний, смертельний d8, тонкий, універсальний S), <strong>Шкода</strong> 1d4 колючої (функціонує як кинджал)</p><p><strong>Сила</strong> +0, <strong>Спритність</strong> +2, <strong>Витривалість</strong> +1, <strong>Інтелект</strong> +1, <strong>Мудрість</strong> +3, <strong>Харизма</strong> +0</p><p><strong>Очки здоров'я</strong> 6</p><p><strong>Броня набору</strong> бонус предмета +1, максимум Спритності +4</p><p><strong>Навички</strong> Знання трав, Медицина, Природа, Виживання</p><p><strong>Здібність послідовника</strong> Медик має здатність @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Battle Medicine}. У його наборі є набір цілителя.</p><p><strong>Покращення досвідченості</strong> Коли медик стає досвідченим послідовником:</p><ul><li>Збільшує свій модифікатор Спритності до +3 і модифікатор Мудрості до +4.</li><li>Підвищує ранг майстерності у спаскуваннях Витривалості та Волі до експерта.</li><li>Підвищує ранг майстерності в Медицини до експерта.</li><li>Збільшує шкоду удару скальпелем з 1d4 до 2d4. Їх удари скальпелем завдають 1 постійну кровотечу (1d6 постійної кровотечі при критичному ударі).</li><li><p>Раз на день медик може застосувати Бойову Медицину до істоти, яка тимчасово імунна.</p></li></ul><p><strong>Покращення ветерана</strong> Коли медик стає ветераном послідовником:</p><ul><li>Збільшує свій модифікатор Сили до +1, модифікатор Спритності до +4 і модифікатор Витривалості до +2.</li><li>Збільшує бонус предмета до КЗ до +2.</li><li>Підвищує ранг майстерності у Сприйнятті до експерта.</li><li>Підвищує ранг майстерності в Медицини до майстра, а в Знанні трав, Природі та Виживанні до експерта. Дає +1 бонус предмета до перевірок Медицини.</li><li>Підвищує ранг майстерності в ударах скальпелем до експерта і дає +1 бонус предмета до кидків атаки ударами скальпелем. Їх удари завдають 2 додаткові шкоди і стають магічними для ігнорування опорів.</li><li><p>Медик може використовувати @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.ma45EqTK72KQLca3]{Medic's Treatment}.</p></li></ul><p><strong>Видатне покращення </strong>Коли медик стає видатним послідовником:</p><ul><li>Збільшує свій модифікатор Сили до +2, модифікатор Витривалості до +3, модифікатор Інтелекту до +2 і модифікатор Мудрості до +5. Збільшує бонус предмета до КЗ до +3.</li><li>Підвищує ранг майстерності у спаскуваннях Витривалості та Волі до майстра, а в спаскуванні Рефлексу до експерта. Дає +1 бонус предмета до всіх спаскувань.</li><li>Збільшує бонус предмета до перевірок Медицини до +2. Стає експертом в Акробатиці. Збільшує бонус предмета до кидків атаки ударами скальпелем до +2. Збільшує шкоду удару скальпелем з 2d4 до 3d4 і збільшує додаткову шкоду від ударів скальпелем з 2 до 4. Збільшує постійну кровотечу від ударів скальпелем до 2 (або 2d6 при критичному ударі).</li><li>Раз на годину медик може застосувати Бойову Медицину до істоти, яка тимчасово імунна. Медик може використовувати @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.32cPs0J3Dk19Q743]{Quick Treatment}.</li></ul>",
+        "original": "<p>This trainee healer can master the art of bringing people back from the brink of death.</p><p><strong>Melee</strong> <span class=\"pf2-icon\">1</span> scalpel (agile, deadly d8, finesse, versatile S), <strong>Damage</strong> 1d4 piercing (functions as dagger)</p><p><strong>Str</strong> +0, <strong>Dex</strong> +2, <strong>Con</strong> +1, <strong>Int</strong> +1, <strong>Wis</strong> +3, <strong>Cha</strong> +0</p><p><strong>Hit Points</strong> 6</p><p><strong>Kit Armor</strong> item bonus +1, Dex cap +4</p><p><strong>Skills</strong> Herbalism Lore, Medicine, Nature, Survival</p><p><strong>Follower Ability</strong> A medic has the @UUID[Compendium.pf2e.feats-srd.Item.wYerMk6F1RZb0Fwt]{Battle Medicine} feat. Their kit includes a healer's kit.</p><p><strong>Experienced Advancement</strong> When the medic becomes an experienced follower:</p><ul><li>Increase their Dexterity modifier to +3 and their Wisdom modifier to +4.</li><li>Increase their proficiency rank in Fortitude saves and Will saves to expert.</li><li>Increase their proficiency rank in Medicine to expert.</li><li>Increase their scalpel Strike damage dice from 1d4 to 2d4. Their scalpel Strikes deal 1 persistent bleed damage (1d6 persistent bleed damage on a critical hit).</li><li><p>Once per day, the medic can use Battle Medicine on a creature that is temporarily immune.</p></li></ul><p><strong>Veteran Advancement</strong> When the medic becomes a veteran follower:</p><ul><li>Increase their Strength modifier to +1, their Dexterity modifier to +4, and their Constitution modifier to +2.</li><li>Increase their item bonus to AC to +2.</li><li>Increase their proficiency rank in Perception to expert.</li><li>Increase their proficiency rank in Medicine to master, and their proficiency rank in Herbalism Lore, Nature, and Survival to expert. Give them a +1 item bonus to Medicine checks.</li><li>Increase their proficiency rank in their scalpel Strikes to expert, and give them a +1 item bonus to attack rolls with their scalpel Strikes. Their scalpel Strikes deal 2 additional damage and become magical for the purposes of ignoring resistances.</li><li><p>The medic can use @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.ma45EqTK72KQLca3]{Medic's Treatment}.</p></li></ul><p><strong>Exceptional Advancement </strong>When the medic becomes an exceptional follower:</p><ul><li>Increase their Strength modifier to +2, their Constitution modifier to +3, their Intelligence modifier to +2, and their Wisdom modifier to +5. Increase their item bonus to AC to +3.</li><li>Increase their proficiency rank in Fortitude and Will saves to master, and their proficiency rank in Reflex saves to expert. Give them a +1 item bonus to all saving throws.</li><li>Increase their item bonus to Medicine checks to +2. They become an expert in Acrobatics. Increase their item bonus to attack rolls with their scalpel Strikes to +2. Increase their scalpel Strike damage dice from 2d4 to 3d4 and increase the additional damage that their scalpel Strikes deal from 2 to 4. Increase the persistent bleed their scalpel Strikes deal to 2 (or 2d6 on a critical hit).</li><li>Once per hour, the medic can use Battle Medicine on a creature that is temporarily immune. The medic can use @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.32cPs0J3Dk19Q743]{Quick Treatment}.</li></ul>"
+      },
+      "rules": {
+        "5": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.Medic.Scalpel",
+            "original": "COMP.SpecificRule.Follower.Medic.Scalpel"
+          }
+        },
+        "6": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.Medic.Scalpel",
+            "original": "COMP.SpecificRule.Follower.Medic.Scalpel"
+          }
+        },
+        "12": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExperiencedAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExperiencedAdvancement.Label"
+          }
+        },
+        "13": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExperiencedAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExperiencedAdvancement.Label"
+          }
+        },
+        "20": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "21": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.Medic.Scalpel",
+            "original": "COMP.SpecificRule.Follower.Medic.Scalpel"
+          }
+        },
+        "22": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "23": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "31": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Scout": {
+      "_id": "BrQt3St9A9ntCRus",
+      "name": {
+        "translate": "Розвідник",
+        "original": "Scout"
+      },
+      "description": {
+        "translate": "<p>Цей початковий спостерігач може стати майстром тихого пересування по місцевості, щоб вражати слабкі місця ворогів.</p><p><strong>Ближній бій</strong> <span class=\"pf2-icon\">1</span> короткий меч (спритний, тонкий, універсальний S), <strong>Шкода</strong> 1d6 колючої</p><p><strong>Сила</strong> +1, <strong>Спритність</strong> +3, <strong>Витривалість</strong> +1, <strong>Інтелект</strong> +0, <strong>Мудрість</strong> +2, <strong>Харизма</strong> +0</p><p><strong>Очки здоров'я</strong> 6</p><p><strong>Броня набору</strong> бонус предмета +1, максимум Спритності +4</p><p><strong>Навички</strong> Акробатика, Схованка, Виживання, один Знання про конкретне поселення або місцевість</p><p><strong>Здібність послідовника</strong> Розвідник завдає 1d4 додаткової точкової шкоди @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} цілям.</p><p><strong>Особливість</strong> Розвідник додає Розвідку до списку дослідницьких дій, які може виконувати без витрати дослідницької дії.</p><p><strong>Покращення досвідченості</strong> Коли розвідник стає досвідченим послідовником:</p><ul><li>Збільшує свій модифікатор Спритності до +4 і модифікатор Мудрості до +3.</li><li>Підвищує ранг майстерності у спаскуваннях Рефлексу, Волі та Сприйняття до експерта.</li><li>Збільшує шкоду удару коротким мечем з 1d6 до [[/r 2d6]].</li><li><p>Додає @UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{Search} до списку дослідницьких дій, які розвідник може виконувати без витрати дослідницької дії.</p></li></ul><p><strong>Покращення ветерана</strong> Коли розвідник стає ветераном послідовником:</p><ul><li>Збільшує свій модифікатор Сили до +2, модифікатор Витривалості до +2 і модифікатор Інтелекту до +1.</li><li>Збільшує бонус предмета до КЗ до +2.</li><li>Підвищує ранг майстерності в Акробатиці, Схованці, Виживанні та їх конкретному Знанні до експерта. Дає +1 бонус предмета до перевірок Схованки.</li><li>Підвищує ранг майстерності в ударах коротким мечем до експерта і дає +1 бонус предмета до кидків атаки ударами коротким мечем. Їх удари завдають 2 додаткові шкоди і стають магічними для ігнорування опорів.</li><li>Збільшує додаткову точкову шкоду, яку завдає розвідник @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} цілям, до [[/r 1d6]].</li><li>Розвідник вивчає Використання травм.</li></ul><p><strong>Видатне покращення</strong> Коли розвідник стає видатним послідовником:</p><ul><li>Збільшує свій модифікатор Сили до +3, модифікатор Спритності до +5, модифікатор Витривалості до +3 і модифікатор Мудрості до +4.</li><li>Збільшує бонус предмета до КЗ до +3.</li><li>Підвищує ранг майстерності у спаскуваннях Рефлексу, Волі та Сприйняття до майстра, а ранг у спаскуванні Витривалості до експерта. Дає +1 бонус предмета до всіх спаскувань.</li><li>Підвищує ранг майстерності в Схованці до майстра і збільшує бонус предмета до перевірок Схованки до +2.</li><li>Збільшує бонус предмета до кидків атаки ударами коротким мечем до +2. Збільшує шкоду удару коротким мечем з 2d6 до 3d6 і збільшує додаткову шкоду від ударів коротким мечем з 2 до 4.</li><li>Коли розвідник використовує дослідницьку дію Розвідка, він також @UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoid Notice} і @UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{Search}.</li></ul>",
+        "original": "<p>This novice lookout can become a master of traversing terrain silently to strike their foes' weak points.</p><p><strong>Melee</strong> <span class=\"pf2-icon\">1</span> shortsword (agile, finesse, versatile S), <strong>Damage</strong> 1d6 piercing</p><p><strong>Str</strong> +1, <strong>Dex</strong> +3, <strong>Con</strong> +1, <strong>Int</strong> +0, <strong>Wis</strong> +2, <strong>Cha</strong> +0</p><p><strong>Hit Points</strong> 6</p><p><strong>Kit Armor</strong> item bonus +1, Dex cap +4</p><p><strong>Skills</strong> Acrobatics, Stealth, Survival, one Lore about a specific settlement or a specific terrain</p><p><strong>Follower Ability</strong> A scout deals 1d4 extra precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} targets.</p><p><strong>Special</strong> A scout adds Scout to the list of exploration activities that they can perform without spending your exploration activity.</p><p><strong>Experienced Advancement</strong> When the scout becomes an experienced follower:</p><ul><li>Increase their Dexterity modifier to +4 and their Wisdom modifier to +3.</li><li>Increase their proficiency rank with Reflex saves, Will saves, and Perception to expert.</li><li>Increase their shortsword Strike damage dice from 1d6 to [[/r 2d6]].</li><li><p>Add @UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{Search} to the list of exploration activities the scout can perform without spending your exploration activity.</p></li></ul><p><strong>Veteran Advancement</strong> When the scout becomes a veteran follower:</p><ul><li>Increase their Strength modifier to +2, their Constitution modifier to +2, and their Intelligence modifier to +1.</li><li>Increase their item bonus to AC to +2.</li><li>Increase their proficiency rank in Acrobatics, Stealth, Survival, and their specific Lore to expert. Give them a +1 item bonus to Stealth checks.</li><li>Increase their proficiency rank in their shortsword Strikes to expert, and give them a +1 item bonus to attack rolls with their shortsword Strikes. Their Strikes deal 2 additional damage and become magical for the purposes of ignoring resistances.</li><li>Increase the extra precision damage the scout does to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} targets to [[/r 1d6]].</li><li>The scout learns Exploit Injury.</li></ul><p><strong>Exceptional Advancement</strong> When the scout becomes an exceptional follower:</p><ul><li>Increase their Strength modifier to +3, their Dexterity modifier to +5, their Constitution modifier to +3, and their Wisdom modifier to +4.</li><li>Increase their item bonus to AC to +3.</li><li>Increase their proficiency rank in Reflex saves, Will saves, and Perception to master, and their proficiency rank in Fortitude saves to expert. Give them a +1 item bonus to all saving throws.</li><li>Increase their proficiency rank in Stealth to master, and increase their item bonus to Stealth checks to +2.</li><li>Increase their item bonus to attack rolls with their shortsword Strikes to +2. Increase their shortsword Strike damage dice from 2d6 to 3d6 and increase the additional damage that their shortsword Strikes deal from 2 to 4.</li><li>When the scout uses the Scout exploration activity, they also @UUID[Compendium.pf2e.actionspf2e.Item.IE2nThCmoyhQA0Jn]{Avoid Notice} and @UUID[Compendium.pf2e.actionspf2e.Item.TiNDYUGlMmxzxBYU]{Search}.</li></ul>"
+      },
+      "rules": {
+        "16": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "18": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "19": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "29": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Sharpshooter": {
+      "_id": "qexqlVIb13Z8Yub6",
+      "name": {
+        "translate": "Стрілець",
+        "original": "Sharpshooter"
+      },
+      "description": {
+        "translate": "<p>Цей учень лучника може навчитися стріляти з жахливою точністю.</p><p><strong>Дальній бій</strong> <span class=\"pf2-icon\">1</span> короткий лук (смертельний d10, імпульсний, дальність 60 футів, перезарядка 0), <strong>Шкода</strong> 1d6 колючої</p><p><strong>Сила</strong> +0, <strong>Спритність</strong> +3, <strong>Витривалість</strong> +1, <strong>Інтелект</strong> +0, <strong>Мудрість</strong> +2, <strong>Харизма</strong> +1</p><p><strong>Очки здоров'я</strong> 4</p><p><strong>Броня набору</strong> бонус предмета +1, максимум Спритності +4</p><p><strong>Навички</strong> Акробатика, Знання полювання, Схованка</p><p><strong>Здібність послідовника</strong> Стрілець вивчає @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.slUPBFWswxaqHe7T]{Take Aim}.</p><p><strong>Покращення досвідченості</strong> Коли стрілець стає досвідченим послідовником:</p><ul><li><p>Збільшує свій модифікатор Спритності до +4 і модифікатор Мудрості до +3.</p></li><li><p>Підвищує ранг майстерності у спаскуваннях Витривалості та Рефлексу до експерта.</p></li><li><p>Збільшує шкоду удару коротким луком з 1d6 до 2d6.</p></li><li><p>Коли істота отримує шкоду від дальнього удару стрільця, вона отримує штраф обставин –5 футів до своїх швидкостей на 1 раунд, або –10 футів, якщо атака була критичною.</p></li></ul><p><strong>Покращення ветерана</strong> Коли стрілець стає ветераном послідовником:</p><ul><li><p>Збільшує свій модифікатор Витривалості до +2, модифікатор Інтелекту до +1 і модифікатор Харизми до +2.</p></li><li><p>Збільшує бонус предмета до КЗ до +2.</p></li><li><p>Підвищує ранг майстерності у Сприйнятті до експерта.</p></li><li><p>Підвищує ранг майстерності в Акробатиці, Знанні полювання та Схованці до експерта. Також стає експертом у Залякуванні.</p></li><li><p>Підвищує ранг майстерності в ударах коротким луком до експерта і дає +1 бонус предмета до кидків атаки ударами коротким луком. Їх удари завдають 2 додаткові шкоди і стають магічними для ігнорування опорів.</p></li><li><p>Коли стрілець цілиться, він також ігнорує прихованість цілі.</p></li></ul><p><strong>Видатне покращення</strong> Коли стрілець стає видатним послідовником:</p><ul><li><p>Збільшує свій модифікатор Спритності до +5, модифікатор Витривалості до +3, модифікатор Мудрості до +4 і модифікатор Харизми до +3.</p></li><li><p>Збільшує бонус предмета до КЗ до +3.</p></li><li><p>Підвищує ранг майстерності у спаскуваннях Рефлексу та Волі до майстра, а ранг у спаскуванні Витривалості до експерта. Дає +1 бонус предмета до всіх спаскувань.</p></li><li><p>Підвищує ранг майстерності в Акробатиці до майстра.</p></li><li><p>Збільшує бонус предмета до кидків атаки ударами коротким луком до +2. Збільшує шкоду удару коротким луком з 2d6 до 3d6 і збільшує додаткову шкоду від ударів коротким луком з 2 до 4.</p></li><li><p>Стрілець вивчає @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.Xl8aFEzCXaG3L68D]{Following Shot}.</p></li></ul>",
+        "original": "<p>This trainee archer can learn to shoot with terrifying precision.</p><p><strong>Range</strong> <span class=\"pf2-icon\">1</span> shortbow (deadly d10, propulsive, range increment 60 feet, reload 0), <strong>Damage</strong> 1d6 piercing</p><p><strong>Str</strong> +0, <strong>Dex</strong> +3, <strong>Con</strong> +1, <strong>Int</strong> +0, <strong>Wis</strong> +2, <strong>Cha</strong> +1</p><p><strong>Hit Points</strong> 4</p><p><strong>Kit Armor</strong> item bonus +1, Dex cap +4</p><p><strong>Skills</strong> Acrobatics, Hunting Lore, Stealth</p><p><strong>Follower Ability</strong> The sharpshooter learns @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.slUPBFWswxaqHe7T]{Take Aim}.</p><p><strong>Experienced Advancement</strong> When the sharpshooter becomes an experienced follower:</p><ul><li><p>Increase their Dexterity modifier to +4 and their Wisdom modifier to +3.</p></li><li><p>Increase their proficiency rank in Fortitude saves and Reflex saves to expert.</p></li><li><p>Increase their shortbow Strike damage dice from 1d6 to 2d6.</p></li><li><p>When a creature takes damage from a sharpshooter's ranged Strike, it takes a –5-foot circumstance penalty to its Speeds for 1 round, or a –10-foot circumstance penalty if the attack was a critical hit.</p></li></ul><p><strong>Veteran Advancement</strong> When the scout becomes a veteran follower:</p><ul><li><p>Increase their Constitution modifier to +2, their Intelligence modifier to +1, and their Charisma modifier to +2.</p></li><li><p>Increase their item bonus to AC to +2.</p></li><li><p>Increase their proficiency rank in Perception to expert.</p></li><li><p>Increase their proficiency rank in Acrobatics, Hunting Lore, and Stealth to expert. They also become an expert in Intimidation.</p></li><li><p>Increase their proficiency rank in their shortbow Strikes to expert, and give them a +1 item bonus to attack rolls with their shortbow Strikes. Their Strikes deal 2 additional damage and become magical for the purposes of ignoring resistances.</p></li><li><p>When the sharpshooter Takes Aim, they also ignore the target's concealment.</p></li></ul><p><strong>Exceptional Advancement</strong> When the sharpshooter becomes an exceptional follower:</p><ul><li><p>Increase their Dexterity modifier to +5, their Constitution modifier to +3, their Wisdom modifier to +4, and their Charisma modifier to +3.</p></li><li><p>Increase their item bonus to AC to +3.</p></li><li><p>Increase their proficiency rank in Reflex saves and Will saves to master and their proficiency rank in Fortitude saves to expert. Give them a +1 item bonus to all saving throws.</p></li><li><p>Increase their proficiency rank in Acrobatics to master.</p></li><li><p>Increase their item bonus to attack rolls with their shortbow Strikes to +2. Increase their shortbow Strike damage dice from 2d6 to 3d6 and increase the additional damage that their shortbow Strikes deal from 2 to 4.</p></li><li><p>The sharpshooter learns @UUID[Compendium.pf2e-animal-companions.AC-Features.Item.Xl8aFEzCXaG3L68D]{Following Shot}.</p></li></ul>"
+      },
+      "rules": {
+        "11": {
+          "text": {
+            "translate": "COMP.SpecificRule.Follower.ExperiencedAdvancement.Sharpshooter.Note",
+            "original": "COMP.SpecificRule.Follower.ExperiencedAdvancement.Sharpshooter.Note"
+          }
+        },
+        "19": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "20": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "22": {
+          "text": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Sharpshooter.Note",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Sharpshooter.Note"
+          }
+        },
+        "28": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Shieldbearer": {
+      "_id": "HO6R7mNIBU6LgJpo",
+      "name": {
+        "translate": "Щитоносець",
+        "original": "Shieldbearer"
+      },
+      "description": {
+        "translate": "<p>Цей амбітний охоронець може навчитися відбивати найруйнівніші удари.</p><p><strong>Ближній бій</strong> <span class=\"pf2-icon\">1</span> довгий меч (універсальна P), <strong>Шкода</strong> 1d8 рубляча</p><p><strong>Ближній бій</strong> <span class=\"pf2-icon\">1</span> щитова голівка, <strong>Шкода</strong> 1d6 дробляча</p><p><strong>Сила</strong> +3, <strong>Спритність</strong> +1, <strong>Витривалість</strong> +2, <strong>Інтелект</strong> +0, <strong>Мудрість</strong> +1, <strong>Харизма</strong> +0</p><p><strong>Очки здоров'я</strong> 8</p><p><strong>Обладунки набору</strong> бонус предмета +5, обмеження на Спритність +1</p><p><strong>Навички</strong> Атлетика, Виживання, Знання війни</p><p><strong>Здібність послідовника</strong> Щитоносець носить щит (Міцність 5, ЗС 20, ВТ 10). Вони можуть Підняти щит, щоб отримати +2 обставинний бонус до КЗ. Щитоносець також отримує реакцію при Керуванні. Якщо ця реакція не використана до початку вашого наступного ходу, вона втрачається. Нарешті, вони отримують прийом Блок щитом.</p><p><strong>Особливе</strong> Щитоносець отримує штраф –5 футів до швидкості через важкі обладунки.</p><p><strong>Покращення досвідченості</strong> Коли щитоносець стає досвідченим послідовником:</p><ul><li>Збільшіть їх модифікатор Сили до +4 і модифікатор Витривалості до +3.</li><li>Підвищте їх ранг володіння у спасбігах Стійкості та Волі до експерта.</li><li>Збільшіть шкоду їхніх ударів зброєю з одного кубика до двох кубиків (наприклад, з 1d8 до 2d8).</li><li>Покращте характеристики їхнього щита до Міцності 6, ЗС 40 і ВТ 20.</li><li><p>Щитоносець може захищати вас. Коли щитоносець підняв щит, він може використати реакцію Блок щитом, коли по вас завдають атаки, якщо він стоїть поруч. Якщо він це робить, щит запобігає отриманню вами шкоди до Міцності щита, але ви і щит отримуєте будь-яку залишкову шкоду згідно з нормальними правилами Блоку щитом.</p></li></ul><p><strong>Покращення ветерана</strong> Коли щитоносець стає ветераном послідовником:</p><ul><li>Збільшіть їх модифікатор Витривалості до +4, модифікатор Інтелекту до +1 і модифікатор Мудрості до +2.</li><li>Підвищте бонус предмета до КЗ до +6. Їх обладунки отримують рису бастіону.</li><li>Підвищте їх ранг володіння у Сприйнятті до експерта.</li><li>Підвищте їх ранг володіння в Атлетиці, Виживанні та Знанні війни до експерта. Вони стають експертами у Ремеслі і додають набір для ремонту до свого спорядження.</li><li>Підвищте їх ранг володіння ударами зброєю до експерта і дайте +1 бонус предмета до кидків атаки ударами зброєю. Їхні удари зброєю завдають на 2 додаткові пошкодження і стають магічними для ігнорування опору.</li><li>Покращте характеристики їхнього щита до Міцності 8, ЗС 64, ВТ 32.</li><li><p>Щитоносець тепер може захищати будь-кого. Він може використовувати Блок щитом, щоб захистити будь-якого союзника поруч, а не лише вас.</p></li></ul><p><strong>Виняткове покращення</strong> Коли щитоносець стає винятковим послідовником:</p><ul><li>Збільшіть їх модифікатор Сили до +5, Спритності до +2, Інтелекту до +2 і Мудрості до +3.</li><li>Підвищте бонус предмета до КЗ до +7.</li><li>Підвищте їх ранг володіння у спасбігах Стійкості та Волі до майстра, а у спасбігах Рефлексу до експерта. Дайте +1 бонус предмета до всіх спасбігів.</li><li>Підвищте їх ранг володіння в Атлетиці до майстра. Вони стають експертами в Акробатиці.</li><li>Підвищте бонус предмета до кидків атаки їхньою зброєю до +2. Збільшіть шкоду їхніх ударів зброєю з двох кубиків до трьох (наприклад, з 2d8 до 3d8) і збільште додаткову шкоду з 2 до 4.</li><li>Покращте характеристики їхнього щита до Міцності 10, ЗС 100, ВТ 50.</li><li><p>Щитоносець отримує додаткову реакцію при Керуванні, яку можна використовувати лише для Блоку щитом, щоб захистити себе.</p></li></ul>",
+        "original": "<p>This aspiring bodyguard can learn to deflect the most devastating of blows.</p><p><strong>Melee</strong> <span class=\"pf2-icon\">1</span> longsword (versatile P), <strong>Damage</strong> 1d8 slashing</p><p><strong>Melee</strong> <span class=\"pf2-icon\">1</span> shield boss, <strong>Damage</strong> 1d6 bludgeoning</p><p><strong>Str</strong> +3, <strong>Dex</strong> +1, <strong>Con</strong> +2, <strong>Int</strong> +0, <strong>Wis</strong> +1, <strong>Cha</strong> +0</p><p><strong>Hit Points</strong> 8</p><p><strong>Kit Armor</strong> item bonus +5, Dex cap +1</p><p><strong>Skills</strong> Athletics, Survival, Warfare Lore</p><p><strong>Follower Ability</strong> A shieldbearer carries a shield (Hardness 5, HP 20, BT 10). They can Raise the Shield to gain a +2 circumstance bonus to AC. The shieldbearer also gains a reaction when Directed. If this reaction isn't spent before the beginning of your next turn, it is lost. Finally, they gain the Shield Block feat.</p><p><strong>Special</strong> A shieldbearer takes a –5-foot penalty to their Speeds from their heavy armor.</p><p><strong>Experienced Advancement</strong> When the shieldbearer becomes an experienced follower:</p><ul><li>Increase their Strength modifier to +4 and their Constitution modifier to +3.</li><li>Increase their proficiency rank in Fortitude and Will saves to expert.</li><li>Increase their weapons' Strike damage from one die to two dice (for instance 1d8 to 2d8).</li><li>Increase their shield's statistics to Hardness 6, HP 40, and BT 20.</li><li><p>The shieldbearer can defend you. When the shieldbearer has their shield raised, they can use their Shield Block reaction when an attack is made against you as long as they are adjacent to you. If they do, the shield prevents you from taking damage up to the shield's Hardness, but you and the shield each take any remaining damage, following the normal rules for Shield Block.</p></li></ul><p><strong>Veteran Advancement</strong> When the shieldbearer becomes a veteran follower:</p><ul><li>Increase their Constitution modifier to +4, their Intelligence modifier to +1, and their Wisdom modifier to +2.</li><li>Increase their item bonus to AC to +6. Their armor gains the bulwark trait.</li><li>Increase their proficiency rank in Perception to expert.</li><li>Increase their proficiency rank in Athletics, Survival, and Warfare Lore to expert. They become an expert in Crafting and add a repair toolkit to their kit.</li><li>Increase their proficiency rank in weapon Strikes to expert, and give them a +1 item bonus to attack rolls with their weapon Strikes. Their weapon Strikes deal 2 additional damage and become magical for the purposes of ignoring resistances.</li><li>Increase their shield's statistics to Hardness 8, HP 64, BT 32.</li><li><p>The shieldbearer can now defend anyone. The shieldbearer can use Shield Block to protect any adjacent ally, not just you.</p></li></ul><p><strong>Exceptional Advancement</strong> When the shieldbearer becomes an exceptional follower:</p><ul><li>Increase their Strength modifier to +5, their Dexterity modifier to +2, their Intelligence modifier to +2, and their Wisdom modifier to +3.</li><li>Increase their item bonus to AC to +7.</li><li>Increase their proficiency rank in Fortitude saves and Will saves to master, and their proficiency rank in Reflex saves to expert. Give them a +1 item bonus to all saving throws.</li><li>Increase their proficiency rank in Athletics to master. They become an expert in Acrobatics.</li><li>Increase their item bonus to attack rolls with their listed weapon Strikes to +2. Increase their weapon Strike damage from two dice to three dice (for instance, 2d8 to 3d8) and increase the additional damage that their weapon Strikes deal from 2 to 4.</li><li>Increase their shield's statistics to Hardness 10, HP 100, BT 50.</li><li><p>The shieldbearer gains an additional reaction when Directed, which the shieldbearer can use only to Shield Block to protect themself.</p></li></ul>"
+      },
+      "rules": {
+        "3": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.Shieldbearer.MartialProficiency",
+            "original": "COMP.SpecificRule.Follower.Shieldbearer.MartialProficiency"
+          }
+        },
+        "9": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.KitArmor.Label",
+            "original": "COMP.SpecificRule.Follower.KitArmor.Label"
+          }
+        },
+        "23": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.Shieldbearer.MartialProficiency",
+            "original": "COMP.SpecificRule.Follower.Shieldbearer.MartialProficiency"
+          }
+        },
+        "24": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "25": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.VeteranAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.VeteranAdvancement.Label"
+          }
+        },
+        "34": {
+          "label": {
+            "translate": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label",
+            "original": "COMP.SpecificRule.Follower.ExceptionalAdvancement.Label"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-unknown",
+          "rarity-common",
+          "type-class"
+        ]
+      }
+    },
+    "Veteran Advancement": {
+      "_id": "TtGZS1qWyw25EXNC",
+      "name": {
+        "translate": "Покращення ветерана",
+        "original": "Veteran Advancement"
+      },
+      "description": {
+        "translate": "<p>Ваш досвідчений послідовник стає ветераном.</p>",
+        "original": "<p>Your experienced follower becomes a veteran follower.</p>"
+      },
+      "_meta": {
+        "lastVersion": "7.6.2",
+        "tags": [
+          "level-8",
+          "rarity-common",
+          "type-feat",
+          "feat-ancestryfeature"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "feat-ancestryfeature",
+    "level-1",
+    "level-14",
+    "level-4",
+    "level-8",
+    "level-unknown",
+    "rarity-common",
+    "rarity-unknown",
+    "type-class",
+    "type-feat",
+    "type-item"
+  ]
+}

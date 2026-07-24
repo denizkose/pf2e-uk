@@ -1,0 +1,1085 @@
+{
+  "entries": {
+    "Blinded": {
+      "_id": "XgEqL1kFApUbl5Z2",
+      "name": {
+        "translate": "Осліплений",
+        "original": "Blinded"
+      },
+      "description": {
+        "translate": "<p>Ви не бачите. Уся звичайна місцевість для вас є складною місцевістю. Ви не можете виявити нічого за допомогою зору. Ви автоматично критично провалюєтесь у перевірках Сприйняття, які вимагають наявності зору, і якщо зір є вашим єдиним точним чуттям, ви отримуєте штраф стану –4 до перевірок Сприйняття. Ви маєте імунітет до візуальних ефектів. Осліплений скасовує @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Засліплений}.</p>",
+        "original": "<p>You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail Perception checks that require you to be able to see, and if vision is your only precise sense, you take a –4 status penalty to Perception checks. You are immune to visual effects. Blinded overrides @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-senses"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Broken": {
+      "_id": "6dNUvdb1dhToNDj3",
+      "name": {
+        "translate": "Зламаний",
+        "original": "Broken"
+      },
+      "description": {
+        "translate": "<p>Зламаний — це стан, який впливає лише на предмети. Предмет є зламаним, коли шкода зменшила його ОЗ до значення, що дорівнює або менше його ПП (Поріг поломки). Зламаний предмет не можна використовувати за його звичайним призначенням, і він не надає бонусів — за винятком обладунків. Зламані обладунки все ще надають свій бонус предмета до КЗ, але також накладають штраф стану до КЗ&nbsp;залежно від категорії: –1 для зламаних легких обладунків, –2 для зламаних середніх обладунків або –3 для зламаних важких обладунків.</p>\n<p>Зламаний предмет все ще накладає штрафи та обмеження, які зазвичай виникають при його носінні, триманні або використанні. Наприклад, зламані обладунки все одно накладатимуть обмеження на модифікатор Спритності, штраф до перевірок тощо. Якщо ефект робить предмет зламаним автоматично, а предмет має більше ОЗ, ніж його ПП, цей ефект також зменшує поточні ОЗ предмета до ПП.</p>",
+        "original": "<p>Broken is a condition that affects only objects. An object is broken when damage has reduced its Hit Points to equal or less than its Broken Threshold. A broken object can't be used for its normal function, nor does it grant bonuses—with the exception of armor. Broken armor still grants its item bonus to AC, but it also imparts a status penalty to AC depending on its category: –1 for broken light armor, –2 for broken medium armor, or –3 for broken heavy armor.</p>\n<p>A broken item still imposes penalties and limitations normally incurred by carrying, holding, or wearing it. For example, broken armor would still impose its Dexterity modifier cap, check penalty, and so forth. If an effect makes an item broken automatically and the item has more HP than its Broken Threshold, that effect also reduces the item's current HP to the Broken Threshold.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Clumsy": {
+      "_id": "i3OJZU2nk64Df3xm",
+      "name": {
+        "translate": "Незграбний",
+        "original": "Clumsy"
+      },
+      "description": {
+        "translate": "<p>Ваші рухи стають незграбними та неточними. Стан «Незграбний» завжди включає значення. Ви отримуєте штраф стану, що дорівнює значенню стану, до перевірок і КС, заснованих на Спритності, включаючи КЗ, спаскидки Рефлексів, перевірки дальнобійних атак&nbsp; і перевірки навичок з використанням Акробатики, Скритності та Злодійства.</p>",
+        "original": "<p>Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based rolls and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-abilities"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Concealed": {
+      "_id": "DmAIPqOBomZ7H95W",
+      "name": {
+        "translate": "Прихований",
+        "original": "Concealed"
+      },
+      "description": {
+        "translate": "<p>Вас важко побачити одній або кільком істотам через густий туман або іншу перешкоду. Ви можете бути прихованим для одних істот, але не бути прихованим для інших. Будучи прихованим, ви все ще можете бути @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Поміченими}, але вас важче обрати ціллю. Істота, від якої ви приховані, повинна успішно пройти @Check[flat|showDC:all|dc:5], коли обирає вас ціллю для атаки, заклинання чи іншого ефекту. Якщо перевірка провалена, ви не отримуєте ефекту. Ефекти зони не підпадають під цю плоску перевірку.</p>",
+        "original": "<p>You are difficult for one or more creatures to see due to thick fog or some other obscuring feature. You can be concealed to some creatures but not others. While concealed, you can still be @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed}, but you're tougher to target. A creature that you're concealed from must succeed at a @Check[flat|showDC:all|dc:5] when targeting you with an attack, spell, or other effect. If the check fails, you aren't affected. Area effects aren't subject to this flat check.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-senses"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Confused": {
+      "_id": "yblD8fOR1J8rDwEQ",
+      "name": {
+        "translate": "Спантеличений",
+        "original": "Confused"
+      },
+      "description": {
+        "translate": "<p>Ви втратили глузд і атакуєте без розбору. Ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька}, ви нікого не вважаєте своїм союзником (хоча вони все ще можуть вважати вас своїм), і ви не можете затримувати, готувати або використовувати реакції.</p>\n<p>Ви витрачаєте всі свої дії на Удари або використання атакуючих кантріпів, хоча Майстер може змусити вас використовувати інші дії для сприяння атаці, наприклад, дістати зброю, переміститися так, щоб ціль була в межах досяжності, тощо. Ваші цілі визначаються Майстром випадковим чином. Якщо у вас немає інших життєздатних цілей, ви обираєте ціллю себе, автоматично влучаючи, але не завдаючи критичного удару. Якщо ви не можете атакувати або використовувати заклинання, ви незв'язно бурмочете, витрачаючи свої дії даремно.</p>\n<p>Кожного разу, коли ви отримуєте шкоду від атаки або заклинання, ви можете спробувати @Check[flat|showDC:all|dc:11], щоб оговтатися від спантеличеності та завершити цей стан.</p>",
+        "original": "<p>You don't have your wits about you, and you attack wildly. You are @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}, you don't treat anyone as your ally (though they might still treat you as theirs), and you can't Delay, Ready, or use reactions.</p>\n<p>You use all your actions to Strike or cast offensive cantrips, though the GM can have you use other actions to facilitate attack, such as draw a weapon, move so target is in reach, and so forth. Your targets are determined randomly by the GM. If you have no other viable targets, you target yourself, automatically hitting but not scoring a critical hit. If it's impossible for you to attack or cast spells, you babble incoherently, wasting your actions.</p>\n<p>Each time you take damage from an attack or spell, you can attempt a @Check[flat|showDC:all|dc:11] to recover from your confusion and end the condition.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Controlled": {
+      "_id": "9qGBRpbX9NEwtAAr",
+      "name": {
+        "translate": "Підконтрольний",
+        "original": "Controlled"
+      },
+      "description": {
+        "translate": "<p>Вам наказали, магічно підкорили або іншим чином придушили вашу волю. Контролючий диктує, як ви дієте, і може змусити вас використовувати будь-які ваші дії, включаючи атаки, реакції або навіть @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Відкласти}. Контролеру зазвичай не потрібно витрачати власні дії, коли він контролює вас.</p>",
+        "original": "<p>You have been commanded, magically dominated, or otherwise had your will subverted. The controller dictates how you act and can make you use any of your actions, including attacks, reactions, or even @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Delay}. The controller usually doesn't have to spend their own actions when controlling you.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Cursebound": {
+      "_id": "zXZjC8HLaRoLR17U",
+      "name": {
+        "translate": "Скутий прокляттям",
+        "original": "Cursebound"
+      },
+      "description": {
+        "translate": "<p>Ваше оракульське прокляття стискається навколо вас, коли ви отримуєте божественну кару після надмірного використання сил вашої таємниці. « Скутий прокляттям» — це стан, який впливає лише на істот з оракульським прокляттям, і він завжди включає значення. Ваше специфічне оракульське прокляття накладає унікальні негативні ефекти залежно від вашого значення прокляття. Ви можете зняти стан «Проклятий» лише шляхом Перефокусування.</p>",
+        "original": "<p>Your oracular curse is constricting around you as you receive divine punishment after drawing too deeply on your mystery's powers. Cursebound is a condition that affects only creatures with an oracular curse, and cursebound always includes a value. Your specific oracular curse imposes unique negative effects depending on your cursebound value. You can remove the cursebound condition only by Refocusing.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-abilities"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Dazzled": {
+      "_id": "TkIyaNPgTZFBCCuh",
+      "name": {
+        "translate": "Засліплений",
+        "original": "Dazzled"
+      },
+      "description": {
+        "translate": "<p>Ваші очі перестимульовані або ваш зір пливе. Якщо зір є вашим єдиним точним чуттям, усі істоти та предмети є @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Прихованими} для вас.</p>",
+        "original": "<p>Your eyes are overstimulated or your vision is swimming. If vision is your only precise sense, all creatures and objects are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} from you.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-senses"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Deafened": {
+      "_id": "9PR9y0bi4JPKnHPR",
+      "name": {
+        "translate": "Оглухлий",
+        "original": "Deafened"
+      },
+      "description": {
+        "translate": "<p>Ви не чуєте. Ви автоматично критично провалюєтесь у перевірках Сприйняття, які вимагають наявності слуху. Ви отримуєте штраф стану –2 до перевірок Сприйняття для ініціативи та перевірок, які включають звук, але також покладаються на інші чуття. Якщо ви виконуєте дію, яка має ознаку «аудіальна», ви повинні успішно пройти @Check[flat|showDC:all|dc:5], інакше дія втрачається; робіть перевірку після витрати дії, але до того, як будуть застосовані будь-які ефекти. Ви маєте імунітет до аудіальних ефектів, поки ви оглухлі.</p>",
+        "original": "<p>You can't hear. You automatically critically fail Perception checks that require you to be able to hear. You take a –2 status penalty to Perception checks for initiative and checks that involve sound but also rely on other senses. If you perform an action that has the auditory trait, you must succeed at a @Check[flat|showDC:all|dc:5] or the action is lost; attempt the check after spending the action but before any effects are applied. You are immune to auditory effects while deafened.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-senses"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Doomed": {
+      "_id": "3uh1r86TzbQvosxv",
+      "name": {
+        "translate": "Приречений",
+        "original": "Doomed"
+      },
+      "description": {
+        "translate": "<p>Ваша душа охоплена могутньою силою, яка наближає вас до смерті. «Приречений» завжди включає значення. Значення @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying}, при якому ви помираєте, зменшується на ваше значення приреченості. Якщо ваше максимальне значення вмирання зменшується до 0, ви миттєво помираєте. Коли ви помираєте, ви більше не є приреченим.</p>\n<p>Ваше значення приреченості зменшується на 1 кожного разу, коли ви повноцінно відпочиваєте вночі.</p>",
+        "original": "<p>Your soul has been gripped by a powerful force that calls you closer to death. Doomed always includes a value. The @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying} value at which you die is reduced by your doomed value. If your maximum dying value is reduced to 0, you instantly die. When you die, you're no longer doomed.</p>\n<p>Your doomed value decreases by 1 each time you get a full night's rest.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-death"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Drained": {
+      "_id": "4D2KBtexWXa6oUMR",
+      "name": {
+        "translate": "Виснажений",
+        "original": "Drained"
+      },
+      "description": {
+        "translate": "<p>Ваше здоров'я та життєва сила вичерпані через втрату крові, життєвої енергії або іншої сутності. «Виснажений» завжди включає значення. Ви отримуєте штраф стану, що дорівнює вашому значенню виснаження, до перевірок і КC кидків заснованих на Статурі, таких як спаскидки Стійкості. Ви також втрачаєте ОЗ в кількості що дорівнює вашому рівню (мінімум 1), помноженому на значення виснаження, і ваші максимальні ОЗ зменшуються на таке саме значення. Наприклад, якщо ви стаєте виснаженим 3 і ви персонаж 3-го рівня, ви втрачаєте 9 ОЗ і зменшуєте свої максимальні ОЗ на 9. Втрата цих ОЗ не вважається отриманням шкоди.</p>\n<p>Кожного разу, коли ви повноцінно відпочиваєте вночі, ваше значення виснаження зменшується на 1. Це збільшує ваші максимальні ОЗ, але ви не відновлюєте втрачені ОЗ негайно.</p>",
+        "original": "<p>Your health and vitality have been depleted as you've lost blood, life force, or some other essence. Drained always includes a value. You take a status penalty equal to your drained value on Constitution-based rolls and DCs, such as Fortitude saves. You also lose a number of Hit Points equal to your level (minimum 1) times the drained value, and your maximum Hit Points are reduced by the same amount. For example, if you become drained 3 and you're a 3rd-level character, you lose 9 Hit Points and reduce your maximum Hit Points by 9. Losing these Hit Points doesn't count as taking damage.</p>\n<p>Each time you get a full night's rest, your drained value decreases by 1. This increases your maximum Hit Points, but you don't immediately recover the lost Hit Points.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-abilities"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Dying": {
+      "_id": "yZRUzMqrMmfLu0V1",
+      "name": {
+        "translate": "Вмираючий",
+        "original": "Dying"
+      },
+      "description": {
+        "translate": "<p>Ви стікаєте кров'ю або перебуваєте на порозі смерті. Поки у вас є цей стан, ви @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Непритомний}. «Вмираючий» завжди включає значення, і якщо воно досягає 4, ви помираєте. Коли ви вмираєте, ви повинні спробувати перевірку відновлення на початку свого ходу кожного раунду, щоб визначити, чи стає вам краще, чи гірше. Ваш стан \"Вмираючий\" збільшується на 1, якщо ви отримуєте шкоду під час вмирання, або на 2, якщо ви отримуєте шкоду від критичного удару ворога або критичного провалу вашого спаскидка.</p>\n<p>Якщо ви втрачаєте стан \"Вмираючий\", успішно пройшовши перевірку відновлення, і все ще маєте 0 ОЗ, ви залишаєтеся непритомним, але можете прокинутися, як описано в цьому стані. Ви автоматично втрачаєте стан \"Вмираючий\" і прокидаєтеся, якщо у вас стає 1 ОЗ або більше. Щоразу, коли ви втрачаєте стан \"Вмираючий\", ви отримуєте стан @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Поранений 1} або збільшуєте значення свого стану \"Поранений\" на 1, якщо у вас вже є цей стан.</p>",
+        "original": "<p>You are bleeding out or otherwise at death's door. While you have this condition, you are @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}. Dying always includes a value, and if it ever reaches dying 4, you die. When you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.</p>\n<p>If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 1} condition, or increase your wounded condition value by 1 if you already have that condition.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-death"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Encumbered": {
+      "_id": "D5mg6Tc7Jzrj6ro7",
+      "name": {
+        "translate": "Перевантажений",
+        "original": "Encumbered"
+      },
+      "description": {
+        "translate": "<p>Ви несете більше ваги, ніж можете впоратися. Поки ви \"Перевантажений\", ви @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Незграбний 1} і отримуєте штраф –10 футів до всіх ваших Швидкостей. Як і у випадку з усіма штрафами до Швидкості, це не може зменшити вашу Швидкість нижче 5 футів.</p>",
+        "original": "<p>You are carrying more weight than you can manage. While you're encumbered, you're @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Enfeebled": {
+      "_id": "MIRkyAjyBeXivMa7",
+      "name": {
+        "translate": "Ослаблений",
+        "original": "Enfeebled"
+      },
+      "description": {
+        "translate": "<p>Ви фізично ослаблені. \"Ослаблений\" завжди включає значення. Коли ви \"Ослаблений\", ви отримуєте штраф стану, що дорівнює значенню стану, до перевірок і КС, заснованих на Силі, включаючи перевірки атак ближнього бою на основі Сили, перевірки шкоди на основі Сили та перевірки Атлетики.</p>",
+        "original": "<p>You're physically weakened. Enfeebled always includes a value. When you are enfeebled, you take a status penalty equal to the condition value to Strength-based rolls and DCs, including Strength-based melee attack rolls, Strength-based damage rolls, and Athletics checks.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-abilities"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Fascinated": {
+      "_id": "AdPVz7rbaVSRxHFg",
+      "name": {
+        "translate": "Зачарований",
+        "original": "Fascinated"
+      },
+      "description": {
+        "translate": "<p>Ви змушені зосередити свою увагу на чомусь, що відволікає вас від усього іншого, що відбувається навколо. Ви отримуєте штраф стану –2 до Сприйняття та перевірок навичок, і ви не можете використовувати дії з ознакою \"Концентрація\", якщо вони (або їхні передбачувані наслідки) не пов'язані з предметом вашого захоплення, як визначено Майстром. Наприклад, ви можете @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Шукати} і @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Пригадати Знання} про предмет, але ви, ймовірно, не змогли б застосувати заклинання, спрямоване на іншу істоту. Цей стан закінчується, якщо істота вчиняє ворожі дії проти вас або будь-кого з ваших союзників.</p>",
+        "original": "<p>You're compelled to focus your attention on something, distracting you from whatever else is going on around you. You take a –2 status penalty to Perception and skill checks, and you can't use concentrate actions unless they (or their intended consequences) are related to the subject of your fascination, as determined by the GM. For instance, you might be able to @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} and @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge} about the subject, but you likely couldn't cast a spell targeting a different creature. This condition ends if a creature uses hostile actions against you or any of your allies.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Fatigued": {
+      "_id": "HL2l2VRSaQHu9lUw",
+      "name": {
+        "translate": "Втомлений",
+        "original": "Fatigued"
+      },
+      "description": {
+        "translate": "<p>Ви втомилися і не маєте достатньо багато енергії. Ви отримуєте штраф стану –1 до КЗ&nbsp;і спаскидків. Ви не можете використовувати дослідницькі дії, що виконуються під час подорожі.</p>\n<p>Ви відновлюєтеся після втоми після повноцінного нічного відпочинку.</p>",
+        "original": "<p>You're tired and can't summon much energy. You take a –1 status penalty to AC and saving throws. You can't use exploration activities performed while traveling.</p>\n<p>You recover from fatigue after a full night's rest.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Fleeing": {
+      "_id": "sDPxOjQ9kx2RZE8D",
+      "name": {
+        "translate": "Втікаючий",
+        "original": "Fleeing"
+      },
+      "description": {
+        "translate": "<p>Ви змушені тікати через страх або інший примус. У свій хід ви повинні витратити кожну зі своїх дій, намагаючись якомога швидше втекти від джерела стану (наприклад, використовуючи дії переміщення, щоб втекти, або відкриваючи двері, що перегороджують ваш шлях). Джерелом зазвичай є ефект або істота, яка наклала на вас цей стан, хоча деякі ефекти можуть визначати щось інше як джерело. Ви не можете @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Відкласти} або @UUID[Compendium.pf2e.actionspf2e.Item.dLgAMt3TbkmLkUqE]{Приготуватися}, поки тікаєте.</p>",
+        "original": "<p>You're forced to run away due to fear or some other compulsion. On your turn, you must spend each of your actions trying to escape the source of the fleeing condition as expediently as possible (such as by using move actions to flee, or opening doors barring your escape). The source is usually the effect or creature that gave you the condition, though some effects might define something else as the source. You can't @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Delay} or @UUID[Compendium.pf2e.actionspf2e.Item.dLgAMt3TbkmLkUqE]{Ready} while fleeing.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Friendly": {
+      "_id": "v66R7FdOf11l94im",
+      "name": {
+        "translate": "Дружній",
+        "original": "Friendly"
+      },
+      "description": {
+        "translate": "<p>Цей стан відображає ставлення істоти до певного персонажа, і лише надприродні ефекти (як-от заклинання) можуть накласти цей стан на персонажа гравця. Істота, яка дружньо ставиться до персонажа, симпатизує йому. Вона, швидше за все, погодиться на @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Прохання} від цього персонажа, якщо воне просте, безпечне та не вимагає надто великих витрат. Якщо персонаж (або один з його союзників) вчиняє ворожі дії проти істоти, істота отримує гірший стан ставлення залежно від тяжкості ворожої дії, як визначено Майстром.</p>",
+        "original": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose this condition on a PC. A creature that is friendly to a character likes that character. It is likely to agree to @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests} from that character as long as they are simple, safe, and don't cost too much to fulfill. If the character (or one of their allies) uses hostile actions against the creature, the creature gains a worse attitude condition depending on the severity of the hostile action, as determined by the GM.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-attitudes"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Frightened": {
+      "_id": "TBSHQspnbcqxsmjL",
+      "name": {
+        "translate": "Наляканий",
+        "original": "Frightened"
+      },
+      "description": {
+        "translate": "<p>Ви охоплені страхом і намагаєтеся контролювати свої нерви. Стан «Наляканий» завжди включає значення. Ви отримуєте штраф стану, що дорівнює цьому значенню, до всіх ваших перевірок і КС. Якщо не вказано інше, наприкінці кожного вашого ходу значення вашого стану \"Наляканий\" зменшується на 1.</p>",
+        "original": "<p>You're gripped by fear and struggle to control your nerves. The frightened condition always includes a value. You take a status penalty equal to this value to all your checks and DCs. Unless specified otherwise, at the end of each of your turns, the value of your frightened condition decreases by 1.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Grabbed": {
+      "_id": "kWc1fhmv9LBiTuei",
+      "name": {
+        "translate": "Схоплений",
+        "original": "Grabbed"
+      },
+      "description": {
+        "translate": "<p>Ви утримуєтеся на місці іншою істотою, що дає вам стани @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька} та @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомлений}. Якщо ви намагаєтеся виконати дію з ознакою маніпуляції, будучи схопленим, ви повинні успішно пройти @Check[flat|showDC:all|dc:5], інакше вона втрачається; киньте цю перевірку після витрати дії, але до того, як будуть застосовані будь-які ефекти.</p>",
+        "original": "<p>You're held in place by another creature, giving you the @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} and @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} conditions. If you attempt a manipulate action while grabbed, you must succeed at a @Check[flat|showDC:all|dc:5] or it is lost; roll the check after spending the action, but before any effects are applied.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Helpful": {
+      "_id": "v44P3WUcU1j0115l",
+      "name": {
+        "translate": "Прихильний",
+        "original": "Helpful"
+      },
+      "description": {
+        "translate": "<p>Цей стан відображає ставлення істоти до певного персонажа, і лише надприродні ефекти (як-от заклинання) можуть накласти цей стан на персонажа гравця. Істота, яка прихильно ставиться до персонажа, бажає активно допомагати йому. Вона прийме розумні @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Прохання} від цього персонажа, якщо такі прохання не йдуть на шкоду цілям або якості життя прихильної істоти. Якщо персонаж (або один з його союзників) вчиняє ворожу дію проти істоти, істота отримує гірший стан ставлення залежно від тяжкості ворожої дії, як визначено Майстром.</p>",
+        "original": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose this condition on a PC. A creature that is helpful to a character wishes to actively aid that character. It will accept reasonable @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests} from that character, as long as such requests aren't at the expense of the helpful creature's goals or quality of life. If the character (or one of their allies) uses a hostile action against the creature, the creature gains a worse attitude condition depending on the severity of the hostile action, as determined by the GM.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-attitudes"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Hidden": {
+      "_id": "iU0fEDdBp3rXpTMC",
+      "name": {
+        "translate": "Схований",
+        "original": "Hidden"
+      },
+      "description": {
+        "translate": "<p>Поки ви сховані від істоти, ця істота знає простір, у якому ви перебуваєте, але не може точно сказати, де ви. Ви зазвичай стаєте прихованим, використовуючи Скритність, щоб @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Сховатись}. Коли @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Шукають} істоту, використовуючи лише неточні чуття, вона залишається схованою, а не @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Поміченою}. Істота, від якої ви сховані, є @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутою зненацька} для вас, і вона повинна успішно пройти @Check[flat|showDC:all|dc:11], коли обирає вас ціллю для атаки, заклинання чи іншого ефекту, інакше вона не зможе вплинути на вас. Ефекти зони не підпадають під цю плоску перевірку.</p>\n<p>Істота може використати дію пошуку, щоб спробувати помітити вас.</p>",
+        "original": "<p>While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using Stealth to @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}. When @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking} a creature using only imprecise senses, it remains hidden, rather than @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed}. A creature you're hidden from is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} to you, and it must succeed at a @Check[flat|showDC:all|dc:11] when targeting you with an attack, spell, or other effect or it fails to affect you. Area effects aren't subject to this flat check.</p>\n<p>A creature might be able to use the seek action to try to observe you.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-detection"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Hostile": {
+      "_id": "ud7gTLwPeklzYSXG",
+      "name": {
+        "translate": "Ворожий",
+        "original": "Hostile"
+      },
+      "description": {
+        "translate": "<p>Цей стан відображає ставлення істоти до певного персонажа, і лише надприродні ефекти (як-от заклинання) можуть накласти його на персонажа гравця. Істота, ворожа до персонажа, активно прагне завдати йому шкоди. Вона не обов'язково атакує, але не прийме @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Прохання} від персонажа.</p>",
+        "original": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose on a PC. A creature hostile to a character actively seeks to harm that character. It doesn't necessarily attack, but it won't accept @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests} from the character.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-attitudes"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Immobilized": {
+      "_id": "eIcWbB5o3pP6OIMe",
+      "name": {
+        "translate": "Знерухомлений",
+        "original": "Immobilized"
+      },
+      "description": {
+        "translate": "<p>Ви не здатні рухатися. Ви не можете використовувати жодних дій, які мають ознаку \"Переміщення\". Якщо ви знерухомлені чимось, що утримує вас на місці, і зовнішня сила намагається перемістити вас з вашого простору, ця сила повинна успішно пройти перевірку проти КС ефекту, що утримує вас, або відповідного захисту (зазвичай КС Стійкості) монстра, що вас утримує.</p>",
+        "original": "<p>You are incapable of movement. You can't use any actions that have the move trait. If you're immobilized by something holding you in place and an external force would move you out of your space, the force must succeed at a check against either the DC of the effect holding you in place or the relevant defense (usually Fortitude DC) of the monster holding you in place.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Indifferent": {
+      "_id": "fuG8dgthlDWfWjIA",
+      "name": {
+        "translate": "Байдужий",
+        "original": "Indifferent"
+      },
+      "description": {
+        "translate": "<p>Цей стан відображає ставлення істоти до певного персонажа, і лише надприродні ефекти (як-от заклинання) можуть накласти цей стан на персонажа гравця. Істота, яка байдуже ставиться до персонажа, насправді не переймається щодо нього. Вважайте, що ставлення істоти до певного персонажа є байдужим, якщо не вказано інше.</p>",
+        "original": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose this condition on a PC. A creature that is indifferent to a character doesn't really care one way or the other about that character. Assume a creature's attitude to a given character is indifferent unless specified otherwise.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-attitudes"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Invisible": {
+      "_id": "zJxUflt9np0q4yML",
+      "name": {
+        "translate": "Невидимий",
+        "original": "Invisible"
+      },
+      "description": {
+        "translate": "<p>Вас неможливо побачити. Ви @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Невиявлений} для всіх. Істоти можуть @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Шукати}, щоб виявити вас; якщо істота успішно проходить перевірку Сприйняття проти вашого КС Скритності, ви стаєте @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Схованим} для цієї істоти, поки ви не @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Крадетесь}, щоб знову стати невиявленим. Якщо ви стаєте невидимим, коли хтось бачить вас, ви спочатку стаєте \"Схований\" для них (замість \"Невиявлений\"), поки успішно не \"Прокрадетеся\". Ви не можете стати @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Поміченим}, будучи невидимим, за винятком спеціальних здібностей або магії.</p>",
+        "original": "<p>You can't be seen. You're @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} to everyone. Creatures can @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} to detect you; if a creature succeeds at its Perception check against your Stealth DC, you become @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} to that creature until you @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak} to become undetected again. If you become invisible while someone can already see you, you start out hidden to them (instead of undetected) until you successfully Sneak. You can't become @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed} while invisible except via special abilities or magic.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-senses"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Observed": {
+      "_id": "1wQY3JYyhMYeeV2G",
+      "name": {
+        "translate": "Помічений",
+        "original": "Observed"
+      },
+      "description": {
+        "translate": "<p>Все, що знаходиться на видноті, є поміченим вами. Якщо істота вживає заходів, щоб уникнути помітності, наприклад, використовуючи Скритність, щоб @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Сховатись}, вона може стати @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Схованою} або @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Невиявленою} замість \"Помічений\". Якщо у вас є інше точне чуття, крім зору, ви можете помічати істоту або предмет за допомогою цього чуття. Ви можете помічати істоту лише своїми точними чуттями. Коли @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Шукаєте} істоту, використовуючи лише неточні чуття, вона залишається схованою, а не поміченою.</p>",
+        "original": "<p>Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using Stealth to @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Hide}, it can become @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} or @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} instead of observed. If you have another precise sense besides sight, you might be able to observe a creature or object using that sense instead. You can observe a creature with only your precise senses. When @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seeking} a creature using only imprecise senses, it remains hidden, rather than observed.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-detection"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Off-Guard": {
+      "_id": "AJh5ex99aV6VTggg",
+      "name": {
+        "translate": "Застигнутий зненацька",
+        "original": "Off-Guard"
+      },
+      "description": {
+        "translate": "<p>Ви відволікаєтеся або іншим чином не можете зосередити всю свою увагу на захисті. Ви отримуєте штраф обставин –2 до КЗ. Деякі ефекти дають вам стан «застигнутий зненацька» лише щодо певних істот або проти певних атак. Інші — особливо стани — можуть зробити вас застигнутим зненацька проти всього. Якщо правило не вказує, що стан застосовується лише за певних обставин, він застосовується до всіх, наприклад: «Ціль застигнута зненацька».</p>",
+        "original": "<p>You're distracted or otherwise unable to focus your full attention on defense. You take a –2 circumstance penalty to AC. Some effects give you the off-guard condition only to certain creatures or against certain attacks. Others—especially conditions—can make you off-guard against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them, such as \"The target is off-guard.\"</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Paralyzed": {
+      "_id": "6uEgoh53GbXuHpTF",
+      "name": {
+        "translate": "Паралізований",
+        "original": "Paralyzed"
+      },
+      "description": {
+        "translate": "<p>Ви застигли на місці. Ви маєте стан @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька} і не можете діяти, окрім як @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Пригадати Знання} і використовувати дії, які потребують лише вашого розуму (як визначено Майстром). Ваші чуття все ще функціонують, але лише в областях, які ви можете сприймати, не рухаючись, тому ви не можете @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Шукати}.</p>",
+        "original": "<p>You're frozen in place. You have the @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} condition and can't act except to @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge} and use actions that require only your mind (as determined by the GM). Your senses still function, but only in the areas you can perceive without moving, so you can't @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Persistent Damage": {
+      "_id": "lDVqvLKA6eF3Df60",
+      "name": {
+        "translate": "Тривала шкода",
+        "original": "Persistent Damage"
+      },
+      "description": {
+        "translate": "<p>Ви отримуєте шкоду від ефекту що триває, наприклад, якщо ви загорілися. Це відображається як «X тривалої [тип] шкоди», де «X» — це кількість завданої шкоди, а «[тип]» — тип шкоди. Як і звичайна шкода, вона може бути подвоєна або зменшена вдвічі залежно від результатів перевірки атаки або спаскидка. Замість того, щоб отримувати тривалу шкоду негайно, ви отримуєте її наприкінці кожного свого ходу, поки у вас є цей стан, щоразу кидаючи знову будь-які кубики шкоди. Після того, як ви отримаєте тривалу шкоду, киньте @Check[flat|showDC:all|dc:15], щоб побачити, чи оговталися ви від тривалої шкоди. Якщо ви отримали успіх, стан закінчується.</p>",
+        "original": "<p>You are taking damage from an ongoing effect, such as from being lit on fire. This appears as \"X persistent [type] damage,\" where \"X\" is the amount of damage dealt and \"[type]\" is the damage type. Like normal damage, it can be doubled or halved based on the results of an attack roll or saving throw. Instead of taking persistent damage immediately, you take it at the end of each of your turns as long as you have the condition, rolling any damage dice anew each time. After you take persistent damage, roll a @Check[flat|showDC:all|dc:15] to see if you recover from the persistent damage. If you succeed, the condition ends.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Petrified": {
+      "_id": "dTwPJuKgBQCMxixg",
+      "name": {
+        "translate": "Скам'янілий",
+        "original": "Petrified"
+      },
+      "description": {
+        "translate": "<p>Ви перетворилися на камінь. Ви не можете діяти і нічого не відчуваєте. Ви стаєте предметом з Габаритністю, що вдвічі перевищує ваш звичайний об'єм (зазвичай 12 для скам'янілої істоти середнього розміру або 6 для скам'янілої істоти малого розміру), КЗ&nbsp;9, Твердість 8 і тими ж поточними ОЗ, які у вас були, коли ви були живі. У вас немає Порогу поломки. Коли стан скам'яніння закінчується, у вас залишається та ж кількість ОЗ, що була у вас як у статуї. Якщо статую знищено, ви миттєво помираєте. Поки ви скам'янілі, ваш розум і тіло перебувають у стазисі, тому ви не старієте і не помічаєте плину часу.</p>",
+        "original": "<p>You have been turned to stone. You can't act, nor can you sense anything. You become an object with a Bulk double your normal Bulk (typically 12 for a petrified Medium creature or 6 for a petrified Small creature), AC 9, Hardness 8, and the same current Hit Points you had when alive. You don't have a Broken Threshold. When the petrified condition ends, you have the same number of Hit Points you had as a statue. If the statue is destroyed, you immediately die. While petrified, your mind and body are in stasis, so you don't age or notice the passing of time.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Prone": {
+      "_id": "j91X7x0XSomq8d60",
+      "name": {
+        "translate": "Лежить навзнак",
+        "original": "Prone"
+      },
+      "description": {
+        "translate": "<p>Ви лежите на землі. Ви @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнуті зненацька} і отримуєте штраф обставин –2 до перевірок атак. Єдині дії переміщення, які ви можете використовувати, лежачи, — це @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{Повзти} та @UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{Встати}. Вставання закінчує стан \"навзнак\". Ви можете @UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Укритися}, лежачи, щоб пригнутися і отримати краще укриття проти дальнобійних атак, навіть якщо у вас немає предмета, за яким можна сховатися, що дає вам бонус обставин +4 до КЗ проти дальнобійних атак (але ви залишаєтеся застигнутим зненацька).</p>\n<p>Якщо вас збивають з ніг, поки ви @UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Карабкаєтесь} або @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Літаєте}, ви падаєте. Вас не можна збити навзнак, коли ви @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Плаваєте}.</p>",
+        "original": "<p>You're lying on the ground. You are @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} and take a –2 circumstance penalty to attack rolls. The only move actions you can use while you're prone are @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{Crawl} and @UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{Stand}. Standing up ends the prone condition. You can @UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Take Cover} while prone to hunker down and gain greater cover against ranged attacks, even if you don't have an object to get behind, which grants you a +4 circumstance bonus to AC against ranged attacks (but you remain off-guard).</p>\n<p>If you would be knocked prone while you're @UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Climbing} or @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Flying}, you fall. You can't be knocked prone when @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swimming}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Quickened": {
+      "_id": "nlCjDvLMf2EkV2dl",
+      "name": {
+        "translate": "Прискорений",
+        "original": "Quickened"
+      },
+      "description": {
+        "translate": "<p>Ви здатні діяти швидше. Ви отримуєте 1 додаткову дію на початку свого ходу кожного раунду. Багато ефектів, які роблять вас прискореним, вимагають, щоб ви використовували цю додаткову дію лише певним чином. Якщо ви стаєте прискореним з кількох джерел, ви можете використовувати додаткову дію, яку ви отримали, для будь-якої однієї дії, дозволеної будь-яким з ефектів, що зробили вас прискореним. Оскільки прискорення діє на початку вашого ходу, ви не отримуєте дії негайно, якщо стаєте прискореним під час свого ходу.</p>",
+        "original": "<p>You're able to act more quickly. You gain 1 additional action at the start of your turn each round. Many effects that make you quickened require you use this extra action only in certain ways. If you become quickened from multiple sources, you can use the extra action you've been granted for any single action allowed by any of the effects that made you quickened. Because quickened has its effect at the start of your turn, you don't immediately gain actions if you become quickened during your turn.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Restrained": {
+      "_id": "VcDeM8A5oI6VqhbM",
+      "name": {
+        "translate": "Обмежений",
+        "original": "Restrained"
+      },
+      "description": {
+        "translate": "<p>Ви зв'язані і ледь можете рухатися, або істота притиснула вас. Ви маєте стани @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька} та @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Знерухомлений}, і ви не можете використовувати жодних атак або дій з ознакою маніпуляція, окрім спроби @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Вирватись} або @UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Відкрити силою} щодо своїх пут. Обмежений скасовує @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Схоплений}.</p>",
+        "original": "<p>You're tied up and can barely move, or a creature has you pinned. You have the @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} and @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} conditions, and you can't use any attack or manipulate actions except to attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} or @UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open} your bonds. Restrained overrides @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Sickened": {
+      "_id": "fesd1n5eVhpCSS18",
+      "name": {
+        "translate": "Нудота",
+        "original": "Sickened"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Slowed": {
+      "_id": "xYTAsEpcJE1Ccni3",
+      "name": {
+        "translate": "Уповільнений",
+        "original": "Slowed"
+      },
+      "description": {
+        "translate": "<p>У вас менше дій. «Уповільнений» завжди включає значення. Коли ви відновлюєте свої дії, зменште кількість відновлених дій на ваше значення уповільнення. Оскільки ви відновлюєте дії на початку свого ходу, ви не втрачаєте дії негайно, якщо стаєте уповільненим під час свого ходу.</p>",
+        "original": "<p>You have fewer actions. Slowed always includes a value. When you regain your actions, reduce the number of actions regained by your slowed value. Because you regain actions at the start of your turn, you don't immediately lose actions if you become slowed during your turn.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Stunned": {
+      "_id": "dfCMdR4wnpbYNTix",
+      "name": {
+        "translate": "Оглушений",
+        "original": "Stunned"
+      },
+      "description": {
+        "translate": "<p>Ви стали безпорадними. Ви не можете діяти. Стан «Оглушений» зазвичай має значення, яке вказує на загальну кількість дій, які ви втрачаєте (можливо, протягом кількох ходів) через цей стан. Щоразу, коли ви відновлюєте дії, зменшіть кількість відновлених дій на значення вашого стану «Оглушений», а потім зменште значення цього стану на кількість втрачених дій. Наприклад, якщо ви були «Оглушений 4» , ви втратите всі 3 свої дії у свій хід, що зменшить стан до « Оглушений 1»; на наступному ході ви втратите ще 1 дію, а потім зможете використовувати 2 дії, що залишилися, як зазвичай. Стан «Оглушений» також може мати тривалість, наприклад «оглушений на 1 хвилину», через що ви втрачаєте всі свої дії протягом цього часу.</p>\n<p>Стан «Оглушений» заміщує  стан @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Уповільнений}. Якщо тривалість вашого стану «Оглушений» закінчується, поки ви перебуваєте під дією стану «Уповільнений», ви враховуєте дії, втрачені через стан «Оглушений», як частину дій, втрачених через стан «Уповільнений». Отже, якщо на початку свого ходу ви були «Оглушений 1» і «Уповільнений 2», ви втратите 1 дію через стан «Оглушений», а потім втратите лише 1 додаткову дію через стан «Уповільнений», тому у вас залишиться 1 дія, яку можна використати в цей хід.</p>",
+        "original": "<p>You've become senseless. You can't act. Stunned usually includes a value, which indicates how many total actions you lose, possibly over multiple turns, from being stunned. Each time you regain actions, reduce the number you regain by your stunned value, then reduce your stunned value by the number of actions you lost. For example, if you were stunned 4, you would lose all 3 of your actions on your turn, reducing you to stunned 1; on your next turn, you would lose 1 more action, and then be able to use your remaining 2 actions normally. Stunned might also have a duration instead, such as \"stunned for 1 minute,\" causing you to lose all your actions for the duration.</p>\n<p>Stunned overrides @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed}. If the duration of your stunned condition ends while you are slowed, you count the actions lost to the stunned condition toward those lost to being slowed. So, if you were stunned 1 and slowed 2 at the beginning of your turn, you would lose 1 action from stunned, and then lose only 1 additional action by being slowed, so you would still have 1 action remaining to use that turn.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Stupefied": {
+      "_id": "e1XGnhKNSQIm5IXg",
+      "name": {
+        "translate": "Притуплений",
+        "original": "Stupefied"
+      },
+      "description": {
+        "translate": "<p>Ваші думки та інстинкти затуманені. Стан « Притуплений» завжди має значення. Ви отримуєте штраф стану, що дорівнює цьому значенню, до перевірок та КС, що базуються на Інтелекті, Мудрості та Харизмі, включаючи спаскидки Волі, модифікатори атак заклинаннями, КС заклинань та перевірки навичок, які використовують ці модифікатори характеристик. Щоразу, коли ви намагаєтеся @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Накласти закляття}, перебуваючи в стані «Притуплений», заклинання переривається, якщо ви не досягнете успіху в @Check[flat|showDC:all|dc:resolve(5+@item.badge.value)] з КС, що дорівнює 5 + ваше значення стану «Притуплений».</p>",
+        "original": "<p>Your thoughts and instincts are clouded. Stupefied always includes a value. You take a status penalty equal to this value on Intelligence-, Wisdom-, and Charisma-based rolls and DCs, including Will saving throws, spell attack modifiers, spell DCs, and skill checks that use these attribute modifiers. Any time you attempt to @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a Spell} while stupefied, the spell is disrupted unless you succeed at a @Check[flat|showDC:all|dc:resolve(5+@item.badge.value)] with a DC equal to 5 + your stupefied value.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-abilities"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Unconscious": {
+      "_id": "fBnFDH2MTzgFijKf",
+      "name": {
+        "translate": "Непритомний",
+        "original": "Unconscious"
+      },
+      "description": {
+        "translate": "<p>Ви спите або вас вирубили. Ви не можете діяти. Ви отримуєте штраф стану –4 до КЗ, Сприйняття та спаскидків Рефлексу, а також отримуєте стани @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Осліплений} та @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька}. Коли ви отримуєте цей стан, ви падаєте @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Навзнак} і випускаєте предмети, які тримаєте, якщо ефект не вказує інше або Майстер не вирішить, що ви перебуваєте в положенні, за якого цього не станеться.</p>\n<p>Якщо ви непритомні через те, що ви @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Вмираєте}, ви не можете прокинутися, поки у вас 0 ОЗ. Якщо вас відновлено до 1 ОЗ або більше, ви втрачаєте стани «Вмираючий» та «Непритомний» і можете діяти нормально на наступному ході.</p>\n<p>Якщо ви непритомні і маєте 0 ОЗ, але не вмираєте, ви повертаєтеся до 1 ОЗ і прокидаєтеся після того, як мине достатньо часу. Майстер визначає, як довго ви залишаєтеся непритомними: від мінімум 10 хвилин до кількох годин. Якщо вас зцілили, ви втрачаєте стан «Непритомний» і можете діяти нормально на наступному ході.</p>\n<p>Якщо ви непритомні і маєте більше 1 ОЗ (зазвичай тому, що ви спите або непритомні через якийсь ефект), ви прокидаєтеся одним із наступних способів:</p>\n<ul>\n<li>Ви отримуєте шкоду, хоча якщо шкода зменшує ваші ОЗ до 0, ви залишаєтеся непритомними і отримуєте стан «Вмираючий» як зазвичай.</li>\n<li>Ви отримуєте зцілення, окрім природного зцілення, яке ви отримуєте під час відпочинку.</li>\n<li>Хтось трясе вас, щоб розбудити, за допомогою дії @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Взаємодія}.</li>\n<li>Гучний шум навколо вас може розбудити вас. На початку свого ходу ви автоматично робите перевірку Сприйняття проти КС шуму (або найнижчого КС, якщо шумів кілька), прокидаючись у разі успіху. Якщо істоти намагаються поводитися тихо навколо вас, ця перевірка Сприйняття використовує їхні КС Скритності. Деякі ефекти змушують вас спати так міцно, що не дозволяють зробити цю перевірку Сприйняття.</li>\n<li>Якщо ви просто спите, Майстер вирішує, що ви прокидаєтеся або тому, що ви добре виспалися, або тому, що щось порушило ваш відпочинок.</li>\n</ul>",
+        "original": "<p>You're sleeping or have been knocked out. You can't act. You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} and @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} conditions. When you gain this condition, you fall @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} and drop items you're holding unless the effect states otherwise or the GM determines you're positioned so you wouldn't.</p>\n<p>If you're unconscious because you're @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying}, you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more, you lose the dying and unconscious conditions and can act normally on your next turn.</p>\n<p>If you are unconscious and at 0 Hit Points, but not dying, you return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you are healed, you lose the unconscious condition and can act normally on your next turn.</p>\n<p>If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways.</p>\n<ul>\n<li>You take damage, though if the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.</li>\n<li>You receive healing, other than the natural healing you get from resting.</li>\n<li>Someone shakes you awake with an @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interact} action.</li>\n<li>Loud noise around you might wake you. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their Stealth DCs. Some effects make you sleep so deeply that they don't allow you this Perception check.</li>\n<li>If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.</li>\n</ul>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-death"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Undetected": {
+      "_id": "VRSef5y1LmL2Hkjf",
+      "name": {
+        "translate": "Невиявлений",
+        "original": "Undetected"
+      },
+      "description": {
+        "translate": "<p>Коли ви є невиявленим для істоти, ця істота взагалі не бачить вас і не має уявлення, який простір ви займаєте, через що не може обрати вас ціллю, хоча на вас все ще можуть впливати здібності, що діють на область. Коли ви є невиявленим для істоти, ця істота є @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Застигнутий зненацька} для вас.</p>\n<p>Істота, для якої ви є невиявленим, може вгадати, у якій клітинці ви перебуваєте, щоб спробувати атакувати вас. Вона повинна обрати клітинку і спробувати атаку. Це працює так само, як націлювання на @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Сховану} істоту (вимагає @Check[flat|showDC:all|dc:11|traits:secret]), але плоска перевірка на та кидок атаки здійснюються таємно Майстром, який не розкриває, чи промахнулася атака через провал плоскої перевірки, через провал кидка атаки чи через вибір неправильної клітинки. Вони можуть @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Шукати}, щоб спробувати знайти вас.</p>",
+        "original": "<p>When you are undetected by a creature, that creature can't see you at all, has no idea what space you occupy, and can't target you, though you still can be affected by abilities that target an area. When you're undetected by a creature, that creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} to you.</p>\n<p>A creature you're undetected by can guess which square you're in to try targeting you. It must pick a square and attempt an attack. This works like targeting a @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} creature (requiring a @Check[flat|showDC:all|dc:11|traits:secret]), but the flat check and attack roll are rolled in secret by the GM, who doesn't reveal whether the attack missed due to failing the flat check, failing the attack roll, or choosing the wrong square. They can @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} to try to find you.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-detection"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Unfriendly": {
+      "_id": "I1ffBVISxLr2gC4u",
+      "name": {
+        "translate": "Недружній",
+        "original": "Unfriendly"
+      },
+      "description": {
+        "translate": "<p>Цей стан відображає ставлення істоти до конкретного персонажа, і лише надприродні ефекти (наприклад, заклинання) можуть накласти цей стан на персонажа гравця. Істота, яка є недружньою до персонажа, не любить і не довіряє цьому персонажу. Недружня істота не прийматиме @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Прохання} від цього персонажа.</p>",
+        "original": "<p>This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose this condition on a PC. A creature that is unfriendly to a character dislikes and distrusts that character. The unfriendly creature won't accept @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Requests} from the character.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-attitudes"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Unnoticed": {
+      "_id": "9evPzg9E6muFcoSk",
+      "name": {
+        "translate": "Непомічений",
+        "original": "Unnoticed"
+      },
+      "description": {
+        "translate": "<p>Якщо ви є непоміченими для істоти, ця істота не має уявлення, що ви присутні. Коли ви є непоміченими, ви також є @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Невиявленим}. Це важливо для здібностей, які можна використовувати лише проти цілей, які абсолютно не підозрюють про вашу присутність.</p>",
+        "original": "<p>If you're unnoticed by a creature, that creature has no idea you're present. When you're unnoticed, you're also @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected}. This matters for abilities that can be used only against targets totally unaware of your presence.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-detection"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    },
+    "Wounded": {
+      "_id": "Yl48xTdMh3aeQYL2",
+      "name": {
+        "translate": "Поранений",
+        "original": "Wounded"
+      },
+      "description": {
+        "translate": "<p>Ви серйозно поранені. Якщо ви втрачаєте стан @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Вмираючий} і у вас ще немає стану «Поранений», ви стаєте «Поранений 1». Якщо у вас вже є стан «Поранений», коли ви втрачаєте стан «Вмираючий», значення вашого стану «Поранений» збільшується на 1. Якщо ви отримуєте стан «Вмираючий», будучи пораненими, збільште значення свого стану «Вмираючий» на значення вашого стану «Поранений».</p>\n<p>Стан «Поранений» закінчується, якщо хтось успішно відновлює вам ОЗ за допомогою @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Лікування Ран}, або якщо ви повністю відновлюєте ОЗ будь-яким способом і відпочиваєте протягом 10 хвилин.</p>",
+        "original": "<p>You have been seriously injured. If you lose the @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying} condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the dying condition while wounded, increase your dying condition value by your wounded value.</p>\n<p>The wounded condition ends if someone successfully restores Hit Points to you using @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}, or if you are restored to full Hit Points by any means and rest for 10 minutes.</p>"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-condition",
+          "condition-death"
+        ],
+        "translationWorkbench": {
+          "done": true,
+          "updatedAt": "2026-07-13T11:03:49.971Z",
+          "doneAt": "2026-07-13T11:03:49.971Z"
+        }
+      }
+    }
+  },
+  "_tags": [
+    "condition-abilities",
+    "condition-attitudes",
+    "condition-death",
+    "condition-detection",
+    "condition-senses",
+    "level-unknown",
+    "rarity-unknown",
+    "type-condition"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.conditionitems",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Item",
+    "fileMode": "updated-existing",
+    "processedAt": "2026-05-18T11:19:44.829Z",
+    "documents": 43,
+    "existingEntriesUpdated": 43,
+    "missingEntriesAdded": 0,
+    "missingFieldsAdded": 62,
+    "wrappedStrings": 86,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 1
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "entries": {
+    "Earn Income": {
+      "_id": "mxHKWibjPrgfJTDg",
+      "name": {
+        "translate": "",
+        "original": "Earn Income"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Generate Check Prompt": {
+      "_id": "jHHOV1DdYytLO5VB",
+      "name": {
+        "translate": "",
+        "original": "Generate Check Prompt"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perception for Selected Tokens": {
+      "_id": "084MOWWSEVNwpHVG",
+      "name": {
+        "translate": "",
+        "original": "Perception for Selected Tokens"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Rest for the Night": {
+      "_id": "0GU2sdy3r2MeC56x",
+      "name": {
+        "translate": "",
+        "original": "Rest for the Night"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Stealth for Selected Tokens": {
+      "_id": "yBuEphSaJJ7V9Yw3",
+      "name": {
+        "translate": "",
+        "original": "Stealth for Selected Tokens"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Take a Breather": {
+      "_id": "aS6F7PSUlS9JM5jr",
+      "name": {
+        "translate": "",
+        "original": "Take a Breather"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Toggle Compendium Browser": {
+      "_id": "s2sa8lo9dcIA6UGe",
+      "name": {
+        "translate": "",
+        "original": "Toggle Compendium Browser"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Travel Duration": {
+      "_id": "NQkc5rKoeFemdVHr",
+      "name": {
+        "translate": "",
+        "original": "Travel Duration"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Treat Wounds": {
+      "_id": "6duZj0Ygiqv712rq",
+      "name": {
+        "translate": "",
+        "original": "Treat Wounds"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "XP": {
+      "_id": "MAHxEeGf31wqv3jp",
+      "name": {
+        "translate": "",
+        "original": "XP"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "level-unknown",
+    "rarity-unknown",
+    "type-script"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.pf2e-macros",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Macro",
+    "fileMode": "created-new",
+    "processedAt": "2026-05-18T11:24:26.952Z",
+    "documents": 10,
+    "existingEntriesUpdated": 0,
+    "missingEntriesAdded": 10,
+    "missingFieldsAdded": 0,
+    "wrappedStrings": 0,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}

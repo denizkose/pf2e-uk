@@ -1,0 +1,2993 @@
+{
+  "entries": {
+    "Agyra": {
+      "_id": "yQIro3136G7EUgLQ",
+      "name": {
+        "translate": "",
+        "original": "Agyra"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<h3>The Forever Storm</h3><p>Agyra is a massive kaiju who protects Spinescar Island and its inhabitants.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "(can't speak any language)"
+      },
+      "perception": {
+        "translate": "",
+        "original": "stormsight"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "mythic resilience (Fort and Ref)"
+      },
+      "items": {
+        "Y7AJ4eWSGKUcPBbp": {
+          "_id": "Y7AJ4eWSGKUcPBbp",
+          "name": {
+            "translate": "",
+            "original": "Talon"
+          }
+        },
+        "O7Y8m2HEl1XatWW8": {
+          "_id": "O7Y8m2HEl1XatWW8",
+          "name": {
+            "translate": "",
+            "original": "Jaws"
+          }
+        },
+        "des3C0uRIBkg98Gt": {
+          "_id": "des3C0uRIBkg98Gt",
+          "name": {
+            "translate": "",
+            "original": "Tail"
+          }
+        },
+        "3yVevLb8KUTnEyOi": {
+          "_id": "3yVevLb8KUTnEyOi",
+          "name": {
+            "translate": "",
+            "original": "Spike"
+          }
+        },
+        "do4wjbcTNPYd9aN3": {
+          "_id": "do4wjbcTNPYd9aN3",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> Agyra removes any one condition currently affecting her.</p>"
+          }
+        },
+        "Yr4xs4UuKzBLJ4Fg": {
+          "_id": "Yr4xs4UuKzBLJ4Fg",
+          "name": {
+            "translate": "",
+            "original": "Stormsight"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Wind, precipitation, and clouds don't impair Agyra's vision; she ignores the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} condition from storms, mist, precipitation, and the like.</p>"
+          }
+        },
+        "0Dkm3fkoph5mYGDZ": {
+          "_id": "0Dkm3fkoph5mYGDZ",
+          "name": {
+            "translate": "",
+            "original": "Regeneration"
+          }
+        },
+        "nqaKv0W54jagF4tQ": {
+          "_id": "nqaKv0W54jagF4tQ",
+          "name": {
+            "translate": "",
+            "original": "Electrified Rebirth"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per year</p><hr /><p><strong>Effect</strong> When Agyra dies, her corpse crackles and sparks with electrical energy. Any creature that touches Agyra's body within 1 hour of her death takes @Damage[11d6[electricity]] damage (@Check[reflex|dc:43|basic] save). After being dead for 1 minute, Agyra is immediately resurrected in the same place, at full health, with all abilities fully restored. She normally takes advantage of this rebirth to flee to safety, using Thunderous Departure to retreat. If Agyra has already died and been reborn in the same year, she remains permanently dead upon being slain a second time.</p>"
+          }
+        },
+        "Umcrow6uqGwmnu8G": {
+          "_id": "Umcrow6uqGwmnu8G",
+          "name": {
+            "translate": "",
+            "original": "Mythic Immunity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Strikes</p><hr /><p>The creature is immune to either harmful spells cast by non-mythic creatures, or Strikes made with non-mythic weapons and unarmed Strikes from non-mythic characters. Only the most powerful creatures (typically level 25) should be immune to both.</p>"
+          }
+        },
+        "tyORXsrZpDl68qjz": {
+          "_id": "tyORXsrZpDl68qjz",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resilience"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Agyra treats her saving throws with Fortitude and Reflex saves as one step better than they actually are (so a critical failure is a failure, a failure is a success, and a success is a critical success). Whenever a character rolls a critical hit against Agyra, they must reroll the attack roll and take the new result.</p>"
+          }
+        },
+        "e7l4EXmShMIlfCfe": {
+          "_id": "e7l4EXmShMIlfCfe",
+          "name": {
+            "translate": "",
+            "original": "Blinding Flash"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> By spreading her wings while she stands upon the ground, Agyra can create a blinding flash of light that targets all creatures within 100 feet. Affected creatures must succeed at a @Check[fortitude|dc:43] check.</p><hr /><p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for [[/gmr 1d4 #rounds]]{1d4 rounds}.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} for 1 minute.</p>\n<p><strong>Critical Failure</strong> The target is blinded and stupefied 2 for 10 minutes.</p>"
+          }
+        },
+        "lyPuKy6Ut0SMcXFS": {
+          "_id": "lyPuKy6Ut0SMcXFS",
+          "name": {
+            "translate": "",
+            "original": "Conjure Hurricane"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> Agyra generates a hurricane that spreads across a 4-mile radius and lasts 24 hours, with a 500-foot calm eye of the storm at its center. Agyra is at the center of this hurricane when it is formed, but it moves normally (according to surrounding weather conditions and the GM's discretion) afterward.</p>"
+          }
+        },
+        "oOuC0cWK8o9RXqgS": {
+          "_id": "oOuC0cWK8o9RXqgS",
+          "name": {
+            "translate": "",
+            "original": "Lightning Breath"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Agyra exhales a line of electricity from each of her two heads. Each line is @Template[line|distance:120|width:10]{120 feet long and 10 feet wide}, and the two lines may be pointed in different directions. A creature in a line takes @Damage[22d6[electricity]|options:area-damage] damage (@Check[reflex|dc:44|basic|options:area-effect] save). On a failed save, the target is also @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for [[/gmr 1d4 #rounds]]{1d4 rounds}. A creature can be affected only once by a line, even if they are in an overlapping area. A character slain by Agyra's Lightning Breath remains electrified for [[/gmr 2d4 #rounds]]{2d4 rounds} after death. A creature touching such a corpse takes @Damage[3d6[electricity]] damage (no save). Agyra can't use Lightning Breath for [[/gmr 1d4 #rounds]]{1d4 rounds}.</p>"
+          }
+        },
+        "KPiyOSSZLYzEbtPS": {
+          "_id": "KPiyOSSZLYzEbtPS",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "uWPXm4AmK6MPKcvJ": {
+          "_id": "uWPXm4AmK6MPKcvJ",
+          "name": {
+            "translate": "",
+            "original": "Recharge Ability"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> Agyra gains an additional use of lightning breath.</p>"
+          }
+        },
+        "UwjIkW4TqzeSFhpR": {
+          "_id": "UwjIkW4TqzeSFhpR",
+          "name": {
+            "translate": "",
+            "original": "Stormflight"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Agyra can move in strong winds with ease. She doesn't treat wind as difficult terrain or need to Maneuver in Flight in high winds.</p>"
+          }
+        },
+        "I5ft0MrsCOlxysfk": {
+          "_id": "I5ft0MrsCOlxysfk",
+          "name": {
+            "translate": "",
+            "original": "Thunderous Departure"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> Agyra Flies in a straight line at incredible speed, moving at least 120 feet but up to 1 mile. This movement doesn't provoke reactions. Her departure leaves behind a thunderous sonic boom, creating a @Template[type:burst|distance:100] centered on her point of departure. All creatures in the area take @Damage[15d10[sonic]|options:area-damage] damage (@Check[fortitude|dc:46|basic|options:area-effect] save). A creature who fails is also knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}, and a creature who critically fails is knocked prone and @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} permanently.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-23",
+          "rarity-unique",
+          "type-npc",
+          "npc-beast"
+        ]
+      }
+    },
+    "Boneburst": {
+      "_id": "HAe6Z2Zr4XWklhgx",
+      "name": {
+        "translate": "",
+        "original": "Boneburst"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>A low howl rises from the ground, gathering strength as scraps of ancient armor, bone fragments, and clumps of earth rise into the air. Crimson vapor holds the faceless shape together, never coalescing into an identifiable form, but merely writhing through ever-changing images of torment and destruction.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[occultism|dc:38|name:Negate Psychic Resonances] (master) to temporarily negate the psychic resonances around each fragment, causing the agglomeration to fall apart, or @Check[religion|dc:33|name:Interrupt Unholy Power] (expert) to temporarily interrupt Verex-That-Was's unholy power with divine energy from another source. If a boneburst takes 40 points of damage from a single source and it isn't destroyed, it is rendered dormant for 1 round.</p>"
+      },
+      "reset": {
+        "translate": "",
+        "original": "<p>If the boneburst spends 5 consecutive rounds without coalescing around a living creature, it falls dormant, sinking back into the earth. After it falls dormant or is disabled, the boneburst gathers energy over the course of the next hour, after which it can be triggered again.</p>"
+      },
+      "routine": {
+        "translate": "",
+        "original": "<p>(2 actions) An awakened boneburst occupies a @Template[square|distance:20]; it is reduced to a @Template[square|distance:10] when it reaches its BT. It can occupy the same space as other creatures, but not other bonebursts. On its initiative, the boneburst Flies up to 30 feet toward the nearest living creature as its first action. As its second action, the boneburst then coalesces around any living creature within its space, invisible shards of bone tearing at their flesh. Each living creature in its space takes @Damage[(2d10+18)[slashing],1d10[spirit]|options:area-damage]{2d10+18 slashing damage and 1d10 spirit damage} (@Check[reflex|dc:35|basic|options:area-effect] save). If no living creatures are within its space, the boneburst can use its second action to Fly up to 30 feet.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(master) to notice that clouds of debris are coalescing into swirling, faceless shapes held together by rust-red fog and spectral, dripping clots of gore</p>"
+      },
+      "hp": {
+        "translate": "",
+        "original": "(BT 45)"
+      },
+      "items": {
+        "6mJensA5MorOvpQq": {
+          "_id": "6mJensA5MorOvpQq",
+          "name": {
+            "translate": "",
+            "original": "Gathering Mist"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A living creature approaches within 50 feet of a dormant boneburst</p><hr /><p><strong>Effect</strong> The boneburst awakens, roiling up from the ground, and rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-14",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-magical"
+        ]
+      }
+    },
+    "Immortal Trickster": {
+      "_id": "H2RSvVckwPdFCAYY",
+      "name": {
+        "translate": "",
+        "original": "Immortal Trickster"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<h3>The Immortal Trickster</h3><p>The Immortal Trickster is an immortal spirit guide who always returns to life no matter how he's killed. After his death, he often recorporates in the same area, though if his body is destroyed in its entirety, he sometimes awakens in an entirely different continent.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "truespeech"
+      },
+      "ac": {
+        "translate": "",
+        "original": "mythic resistance 11"
+      },
+      "items": {
+        "2awaJXyo3OZitXfi": {
+          "_id": "2awaJXyo3OZitXfi",
+          "name": {
+            "translate": "",
+            "original": "Primal Innate Spells"
+          }
+        },
+        "S7hnLElhTgIc0Ouc": {
+          "_id": "S7hnLElhTgIc0Ouc",
+          "name": {
+            "translate": "",
+            "original": "Cursed Metamorphosis"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You transform the target creature into a harmless animal appropriate to the area, with effects based on its Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target's body gains minor features of the harmless animal. Its insides churn as they partially transform, causing it to be @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}. When it recovers from the sickened condition, its features revert to normal.</p>\n<p><strong>Failure</strong> The target transforms for 1 minute but keeps its mind. If it spends all its actions on its turn concentrating on its original form, it can attempt a @Check[will] save to end the effect immediately.</p>\n<p><strong>Critical Failure</strong> The target is transformed into the chosen harmless animal, body and mind, for an unlimited duration.</p>"
+          }
+        },
+        "ZML7FcsTGvJxQqAv": {
+          "_id": "ZML7FcsTGvJxQqAv",
+          "name": {
+            "translate": "",
+            "original": "Magic Passage"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You create a visible tunnel through the wall in the chosen area, replacing the area with empty space. If the wall is thicker than 10 feet, the tunnel ends 10 feet in. Even a small layer of metal in the wall prevents this spell from functioning. This spell doesn't reduce the integrity of the structure. When the spell ends, anyone inside the tunnel is shunted to the nearest exit.</p>\n<hr />\n<p><strong>Heightened (7th)</strong> The tunnel can be up to 20 feet deep. The areas of the wall that contain your tunnel's entrance appear completely normal (unless viewed with truesight or a similar effect), despite the tunnel's existence. The tunnel's entrance functions as a solid wall, but you can specify a password or a trigger, allowing creatures to enter freely.</p>"
+          }
+        },
+        "9aGpT4UqPcKiBiPl": {
+          "_id": "9aGpT4UqPcKiBiPl",
+          "name": {
+            "translate": "",
+            "original": "Truespeech (Constant)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The target can understand all words regardless of language and also speak the languages of other creatures. When in a mixed group of creatures, each time the target speaks, it can choose a creature and speak in a language that creature understands, even if the target doesn't know what language that is.</p>\n<hr />\n<p><strong>Heightened (7th)</strong> The duration is 8 hours.</p>"
+          }
+        },
+        "AyeJNiOsVEGVfFMf": {
+          "_id": "AyeJNiOsVEGVfFMf",
+          "name": {
+            "translate": "",
+            "original": "Wall of Stone"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You shape a wall of solid stone. You create a 1-inch-thick wall of stone up to 120 feet long, and 20 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically, so you can use it to form a bridge or set of stairs, for example. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost.</p>\n<p>Each 10-foot-by-10-foot section of the wall has AC 10, Hardness 14, and 50 Hit Points, and it's immune to critical hits and precision damage. A destroyed section of the wall can be moved through, but the rubble created from it is difficult terrain.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The Hit Points of each section of the wall increase by 15.</p>"
+          }
+        },
+        "q73QzKe7lKBwrqBV": {
+          "_id": "q73QzKe7lKBwrqBV",
+          "name": {
+            "translate": "",
+            "original": "Creation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You conjure a temporary object from magical energy. It must consist of earthen or plant-derived matter (such as wood, paper, brick, or stone) and be 5 cubic feet or smaller. It can't rely on intricate artistry or complex moving parts, never fulfills a cost or the like, and can't be made of precious materials or materials with a rarity of uncommon or higher. It is obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. The spell gains the appropriate trait for the item created, typically earth, plant, or wood.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> The item is metal and can include common minerals, like feldspar or quartz. The spell gains the metal trait if used to create a metal object</p>"
+          }
+        },
+        "APHCWiQasbu5BSU6": {
+          "_id": "APHCWiQasbu5BSU6",
+          "name": {
+            "translate": "",
+            "original": "Detect Magic"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies. You detect illusion magic only if that magic's effect has a lower rank than the rank of your <em>detect magic</em> spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an @UUID[Compendium.pf2e.equipment-srd.Item.bikFUFRLwfdvX2x2]{Invisibility Potion}) typically are detected normally.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You learn the rank or level of the most powerful magical effect the spell detects, as determined by the GM.</p>\n<p><strong>Heightened (4th)</strong> As 3rd rank, but you also pinpoint the source of the highest-rank magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).</p>"
+          }
+        },
+        "tBsaswgNVc72kLVB": {
+          "_id": "tBsaswgNVc72kLVB",
+          "name": {
+            "translate": "",
+            "original": "Prestidigitation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The simplest magic does your bidding. You can perform simple magical effects for as long as you Sustain the spell. Each time you Sustain the spell, you can choose one of four options.</p>\n<ul>\n<li><strong>Cook</strong> Cool, warm, or flavor 1 pound of nonliving material.</li>\n<li><strong>Lift</strong> Slowly lift an unattended object of light Bulk or less 1 foot off the ground.</li>\n<li><strong>Make</strong> Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile-it can't be used as a tool, weapon, or locus or cost for a spell.</li>\n<li><strong>Tidy</strong> Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.</li>\n</ul>\n<p><em>Prestidigitation</em> can't deal damage or cause adverse conditions. Any actual change to an object (beyond what is noted above) persists only as long as you Sustain the spell.</p>"
+          }
+        },
+        "nUKcZydse3DgUbab": {
+          "_id": "nUKcZydse3DgUbab",
+          "name": {
+            "translate": "",
+            "original": "Tangle Vine"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A vine appears from thin air, flicking from your hand and lashing itself to the target. Attempt a spell attack roll against the target.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.TwtUIEyenrtAbeiX]{Spell Effect: Tangle Vine}</p>\n<hr />\n<p><strong>Critical Success</strong> The target gains the @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} condition and takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} against your spell DC to remove the penalty and the immobilized condition.</p>\n<p><strong>Success</strong> The target takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty.</p>\n<p><strong>Failure</strong> The target is unaffected.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> The effects last for 2 rounds.</p>\n<p><strong>Heightened (4th)</strong> The effects last for 1 minute.</p>"
+          }
+        },
+        "35CwFhfk6748Cg0E": {
+          "_id": "35CwFhfk6748Cg0E",
+          "name": {
+            "translate": "",
+            "original": "Wandering Pipe"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This long-stemmed pipe always emits a thin plume of smoke, even when not lit or in active use. The exact material the pipe is made of varies in every accounting; sometimes made of polished oak, other times ebony, sometimes stone, and in one Erutaki legend the pipe is made of pure ice that somehow holds a flame. Though the <em>wandering pipe</em> is not intelligent, it is rumored to possess a certain capriciousness, leaving the possession of mortals whose lives are not exciting enough but inevitably finding its way back to its one true owner.</p>\n<p>When held in one hand, the pipe grants its holder a +2 circumstance bonus to Deception checks but imposes a -1 circumstance penalty to Stealth checks made to Hide or @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak}, as its telltale plume of smoke gives away the bearer's position.</p>\n<p><strong>Activate—Smoky Protections</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate, primal)</p>\n<p><strong>Frequency</strong> once per hour; <strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> For the next 10 minutes, smoke gathers around you buoying your steps and protecting you. For the duration of this effect, you gain a fly Speed equal to your land Speed and automatically hover in place, and you have concealment from ranged attacks.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.z480XhE3nft1TQDj]{Effect: Smoky Protections}</p><hr /><p><strong>Destruction</strong> The <em>wandering pipe</em> can be broken as easily as any other wooden pipe, but it always reforms afterward in the hands of the Immortal Trickster or one of his bonded mortals. It can only be broken by the hands of one of the Trickster's bonded mortals who is an honest person acting with good intent; it is said that if this occurs, the Trickster would also be significantly weakened as a result.</p>"
+          }
+        },
+        "PeFjJ2NEjzAyuFwe": {
+          "_id": "PeFjJ2NEjzAyuFwe",
+          "name": {
+            "translate": "",
+            "original": "Recklessly Overconfident"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Immortal Trickster knows he is immortal and takes risks that cause his failures to be particularly spectacular. Whenever the Immortal Trickster would fail at a Deception, Stealth, or Thievery check, he critically fails instead.</p>"
+          }
+        },
+        "IPjoHWXPFbuGzWb5": {
+          "_id": "IPjoHWXPFbuGzWb5",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The creature ends one condition affecting it.</p>"
+          }
+        },
+        "1lLrbiH0yjRU8K6F": {
+          "_id": "1lLrbiH0yjRU8K6F",
+          "name": {
+            "translate": "",
+            "original": "Trickster's Network"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Immortal Trickster can extend his senses through any coyote, fox, or raven in the Universe, making it his sensory animal. He cannot maintain his attention through more than three sensory animals at one time. He can speak through his sensory animals, but only in a single short phrase per animal of no more than two words. He has little control over his sensory animals' actions, though they usually act in a way that is consistent with his desires unless they have a specific reason not to. When extending his senses through a sensory animal, he can use that animal to determine line of effect for any of his spells or abilities.</p>"
+          }
+        },
+        "waKXoyG5D33mRgJf": {
+          "_id": "waKXoyG5D33mRgJf",
+          "name": {
+            "translate": "",
+            "original": "Immortal Tricks"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When the Immortal Trickster is reduced to 0 Hit Points, he returns to life at full health and with all his powers and Mythic Points recharged after 24 hours. He usually, but not always, returns at the site of his death, though he can appear anywhere on the same world where there are coyotes, foxes, or ravens.</p>"
+          }
+        },
+        "5bTyrXZMdes7IQjW": {
+          "_id": "5bTyrXZMdes7IQjW",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resistance"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Immortal Trickster has resistance 11 to all damage from attacks and spells from non-mythic creatures.</p>"
+          }
+        },
+        "PAcGRRR6FuPF8d0W": {
+          "_id": "PAcGRRR6FuPF8d0W",
+          "name": {
+            "translate": "",
+            "original": "Bond with Mortals"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> The Immortal Trickster forms a bond with a mortal creature. While the bond exists, the mortals bonded to the Immortal Trickster increase their current and maximum Hit Points by 10 and gain a +2 status bonus to their attack and damage rolls, as well as to skill checks they make using Deception, Stealth, or Thievery. The Immortal Trickster can communicate telepathically with any of his bonded mortals as long as both beings are on the same plane. Each week that they are bonded to the Trickster, the bonded mortals increase their doomed value by 1; their doomed value cannot be increased above 3 by this ability and their doomed value cannot decrease while they remain bonded to the Trickster. The Immortal Trickster can be bonded with up to six mortals at a time, and they can take this action again to end the bond or to form a new bond. The bond also ends if the mortal dies. Whenever one of his bonded mortals dies, the Immortal Trickster becomes @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1} or increases the value of his drained condition by 1, and the Trickster gains a +2 status bonus on the next attack roll or skill check he attempts.</p>"
+          }
+        },
+        "5gKrafzz4AlrGGlD": {
+          "_id": "5gKrafzz4AlrGGlD",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Immortal Trickster takes on the appearance of a coyote, fox, or raven. In areas where another Tiny or Small animal is known for wiliness and trickery, the Immortal Trickster can assume that animal's shape instead. While transformed, the Immortal Trickster loses his innate spells, attacks, and special actions, but doesn't otherwise change his statistics and can still speak. In fox or coyote form, the Immortal Trickster's size changes to Tiny (for a fox) or Small (for a coyote), his Speed increases to 35 feet, and he gains a bite (+23 to hit for @Damage[(2d6+4)[piercing]] damage). In raven form, he is Tiny, gains a fly Speed of 25 feet, and gains a beak (agile, +23 to-hit for @Damage[(2d4+4)[piercing]] damage).</p>"
+          }
+        },
+        "9yG1XDG6DQawPlpo": {
+          "_id": "9yG1XDG6DQawPlpo",
+          "name": {
+            "translate": "",
+            "original": "Confounding Theft"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Immortal Trickster makes a Thievery check against the Perception DC of one creature he can see within 60 feet. On a success, the Trickster gains possession of any one item he chooses of up to 2 Bulk that the target is currently holding, wearing, wielding, or has stowed on their person. This must be a single item and does not include full sets of clothing like worn armor or garments.</p>"
+          }
+        },
+        "veMhzsuzWzb3G4Ay": {
+          "_id": "veMhzsuzWzb3G4Ay",
+          "name": {
+            "translate": "",
+            "original": "Cunning Escape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> The Immortal Trickster trades places with one of his sensory animals (see trickster's network, above). The animal appears in the square the Trickster is currently occupying and the Trickster teleports to the animal's original location with all of his possessions. If a creature has witnessed the Trickster's Change Shape, they must succeed at a @Check[perception|dc:38] check to @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive} or be fooled into thinking that the Trickster has simply changed shape into an animal instead of teleported.</p>"
+          }
+        },
+        "BYfZZZ4t5LkfvkKI": {
+          "_id": "BYfZZZ4t5LkfvkKI",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "qoxAd9f2alFsuEKd": {
+          "_id": "qoxAd9f2alFsuEKd",
+          "name": {
+            "translate": "",
+            "original": "Mythic Skill"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Immortal Trickster can spend a Mythic Point whenever he makes a check using Deception or Thievery to make the check at mythic proficiency.</p>"
+          }
+        },
+        "4aNFUfifqGJV2XWK": {
+          "_id": "4aNFUfifqGJV2XWK",
+          "name": {
+            "translate": "",
+            "original": "Pull"
+          }
+        },
+        "CUPUSYeMCdxHQvDS": {
+          "_id": "CUPUSYeMCdxHQvDS",
+          "name": {
+            "translate": "",
+            "original": "Recharge Spell"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Immortal Trickster gains an additional casting of any of his innate primal spells that he has already cast.</p>"
+          }
+        },
+        "LH4KEUD3H4VjzPPp": {
+          "_id": "LH4KEUD3H4VjzPPp",
+          "name": {
+            "translate": "",
+            "original": "Push"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-11",
+          "rarity-unique",
+          "type-npc",
+          "npc-beast"
+        ]
+      }
+    },
+    "Lightning's Dance": {
+      "_id": "Fs2SIKBTUOFuyAVS",
+      "name": {
+        "translate": "",
+        "original": "Lightning's Dance"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Electricity suffuses an area where Agyra has used her lightning breath multiple times.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[crafting|dc:35|name:Fashion Makeshift Lightning Rod] (master) to fashion a makeshift lightning rod, @Check[nature|dc:33|name:Dissipate Electrical Charge] (expert) to dissipate the electrical charge harmlessly into the air.</p>"
+      },
+      "reset": {
+        "translate": "",
+        "original": "<p>The hazard deactivates and immediately resets if has no targets for 1 round; it also resets if Agyra uses her lightning breath multiple times in a single combat in the area.</p>"
+      },
+      "routine": {
+        "translate": "",
+        "original": "<p>(2 actions) Bolts of lightning flash out. The hazard makes two lightning bolt Strikes at two different creatures within 120 feet of the hazard's center. If only one creature is in range, the hazard makes only one Strike.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(expert) or @Check[perception|dc:33] (master) to notice sparks dancing around normally non-conductive surfaces</p>"
+      },
+      "items": {
+        "q9e86796VNlfO0AO": {
+          "_id": "q9e86796VNlfO0AO",
+          "name": {
+            "translate": "",
+            "original": "Static Shock"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature approaches within 10 feet of the hazard's center</p><hr /><p><strong>Effect</strong> Electricity wells up from the ground and nearby material. Each creature in the hazard's area must attempt a @Check[fortitude|dc:33] save, and the hazard then rolls initiative. A character wearing metal armor or wielding a metal shield or weapon of at least 1 Bulk treats the result of their saving throw as one step worse.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} for 1 round.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2} for 2 rounds.</p>\n<p><strong>Critical Failure</strong> The creature is clumsy 2 for 4 rounds and @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} for 1 round.</p>"
+          }
+        },
+        "N1D8hURJDHF5lxLa": {
+          "_id": "N1D8hURJDHF5lxLa",
+          "name": {
+            "translate": "",
+            "original": "Lightning Bolt"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-11",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-kaiju"
+        ]
+      }
+    },
+    "Mythic Gogiteth": {
+      "_id": "AQw3uql8ovK4NPPi",
+      "name": {
+        "translate": "",
+        "original": "Mythic Gogiteth"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>Gogiteths are horrific nightmares with grasping, spiderlike legs; vicious, gnashing teeth; and far too many eyes. Of all the creatures on Golarion for whom the acquisition of mythic power might prove a nightmare for others, the gogiteth is arguably one of the most terrible.</p>\n<p>Normally, a gogiteth's victims at least have the possible salvation of hearing the horrible crackling and popping of its joints as it clambers towards them through the dark, an opportunity to flee the slavering nightmare seeking them. Mythic ambusher gogiteths are unnaturally silent, however. The first sound a creature might hear when being hunted by such a monstrosity is the sharp wheeze of their own fleeting breath as the gogiteth's jaws snap shut around them, or the tearing of their flesh and clothing as one of its legs pierces them through.</p>\n<p>Though little is known about the origins of gogiteths, mythic gogiteths generally acquire mythic power in the same way that other creatures do. Golarion has no shortage of vile deities who might take cruel delight in bestowing a sliver of mythic power upon a creature as frightful and terrible as a gogiteth. Their traditional hive homes in the Darklands make it unlikely that they would be affected by the Godsrain, but it is not impossible that droplets of Gorum's spilled blood could seep through cracks and make their way down into the thirsty jaws of one of these nightmarish monstrosities.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "(Can't Speak)"
+      },
+      "ac": {
+        "translate": "",
+        "original": "all-around vision"
+      },
+      "skills": {
+        "survival": {
+          "special": {
+            "0": {
+              "label": {
+                "translate": "",
+                "original": "to Track"
+              }
+            }
+          }
+        }
+      },
+      "items": {
+        "YEfhznRCKL956Fzx": {
+          "_id": "YEfhznRCKL956Fzx",
+          "name": {
+            "translate": "",
+            "original": "Jaws"
+          }
+        },
+        "Bj9AvzdEeKXM1Lpy": {
+          "_id": "Bj9AvzdEeKXM1Lpy",
+          "name": {
+            "translate": "",
+            "original": "Leg"
+          }
+        },
+        "DU6qEQAoJyHOTOaM": {
+          "_id": "DU6qEQAoJyHOTOaM",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The creature ends one condition affecting it.</p>"
+          }
+        },
+        "7EDZA6PRAkgmOYfB": {
+          "_id": "7EDZA6PRAkgmOYfB",
+          "name": {
+            "translate": "",
+            "original": "All-Around Vision"
+          }
+        },
+        "U9YqCD8jxDiah3Yi": {
+          "_id": "U9YqCD8jxDiah3Yi",
+          "name": {
+            "translate": "",
+            "original": "Hazard Immunity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A mythic ambusher never triggers the reactions of hazards in its own lair and is immune to the negative consequences of damaging area effects created by hazards in its lair.</p>"
+          }
+        },
+        "EUEkEW5Pn57YJJ4e": {
+          "_id": "EUEkEW5Pn57YJJ4e",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resilience (Reflex and Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature treats its saving throws with the associated save as one degree of success better than it rolled. This is not cumulative with other effects that change their degree of success, like the incapacitation trait (except for rolling a natural 1 or 20). Each time the monster gains mythic resilience, choose one save. The ability should apply to the creature's highest saves first.</p>"
+          }
+        },
+        "Qj4erun9wbqBExS0": {
+          "_id": "Qj4erun9wbqBExS0",
+          "name": {
+            "translate": "",
+            "original": "Skittering Reposition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature that starts its move outside the gogiteth's reach moves into its reach.</p>\n<hr />\n<p><strong>Effect</strong> The gogiteth moves 10 feet. This does not trigger reactions.</p>"
+          }
+        },
+        "drMUmP8Z6LhZyhRI": {
+          "_id": "drMUmP8Z6LhZyhRI",
+          "name": {
+            "translate": "",
+            "original": "Carry Off Prey"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The gogiteth can move at its full Speed while it has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} in its jaws, bringing the grabbed creature along.</p>"
+          }
+        },
+        "yHE4jDWkyfO5E7mM": {
+          "_id": "yHE4jDWkyfO5E7mM",
+          "name": {
+            "translate": "",
+            "original": "Constrict"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>@Damage[(3d6+12)[bludgeoning]], @Check[fortitude|dc:32|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+          }
+        },
+        "19mriXy1nbmE5fBN": {
+          "_id": "19mriXy1nbmE5fBN",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "nfVMAEAuNWL4LEII": {
+          "_id": "nfVMAEAuNWL4LEII",
+          "name": {
+            "translate": "",
+            "original": "Mythic Skill"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Mythic Gogiteth attempts its next Athletics or Stealth skill check with a +4 bonus and is considered to have mythic proficiency for that check.</p>"
+          }
+        },
+        "fRkzUI9I50wuPJvX": {
+          "_id": "fRkzUI9I50wuPJvX",
+          "name": {
+            "translate": "",
+            "original": "Skittering Assault"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The gogiteth Strides three times. Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making all its Strikes. If any of the Strikes result in a critical failure, Skittering Assault ends.</p>"
+          }
+        },
+        "zK2aR7Xwx6ctIIxv": {
+          "_id": "zK2aR7Xwx6ctIIxv",
+          "name": {
+            "translate": "",
+            "original": "Improved Grab"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.2.0",
+        "tags": [
+          "level-12",
+          "rarity-rare",
+          "type-npc",
+          "npc-aberration"
+        ]
+      }
+    },
+    "Mythic Griffon": {
+      "_id": "z9AJIIWfoZqmXHdJ",
+      "name": {
+        "translate": "",
+        "original": "Mythic Griffon"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>Griffons are regal beasts revered as symbols of freedom and strength in many cultures. They are physically striking, with the hindquarters of a lion and the head, wings, and forelimbs of a great bird of prey—typically an eagle, but some instead bear the features of a hawk, falcon, or even an osprey or vulture. In rare cases, the griffon's hindquarters may resemble those of a different great cat, such as a leopard or tiger. The variations seem to conform to the griffon's environment—for instance, especially rare griffons of northern Avistan have the hindquarters of a Grungir lynx and the upper body of a snowy owl.</p>\n<p>Wild griffons rely on their powerful wings to hold them aloft and their keen eyesight to spy out prey. The speed with which they plunge toward the ground and snatch up victims is astonishing. They often tear apart a kill's flesh with razor-sharp beaks but not before alighting to secluded location where they can enjoy their meal without interruption. Griffons hunting to feed their chicks are more cautious, tearing apart prey rather than risking bringing a living creature back to their nests.</p>\n<p>Skilled animal trainers long ago learned how to raise griffons as mounts for military forces or powerful individuals. Such mounts are known for their strength, bravery, and unfailing loyalty. They are among the smartest of animals, and many griffon variants are considered intelligent beasts instead; it's thought that a griffon chooses its rider as much as a rider chooses the griffon. The process of training a griffon to accept and carry a rider in flight is a long and expensive ordeal. Griffon trainers charge rich sums for their services, and a ruler who can boast of owning a stable of griffons is the subject of great respect and envy.</p>"
+      },
+      "items": {
+        "oN5KE37Rg66tMPMp": {
+          "_id": "oN5KE37Rg66tMPMp",
+          "name": {
+            "translate": "",
+            "original": "Beak"
+          }
+        },
+        "hTNAzHRu1qlREBai": {
+          "_id": "hTNAzHRu1qlREBai",
+          "name": {
+            "translate": "",
+            "original": "Talon"
+          }
+        },
+        "r9cb3wi4i5kmkIVZ": {
+          "_id": "r9cb3wi4i5kmkIVZ",
+          "name": {
+            "translate": "",
+            "original": "Wing"
+          }
+        },
+        "KW0x3Cl4mTqJiDHP": {
+          "_id": "KW0x3Cl4mTqJiDHP",
+          "name": {
+            "translate": "",
+            "original": "Deadly Striker"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A mythic striker deals an additional 1d6 precision damage on its next Strike whenever it uses an action to Stride 10 or more feet (or to Burrow, Climb, or Fly 10 or more feet).</p>"
+          }
+        },
+        "GCyLSeOtTMt3wLur": {
+          "_id": "GCyLSeOtTMt3wLur",
+          "name": {
+            "translate": "",
+            "original": "Flying Strafe"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The griffon Flies up to its fly Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty.</p>"
+          }
+        },
+        "1dlt86M0ny3isB6u": {
+          "_id": "1dlt86M0ny3isB6u",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Mythic Griffon has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "dbNX6N5owjlagLLT": {
+          "_id": "dbNX6N5owjlagLLT",
+          "name": {
+            "translate": "",
+            "original": "Mythic Skill"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Mythic Griffon attempts its next Acrobatics skill check with a +4 bonus and is considered to have mythic proficiency for that check.</p>"
+          }
+        },
+        "OAt8guQQNXMQRYHW": {
+          "_id": "OAt8guQQNXMQRYHW",
+          "name": {
+            "translate": "",
+            "original": "Pounce"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The griffon Strides and makes a talon Strike at the end of that movement. If the griffon began this action @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}, it remains hidden until after the attack.</p>"
+          }
+        },
+        "zbeji4Adkt0WFV5B": {
+          "_id": "zbeji4Adkt0WFV5B",
+          "name": {
+            "translate": "",
+            "original": "Regal Shriek"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The griffon unleashes a shriek that transitions into a terrifying roar. Each creature in a @Template[emanation|distance:60] must attempt a @Check[will|dc:20] save. Regardless of the result, creatures are temporarily immune to all griffons' Regal Shrieks for 10 minutes.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}. Animals are @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for as long as they're frightened.</p>\n<p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3}. Animals are @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} as long as they're frightened.</p>"
+          }
+        },
+        "k2pu69kyQbd0J164": {
+          "_id": "k2pu69kyQbd0J164",
+          "name": {
+            "translate": "",
+            "original": "Unimpeded"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Mythic Griffon automatically ends one effect that would give it a circumstance penalty to Speed. When it attempts to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} an effect that has it @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}, it automatically succeeds.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-4",
+          "rarity-rare",
+          "type-npc",
+          "npc-animal"
+        ]
+      }
+    },
+    "Mythic Lich": {
+      "_id": "Roj3l7HjnV0kFq9a",
+      "name": {
+        "translate": "",
+        "original": "Mythic Lich"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>A mythic lich could be a lich who came into contact with a source of mythic power after their transformation—or one whose transformation was designed to instill mythic power in them. Such rituals might entail using a mythic artifact as a soul cage, slaying a mythic creature, or luring a mythic being into striking the killing blow against the spellcaster. Among adherents of the Whispering Way, it is commonly believed that the Whispering Tyrant tricked the god Aroden into killing him as a mortal so he could siphon some of Aroden's power into creating his soul cage and allowing him to become a mythic lich.</p>"
+      },
+      "hp": {
+        "translate": "",
+        "original": "void healing, rejuvenation"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "+1 status to all saves vs. vitality; mythic resilience (Ref and Will)"
+      },
+      "items": {
+        "6Upo1ddHWd1c49bj": {
+          "_id": "6Upo1ddHWd1c49bj",
+          "name": {
+            "translate": "",
+            "original": "Arcane Prepared Spells"
+          }
+        },
+        "oVfJcvPQF6T03acJ": {
+          "_id": "oVfJcvPQF6T03acJ",
+          "name": {
+            "translate": "",
+            "original": "Chain Lightning"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You discharge a powerful bolt of lightning at the target, dealing 8d12 electricity damage. The target must attempt a basic Reflex save. The electricity arcs to another creature within 30 feet of the first target, jumps to another creature within 30 feet of that target, and so on. You can end the chain at any point. You can't target the same creature more than once, and you must have line of effect to all targets. Roll the damage only once, and apply it to each target (halving or doubling as appropriate for its saving throw outcome). The chain ends if any one of the targets critically succeeds at its save.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d12.</p>"
+          }
+        },
+        "pTsOm7Hc5u8RBC8f": {
+          "_id": "pTsOm7Hc5u8RBC8f",
+          "name": {
+            "translate": "",
+            "original": "Dominate"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You take command of the target, forcing it to obey your orders. If you issue an obviously self-destructive order, the target doesn't act until you issue a new order. The effect depends on its Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} as it fights off your commands.</p>\n<p><strong>Failure</strong> You control the target. It gains the @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{Controlled} condition, but it can attempt a Will save at the end of each of its turns. On a success, the spell ends.</p>\n<p><strong>Critical Failure</strong> As a failure, but the target receives a new save only if you give it a new order that is against its nature, such as killing its allies.</p>\n<hr />\n<p><strong>Heightened (10th)</strong> The duration is unlimited.</p>"
+          }
+        },
+        "MsxJUnHeJ2sGOpLq": {
+          "_id": "MsxJUnHeJ2sGOpLq",
+          "name": {
+            "translate": "",
+            "original": "Vampiric Exsanguination"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You draw in the blood and life force of other creatures through your outstretched arms. You deal 12d6 void damage to living creatures in the area with a basic Fortitude save.</p>\n<p>You gain temporary Hit Points equal to half the damage a single creature takes from this spell; calculate these temporary Hit Points using the creature that took the most damage. You lose any remaining temporary Hit Points after 1 minute.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+          }
+        },
+        "yKldI8WOGdYfuu6n": {
+          "_id": "yKldI8WOGdYfuu6n",
+          "name": {
+            "translate": "",
+            "original": "Howling Blizzard"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Freezing winds extend from your hands, pushing away from you with great force. If you Cast this Spell with 2 actions, it has an area of a 60-foot cone; if you Cast this Spell with 3 actions, it has a range of 500 feet and an area of a 30-foot burst. Each creature in the area takes 10d6 cold damage with a basic Reflex save. Snowdrifts and icy gales fill the area until the start of your next turn, making the area difficult terrain.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+          }
+        },
+        "fakKeqC0hatb5JGJ": {
+          "_id": "fakKeqC0hatb5JGJ",
+          "name": {
+            "translate": "",
+            "original": "Toxic Cloud"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You conjure a poisonous fog. This functions as @UUID[Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm]{Mist}, except the area moves 10 feet away from you each round. You deal 6d8 poison damage to each breathing creature that starts its turn in the spell's area. You can Dismiss the spell.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>"
+          }
+        },
+        "ovsXdmKCyMFRpVyI": {
+          "_id": "ovsXdmKCyMFRpVyI",
+          "name": {
+            "translate": "",
+            "original": "Wall of Ice"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You sculpt an ice barrier that blocks sight and, once shattered, freezes foes. You create either a 1-foot-thick wall of ice in a straight line up to 60 feet long and 10 feet high (the wall doesn't have to be vertical, but it must be anchored on both sides to a solid surface) or a 1-foot-thick, 10-foot radius hemisphere of ice. The ice that makes up the wall is opaque. If you wish, the wall can be of a smaller length, height, or radius.</p>\n<p>You must create the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. Each 10-foot-by-10-foot section of the wall has AC 10, Hardness 10, and 40 Hit Points, and it's immune to critical hits, cold damage, and precision damage. A section also has weakness to fire 15; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 2d6 cold damage to any creature passing through it.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The Hit Points of each section of the wall increase by 10, and the cold damage dealt to creatures crossing a destroyed section increases by 1d6.</p>"
+          }
+        },
+        "lyPyO2pGbCy34F3K": {
+          "_id": "lyPyO2pGbCy34F3K",
+          "name": {
+            "translate": "",
+            "original": "Fire Shield"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You create a hovering shield made of fire. As long as the shield persists, its heat grants you cold resistance 5 and makes you immune to mild and severe environmental cold. You can Raise a Shield with the <em>fire shield</em> as a normal shield to gain a +1 circumstance bonus to AC. You can use the Shield Block reaction with the <em>fire shield</em>, which has Hardness 10, is immune to fire, and has 40 HP (with no Broken Threshold), and its Hardness is halved against effects that have the water trait. If you Shield Block a melee attack that is either an unarmed attack or made by an adjacent attacker, the attacker takes 2d6 fire damage.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.1RsScTvNdGD9zGWe]{Spell Effect: Fire Shield}</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The cold resistance increases by 5, the HP increase by 10, and the fire damage increases by 1d6.</p>"
+          }
+        },
+        "SUjB62d0yVimppV5": {
+          "_id": "SUjB62d0yVimppV5",
+          "name": {
+            "translate": "",
+            "original": "Fly"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The target can soar through the air, gaining a fly Speed equal to its Speed or 20 feet, whichever is greater.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.MuRBCiZn5IKeaoxi]{Spell Effect: Fly}</p>\n<hr />\n<p><strong>Heightened (7th)</strong> The duration increases to 1 hour.</p>"
+          }
+        },
+        "16SGdNdJjRakoOI8": {
+          "_id": "16SGdNdJjRakoOI8",
+          "name": {
+            "translate": "",
+            "original": "Translocate"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You instantly transport yourself and any items you're wearing and holding from your current space to an unoccupied space within range you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the spell is lost.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> The range increases to 1 mile. You don't need to be able to see your destination, as long as you have been there in the past and know its relative location and distance from you. You are then temporarily immune for 1 hour.</p>"
+          }
+        },
+        "pvHkx0pL3HTpZOeN": {
+          "_id": "pvHkx0pL3HTpZOeN",
+          "name": {
+            "translate": "",
+            "original": "Blindness"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You blind the target. The effect is determined by the target's Fortitude save. The target then becomes temporarily immune for 1 minute.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} until its next turn begins.</p>\n<p><strong>Failure</strong> The target is Blinded for 1 minute.</p>\n<p><strong>Critical Failure</strong> The target is Blinded permanently.</p>"
+          }
+        },
+        "w8zo0rYZH95wpNmD": {
+          "_id": "w8zo0rYZH95wpNmD",
+          "name": {
+            "translate": "",
+            "original": "Locate"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You learn the direction to the target (if you picked a specific object, such as \"my mother's sword\") or the nearest target (if you picked a type of object, such as \"swords\"). If the target is a specific object, you must have observed it directly with your own senses. If it's a type of object, you still need to have an accurate mental image of the type of object. If there's lead or running water between you and the target, this spell can't locate the object. This means you might find a type of object farther away if the nearest one is behind lead or running water.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> You can target a specific creature or ancestry instead of an object, but you must have met or seen up close the creature or ancestry you want to target.</p>"
+          }
+        },
+        "X5SncnKHN5kmq4ZO": {
+          "_id": "X5SncnKHN5kmq4ZO",
+          "name": {
+            "translate": "",
+            "original": "Vampiric Feast"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Your touch leeches the lifeblood out of a target to empower yourself. You deal 6d6 void damage to the target. You gain temporary Hit Points equal to half the void damage the target takes (after applying resistances and the like). You lose any remaining temporary Hit Points after 1 minute.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+          }
+        },
+        "UYlQmnzZCMYTffT5": {
+          "_id": "UYlQmnzZCMYTffT5",
+          "name": {
+            "translate": "",
+            "original": "Blur"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The target's form appears blurry. It becomes @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}. As the nature of this effect still leaves the target's location obvious, the target can't use this concealment to Hide or Sneak.</p>"
+          }
+        },
+        "7bl7gwt2WJjpd8RZ": {
+          "_id": "7bl7gwt2WJjpd8RZ",
+          "name": {
+            "translate": "",
+            "original": "Dispel Magic"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an artifact or similar item, you automatically fail.</p>"
+          }
+        },
+        "6Njhp5hR1XusvlXV": {
+          "_id": "6Njhp5hR1XusvlXV",
+          "name": {
+            "translate": "",
+            "original": "False Vitality"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You augment your flesh with the energies typically used to manipulate the undead. You gain 10 temporary Hit Points.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The temporary Hit Points increase by 3.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.PANUWN5xXC20WBg2]{Spell Effect: False Vitality}</p>"
+          }
+        },
+        "3RjCZkafjI2KuLHP": {
+          "_id": "3RjCZkafjI2KuLHP",
+          "name": {
+            "translate": "",
+            "original": "Resist Energy"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, electricity, fire, or sonic damage. The target and its gear gain resistance 5 against the damage type you chose.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.con2Hzt47JjpuUej]{Spell Effect: Resist Energy}</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The resistance increases to 10, and you can target up to two creatures.</p>\n<p><strong>Heightened (7th)</strong> The resistance increases to 15, and you can target up to five creatures.</p>"
+          }
+        },
+        "aGasuhst6xonf93v": {
+          "_id": "aGasuhst6xonf93v",
+          "name": {
+            "translate": "",
+            "original": "See the Unseen"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Your gaze pierces through illusions and finds @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible} creatures and spirits. You can see invisible creatures as though they weren't invisible, although their features are blurred, making them @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} and difficult to identify. You can also see incorporeal creatures, like ghosts, phased through an object from within 10 feet of an object's surface as blurry shapes seen through those objects. Subtler clues also grant you a +2 status bonus to checks you make to disbelieve illusions.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> This spell has a duration of 8 hours.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.T5bk6UH7yuYog1Fp]{Spell Effect: See the Unseen}</p>"
+          }
+        },
+        "pTWqCr3XoIkdIXk7": {
+          "_id": "pTWqCr3XoIkdIXk7",
+          "name": {
+            "translate": "",
+            "original": "Detect Magic"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies. You detect illusion magic only if that magic's effect has a lower rank than the rank of your <em>detect magic</em> spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an @UUID[Compendium.pf2e.equipment-srd.Item.bikFUFRLwfdvX2x2]{Invisibility Potion}) typically are detected normally.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You learn the rank or level of the most powerful magical effect the spell detects, as determined by the GM.</p>\n<p><strong>Heightened (4th)</strong> As 3rd rank, but you also pinpoint the source of the highest-rank magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).</p>"
+          }
+        },
+        "iklIdZyaqwo86CRJ": {
+          "_id": "iklIdZyaqwo86CRJ",
+          "name": {
+            "translate": "",
+            "original": "Enfeeble"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You sap the target's strength, depending on its Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} until the start of your next turn.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} for 1 minute.</p>\n<p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 3} for 1 minute.</p>"
+          }
+        },
+        "gsMzXD9GS59MdkUL": {
+          "_id": "gsMzXD9GS59MdkUL",
+          "name": {
+            "translate": "",
+            "original": "Fleet Step"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You gain a +30-foot status bonus to your Speed.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.ThFug45WHkQQXcoF]{Spell Effect: Fleet Step}</p>"
+          }
+        },
+        "tCwrbBCDni9sq7yJ": {
+          "_id": "tCwrbBCDni9sq7yJ",
+          "name": {
+            "translate": "",
+            "original": "Force Barrage"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You fire a shard of solidified magic toward a creature that you can see. It automatically hits and deals 1d4+1 force damage. For each additional action you use when Casting the Spell, increase the number of shards you shoot by one, to a maximum of three shards for 3 actions. You choose the target for each shard individually. If you shoot more than one shard at the same target, combine the damage before applying bonuses or penalties to damage, resistances, weaknesses, and so forth.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> You fire one additional shard with each action you spend.</p>"
+          }
+        },
+        "6FQRzsyRELOcXBJY": {
+          "_id": "6FQRzsyRELOcXBJY",
+          "name": {
+            "translate": "",
+            "original": "Frostbite"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>An orb of biting cold coalesces around your target, freezing its body. The target takes 2d4 cold damage with a basic Fortitude save. On a critical failure, the target also gains weakness 1 to bludgeoning until the start of your next turn.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.DdqWMj7cuf4S1bgr]{Spell Effect: Frostbite}</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d4 and the weakness on a critical failure increases by 1.</p>"
+          }
+        },
+        "eGTaoIJkxsjpenJZ": {
+          "_id": "eGTaoIJkxsjpenJZ",
+          "name": {
+            "translate": "",
+            "original": "Message"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You mouth words quietly, but instead of coming out of your mouth, they're transferred directly to the ears of the target. While others can't hear your words any better than if you normally mouthed them, the target can hear your words as if they were standing next to you. The target can give a brief response as a reaction, or as a free action on their next turn if they wish, but they must be able to see you and be within range to do so. If they respond, their response is delivered directly to your ear, just like the original message.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The spell's range increases to 500 feet.</p>"
+          }
+        },
+        "TR1vsJNQZWYLsmzi": {
+          "_id": "TR1vsJNQZWYLsmzi",
+          "name": {
+            "translate": "",
+            "original": "Shield"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.</p>\n<p>While the spell is in effect, you can use the @UUID[Compendium.pf2e.feats-srd.Item.jM72TjJ965jocBV8]{Shield Block} reaction with your magic shield. The shield has Hardness 5. You can use the spell's reaction to reduce damage from any spell or magical effect, even if it doesn't deal physical damage. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Jemq5UknGdMO7b73]{Spell Effect: Shield}</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.QF6RDlCoTvkVHRo4]{Effect: Shield Immunity}</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The shield's Hardness increases by 5.</p>"
+          }
+        },
+        "mkaZUdZffYZx9Obm": {
+          "_id": "mkaZUdZffYZx9Obm",
+          "name": {
+            "translate": "",
+            "original": "Sure Strike"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A glimpse into the future ensures your next blow strikes true. The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} or @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.fpGDAz2v5PG0zUSl]{Spell Effect: Sure Strike}</p>"
+          }
+        },
+        "Z6lzhMO9ITKK4W5D": {
+          "_id": "Z6lzhMO9ITKK4W5D",
+          "name": {
+            "translate": "",
+            "original": "Telekinetic Hand"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You create a floating, magical hand, either invisible or ghostlike, that grasps the target object and levitates it slowly up to 20 feet in any direction. When you Sustain the spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target an unattended object with a Bulk of 1 or less.</p>\n<p><strong>Heightened (5th)</strong> The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.</p>\n<p><strong>Heightened (7th)</strong> The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less.</p>"
+          }
+        },
+        "Uf1IggCzuoxipfcm": {
+          "_id": "Uf1IggCzuoxipfcm",
+          "name": {
+            "translate": "",
+            "original": "Staff of Fire (Greater)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This staff resembles a blackened and burned length of ashen wood. You can Interact to touch the tip of this staff to a torch, tinder, or a flammable substance to ignite a flame.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<hr />\n<ul>\n<li><strong>Cantrip</strong> @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Ignition}</li>\n<li><strong>1st</strong> @UUID[Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t]{Breathe Fire}</li>\n<li><strong>2nd</strong> @UUID[Compendium.pf2e.spells-srd.Item.y6rAdMK6EFlV6U0t]{Breathe Fire}, @UUID[Compendium.pf2e.spells-srd.Item.2ZdHjnpEQJuqOYSG]{Floating Flame}</li>\n<li><strong>3rd</strong> @UUID[Compendium.pf2e.spells-srd.Item.2ZdHjnpEQJuqOYSG]{Floating Flame}, @UUID[Compendium.pf2e.spells-srd.Item.sxQZ6yqTn0czJxVd]{Fireball}</li>\n</ul>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of all listed ranks of all listed spells.</p>"
+          }
+        },
+        "1gPMlx2lbio15da1": {
+          "_id": "1gPMlx2lbio15da1",
+          "name": {
+            "translate": "",
+            "original": "Invisibility Potion"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p>\n<hr />\n<p>An <em>invisibility</em> potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-rank @UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{Invisibility} spell.</p>"
+          }
+        },
+        "bgmRRVSt00mOw4We": {
+          "_id": "bgmRRVSt00mOw4We",
+          "name": {
+            "translate": "",
+            "original": "Scroll of Teleport (Rank 6)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>@UUID[Compendium.pf2e.spells-srd.Item.69L70wKfGDY66Mk9]{Teleport}</p><hr /><p>Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.</p>\n<p>The spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack modifier and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).</p>\n<p>Any physical costs are provided when a scroll is created, so you don't need to provide them when casting from a scroll. If the spell requires a locus, you must have that locus to Cast the Spell from a scroll.</p>\n<hr />\n<p><em>Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor.</em></p>"
+          }
+        },
+        "M05pu8jIHs0qEKzP": {
+          "_id": "M05pu8jIHs0qEKzP",
+          "name": {
+            "translate": "",
+            "original": "Hand"
+          }
+        },
+        "Bih7st41Mudf9FWL": {
+          "_id": "Bih7st41Mudf9FWL",
+          "name": {
+            "translate": "",
+            "original": "Recharge Spell"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p>The mythic lich regains one spell.</p>"
+          }
+        },
+        "CR60g6GASw833r3h": {
+          "_id": "CR60g6GASw833r3h",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The mythic lich ends one condition affecting it.</p>"
+          }
+        },
+        "gakDYFEsPKyFUdIg": {
+          "_id": "gakDYFEsPKyFUdIg",
+          "name": {
+            "translate": "",
+            "original": "+1 Status to All Saves vs. Vitality"
+          }
+        },
+        "gSG1OZxFHX2zLrNP": {
+          "_id": "gSG1OZxFHX2zLrNP",
+          "name": {
+            "translate": "",
+            "original": "Counterspell"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature casts a spell the lich has prepared.</p>\n<hr />\n<p><strong>Effect</strong> The lich expends a prepared spell to counter the triggering creature's casting of that same spell. The lich loses its spell slot as if it had cast the triggering spell. The lich then attempts to counteract the triggering spell.</p>"
+          }
+        },
+        "lTAUfkDQ3VVnBakO": {
+          "_id": "lTAUfkDQ3VVnBakO",
+          "name": {
+            "translate": "",
+            "original": "Frightful Presence"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>60 feet. @Check[will|dc:29|options:area-effect,inflicts:frightened]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+          }
+        },
+        "IZ5AuHJeZd0VSgCk": {
+          "_id": "IZ5AuHJeZd0VSgCk",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resilience (Reflex and Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature treats its saving throws with the associated save as one degree of success better than it rolled. This is not cumulative with other effects that change their degree of success, like the incapacitation trait (except for rolling a natural 1 or 20). Each time the monster gains mythic resilience, choose one save. The ability should apply to the creature's highest saves first.</p>"
+          }
+        },
+        "CjdoOLjRkqyfp25v": {
+          "_id": "CjdoOLjRkqyfp25v",
+          "name": {
+            "translate": "",
+            "original": "Rejuvenation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When a lich is destroyed, its soul immediately transfers to their <em>@UUID[Compendium.pf2e.equipment-srd.Item.NEbr7nKuiluJgBHT]{Lich Soul Cage}</em>. A lich can be permanently destroyed only if their <em>soul cage</em> is found and destroyed.</p>"
+          }
+        },
+        "Jxw7RvEERHGRzycq": {
+          "_id": "Jxw7RvEERHGRzycq",
+          "name": {
+            "translate": "",
+            "original": "Void Healing"
+          }
+        },
+        "m6CbK52GoU471gez": {
+          "_id": "m6CbK52GoU471gez",
+          "name": {
+            "translate": "",
+            "original": "Drain Soul Cage"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>6th rank</p>\n<hr />\n<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> The lich taps into their <em>@UUID[Compendium.pf2e.equipment-srd.Item.qFVPeeJ70B1u2n81]{Soul Cage}</em>'s power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.</p>"
+          }
+        },
+        "42HIcLjgX7XYgssy": {
+          "_id": "42HIcLjgX7XYgssy",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "IBX7Tix58PNMLskp": {
+          "_id": "IBX7Tix58PNMLskp",
+          "name": {
+            "translate": "",
+            "original": "Siphon Life"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a @Check[fortitude|dc:34] save or become @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}.</p>\n<p>If the lich is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 4}.</p>"
+          }
+        },
+        "5TLoRDxeWBDh6a6e": {
+          "_id": "5TLoRDxeWBDh6a6e",
+          "name": {
+            "translate": "",
+            "original": "Steady Spellcasting"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>If a reaction would disrupt the lich's spellcasting action, the lich attempts a @Check[flat|dc:15] check. On a success, the action isn't disrupted.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-12",
+          "rarity-rare",
+          "type-npc",
+          "npc-mythic"
+        ]
+      }
+    },
+    "Mythic Ogre Boss": {
+      "_id": "F9HHYowsSs0CLMX0",
+      "name": {
+        "translate": "",
+        "original": "Mythic Ogre Boss"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<p>For ogres, the biggest, strongest, and most violent among them are the ones who claim the right to lead. When such a creature gains mythic power, its cruelty is likely to be matched only by its immense durability. Mythic ogre bosses are capable of felling even mighty and enormous prey like gigantic dinosaurs with their ogre hooks, using preposterously unbelievable strength to drag them down and rend them asunder. If a group of mythic ogre bosses were to band together, they could prove a terrifying threat, conquering villages or even a small city with relative ease. Fortunately, their philosophies of violence and strength over all else means that whenever such beings come into contact, they are far more likely to immediately war with each other to prove who is the strongest.</p>"
+      },
+      "items": {
+        "XIkVmeuS2gFeVNkU": {
+          "_id": "XIkVmeuS2gFeVNkU",
+          "name": {
+            "translate": "",
+            "original": "Javelin"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This thin spear is well balanced for throwing but is not designed for melee use.</p>"
+          }
+        },
+        "RitGsF7yZIhQT5hh": {
+          "_id": "RitGsF7yZIhQT5hh",
+          "name": {
+            "translate": "",
+            "original": "Gut-Ripper"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This <em>+1 striking ogre hook</em> causes its owner to dream of past murders conducted with the weapon. <em>Gut-Ripper</em>'s mythic magic is tied to the bloodlust of the ogre boss who was holding it upon becoming mythic. If <em>Gut-Ripper</em> doesn't kill a creature each day by midnight, it becomes a non-magical ogre hook.</p><hr /><p><strong>Activate—Rip Guts! Rip Guts!</strong> <span class=\"action-glyph\">2</span> <strong>Cost</strong> 1 Mythic Point</p>\n<p><strong>Effect</strong> You throw <em>Gut-Ripper</em> in a line of any length up to 60 feet, then it returns to your hands. Each creature in the line takes @Damage[2d10[piercing]|options:area-damage] damage with a @Check[fortitude|dc:25|basic|options:area-effect] save. If there's a creature at the end of the line, you instead make a melee Strike against it with the hook that deals an additional @Damage[2d10[persistent,bleed]] damage. Each time a creature takes this bleed damage, you regain that many HP; this is a healing vitality effect. This activation can't be used again for [[/r 1d4 #Recharge Rip Guts! Rip Guts!]]{1d4 rounds}.</p>"
+          }
+        },
+        "XZMvMwDa5X7MP0wR": {
+          "_id": "XZMvMwDa5X7MP0wR",
+          "name": {
+            "translate": "",
+            "original": "Breastplate"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Though referred to as a breastplate, this type of armor consists of several pieces of plate or @UUID[Compendium.pf2e.equipment-srd.Item.pRoikbRo5HFW6YUB]{Half Plate} armor that protect the torso, chest, neck, and sometimes the hips and lower legs. It strategically grants some of the protection of plate while allowing greater flexibility and speed.</p>"
+          }
+        },
+        "K8rZwgv45XvIe8vL": {
+          "_id": "K8rZwgv45XvIe8vL",
+          "name": {
+            "translate": "",
+            "original": "Ogre Hook"
+          }
+        },
+        "BXuDhj7X68wG6zma": {
+          "_id": "BXuDhj7X68wG6zma",
+          "name": {
+            "translate": "",
+            "original": "Javelin"
+          }
+        },
+        "KsRzjvgnKEGVQcLO": {
+          "_id": "KsRzjvgnKEGVQcLO",
+          "name": {
+            "translate": "",
+            "original": "Titanic Might"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A mythic brute ignores size limitations when performing actions like @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple} or @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip}.</p>"
+          }
+        },
+        "1D0MSMPriNOZ6DFm": {
+          "_id": "1D0MSMPriNOZ6DFm",
+          "name": {
+            "translate": "",
+            "original": "Mythic Ferocity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p>\n<p><strong>Trigger</strong> The monster is reduced to 0 HP</p><hr /><p><strong>Effect</strong> The monster avoids being knocked out and remains at half its maximum HP, but its wounded value increases by 1. When it is @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded 3}, it can no longer use this ability.</p>"
+          }
+        },
+        "DqDajSBQROiv8iPO": {
+          "_id": "DqDajSBQROiv8iPO",
+          "name": {
+            "translate": "",
+            "original": "Reactive Strike"
+          }
+        },
+        "KxNiF9bYl6kA6FRd": {
+          "_id": "KxNiF9bYl6kA6FRd",
+          "name": {
+            "translate": "",
+            "original": "Bellowing Command"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The ogre boss issues a command to hasten their fellows. Each ogre ally who hears and understands this command becomes @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of that ally's next turn but can use the extra action only to Step or Stride.</p>"
+          }
+        },
+        "wagCR4sbZvJmqbwR": {
+          "_id": "wagCR4sbZvJmqbwR",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "QLpCq8dGVOW9sDKZ": {
+          "_id": "QLpCq8dGVOW9sDKZ",
+          "name": {
+            "translate": "",
+            "original": "Mythic Skill"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Mythic Ogre Boss attempts its next Athletics skill check with a +4 bonus and is considered to have mythic proficiency for that check. This applies to one skill when this ability is gained and a second skill if the creature is 12th level or higher.</p>"
+          }
+        },
+        "cg8c4dIdBFiff9le": {
+          "_id": "cg8c4dIdBFiff9le",
+          "name": {
+            "translate": "",
+            "original": "Sweeping Hook"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> The ogre boss successfully @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trips} a creature using an ogre hook</p>\n<hr />\n<p><strong>Effect</strong> The ogre boss makes an ogre hook Strike against the creature they tripped.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-rare",
+          "type-npc",
+          "npc-giant"
+        ]
+      }
+    },
+    "Oliphaunt of Jandelay": {
+      "_id": "fH8t5uKyFA4UuZqp",
+      "name": {
+        "translate": "",
+        "original": "Oliphaunt of Jandelay"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<h3>Harbinger of Annihilation</h3><p>The Oliphaunt of Jandelay is drawn to worlds that are hurtling toward imminent annihilation.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "(can't speak any language)"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "mythic resilience (all saves)"
+      },
+      "speed": {
+        "translate": "",
+        "original": "legendary vigor, unfettered movement"
+      },
+      "items": {
+        "9mPx48jtEKu1Jfo9": {
+          "_id": "9mPx48jtEKu1Jfo9",
+          "name": {
+            "translate": "",
+            "original": "Divine Innate Spells"
+          }
+        },
+        "XoNVlNhbZOQkaSvG": {
+          "_id": "XoNVlNhbZOQkaSvG",
+          "name": {
+            "translate": "",
+            "original": "Cataclysm"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You call upon the unimaginable power of world-ending cataclysms, ripping a small piece of each cataclysm and combining them together into one horrifically powerful attack. The following effects come down upon all creatures in the area. Treat the resistances of creatures in the area as if they were 10 lower for the purpose of determining the cataclysm's damage. Each creature attempts one basic Reflex save that applies to all five types of damage.</p>\n<ul>\n<li>Flesh-dissolving acid rain deals 3d10 acid damage.</li>\n<li>A roaring earthquake shakes and bludgeons creatures on the ground, dealing 3d10 bludgeoning damage.</li>\n<li>A blast of freezing wind deals 3d10 cold damage.</li>\n<li>Incredible lightning lashes the area, dealing 3d10 electricity damage.</li>\n<li>Beating winds churn across the sky, dealing 3d10 bludgeoning damage to creatures flying in the area.</li>\n<li>An instant tsunami sweeps over creatures in the area, dealing 3d10 bludgeoning damage with the water trait (doubled for creatures swimming in the area).</li>\n<li>A massive wildfire burns in a sudden inferno, dealing 3d10 fire damage.</li>\n</ul>"
+          }
+        },
+        "0OAlJLpmih9rnp4h": {
+          "_id": "0OAlJLpmih9rnp4h",
+          "name": {
+            "translate": "",
+            "original": "Unfettered Movement (Constant)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You repel effects that would hinder a creature or slow its movement. While under this spell's effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} an effect that has them @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}, they automatically succeed unless the effect is magical and of a higher rank than the <em>unfettered movement</em> spell.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.CdAyAiMGESvgNQtz]{Spell Effect: Unfettered Movement}</p>"
+          }
+        },
+        "4Jhl2RR490RdwQHK": {
+          "_id": "4Jhl2RR490RdwQHK",
+          "name": {
+            "translate": "",
+            "original": "Tusk"
+          }
+        },
+        "IHp0ijMt8U8oZOcY": {
+          "_id": "IHp0ijMt8U8oZOcY",
+          "name": {
+            "translate": "",
+            "original": "Foot"
+          }
+        },
+        "J2tE5i0AEs8vrir6": {
+          "_id": "J2tE5i0AEs8vrir6",
+          "name": {
+            "translate": "",
+            "original": "Trunk"
+          }
+        },
+        "2dPopGUG3ZmSG1cd": {
+          "_id": "2dPopGUG3ZmSG1cd",
+          "name": {
+            "translate": "",
+            "original": "Debris Toss"
+          }
+        },
+        "B3zBOwUNfu3bLg2P": {
+          "_id": "B3zBOwUNfu3bLg2P",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Oliphaunt of Jandelay removes any one condition currently affecting it.</p>"
+          }
+        },
+        "vtpTwsmfwcfLp9Eg": {
+          "_id": "vtpTwsmfwcfLp9Eg",
+          "name": {
+            "translate": "",
+            "original": "Regeneration"
+          }
+        },
+        "4vuIn0FH90IAXJZF": {
+          "_id": "4vuIn0FH90IAXJZF",
+          "name": {
+            "translate": "",
+            "original": "Frightful Presence"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>300 feet. @Check[will|dc:46|options:area-effect,inflicts:frightened]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+          }
+        },
+        "qmkJupy64foC4o23": {
+          "_id": "qmkJupy64foC4o23",
+          "name": {
+            "translate": "",
+            "original": "Legendary Vigor"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Oliphaunt of Jandelay is immune to penalties to its Speeds, and it ignores difficult terrain and greater difficult terrain.</p>"
+          }
+        },
+        "09zr2mkHYoa2dlrA": {
+          "_id": "09zr2mkHYoa2dlrA",
+          "name": {
+            "translate": "",
+            "original": "Mythic Immunity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Oliphaunt of Jandelay is immune to harmful spells cast by non-mythic creatures, Strikes made with non-mythic weapons, and unarmed Strikes from nonmythic characters.</p>"
+          }
+        },
+        "N0tzcyXMdu07ek1R": {
+          "_id": "N0tzcyXMdu07ek1R",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resilience"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Oliphaunt treats its saving throws with the associated save as one step better than they actually are (so a critical failure is a failure, a failure is a success, and a success is a critical success). The first time each round that a character rolls a critical hit against the Oliphaunt, they must reroll the attack roll and take the new result.</p>"
+          }
+        },
+        "vAuHHRu15yY5K4k9": {
+          "_id": "vAuHHRu15yY5K4k9",
+          "name": {
+            "translate": "",
+            "original": "Reactive"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Oliphaunt of Jandelay gains 3 reactions each round. It can still use only one reaction per trigger.</p>"
+          }
+        },
+        "kBfKLrEg8pYRwhjs": {
+          "_id": "kBfKLrEg8pYRwhjs",
+          "name": {
+            "translate": "",
+            "original": "Reactive Strike"
+          }
+        },
+        "bhysfIDJlRE46p1X": {
+          "_id": "bhysfIDJlRE46p1X",
+          "name": {
+            "translate": "",
+            "original": "Undying Myth"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> all the creature's Mythic Points</p>\n<p><strong>Trigger</strong> The creature would die and has at least 1 Mythic Point</p><hr /><p><strong>Effect</strong> When the Oliphaunt of Jandelay would die, as long as it has at least 1 Mythic Point, it immediately expends all remaining Mythic Points it has, remains standing and conscious, and recovers @Damage[(floor(@actor.system.attributes.hp.max/2))[healing]]{50% of its maximum Hit Points}.</p>"
+          }
+        },
+        "0iTTc5eoCUpSjskp": {
+          "_id": "0iTTc5eoCUpSjskp",
+          "name": {
+            "translate": "",
+            "original": "Brutal Drag"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When the Oliphaunt takes a Stride action, any creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the Oliphaunt of Jandelay's tusk is moved along with it to a location within 20 feet of the Oliphaunt's ending location. They remain grabbed and the GM determines which square they end up in.</p>"
+          }
+        },
+        "vvltSOFKWwSN9pbb": {
+          "_id": "vvltSOFKWwSN9pbb",
+          "name": {
+            "translate": "",
+            "original": "Destructive Frenzy"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Oliphaunt of Jandelay makes two tusk Strikes, two foot Strikes, and one trunk Strike in any order.</p>"
+          }
+        },
+        "SZPK1jhXDeTIsaJD": {
+          "_id": "SZPK1jhXDeTIsaJD",
+          "name": {
+            "translate": "",
+            "original": "Devastating Launch"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Oliphaunt of Jandelay buries its tusks into the ground in a @Template[type:burst|distance:15] centered within 20 feet of it, collecting everything in that area, including any creature currently @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by its tusk attack, and flinging it all up to 120 feet away. Everything lands in a @Template[type:burst|distance:30], dealing @Damage[12d6[bludgeoning]|options:area-damage] damage to each creature in the area (@Check[reflex|dc:51|basic|options:area-effect] save). This damage also applies to any creatures, vehicles, or objects the Oliphaunt flung as well. A creature in the area being flung that succeeds or critically succeeds on their Reflex save remains in the square they started in. Anything launched by the Oliphaunt lands in a square in the burst as determined by the GM.</p>"
+          }
+        },
+        "MGlsEYwduFGAn3fE": {
+          "_id": "MGlsEYwduFGAn3fE",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "lccIEtDFEyprHwTS": {
+          "_id": "lccIEtDFEyprHwTS",
+          "name": {
+            "translate": "",
+            "original": "Trample"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Huge or smaller, foot, @Check[reflex|dc:46|basic]</p>\n<p>When the Oliphaunt of Jandelay Tramples, it can Stride up to triple its Speed, and any creature that fails or critically fails the Reflex save is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+          }
+        },
+        "Kvj9gEu0opp2KIbx": {
+          "_id": "Kvj9gEu0opp2KIbx",
+          "name": {
+            "translate": "",
+            "original": "Trumpeting Blast"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Oliphaunt of Jandelay emits a cacophonous blast from its trunk in a @Template[type:cone|distance:120]. Each creature in the area must attempt a @Check[fortitude|dc:49|options:area-effect,damaging-effect,inflicts:deafened,inflicts:slowed] save. If the Oliphaunt spends 1 Mythic Point as part of the activity, the DC becomes 51 and the damage dice are increased to d12s. The Oliphaunt of Jandelay can't use Trumpeting Blast again for [[/gmr 1d4 #Recharge Trumpeting Blast]]{1d4 rounds}.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes @Damage[7d10[sonic]|options:area-damage] damage and is @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} for 1 round.</p>\n<p><strong>Failure</strong> The creature takes @Damage[14d10[sonic]|options:area-damage] damage, is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for 2 rounds, and is deafened for 2 rounds.</p>\n<p><strong>Critical Failure</strong> The creature takes @Damage[28d10[sonic]|options:area-damage] damage, is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2} for 2 rounds, and is deafened for 4 rounds.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-25",
+          "rarity-unique",
+          "type-npc",
+          "npc-monitor"
+        ]
+      }
+    },
+    "Primal Chaos Aura": {
+      "_id": "F6qOsvcKb95dgCyA",
+      "name": {
+        "translate": "",
+        "original": "Primal Chaos Aura"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Primal magic becomes unpredictable near areas where Agyra lairs, sometimes to hazardous effect.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[nature|dc:22|name:Draw Off Excess Power] to negate the aura's effect for 1 round by temporarily drawing off the excess power and channeling it back into surrounding terrain, @Check[nature|dc:26|name:Disperse Lingering Magic] (expert) to completely disperse the lingering magic</p>"
+      },
+      "reset": {
+        "translate": "",
+        "original": "<p>The hazard deactivates and immediately resets if it has no targets for 1 round; it also resets if Agyra slumbers for 1 week within 100 feet.</p>"
+      },
+      "routine": {
+        "translate": "",
+        "original": "<p>(2 actions) On its initiative, the hazard gathers primal energy from the surroundings as its first action. Roll [[/gmr 1d6 #Energy Gathered]] to determine the type of energy gathered. The hazard uses its second action to replicate the associated spell (2nd rank, DC 23, spell attack modifier [[/r 1d20+15 #Spell Attack]]{+15}). The spell's target or targets are chosen randomly from creatures in the area. Any spell cast by this hazard is primal. <strong>1</strong> air (@UUID[Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1]{Gust of Wind}); <strong>2</strong> electricity (@UUID[Compendium.pf2e.spells-srd.Item.zDJS8E66UI0himqV]{Thunderstrike}); <strong>3</strong> fire (@UUID[Compendium.pf2e.spells-srd.Item.ZxHC7V7HtjUsB8zH]{Blazing Bolt}); <strong>4</strong> poison (@UUID[Compendium.pf2e.spells-srd.Item.DYdvMZ8G2LiSLVWw]{Spider Sting}); <strong>5</strong> sonic (@UUID[Compendium.pf2e.spells-srd.Item.1xbFBQDRs0hT5xZ9]{Shatter}); <strong>6</strong> water (@UUID[Compendium.pf2e.spells-srd.Item.jfVCuOpzC6mUrf6f]{Hydraulic Push})</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>or @Check[perception|dc:26|traits:action:seek] to feel a tingle in the air and smell a rich, chlorophyll-green fragrance with no discernible source</p>"
+      },
+      "items": {
+        "mvL1ARPDkTinsFt4": {
+          "_id": "mvL1ARPDkTinsFt4",
+          "name": {
+            "translate": "",
+            "original": "Wild Surge"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A character casts a primal spell within the hazard's area</p><hr /><p><strong>Effect</strong> Each living creature in the area gains [[/r 2d4 #Temporary Hit Points]] temporary Hit Points that last for 1 minute as life energy wells up around them, and the hazard rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-5",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-kaiju"
+        ]
+      }
+    },
+    "Sublime Breath": {
+      "_id": "Om9ruhbwPNISjwDr",
+      "name": {
+        "translate": "",
+        "original": "Sublime Breath"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<h3>Bringers of Inspiration</h3><p>A sublime breath seeks to perfect their craft, or, when they see the seed of potential in a worthy mortal, to inspire them to new heights.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "truespeech"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "+2 status to all saves vs. emotion; mythic resilience (Will)"
+      },
+      "items": {
+        "pr8iUUGuIfAW0pYW": {
+          "_id": "pr8iUUGuIfAW0pYW",
+          "name": {
+            "translate": "",
+            "original": "Immaculate Instrument"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>This object, made of silver light, takes the form of a small musical instrument, prop, or other tool associated with a specific art form. The holder of the immaculate instrument never suffers from creative blocks of any kind and their work is always insightful and skilled. A character who uses the immaculate instrument to @UUID[Compendium.pf2e.actionspf2e.Item.EEDElIyin4z60PXx]{Perform} or Craft can attempt the check at mythic proficiency once per month, and as long as they possess their immaculate instrument, they treat any critical failures with these skills as failures.</p><hr /><p><strong>Destruction</strong> If the holder uses the immaculate instrument to intentionally produce a work that is not just mediocre or crass, but one that devalues the public opinion of the art form itself in a showing of at least 100 spectators, the instrument fades away in shame.</p>"
+          }
+        },
+        "FjjfoDyvJckiUgUc": {
+          "_id": "FjjfoDyvJckiUgUc",
+          "name": {
+            "translate": "",
+            "original": "Soft Touch"
+          }
+        },
+        "TdUL9zuWhYsufaej": {
+          "_id": "TdUL9zuWhYsufaej",
+          "name": {
+            "translate": "",
+            "original": "Feigned Strike"
+          }
+        },
+        "84g0thmX6mrQpAXG": {
+          "_id": "84g0thmX6mrQpAXG",
+          "name": {
+            "translate": "",
+            "original": "Artistic Specialist"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>In a recital, competition, or other measure of artistic skill, a sublime breath is a 12th-level challenge.</p>"
+          }
+        },
+        "hu3kOuRFiO3bdRJ9": {
+          "_id": "hu3kOuRFiO3bdRJ9",
+          "name": {
+            "translate": "",
+            "original": "Immaculate Instrument"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A sublime breath carries a single tool, prop, or instrument related to its chosen craft, such as a mask, sash, or paintbrush. As long as they possess their immaculate instrument, they treat any critical failures on Crafting or Performance checks as failures.</p>"
+          }
+        },
+        "lYIyujwTKgXxTxUJ": {
+          "_id": "lYIyujwTKgXxTxUJ",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The sublime breath removes any one condition currently affecting them.</p>"
+          }
+        },
+        "2ddCLPBzSEpGoTd7": {
+          "_id": "2ddCLPBzSEpGoTd7",
+          "name": {
+            "translate": "",
+            "original": "Thought Slips Away"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The sublime breath's ephemeral lightness makes them impossible to grasp. They use their Performance modifier to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}, @UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{Tumble Through}, @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump}, or @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump}. When they @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}, High Jump, or Long Jump, the movement does not provoke reactions.</p>"
+          }
+        },
+        "2M0ZAFZ1m0Dr915i": {
+          "_id": "2M0ZAFZ1m0Dr915i",
+          "name": {
+            "translate": "",
+            "original": "+2 Status to All Saves vs. Emotion"
+          }
+        },
+        "Uk0LHniv3eiGclv0": {
+          "_id": "Uk0LHniv3eiGclv0",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resilience"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The sublime breath treats their Will saving throws as one step better than it actually is (so a critical failure is a failure, a failure is a success, and a success is a critical success).</p>"
+          }
+        },
+        "yFXkvfPLgI8DlZBf": {
+          "_id": "yFXkvfPLgI8DlZBf",
+          "name": {
+            "translate": "",
+            "original": "Artistic Creation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Frequency</strong> once per round</p><hr /><p><strong>Effect</strong> The sublime breath's art is so real that it takes shape in the hearts of those who witness it. The sublime breath crafts, acts, recites a tale or song, or otherwise uses their art to create a work of art in a @Template[type:burst|distance:10] within 60 feet. The creation is perceptible and tangible to creatures that don't disbelieve it and it affects them accordingly; for instance a ladder could be climbed, and a campfire would provide heat and even be able to cook food for an affected creature. A hazardous creation deals @Damage[4d6[untyped]|options:area-damage] damage to creatures that enter or begin their turn in the area (@Check[will|dc:24|basic|options:area-effect] save), of a type matching the creation, usually a physical damage type or a common energy type such as fire, acid, or cold. The creation lasts until the end of the sublime breath's next turn, though the sublime breath can Sustain it to prolong the effect for up to 1 minute. The sublime breath can Sustain any number of Artistic Creations with a single action.</p>"
+          }
+        },
+        "4UMxc8XNiQn8RVbN": {
+          "_id": "4UMxc8XNiQn8RVbN",
+          "name": {
+            "translate": "",
+            "original": "Artistic Destruction"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> The sublime breath has either used Artistic Creation this turn or Sustained an Artistic Creation this turn</p><hr /><p><strong>Effect</strong> The sublime breath destroys their creations to make way for new growth. All of their currently sustained Artistic Creations detonate, dealing @Damage[8d6[untyped]|options:area-damage] damage to all enemy creatures either within a creation or within a @Template[type:burst|distance:10] of it (@Check[will|dc:24|basic|options:area-effect] save). The damage type matches the creation. Creatures in multiple overlapping bursts take damage only once, of the type of their choice. The sublime breath then cannot use Artistic Creation for [[/gmr 1d4]] turns.</p>"
+          }
+        },
+        "Swybg7dNQJYA96rO": {
+          "_id": "Swybg7dNQJYA96rO",
+          "name": {
+            "translate": "",
+            "original": "Change Shape"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The sublime breath can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes, but might change the damage type their Strikes deal.</p>\n<p>The sublime breath instinctively takes on the appearance an observer finds most inspiring. The first time they become observed, they use Change Shape as a free action, even if they were unaware they were being observed, they take on a specific appearance reflecting the @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} desires, hopes, artistic inclinations, or similar deep-seated emotions of a single observer. As long as the sublime breath can be observed by this creature and maintains this shape, the observer gains a +1 circumstance bonus to Crafting and Performance checks and takes a –1 circumstance penalty to Will saves against the sublime breath or to any check or DC that would attempt to capture or restrain them, such as attempts to @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple} or the DC of a @UUID[Compendium.pf2e.spells-srd.Item.DCQHaLrYXMI37dvW]{Paralyze} spell.</p>"
+          }
+        },
+        "7WPZ3eJbHVEV27Sn": {
+          "_id": "7WPZ3eJbHVEV27Sn",
+          "name": {
+            "translate": "",
+            "original": "Hours Go By"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A sublime breath's presence can allow artists and artisans to work almost effortlessly in a state of perfect flow. The sublime breath encourages a single creature within 60 feet, who becomes @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened}. They can spend the extra action only to Sustain a spell or other ability.</p>"
+          }
+        },
+        "avU85lB672Yh7KMs": {
+          "_id": "avU85lB672Yh7KMs",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-6",
+          "rarity-rare",
+          "type-npc",
+          "npc-fey"
+        ]
+      }
+    },
+    "Trump of the Oliphaunt": {
+      "_id": "RAYQwQxm2nEmfYRD",
+      "name": {
+        "translate": "",
+        "original": "Trump of the Oliphaunt"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>An overwhelming trumpeting sound vibrates and suffuses the area, causing everything to slow.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[arcana|dc:38|name:Shore Up the Area] (expert), @Check[maelstrom-lore|dc:38|name:Shore Up the Area] (expert), @Check[occultism|dc:38|name:Shore Up the Area] (master), @Check[religion|dc:38|name:Shore Up the Area] (master) to recognize and shore up the area against the localized planar instability causing a connection to the Oliphaunt of Jandelay. Four successes are needed to strengthen the area enough against the instability to end the hazard.</p>"
+      },
+      "reset": {
+        "translate": "",
+        "original": "<p>The area becomes unstable again after 24 hours.</p>"
+      },
+      "routine": {
+        "translate": "",
+        "original": "<p>(1 action) Each creature in the area must attempt a @Check[fortitude|dc:36] save. A creature with the slowed condition from this hazard takes a –2 circumstance penalty on further saves against this effect.</p><hr><p><strong>Critical Success</strong> The creature is unaffected.</p><p><strong>Success</strong> The creature takes @Damage[(2d6+6)[sonic]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} for 1 round.</p><p><strong>Failure</strong> The creature takes @Damage[(4d6+13)[sonic]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for 2 rounds.</p><p><strong>Critical Failure</strong> The creature takes @Damage[(8d6+26)[sonic]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2} for 2 rounds.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(master) to notice the tension of a low vibration forming in the area from the imminent release of the Oliphaunt's trumpet</p>"
+      },
+      "items": {
+        "13cgAF6tdEDdUGZg": {
+          "_id": "13cgAF6tdEDdUGZg",
+          "name": {
+            "translate": "",
+            "original": "Bone-Shattering Rhythms"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> Three or more characters enter the area of planar instability</p><hr /><p><strong>Effect</strong> Pent-up magical energy from another world begins to release in waves of overwhelming sound. The hazard rolls initiative.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-12",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-environmental"
+        ]
+      }
+    },
+    "Verex-That-Was": {
+      "_id": "qPFA9IM6QjnSuagx",
+      "name": {
+        "translate": "",
+        "original": "Verex-That-Was"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<h3>A Bloody Spawn of Rovagug</h3><p>Once an orc god, Verex-That-Was has been reshaped into a towering creature of mangled flesh and bone.</p>"
+      },
+      "hp": {
+        "translate": "",
+        "original": "regeneration 30 (deactivated by sloughstone weapons)"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "mythic resilience (all saves)"
+      },
+      "items": {
+        "rh3d7LdJAYjTZRYM": {
+          "_id": "rh3d7LdJAYjTZRYM",
+          "name": {
+            "translate": "",
+            "original": "Claw"
+          }
+        },
+        "o0CSk2eMpM5SUUaF": {
+          "_id": "o0CSk2eMpM5SUUaF",
+          "name": {
+            "translate": "",
+            "original": "Jaws"
+          }
+        },
+        "90VlEvjgRHXiJg8o": {
+          "_id": "90VlEvjgRHXiJg8o",
+          "name": {
+            "translate": "",
+            "original": "Tail"
+          }
+        },
+        "qASNHKaPm9S4XmC7": {
+          "_id": "qASNHKaPm9S4XmC7",
+          "name": {
+            "translate": "",
+            "original": "Teeth"
+          }
+        },
+        "GXv0fK0nlpiW9eRS": {
+          "_id": "GXv0fK0nlpiW9eRS",
+          "name": {
+            "translate": "",
+            "original": "Regeneration (Deactivated by Sloughstone Weapons)"
+          }
+        },
+        "dGKajIVY53lSwxaH": {
+          "_id": "dGKajIVY53lSwxaH",
+          "name": {
+            "translate": "",
+            "original": "Frightful Presence"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>150 feet. @Check[will|dc:45|options:area-effect,inflicts:frightened]</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+          }
+        },
+        "RGQybNAvFA3SDkjw": {
+          "_id": "RGQybNAvFA3SDkjw",
+          "name": {
+            "translate": "",
+            "original": "Mythic Immunity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Verex-That-Was is immune to harmful spells cast by non-mythic creatures, Strikes made with non-mythic weapons, and unarmed Strikes from non-mythic characters.</p>"
+          }
+        },
+        "9gKIQtI8kPnOv99m": {
+          "_id": "9gKIQtI8kPnOv99m",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resilience"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Verex-That-Was treats his saving throws with the associated save as one step better than they actually are (so a critical failure is a failure, a failure is a success, and a success is a critical success).</p>"
+          }
+        },
+        "1odL3qIXeArH9g8O": {
+          "_id": "1odL3qIXeArH9g8O",
+          "name": {
+            "translate": "",
+            "original": "Undying Myth"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> all the creature's Mythic Points</p>\n<p><strong>Trigger</strong> Verex-That-Was would die and has at least 1 Mythic Point</p><hr /><p><strong>Effect</strong> Verex remains standing and conscious, and @Damage[(floor(@actor.system.attributes.hp.max/2))[healing]]{50% of its maximum Hit Points}.</p>"
+          }
+        },
+        "OuHFKcjzJlzQTflP": {
+          "_id": "OuHFKcjzJlzQTflP",
+          "name": {
+            "translate": "",
+            "original": "Battlefield Eruption"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> Verex-That-Was burrows into the ground, reemerging anywhere on the same plane where either he or his worshippers have previously killed at least 10 sapient creatures in battle. A fountain of gore and shattered bone erupts from the ground when Verex arrives, dealing @Damage[16d10[piercing]|options:area-damage] damage in a @Template[type:emanation|distance:30] (@Check[reflex|dc:48|basic|options:area-effect] save).</p>"
+          }
+        },
+        "KteLz40XOMcgbe5f": {
+          "_id": "KteLz40XOMcgbe5f",
+          "name": {
+            "translate": "",
+            "original": "Bloodboils"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Wounds caused by direct contact with Verex-That-Was erupt into painful, blood-filled boils. A creature struck by Verex-That-Was's jaws or tail must succeed at a @Check[fortitude|dc:45] or gain weakness 10 to physical damage for 1 day as the boils explode messily each time the creature sustains another wound. The bloodboils can be counteracted with a 3rd-rank (or higher) @UUID[Compendium.pf2e.spells-srd.Item.SUKaxVZW2TlM8lu0]{Cleanse Affliction} spell, but the disease also ends if the victim receives magical healing that brings them to their Hit Point maximum.</p>"
+          }
+        },
+        "W1UAHesyMDdlZ47C": {
+          "_id": "W1UAHesyMDdlZ47C",
+          "name": {
+            "translate": "",
+            "original": "Leap into the Fray"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Verex-That-Was Leaps up to 20 feet horizontally and up to 10 feet vertically and then makes one claw Strike, one jaws Strike, and one tail Strike in any order. If Verex-That-Was spends 1 Mythic Point as part of this action, he doubles the distances he can @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} and each creature he lands adjacent to is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the end of his turn.</p>"
+          }
+        },
+        "rYtWPeJTtunerGgw": {
+          "_id": "rYtWPeJTtunerGgw",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "4zHTrRFZ0GF5Urb5": {
+          "_id": "4zHTrRFZ0GF5Urb5",
+          "name": {
+            "translate": "",
+            "original": "Swallow Whole"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Huge, @Damage[(4d10+10)[bludgeoning]], Rupture 50</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+          }
+        },
+        "GXO9oeuX2PBBdqNd": {
+          "_id": "GXO9oeuX2PBBdqNd",
+          "name": {
+            "translate": "",
+            "original": "Symphony of Pain"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature within Verex-That-Was's frightful presence damages Verex-That-Was</p><hr /><p><strong>Effect</strong> Verex unleashes an echo of psychic pain throughout his vicinity, inflicting mental damage equal to half of the damage he sustained on all creatures, friend or foe, within 150 feet (@Check[fortitude|dc:45|basic] save).</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-24",
+          "rarity-unique",
+          "type-npc",
+          "npc-aberration"
+        ]
+      }
+    },
+    "Vulot": {
+      "_id": "FpM4xd45aBf7wsqH",
+      "name": {
+        "translate": "",
+        "original": "Vulot"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<h3>The All or None</h3><p>Vulot is nascent demon lord of lies, loss of identity, and suffocation. If one of their forms is ever destroyed, they are able to reincorporate as one of their many stolen identities a day later.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "all languages spoken by their collective identities; telepathy 200 feet (unlimited range to other stolen identities worn by cultists of Vulot)"
+      },
+      "perception": {
+        "translate": "",
+        "original": "many eyes in many places, truesight"
+      },
+      "ac": {
+        "translate": "",
+        "original": "mythic immunity"
+      },
+      "items": {
+        "GY9bSpltM0UvevGk": {
+          "_id": "GY9bSpltM0UvevGk",
+          "name": {
+            "translate": "",
+            "original": "Divine Innate Spells"
+          }
+        },
+        "gqmH09BCarxTpdwn": {
+          "_id": "gqmH09BCarxTpdwn",
+          "name": {
+            "translate": "",
+            "original": "Manifestation"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You spin secrets from the fundaments of magic, shaping them into a power with nearly unlimited potential. You duplicate a spell of 9th rank or lower of the tradition from which you cast <em>manifestation</em>, or a spell of 7th rank or lower from any tradition. Though you can normally choose only spells that are common or to which you have access, the GM might allow broader options.</p>"
+          }
+        },
+        "ddvo3EfjZ9cMGd8Y": {
+          "_id": "ddvo3EfjZ9cMGd8Y",
+          "name": {
+            "translate": "",
+            "original": "Overwhelming Presence"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You surround yourself with supernatural splendor, appearing to be a god or similarly majestic being, with an appearance, regalia, and iconography of your choice. Targets must attempt a Will save. Regardless of the outcome, the target is then temporarily immune for 1 minute.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target must pay tribute to you two times. Paying tribute requires that the target spend a single action, which has either the move trait (as they bow) or manipulate trait (as they offer up a token in their hands). They must pay tribute at least once on each of their turns, if possible. While affected, the target is @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} by you and can't use hostile actions against you.</p>\n<p><strong>Failure</strong> As success, but the target must pay tribute a total of six times.</p>\n<p><strong>Critical Failure</strong> As failure, but the target must spend all its actions paying tribute, and they cannot take other actions until the tribute is fully paid.</p>"
+          }
+        },
+        "GpFaCkF0sJ1mrPQ4": {
+          "_id": "GpFaCkF0sJ1mrPQ4",
+          "name": {
+            "translate": "",
+            "original": "Divine Decree"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You utter a potent litany from your faith, a mandate that harms those who oppose your ideals. You deal 7d10 spirit damage to your enemies in the area; each enemy must attempt a Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} for 1 minute.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is enfeebled 2 for 1 minute. If you're on your home plane and the creature is not, the creature is sent back to its home plane. A creature of 10th level or lower must also succeed at a Will save or be @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} for 1 minute; if it critically fails, it dies (this is a death effect).</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d10, and the level of creatures that must attempt a second save on a critical failure increases by 2.</p>"
+          }
+        },
+        "6Ov85L8a4Yk4hqBp": {
+          "_id": "6Ov85L8a4Yk4hqBp",
+          "name": {
+            "translate": "",
+            "original": "Dominate"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You take command of the target, forcing it to obey your orders. If you issue an obviously self-destructive order, the target doesn't act until you issue a new order. The effect depends on its Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} as it fights off your commands.</p>\n<p><strong>Failure</strong> You control the target. It gains the @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{Controlled} condition, but it can attempt a Will save at the end of each of its turns. On a success, the spell ends.</p>\n<p><strong>Critical Failure</strong> As a failure, but the target receives a new save only if you give it a new order that is against its nature, such as killing its allies.</p>\n<hr />\n<p><strong>Heightened (10th)</strong> The duration is unlimited.</p>"
+          }
+        },
+        "h6tjPRTQZUu9uieb": {
+          "_id": "h6tjPRTQZUu9uieb",
+          "name": {
+            "translate": "",
+            "original": "Mislead"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You turn yourself @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible} and create an illusory duplicate of yourself. When you Sustain the spell, you can mentally dictate a course of action for your duplicate to follow that round. Your duplicate acts as though it had your full number of actions, though it can't actually affect anything in the environment. Both the duplicate and your invisibility persist for the spell's duration. Performing a hostile action doesn't end <em>mislead</em>'s invisibility, just like a 4th-rank @UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{Invisibility} spell. A creature that determines the duplicate is an illusion doesn't necessarily know you're invisible, and one that can see your invisible form doesn't necessarily know your duplicate is an illusion.</p>\n<p>If you Cast a Spell, attack, or otherwise interact with another creature, as a part of that action you can attempt a Deception check against observers' Perception DCs to convince them your duplicate used that action. This doesn't fool anyone who's aware your duplicate is an illusion, nor does it work if the attack obviously couldn't have come from the duplicate. For instance, if you fired a ray, you could make it look like it came from the duplicate as long as the duplicate was positioned appropriately, but if you attacked with a sword and your duplicate was across the room from the target, your Deception check would automatically fail.</p>"
+          }
+        },
+        "0vdyO0h19IyVvYBK": {
+          "_id": "0vdyO0h19IyVvYBK",
+          "name": {
+            "translate": "",
+            "original": "Repulsion"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You manifest an aura that prevents creatures from approaching you. When casting the spell, you can make the area any radius you choose, up to 40 feet. A creature must attempt a Will save if it's within the area when you Cast the Spell or as soon as it enters the area while the spell is in effect. Once a creature has attempted the save, it uses the same result for that casting of <em>repulsion</em>. Any restrictions on a creature's movement apply only if it voluntarily moves toward you. For example, if you move closer to a creature, it doesn't then need to move away.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature's movement is not restricted.</p>\n<p><strong>Success</strong> The creature treats each square in the area as difficult terrain when moving closer to you.</p>\n<p><strong>Failure</strong> The creature can't move closer to you within the area.</p>"
+          }
+        },
+        "kczBFCZducsXMWl4": {
+          "_id": "kczBFCZducsXMWl4",
+          "name": {
+            "translate": "",
+            "original": "Truesight (Constant)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You see things within 60 feet as they actually are. The GM rolls a secret counteract check against any illusion, morph or polymorph effect in the area, but only for the purpose of determining whether you see through it (for instance, if the check succeeds against a polymorph spell, you can see the creature's true form, but you don't end the polymorph spell).</p>"
+          }
+        },
+        "iW2BjX11BwcL7okM": {
+          "_id": "iW2BjX11BwcL7okM",
+          "name": {
+            "translate": "",
+            "original": "Shadow Blast"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Area</strong> varies</p>\n<p><strong>Defense</strong> @Check[reflex|basic|options:area-effect] or @Check[will|basic|options:area-effect] (target's choice)</p><hr /><p>You shape the shadow substance of the Netherworld into a blast. Choose @Damage[(@item.rank+1)d8[acid]|options:area-damage], @Damage[(@item.rank+1)d8[bludgeoning]|options:area-damage], @Damage[(@item.rank+1)d8[cold]|options:area-damage], @Damage[(@item.rank+1)d8[electricity]|options:area-damage], @Damage[(@item.rank+1)d8[fire]|options:area-damage], @Damage[(@item.rank+1)d8[force]|options:area-damage], @Damage[(@item.rank+1)d8[piercing]|options:area-damage], @Damage[(@item.rank+1)d8[slashing]|options:area-damage], @Damage[(@item.rank+1)d8[sonic]|options:area-damage], or @Damage[(@item.rank+1)d8[spirit]|options:area-damage] damage, and choose a @Template[cone|distance:30], a @Template[burst|distance:15] within 120 feet, or a @Template[line|distance:50]. The blast deals 6d8 damage of the type you chose to each creature in the area.</p><hr /><p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>"
+          }
+        },
+        "csTROw9NaZJzVDL5": {
+          "_id": "csTROw9NaZJzVDL5",
+          "name": {
+            "translate": "",
+            "original": "Translocate (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You instantly transport yourself and any items you're wearing and holding from your current space to an unoccupied space within range you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the spell is lost.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> The range increases to 1 mile. You don't need to be able to see your destination, as long as you have been there in the past and know its relative location and distance from you. You are then temporarily immune for 1 hour.</p>"
+          }
+        },
+        "bpp2By5P4QhL7sW8": {
+          "_id": "bpp2By5P4QhL7sW8",
+          "name": {
+            "translate": "",
+            "original": "Daze"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You push into the target's mind and daze it with a mental jolt. The jolt deals 1d6 mental damage, with a basic Will save. If the target critically fails the save, it is also @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>"
+          }
+        },
+        "yckF5CWsyBsjb5i6": {
+          "_id": "yckF5CWsyBsjb5i6",
+          "name": {
+            "translate": "",
+            "original": "Demonic Pact"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>DC 44</p>\n<p>You call in a favor from one demon of level 2 or lower, two demons of level 0 or lower, or three demons of level –1 or lower.</p><hr /><p><strong>Critical Success</strong> You conjure the demon or demons. They are eager to pursue the task, so they don't ask for a favor.</p>\n<p><strong>Success</strong> You conjure the demon or demons. They are not eager to pursue the task, so they require a favor in return.</p>\n<p><strong>Failure</strong> You don't conjure any demons.</p>\n<p><strong>Critical Failure</strong> The demon or demons are angry that you disturbed them. They appear before you, but they immediately attack you.</p><hr /><p><strong>Heightened (+1)</strong> Increase the level of demon you call by 1 for each option.</p>"
+          }
+        },
+        "ftMPev87T0J7ZG5k": {
+          "_id": "ftMPev87T0J7ZG5k",
+          "name": {
+            "translate": "",
+            "original": "Figment"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You create a simple illusory sound or vision. A sound adds the auditory trait to the spell and the sound can't include intelligible words or elaborate music. A vision adds the visual trait, can be no larger than a 5-foot cube, and is clearly crude and undetailed if viewed from within 15 feet. When you Cast or Sustain the Spell, you can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{Create a Diversion} with the illusion, gaining a +2 circumstance bonus to your Deception check. If the attempt fails against a creature, that creature disbelieves the <em>figment</em>.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.2Hg3a06gZCSnUgSA]{Spell Effect: Figment}</p>"
+          }
+        },
+        "yMaQCaf9JtO8gDwp": {
+          "_id": "yMaQCaf9JtO8gDwp",
+          "name": {
+            "translate": "",
+            "original": "Claw"
+          }
+        },
+        "9B2azhtpVgbbXIsL": {
+          "_id": "9B2azhtpVgbbXIsL",
+          "name": {
+            "translate": "",
+            "original": "Thought Spike"
+          }
+        },
+        "Gy0EDiZwlGfdqcoC": {
+          "_id": "Gy0EDiZwlGfdqcoC",
+          "name": {
+            "translate": "",
+            "original": "Absolute Surety"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Vulot is dependent on deception and charm to achieve their goals. If Vulot fails to deceive someone, for example failing the Deception check associated with a mislead spell to convince an observer that an action came from the duplicate, Vulot takes @Damage[4d6[mental]] damage. This damage ignores Vulot's usual immunity.</p>"
+          }
+        },
+        "SGBSRGfkh4r5hJXG": {
+          "_id": "SGBSRGfkh4r5hJXG",
+          "name": {
+            "translate": "",
+            "original": "Many Eyes in Many Places"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Vulot can extend their senses through any cultist wearing one of their stolen identities as long as the cultist is in the Universe or the Outer Rifts. Vulot can't maintain their attention through more than three cultists at one time. Vulot can't speak through these cultists.</p>"
+          }
+        },
+        "8ynYZMajyCmXhUbq": {
+          "_id": "8ynYZMajyCmXhUbq",
+          "name": {
+            "translate": "",
+            "original": "Recharge Spell"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p>Vulot gains an additional use of any of their innate spells.</p>"
+          }
+        },
+        "bbDbjcell2ftzAxQ": {
+          "_id": "bbDbjcell2ftzAxQ",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> Vulot removes any one condition currently affecting them.</p>"
+          }
+        },
+        "U7vpjsB2h847KYxV": {
+          "_id": "U7vpjsB2h847KYxV",
+          "name": {
+            "translate": "",
+            "original": "Another Face"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When Vulot is reduced to 0 Hit Points, they regenerate themself from a stolen identity of their choice in 24 hours. If Vulot has no stolen identities remaining or is otherwise unable to reach them, they are killed permanently.</p>"
+          }
+        },
+        "yVuwDzx4JtpqtgpW": {
+          "_id": "yVuwDzx4JtpqtgpW",
+          "name": {
+            "translate": "",
+            "original": "Mythic Immunity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Vulot is immune to harmful spells cast by non-mythic creatures, Strikes made with non-mythic weapons, and unarmed Strikes from non-mythic characters.</p>"
+          }
+        },
+        "5kiH1CaCLLvktz7W": {
+          "_id": "5kiH1CaCLLvktz7W",
+          "name": {
+            "translate": "",
+            "original": "Perfect Mimicry"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A spell is cast within 60 feet of Vulot</p><hr /><p><strong>Effect</strong> Vulot copies the spell and may cast it once by spending a Mythic Point within the next 24 hours. Vulot can't hold more than two copied spells at one time.</p>"
+          }
+        },
+        "4F0nGmA73RdEI2BG": {
+          "_id": "4F0nGmA73RdEI2BG",
+          "name": {
+            "translate": "",
+            "original": "Suffocated by a Thousand Breaths"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>30 feet. Vulot's breath-stealing influence radiates out from their body, causing victims to feel like they are being smothered. Any creature that starts its turn within the aura must attempt a @Check[fortitude|dc:41|options:area-effect,inflicts:off-guard,inflicts:fatigued] save.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature becomes short of breath and is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the beginning of its next turn.</p>\n<p><strong>Failure</strong> The creature finds it very difficult to catch its breath. It can't speak or use auditory actions until the beginning of its next turn; this prevents it from casting spells that don't have the subtle trait.</p>\n<p><strong>Critical Failure</strong> All the air immediately leaves the creature's lungs and it begins to suffocate. When it succeeds at the saving throw to regain consciousness at the end of its turn, it becomes @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} until it gets a full night's rest.</p>"
+          }
+        },
+        "0ulWyGnt53Yk7jRb": {
+          "_id": "0ulWyGnt53Yk7jRb",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "IUHOr0saRc0Nd6rq": {
+          "_id": "IUHOr0saRc0Nd6rq",
+          "name": {
+            "translate": "",
+            "original": "Steal Face"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> Vulot makes a claw Strike. On a hit, Vulot attempts a @Check[deception|against:will] check against the target's Will DC to steal that creature's face; on a critical hit, Vulot treats the result of their Deception check as one degree of success higher. On a success, Vulot steals the target's face for [[/gmr 1d4 #rounds]]{1d4 rounds} (1 minute on a critical success); a creature whose face has been stolen isn't considered an ally by any creature.</p>"
+          }
+        },
+        "SlteE5Bcul2iqCIo": {
+          "_id": "SlteE5Bcul2iqCIo",
+          "name": {
+            "translate": "",
+            "original": "Steal Thoughts"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Vulot's mental attacks can confuse and disorient. A creature struck by Vulot's thought spike must attempt a @Check[will|dc:44|options:inflicts:stupefied,inflicts:confused] save. A creature stupefied by this effect is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} to Vulot's Steal Face ability.</p>\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature becomes @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round.</p>\n<p><strong>Failure</strong> The creature becomes stupefied 1 for 1 minute. If it's already stupefied, its stupefied value increases by 1 instead (to a maximum of stupefied 4).</p>\n<p><strong>Critical Failure</strong> As failure, plus the creature is @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 minute.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-21",
+          "rarity-unique",
+          "type-npc",
+          "npc-demon"
+        ]
+      }
+    },
+    "Weaver of Webs": {
+      "_id": "otEC0HMg4whUaLAD",
+      "name": {
+        "translate": "",
+        "original": "Weaver of Webs"
+      },
+      "publicNotes": {
+        "translate": "",
+        "original": "<h3>Herald of the Web</h3><p>Once a servitor of an ancient god of secrets, the Weaver of Webs now seeks to attain her own godhood.</p>"
+      },
+      "languages": {
+        "translate": "",
+        "original": "truespeech"
+      },
+      "perception": {
+        "translate": "",
+        "original": "all-around vision, greater web sense"
+      },
+      "hp": {
+        "translate": "",
+        "original": "regeneration 10 (deactivated by bright light)"
+      },
+      "allSaves": {
+        "translate": "",
+        "original": "+1 status to all saves vs. magic"
+      },
+      "items": {
+        "8pxSqW6YKyuxiast": {
+          "_id": "8pxSqW6YKyuxiast",
+          "name": {
+            "translate": "",
+            "original": "Occult Innate Spells"
+          }
+        },
+        "yWnCxChLoXwWeDAi": {
+          "_id": "yWnCxChLoXwWeDAi",
+          "name": {
+            "translate": "",
+            "original": "Dream Council"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>When you Cast this Spell, any targets-including you-can choose to immediately fall asleep. The spell ends for any creatures that don't choose to fall asleep. Sleepers join a shared dream, where they can communicate with one another as though they were in the same room. Individual targets leave this shared dream upon awakening, and if all the targets awaken, the spell ends.</p>"
+          }
+        },
+        "14pec7I3cmf2GYJ8": {
+          "_id": "14pec7I3cmf2GYJ8",
+          "name": {
+            "translate": "",
+            "original": "Retrocognition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Opening your mind to mental echoes, you gain impressions from past events that occurred in your current location. <em>Retrocognition</em> reveals psychic impressions from events that occurred over the course of the last day throughout the first minute of the duration, followed by impressions from the next day back the next minute, and so on. These echoes don't play out like a vision but instead reveal impressions of emotions and metaphors that provide cryptic clues and details of the past. If you witness a traumatic or turbulent event through an impression, the spell ends unless you succeed at a Will save with a DC of at least 30 and possibly as much as 50, depending on the severity of the event. The GM determines whether an event is traumatic and chooses the DC.</p>\n<hr />\n<p><strong>Heightened (8th)</strong> You gain impressions of events that occurred over the previous year for each minute you concentrate, instead of the previous day, though the details diminish, making it harder to distinguish impressions from all but the most major events.</p>\n<p><strong>Heightened (9th)</strong> You gain impressions of events that occurred over the previous century for each minute you concentrate, instead of the previous day, though the details diminish, making it almost impossible to distinguish impressions from all but the most major events.</p>"
+          }
+        },
+        "eE2s9G38umoL6Tho": {
+          "_id": "eE2s9G38umoL6Tho",
+          "name": {
+            "translate": "",
+            "original": "Warp Mind"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You scramble a creature's mental faculties and sensory input. The target must attempt a Will saving throw. Regardless of the result of that save, the target is then temporarily immune for 10 minutes. Warp mind's effects happen instantly, so @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} and other effects that counteract spells can't counteract them. However, @UUID[Compendium.pf2e.spells-srd.Item.6dDtGIUerazSHIOu]{Wish} rituals and abilities that can remove non-magical effects can still counteract the effects.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target spends the first action on its next turn with the @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} condition.</p>\n<p><strong>Failure</strong> The target is Confused for 1 minute.</p>\n<p><strong>Critical Failure</strong> The target is Confused permanently.</p>"
+          }
+        },
+        "QUVcdIK26IJf1XCG": {
+          "_id": "QUVcdIK26IJf1XCG",
+          "name": {
+            "translate": "",
+            "original": "Phantasmal Calamity"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A vision of apocalyptic destruction fills the mind of each creature in the area. The vision deals 11d6 mental damage (basic Will save). On a critical failure, the creature must also succeed at a @Check[reflex] save or believe it's trapped (stuck in a fissure, adrift at sea, or some other fate in keeping with its vision). If it fails the second save, it's also @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned} for 1 minute. It can attempt a new Will save at the end of each of its turns, and on a success, it disbelieves the illusion and recovers from the stunned condition.</p><hr /><p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+          }
+        },
+        "YMMELp8Hh554wrVl": {
+          "_id": "YMMELp8Hh554wrVl",
+          "name": {
+            "translate": "",
+            "original": "Repulsion"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You manifest an aura that prevents creatures from approaching you. When casting the spell, you can make the area any radius you choose, up to 40 feet. A creature must attempt a Will save if it's within the area when you Cast the Spell or as soon as it enters the area while the spell is in effect. Once a creature has attempted the save, it uses the same result for that casting of <em>repulsion</em>. Any restrictions on a creature's movement apply only if it voluntarily moves toward you. For example, if you move closer to a creature, it doesn't then need to move away.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature's movement is not restricted.</p>\n<p><strong>Success</strong> The creature treats each square in the area as difficult terrain when moving closer to you.</p>\n<p><strong>Failure</strong> The creature can't move closer to you within the area.</p>"
+          }
+        },
+        "KcixjkfvuounuQ9x": {
+          "_id": "KcixjkfvuounuQ9x",
+          "name": {
+            "translate": "",
+            "original": "Scrying"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You magically spy on a creature of your choice. <em>Scrying</em> works like @UUID[Compendium.pf2e.spells-srd.Item.zvKWclOZ7A53DObE]{Clairvoyance}, except that the image you receive is less precise, insufficient for <em>teleport</em> and similar spells. Instead of creating an eye in a set location within 500 feet, you instead create an eye that manifests just above the target. You can choose a target either by name or by touching one of its possessions or a piece of its body. If you haven't met the target in person, <em>scrying</em>'s DC is 2 lower, and if you are unaware of the target's identity (perhaps because you found an unknown creature's fang at a crime scene), the DC is instead 10 lower.</p>\n<p>The effect of <em>scrying</em> depends on the target's Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The spell fails and the target is temporarily immune for 1 week. The target also gains a glimpse of you and learns its rough distance and direction from you.</p>\n<p><strong>Success</strong> The spell fails and the target is temporarily immune for 1 day.</p>\n<p><strong>Failure</strong> The spell succeeds.</p>\n<p><strong>Critical Failure</strong> The spell succeeds, and the eye follows the target if it moves, traveling up to 60 feet per round.</p>"
+          }
+        },
+        "WsBRjw4ifi5CdKa4": {
+          "_id": "WsBRjw4ifi5CdKa4",
+          "name": {
+            "translate": "",
+            "original": "Teleport"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You and the targets are instantly transported to any location within range, as long as you can identify the location precisely both by its position relative to your starting position and by its appearance (or other identifying features). Incorrect knowledge of the location's appearance usually causes the spell to fail, but it could instead lead to teleporting to an unwanted location or some other unusual mishap determined by the GM. <em>Teleport</em> is not precise over great distances. The targets appear at a distance from the intended destination equal to roughly 1 percent of the total distance traveled, in a direction determined by the GM. For short journeys, this lack of precision is irrelevant, but for long distances this could be up to 1 mile.</p>\n<hr />\n<p><strong>Heightened (7th)</strong> You and the other targets can travel to any location within 1,000 miles.</p>\n<p><strong>Heightened (8th)</strong> You and the other targets can travel to any location on the same planet. If you travel more than 1,000 miles, you arrive only 10 miles off target.</p>\n<p><strong>Heightened (9th)</strong> You and the other targets can travel to any location on another planet within the same solar system. Assuming you have accurate knowledge of the location's position and appearance, you arrive on the new planet 100 miles off target.</p>\n<p><strong>Heightened (10th)</strong> As the 9th-rank version, but you and the other targets can travel to any planet within the same galaxy.</p>"
+          }
+        },
+        "soDiXhDIA0zlITE2": {
+          "_id": "soDiXhDIA0zlITE2",
+          "name": {
+            "translate": "",
+            "original": "Sending (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You send the creature a mental message of 25 words or fewer, and it can respond immediately with its own message of 25 words or fewer.</p>"
+          }
+        },
+        "ZCy7TiQIm5cIlzfx": {
+          "_id": "ZCy7TiQIm5cIlzfx",
+          "name": {
+            "translate": "",
+            "original": "Truespeech (Constant)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The target can understand all words regardless of language and also speak the languages of other creatures. When in a mixed group of creatures, each time the target speaks, it can choose a creature and speak in a language that creature understands, even if the target doesn't know what language that is.</p><hr /><p><strong>Heightened (7th)</strong> The duration is 8 hours.</p>"
+          }
+        },
+        "hFAnqJmbu5TYBPzZ": {
+          "_id": "hFAnqJmbu5TYBPzZ",
+          "name": {
+            "translate": "",
+            "original": "Nightmare"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You send disturbing nightmares to your target. The next time the target falls asleep, it must attempt a Will save. If you know the target only by name and have never met them, the target gets a +4 circumstance bonus to the Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target suffers no adverse effects and is temporarily immune for 1 week.</p>\n<p><strong>Success</strong> The target experiences the nightmares but suffers no adverse effects other than unpleasant memories.</p>\n<p><strong>Failure</strong> The target experiences the nightmares and awakens @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}.</p>\n<p><strong>Critical Failure</strong> The target experiences the nightmares, awakens Fatigued, and is @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2} until it is no longer Fatigued.</p>"
+          }
+        },
+        "L6oDBq64zPWEiccc": {
+          "_id": "L6oDBq64zPWEiccc",
+          "name": {
+            "translate": "",
+            "original": "Read Omens"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You peek into the future. Choose a particular goal or activity you plan to engage in within 1 week, or an event you expect might happen within 1 week. You learn a cryptic clue or piece of advice that could help with the chosen event, often in the form of a rhyme or omen.</p>"
+          }
+        },
+        "MoK4IBw6uDavkYqV": {
+          "_id": "MoK4IBw6uDavkYqV",
+          "name": {
+            "translate": "",
+            "original": "Dream Message"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You send a message to your target's dream. The message is one-way, up to 1 minute of speech (roughly 150 words). If the target is asleep, they receive the message instantly. If not, they receive it the next time they sleep. As soon as they receive it, the spell ends, and you know the message was sent.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> You can target up to 10 creatures you know by name and have met in person. You must send the same message to all of them; the spell ends for each creature individually</p>"
+          }
+        },
+        "hmGqR8AJwe6UjBxV": {
+          "_id": "hmGqR8AJwe6UjBxV",
+          "name": {
+            "translate": "",
+            "original": "Mind Reading"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>With a cursory mental touch, you attempt to read the target's mind. It must attempt a Will save. The target then becomes temporarily immune to your mind reading for 1 hour.</p>\n<hr />\n<p><strong>Critical Success</strong> The target perceives vague surface thoughts from you when you Cast the Spell.</p>\n<p><strong>Success</strong> You find out whether the target's Intelligence modifier is higher than, equal to, or lower than yours.</p>\n<p><strong>Failure</strong> You perceive vague surface thoughts from the target when you Cast the Spell, and you find out whether its Intelligence is higher than, equal to, or lower than yours.</p>\n<p><strong>Critical Failure</strong> As failure, and for the duration of the spell, you can Sustain the spell to detect the target's surface thoughts again. The target doesn't receive any additional saves.</p>"
+          }
+        },
+        "c08klhvgrTPTW9cc": {
+          "_id": "c08klhvgrTPTW9cc",
+          "name": {
+            "translate": "",
+            "original": "Darkness (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of your darkness spell's rank or lower. Light can't pass through, so creatures in the area can't see outside. From outside, it appears as a globe of pure darkness.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> Even creatures with darkvision (but not greater darkvision) can barely see through the darkness. They treat targets seen through the darkness as @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}.</p>"
+          }
+        },
+        "2CP9lFRH4r5UoAuO": {
+          "_id": "2CP9lFRH4r5UoAuO",
+          "name": {
+            "translate": "",
+            "original": "Invisibility"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Illusions bend light around the target, rendering it @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}. This makes it @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} to all creatures, though the creatures can attempt to find the target, making it @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.</p>"
+          }
+        },
+        "d1ZlOGJL7pgLfOGW": {
+          "_id": "d1ZlOGJL7pgLfOGW",
+          "name": {
+            "translate": "",
+            "original": "See the Unseen (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Your gaze pierces through illusions and finds @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible} creatures and spirits. You can see invisible creatures as though they weren't invisible, although their features are blurred, making them @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} and difficult to identify. You can also see incorporeal creatures, like ghosts, phased through an object from within 10 feet of an object's surface as blurry shapes seen through those objects. Subtler clues also grant you a +2 status bonus to checks you make to disbelieve illusions.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> This spell has a duration of 8 hours.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.T5bk6UH7yuYog1Fp]{Spell Effect: See the Unseen}</p>"
+          }
+        },
+        "wLzd9XFcTcqRGTC0": {
+          "_id": "wLzd9XFcTcqRGTC0",
+          "name": {
+            "translate": "",
+            "original": "Web (At Will)"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You create a sticky web in the area that impedes creatures' movement. Squares filled with the web are difficult terrain. Each time a creature in the web begins to use a move action or enters the web during a move action it's using, it must attempt an @Check[athletics] check or Reflex save against your spell DC to avoid taking a circumstance penalty to its Speeds or becoming @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}. A creature that gets out of the web ceases to take a circumstance penalty to its Speed from the web. Each square can be cleared of the web by a single attack or effect that deals at least 5 slashing damage or 1 fire damage. A square has AC 5, and it automatically fails its saving throws.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected, and it doesn't need to attempt further Athletics checks or saving throws against the web this turn. If it used an Athletics check, it clears the web from every square it leaves during its movement.</p>\n<p><strong>Success</strong> The creature is unaffected during its action. If it used an Athletics check, it clears the web from every square it leaves during its movement.</p>\n<p><strong>Failure</strong> The creature takes a –10-foot circumstance penalty to its Speeds until the start of its next turn.</p>\n<p><strong>Critical Failure</strong> The creature is immobilized until the start of its next turn, after which it takes a –10-foot circumstance penalty to its Speeds for 1 round. It can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} to remove its immobilized condition.</p><hr /><p><strong>Heightened (4th)</strong> The spell's area increases to a @Template[burst|distance:20], and its range increases to 60 feet.</p>"
+          }
+        },
+        "5oICydocB531k5zd": {
+          "_id": "5oICydocB531k5zd",
+          "name": {
+            "translate": "",
+            "original": "Fear"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>You plant fear in the target; it must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3} and @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} for 1 round.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target up to five creatures.</p>"
+          }
+        },
+        "STNb3MjelKgZTBpI": {
+          "_id": "STNb3MjelKgZTBpI",
+          "name": {
+            "translate": "",
+            "original": "Fangs"
+          }
+        },
+        "NHPSXIzu0nsTH2vx": {
+          "_id": "NHPSXIzu0nsTH2vx",
+          "name": {
+            "translate": "",
+            "original": "Tarsal Claw"
+          }
+        },
+        "Q5GbqZP2ibD42L0D": {
+          "_id": "Q5GbqZP2ibD42L0D",
+          "name": {
+            "translate": "",
+            "original": "Web"
+          }
+        },
+        "N5IBiBCtlhoTJOHN": {
+          "_id": "N5IBiBCtlhoTJOHN",
+          "name": {
+            "translate": "",
+            "original": "Countless Eyes"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Weaver of Webs can see through the eyes of any spider, living or dead, in one of her many lairs. When the Weaver casts her @UUID[Compendium.pf2e.spells-srd.Item.r784cIz17eWujtQj]{Scrying} spell and targets a spider in her lair, the spell is not expended, and the spider automatically critically fails its saving throw.</p>"
+          }
+        },
+        "hfIbvWNd8c7ecysW": {
+          "_id": "hfIbvWNd8c7ecysW",
+          "name": {
+            "translate": "",
+            "original": "Greater Web Sense"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Weaver of Webs' tremorsense also extends to any of her webs, regardless of distance or area, and her tremorsense is a precise sense against any creature in contact with one of her webs.</p>"
+          }
+        },
+        "HAGvQq4k3RPk5G6r": {
+          "_id": "HAGvQq4k3RPk5G6r",
+          "name": {
+            "translate": "",
+            "original": "Remove a Condition"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Cost</strong> 1 Mythic Point</p><hr /><p><strong>Effect</strong> The Weaver removes any one condition currently affecting her.</p>"
+          }
+        },
+        "5GhO6Eq1XWEL0ARL": {
+          "_id": "5GhO6Eq1XWEL0ARL",
+          "name": {
+            "translate": "",
+            "original": "Webbed Conveyance"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Requirements</strong> The Weaver is within 15 feet of a creature @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} in her nightmare cocoon</p><hr /><p><strong>Effect</strong> The Weaver grabs the paralyzed target, webs them to her back or one of her legs, and then Strides. As long as the creature is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} by the Weaver's nightmare cocoon, it shares the Weaver's space and moves with her. The DC to [[/act escape dc=36]]{Escape} the nightmare cocoon increases to 36.</p>"
+          }
+        },
+        "vr1193FbzgbslN1N": {
+          "_id": "vr1193FbzgbslN1N",
+          "name": {
+            "translate": "",
+            "original": "+1 Status to All Saves vs. Magic"
+          }
+        },
+        "HBsI0TF2SoQZJFjt": {
+          "_id": "HBsI0TF2SoQZJFjt",
+          "name": {
+            "translate": "",
+            "original": "Regeneration (Deactivated by Bright Light)"
+          }
+        },
+        "SD2UsS1GCg4rmAB6": {
+          "_id": "SD2UsS1GCg4rmAB6",
+          "name": {
+            "translate": "",
+            "original": "Adopted Brood"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> A creature deals precision damage to the Weaver</p><hr /><p><strong>Effect</strong> A spray of smaller spiders pours out of the open wound. These spiders deal @Damage[3d6[piercing]] damage to a single creature within 15 feet of the Weaver and expose that creature to Weaver venom before skittering away.</p>"
+          }
+        },
+        "skUYH1Y6jeD5HfrJ": {
+          "_id": "skUYH1Y6jeD5HfrJ",
+          "name": {
+            "translate": "",
+            "original": "Mythic Resistance"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The Weaver of Webs has resistance 15 to all attacks made with non-mythic weapons and unarmed attacks made by nonmythic creatures.</p>"
+          }
+        },
+        "yFGi8rZPWBQ9mQjm": {
+          "_id": "yFGi8rZPWBQ9mQjm",
+          "name": {
+            "translate": "",
+            "original": "Spilled Secrets"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>Any creature that speaks within this aura must succeed at a @Check[will|dc:34] save or divulge some kind of secret instead of whatever speech they intended. Linguistic spells and effects gain the concentrate trait if they didn't have it already and are wasted if the creature fails this save.</p>\n<p>On a critical failure, the character betrays a secret they least want to reveal to the Weaver or those present.</p>"
+          }
+        },
+        "xl1O0kUfXulOZvwB": {
+          "_id": "xl1O0kUfXulOZvwB",
+          "name": {
+            "translate": "",
+            "original": "Mythic Power"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the actions it has.</p>"
+          }
+        },
+        "CGWcm4Diiu9f0nbA": {
+          "_id": "CGWcm4Diiu9f0nbA",
+          "name": {
+            "translate": "",
+            "original": "Nightmare Cocoon"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p>A creature struck by the Weaver's web Strike must succeed at a @Check[reflex|dc:34] save or become @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} ([[/act escape dc=34]]). If the Weaver spends 1 Mythic Point as a free action when a creature fails this save, the creature is also @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed}, experiencing terrible nightmares of their deepest-held anxieties. The Weaver can view these dreams using a Sustain action, which imparts a –2 circumstance penalty to any Will saves the target attempts against the Weaver's spells until the beginning of the Weaver's next turn. At the end of a paralyzed victim's turn, they can attempt a @Check[will|dc:34] save to end the paralyzed condition (though they are still immobilized until they Escape).</p>"
+          }
+        },
+        "z2YzZb7zeh41VhJV": {
+          "_id": "z2YzZb7zeh41VhJV",
+          "name": {
+            "translate": "",
+            "original": "Weaver Venom"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Saving Throw</strong> DC 34</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> 2d10 poison (1 round)</p>\n<p><strong>Stage 2</strong> 2d10 poison and @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} (2 rounds)</p>\n<p><strong>Stage 3</strong> 3d10 poison and @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2} (1 round)</p>\n<p><strong>Stage 4</strong> 4d10 poison (1 round) and the target permanently forgets the Weaver exists, including any previous mention of her.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-15",
+          "rarity-unique",
+          "type-npc",
+          "npc-beast"
+        ]
+      }
+    },
+    "Wind Surge": {
+      "_id": "uNDf0X5AVMrcwNQY",
+      "name": {
+        "translate": "",
+        "original": "Wind Surge"
+      },
+      "description": {
+        "translate": "",
+        "original": "<p>Hurricane-force winds rip through the area as Agyra flies past.</p>"
+      },
+      "disable": {
+        "translate": "",
+        "original": "<p>@Check[athletics|dc:27|name:Crouch and Contort] (expert) or @Check[acrobatics|dc:27|name:Crouch and Contort] (expert) to crouch and contort out of the wind's way (disables the hazard for only yourself), @Check[survival|dc:30|name:Point Out a Safe Space] to point out a safe space from the winds for up to 3 creatures.</p>"
+      },
+      "stealth": {
+        "translate": "",
+        "original": "<p>(expert) to note stirrings in the wind</p>"
+      },
+      "items": {
+        "En76ig0d6noawf3J": {
+          "_id": "En76ig0d6noawf3J",
+          "name": {
+            "translate": "",
+            "original": "Hurricane Flyby"
+          },
+          "description": {
+            "translate": "",
+            "original": "<p><strong>Trigger</strong> Agyra flies overhead for at least 120 feet in a straight line</p><hr /><p><strong>Effect</strong> Supernaturally powerful winds batter the area in a line that is @Template[line|distance:120|width:30]{120 feet long and 30 feet wide and 30 feet tall}. Each creature in the line must attempt a @Check[reflex|dc:29] save. Moving above ground against the direction of the line is greater difficult terrain for 1 minute.</p><hr /><p><strong>Critical Success</strong> The creature is pushed 10 feet along the line.</p>\n<p><strong>Success</strong> The creature takes @Damage[5d6[bludgeoning]] damage and is pushed 15 along the line.</p>\n<p><strong>Failure</strong> The creatures takes @Damage[10d6[bludgeoning]] damage, is pushed 30 feet along the line, and is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>\n<p><strong>Critical Failure</strong> The creature takes @Damage[20d6[bludgeoning]] damage, is pushed 45 feet along the line, is knocked prone, and is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} for 1 round.</p>\n<p>If the line overlaps a body of water, the winds cause massive waves that deal @Damage[6d6[bludgeoning]] damage to creatures in the water or within 15 feet of the waterline (@Check[reflex|dc:29|basic] save). On a critical failure, a creature is also swept 30 feet away from the waterline and 15 feet beneath the water's surface.</p>"
+          }
+        }
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-7",
+          "rarity-rare",
+          "type-hazard",
+          "hazard-kaiju"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "hazard-environmental",
+    "hazard-kaiju",
+    "hazard-magical",
+    "level-11",
+    "level-12",
+    "level-14",
+    "level-15",
+    "level-21",
+    "level-23",
+    "level-24",
+    "level-25",
+    "level-4",
+    "level-5",
+    "level-6",
+    "level-7",
+    "npc-aberration",
+    "npc-animal",
+    "npc-beast",
+    "npc-demon",
+    "npc-fey",
+    "npc-giant",
+    "npc-monitor",
+    "npc-mythic",
+    "rarity-rare",
+    "rarity-unique",
+    "type-hazard",
+    "type-npc"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.war-of-immortals-bestiary",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Actor",
+    "fileMode": "created-new",
+    "processedAt": "2026-05-18T11:25:54.161Z",
+    "documents": 16,
+    "existingEntriesUpdated": 0,
+    "missingEntriesAdded": 16,
+    "missingFieldsAdded": 0,
+    "wrappedStrings": 0,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}

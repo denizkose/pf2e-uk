@@ -1,0 +1,1094 @@
+{
+  "entries": {
+    "Administer First Aid - Stabilize: Medicine": {
+      "_id": "l5pbgrj8SSNtRGs8",
+      "name": {
+        "translate": "",
+        "original": "Administer First Aid - Stabilize: Medicine"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Administer First Aid - Stop Bleeding: Medicine": {
+      "_id": "ZEWD4zcEDQwYhVT8",
+      "name": {
+        "translate": "",
+        "original": "Administer First Aid - Stop Bleeding: Medicine"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Athletics: Arcane Slam": {
+      "_id": "ZS5z1TqckWPIMGDN",
+      "name": {
+        "translate": "",
+        "original": "Athletics: Arcane Slam"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Balance: Acrobatics": {
+      "_id": "55mxH0w8UkY1o3Xv",
+      "name": {
+        "translate": "",
+        "original": "Balance: Acrobatics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Bon Mot: Diplomacy": {
+      "_id": "EDLftLWLBefTFDtu",
+      "name": {
+        "translate": "",
+        "original": "Bon Mot: Diplomacy"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Climb: Athletics": {
+      "_id": "LXCy1iJddD95Z91s",
+      "name": {
+        "translate": "",
+        "original": "Climb: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Coerce: Intimidation": {
+      "_id": "9RNumMausgG7adgL",
+      "name": {
+        "translate": "",
+        "original": "Coerce: Intimidation"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Command an Animal: Nature": {
+      "_id": "xcrdOOiN0l6O1sIn",
+      "name": {
+        "translate": "",
+        "original": "Command an Animal: Nature"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Conceal an Object: Stealth": {
+      "_id": "zn0HadZeoKDALxRu",
+      "name": {
+        "translate": "",
+        "original": "Conceal an Object: Stealth"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Craft: Crafting": {
+      "_id": "Tu7LIRelQsiOuo1l",
+      "name": {
+        "translate": "",
+        "original": "Craft: Crafting"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Create a Diversion - Distracting Words: Deception": {
+      "_id": "aDsYSdRqiC6qQIOQ",
+      "name": {
+        "translate": "",
+        "original": "Create a Diversion - Distracting Words: Deception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Create a Diversion - Gesture: Deception": {
+      "_id": "zUJ0UhuoFt5a7tiN",
+      "name": {
+        "translate": "",
+        "original": "Create a Diversion - Gesture: Deception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Create a Diversion - Trick: Deception": {
+      "_id": "1JpYPlIkjyseE9JU",
+      "name": {
+        "translate": "",
+        "original": "Create a Diversion - Trick: Deception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Create Forgery: Society": {
+      "_id": "mNphXpAkmGsMadUv",
+      "name": {
+        "translate": "",
+        "original": "Create Forgery: Society"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Decipher Writing: Arcana": {
+      "_id": "U6WjxFPn4fUqIrfl",
+      "name": {
+        "translate": "",
+        "original": "Decipher Writing: Arcana"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Decipher Writing: Occultism": {
+      "_id": "RZyfkw1DiqVy3JUC",
+      "name": {
+        "translate": "",
+        "original": "Decipher Writing: Occultism"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Decipher Writing: Religion": {
+      "_id": "sDUERv4E88G5BRPr",
+      "name": {
+        "translate": "",
+        "original": "Decipher Writing: Religion"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Decipher Writing: Society": {
+      "_id": "YWAvvDXpdW1fYPFo",
+      "name": {
+        "translate": "",
+        "original": "Decipher Writing: Society"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Demoralize: Intimidation": {
+      "_id": "nEwqNNWX6scLt4sc",
+      "name": {
+        "translate": "",
+        "original": "Demoralize: Intimidation"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Disable Device: Thievery": {
+      "_id": "T2QNEoRojMWEec4a",
+      "name": {
+        "translate": "",
+        "original": "Disable Device: Thievery"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Disarm: Athletics": {
+      "_id": "ooiO59Ch2QaebOmc",
+      "name": {
+        "translate": "",
+        "original": "Disarm: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Encouraging Words": {
+      "_id": "I6MMTpk9faBOHb2T",
+      "name": {
+        "translate": "",
+        "original": "Encouraging Words"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Escape: Acrobatics": {
+      "_id": "50Q0DYL33Kalu1BH",
+      "name": {
+        "translate": "",
+        "original": "Escape: Acrobatics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Escape: Athletics": {
+      "_id": "lkEcQQss16SIrVxM",
+      "name": {
+        "translate": "",
+        "original": "Escape: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Escape: Unarmed Attack": {
+      "_id": "aOrMEnTVPpb1vbzj",
+      "name": {
+        "translate": "",
+        "original": "Escape: Unarmed Attack"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Escape": {
+      "_id": "EpiQHXzHv0GS1tj0",
+      "name": {
+        "translate": "",
+        "original": "Escape"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Exploration: Avoid Notice": {
+      "_id": "1AIo5UcVbCmvpRL3",
+      "name": {
+        "translate": "",
+        "original": "Exploration: Avoid Notice"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Feint: Deception": {
+      "_id": "RjfPFjqPrNve6eeh",
+      "name": {
+        "translate": "",
+        "original": "Feint: Deception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Force Open: Athletics": {
+      "_id": "yMTKMnaYSGtDz4wk",
+      "name": {
+        "translate": "",
+        "original": "Force Open: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Gather Information: Diplomacy": {
+      "_id": "rCgGPEyXbzLFcio6",
+      "name": {
+        "translate": "",
+        "original": "Gather Information: Diplomacy"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Grapple: Athletics": {
+      "_id": "i95kcGLIQKOTsnv6",
+      "name": {
+        "translate": "",
+        "original": "Grapple: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Hide: Stealth": {
+      "_id": "FlM3HvpnsZpCKawG",
+      "name": {
+        "translate": "",
+        "original": "Hide: Stealth"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "High Jump: Athletics": {
+      "_id": "v3dlDjFlOmT5T2gC",
+      "name": {
+        "translate": "",
+        "original": "High Jump: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Impersonate: Deception": {
+      "_id": "k5nW4jGyXD0Oq9LR",
+      "name": {
+        "translate": "",
+        "original": "Impersonate: Deception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Lie: Deception": {
+      "_id": "VTg4t8kYTvXcHROq",
+      "name": {
+        "translate": "",
+        "original": "Lie: Deception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Long Jump: Athletics": {
+      "_id": "QPsV0qi2zXm7syt6",
+      "name": {
+        "translate": "",
+        "original": "Long Jump: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Make an Impression: Diplomacy": {
+      "_id": "1Sj2Pz3VI2SFWqZw",
+      "name": {
+        "translate": "",
+        "original": "Make an Impression: Diplomacy"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Maneuver in Flight: Acrobatics": {
+      "_id": "9Ul5Op5OceT9P5SS",
+      "name": {
+        "translate": "",
+        "original": "Maneuver in Flight: Acrobatics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Palm an Object: Thievery": {
+      "_id": "Gj68YCVlDjc75iCP",
+      "name": {
+        "translate": "",
+        "original": "Palm an Object: Thievery"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Acting: Performance": {
+      "_id": "vmoO2VasZyTgs3PH",
+      "name": {
+        "translate": "",
+        "original": "Perform - Acting: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Comedy: Performance": {
+      "_id": "i6WwSpxDuV2jCwB4",
+      "name": {
+        "translate": "",
+        "original": "Perform - Comedy: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Dance: Performance": {
+      "_id": "PgA74rWIAupEr7LU",
+      "name": {
+        "translate": "",
+        "original": "Perform - Dance: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Oratory: Performance": {
+      "_id": "Om0rNX4K3pQcXDJn",
+      "name": {
+        "translate": "",
+        "original": "Perform - Oratory: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Play keyboard instrument: Performance": {
+      "_id": "Bw3rSN774LaHLELJ",
+      "name": {
+        "translate": "",
+        "original": "Perform - Play keyboard instrument: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Play percussion instrument: Performance": {
+      "_id": "UoRM6ZMhhhjz1vu8",
+      "name": {
+        "translate": "",
+        "original": "Perform - Play percussion instrument: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Play string instrument: Performance": {
+      "_id": "nvpRlDKUD4SjZaJ0",
+      "name": {
+        "translate": "",
+        "original": "Perform - Play string instrument: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Play wind instrument: Performance": {
+      "_id": "HQrDnBbbSCQEXrSb",
+      "name": {
+        "translate": "",
+        "original": "Perform - Play wind instrument: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Perform - Singing: Performance": {
+      "_id": "dWcrojMk0d2WRPBq",
+      "name": {
+        "translate": "",
+        "original": "Perform - Singing: Performance"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Pick a Lock: Thievery": {
+      "_id": "8YrH37NzKRuiKFbF",
+      "name": {
+        "translate": "",
+        "original": "Pick a Lock: Thievery"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Raise a Shield": {
+      "_id": "4hfQEMiEOBbqelAh",
+      "name": {
+        "translate": "",
+        "original": "Raise a Shield"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Repair: Crafting": {
+      "_id": "BQTA7bL264189Xla",
+      "name": {
+        "translate": "",
+        "original": "Repair: Crafting"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Reposition: Athletics": {
+      "_id": "gzTJWA5vJkZI9Gj5",
+      "name": {
+        "translate": "",
+        "original": "Reposition: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Request: Diplomacy": {
+      "_id": "tbveXG4gaIoKnsWX",
+      "name": {
+        "translate": "",
+        "original": "Request: Diplomacy"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Seek: Perception": {
+      "_id": "tikhJ2b6AMh7wQU7",
+      "name": {
+        "translate": "",
+        "original": "Seek: Perception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Sense Direction: Survival": {
+      "_id": "LN67MgbGE8IHb2X0",
+      "name": {
+        "translate": "",
+        "original": "Sense Direction: Survival"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Sense Motive: Perception": {
+      "_id": "PmHt7Gb5fCrlWWTr",
+      "name": {
+        "translate": "",
+        "original": "Sense Motive: Perception"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Shove: Athletics": {
+      "_id": "yNry1xMZqdWHncbV",
+      "name": {
+        "translate": "",
+        "original": "Shove: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Sneak: Stealth": {
+      "_id": "HSTkVuv0SjTNK3Xx",
+      "name": {
+        "translate": "",
+        "original": "Sneak: Stealth"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Squeeze: Acrobatics": {
+      "_id": "UKHPveLpG7hUs4D0",
+      "name": {
+        "translate": "",
+        "original": "Squeeze: Acrobatics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Steal: Thievery": {
+      "_id": "zjovbAeuLvyuWFKd",
+      "name": {
+        "translate": "",
+        "original": "Steal: Thievery"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Steel Your Resolve": {
+      "_id": "oxowCzHbxSGOWRke",
+      "name": {
+        "translate": "",
+        "original": "Steel Your Resolve"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Subsist: Society": {
+      "_id": "mkKko3CEBCyJVQw1",
+      "name": {
+        "translate": "",
+        "original": "Subsist: Society"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Subsist: Survival": {
+      "_id": "zkqh01BoXDVgydzo",
+      "name": {
+        "translate": "",
+        "original": "Subsist: Survival"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Swim: Athletics": {
+      "_id": "TIlUkCzviYxdVk4E",
+      "name": {
+        "translate": "",
+        "original": "Swim: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Tamper: Crafting": {
+      "_id": "jOM1w2GymtSuEurf",
+      "name": {
+        "translate": "",
+        "original": "Tamper: Crafting"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Track: Survival": {
+      "_id": "Al5LYMMdeDcpC9Br",
+      "name": {
+        "translate": "",
+        "original": "Track: Survival"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Treat Disease: Medicine": {
+      "_id": "m4iM5r3TfvQs5Y2n",
+      "name": {
+        "translate": "",
+        "original": "Treat Disease: Medicine"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Treat Poison: Medicine": {
+      "_id": "R03LRl2RBbsm6EcF",
+      "name": {
+        "translate": "",
+        "original": "Treat Poison: Medicine"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Trip: Athletics": {
+      "_id": "gRj7xUfcpUZQLrOC",
+      "name": {
+        "translate": "",
+        "original": "Trip: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Tumble Through: Acrobatics": {
+      "_id": "2qhYHkcSsTJoSwrJ",
+      "name": {
+        "translate": "",
+        "original": "Tumble Through: Acrobatics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    },
+    "Whirling Throw: Athletics": {
+      "_id": "7zqvzpR9gvHPUDqC",
+      "name": {
+        "translate": "",
+        "original": "Whirling Throw: Athletics"
+      },
+      "_meta": {
+        "lastVersion": "8.0.3",
+        "tags": [
+          "level-unknown",
+          "rarity-unknown",
+          "type-script"
+        ]
+      }
+    }
+  },
+  "_tags": [
+    "level-unknown",
+    "rarity-unknown",
+    "type-script"
+  ],
+  "_bootstrap": {
+    "tool": "pf2e-uk-bootstrap",
+    "systemId": "pf2e",
+    "systemVersion": "8.0.3",
+    "pack": "pf2e.action-macros",
+    "packageName": "pf2e",
+    "packageType": "system",
+    "documentName": "Macro",
+    "fileMode": "created-new",
+    "processedAt": "2026-05-18T11:18:58.688Z",
+    "documents": 71,
+    "existingEntriesUpdated": 0,
+    "missingEntriesAdded": 71,
+    "missingFieldsAdded": 0,
+    "wrappedStrings": 0,
+    "updatedWrappedOriginals": 0,
+    "staleEntries": 0,
+    "missingOriginals": 0,
+    "suspectedTranslatedOriginals": 0
+  }
+}
