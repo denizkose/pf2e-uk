@@ -41,7 +41,7 @@
 
 ## Повідомити про проблему
 
-Надійніший варіант, це залишити заявку в нашій [Discord-спільноті](https://discord.gg/wKxhCrdZyc) 
+Надійніший варіант, це залишити заявку в нашій [Discord-спільноті](https://discord.gg/wKxhCrdZyc)
 
 ## Подяки
 
@@ -51,10 +51,14 @@
 
 Окрема вдячність усім, хто підтримав ідею українського перекладу Pathfinder 2e, допомагав із перекладом, редагуванням, тестуванням, повідомленнями про помилки та порадами.
 
-## Юридична інформація
+## Ліцензії
 
-Це неофіційний фанатський переклад для використання у Foundry Virtual Tabletop.
+### Ліцензії проєкту
 
-Pathfinder 2e є власністю Paizo Inc. Foundry Virtual Tabletop є власністю Foundry Gaming LLC. Цей модуль не є офіційним продуктом Paizo або Foundry Gaming.
+- Весь HTML, CSS та Javascript в цьому проєкті ліцензовано під [MIT](https://opensource.org/licenses/MIT).
+- Інформація про ліцензії на використаниі матеріали вказані у відповідних файлах: [ORC](ORCLicense.md) та [OGL](OGL.md).
+- Модуль ліцензовано під [Limited License for Package Development](https://foundryvtt.com/article/license/) (02.03.2023 - 11.293)
 
-Умови використання матеріалів наведені у файлі [OpenGameLicense](OpenGameLicense).
+### Paizo Inc. Community Use Policy
+
+**pf2e-uk** uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/licenses/communityuse). We are expressly prohibited from charging you to use or access this content. **pf2e-uk** is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit [paizo.com](https://paizo.com).
